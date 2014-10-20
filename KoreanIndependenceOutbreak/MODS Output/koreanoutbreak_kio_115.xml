@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="omeka">omeka_002411</identifier>
+   <identifier type="local">kio_115</identifier>
+   <titleInfo>
+      <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
+      <partName>Part 8. Page T3</partName>
+   </titleInfo>
+   <originInfo>
+      <dateCreated>1920?</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1920</dateCreated>
+   </originInfo>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form authority="lcsh">manuscripts</form>
+   </physicalDescription>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <note>original filename: mrl8kio_0109_04</note>
+   <location>
+      <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
+      <holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part8/page_t3</url>
+      </holdingExternal>
+   </location>
+   <subject authority="lcsh">
+      <topic>Korea--History--Independence movement, 1919--Sources</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Korea--Politics and government--1910-1945--Sources</topic>
+   </subject>
+   <subject authority="fast" valueURI="http://id.worldcat.org/fast/1353264">
+      <topic>Independence Movement (Korea : 1919)</topic>
+   </subject>
+   <subject>
+      <geographic authority="naf"
+                  valueURI="http://id.loc.gov/authorities/names/n79109033">Korea</geographic>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Korean Independence Outbreak Movement</title>
+      </titleInfo>
+      <location>
+         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio7688161</url>
+      </location>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Korean independence outbreak collection</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordIdentifier>002411_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>
