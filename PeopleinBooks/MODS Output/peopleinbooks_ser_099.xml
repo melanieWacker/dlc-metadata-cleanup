@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="omeka">omeka_007228</identifier>
+   <identifier type="local">ser_099</identifier>
+   <titleInfo>
+      <title>Seter Eliyah raba</title>
+      <partName>Leaf 142 recto</partName>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>סתר אליה רבא</title>
+   </titleInfo>
+   <originInfo>
+      <place>
+         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n79021783">Italy</placeTerm>
+      </place>
+      <dateCreated>16th century</dateCreated>
+      <dateCreated encoding="w3cdtf"
+                   keyDate="yes"
+                   point="start"
+                   qualifier="approximate">1500</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="end">1599</dateCreated>
+   </originInfo>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form authority="lcsh">manuscripts</form>
+   </physicalDescription>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">heb</languageTerm>
+   </language>
+   <note>original filename: 120017006.jpg</note>
+   <location>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/writers/x893_r11</url>
+      </holdingExternal>
+   </location>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>People in the Books: Hebraica and Judaica Manuscripts from Columbia University Libraries</title>
+      </titleInfo>
+      <location>
+         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio9680681</url>
+      </location>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>X Manuscripts</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Hebrew Manuscripts</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordIdentifier>007228_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>

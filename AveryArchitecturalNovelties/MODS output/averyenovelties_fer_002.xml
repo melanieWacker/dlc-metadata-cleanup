@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="omeka">omeka_006642</identifier>
+   <identifier type="local">fer_002</identifier>
+   <titleInfo>
+      <title>Fontainebleau en relief par les anaglyphes</title>
+      <partName>Cover of book with glasses next to it</partName>
+   </titleInfo>
+   <originInfo>
+      <place>
+         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n79058874">Paris (France)</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Paris</placeTerm>
+      </place>
+      <dateCreated>1937</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1937</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form>3-D books</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form authority="aat">books</form>
+   </physicalDescription>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <note>original filename: 110178043.jpg</note>
+   <location>
+      <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Avery Classics Collection</subLocation>
+         </copyInformation>
+      </holdingSimple>
+      <holdingExternal>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/novelties/anaglyphes/fontainebleau</url>
+      </holdingExternal>
+   </location>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85020712">
+      <topic>Castles--France</topic>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n2008027560">
+         <namePart>Château de Fontainebleau (Fontainebleau, France)</namePart>
+      </name>
+   </subject>
+   <subject>
+      <geographic authority="naf"
+                  valueURI="http://id.loc.gov/authorities/names/n81071962">Fontainebleau (France)</geographic>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Avery’s Architectural Novelties</title>
+      </titleInfo>
+      <location>
+         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio9427856</url>
+      </location>
+   </relatedItem>
+   <recordInfo>
+      <recordIdentifier>006642_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>

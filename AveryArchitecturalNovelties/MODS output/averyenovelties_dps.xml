@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="CLIO">CLIO_348807</identifier>
+   <identifier type="local">dps</identifier>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n50019631">
+      <namePart>Wall, Donald</namePart>
+   </name>
+   <titleInfo>
+      <title>Documenta; the Paolo Soleri retrospective</title>
+   </titleInfo>
+   <originInfo>
+      <place>
+         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n79018774">Washington (D.C.)</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Washington (D.C.)</placeTerm>
+      </place>
+      <publisher>Corcoran Gallery of Art</publisher>
+      <dateCreated>1970</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1970</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <extent>84 pages (including cover), illustrations 25 cm., and case (with 16 rolls of illustrations) 28 cm.</extent>
+      <form authority="aat">books</form>
+   </physicalDescription>
+   <abstract>Catalog of an exhibition held at the Corcoran Gallery of Art, February 20-April 5, 1970</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Avery Classics Collection</subLocation>
+            <shelfLocator>AA685 So43 W1533</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n50016748">
+         <namePart>Soleri, Paolo, 1919-2013</namePart>
+      </name>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Avery’s Architectural Novelties</title>
+      </titleInfo>
+      <location>
+         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio9427856</url>
+      </location>
+   </relatedItem>
+   <recordInfo>
+      <recordIdentifier>dps_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>

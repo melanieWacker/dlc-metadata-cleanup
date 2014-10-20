@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="omeka">omeka_006622</identifier>
+   <identifier type="local">vie_000</identifier>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/no2002088311">
+      <namePart>Nash, Joseph, 1809-1878</namePart>
+   </name>
+   <titleInfo>
+      <title>Views of the interior and exterior of Windsor Castle : forming a supplemental volume to the Mansions of England</title>
+      <partName>Front of leather case, closed</partName>
+   </titleInfo>
+   <originInfo>
+      <place>
+         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n79005665">London (England)</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">London</placeTerm>
+      </place>
+      <dateCreated>1852</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1852</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form authority="aat">photographs</form>
+   </physicalDescription>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <note>original filename: 110178023.jpg</note>
+   <location>
+      <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Avery Classics Collection</subLocation>
+         </copyInformation>
+      </holdingSimple>
+      <holdingExternal>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/novelties/decksofcards/windsorcastle</url>
+      </holdingExternal>
+   </location>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n50067807">
+         <namePart>Windsor Castle</namePart>
+      </name>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Avery’s Architectural Novelties</title>
+      </titleInfo>
+      <location>
+         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio9427856</url>
+      </location>
+   </relatedItem>
+   <recordInfo>
+      <recordIdentifier>006622_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>

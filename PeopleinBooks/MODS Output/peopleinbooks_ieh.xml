@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="CLIO">CLIO_7815001</identifier>
+   <identifier type="local">ieh</identifier>
+   <titleInfo>
+      <title>Igeret: el ha-Baron Hirsh ʻal haḳamat bet ha-ḥolim Osef Dal be-Ioannina</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>אגרת   אל הברון הירש על הקמת בית החולים אוסף דל בינינא</title>
+   </titleInfo>
+   <originInfo>
+      <place>
+         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n80046090">Greece</placeTerm>
+      </place>
+      <dateCreated>1913</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1913</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="lcsh">manuscripts</form>
+   </physicalDescription>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">heb</languageTerm>
+   </language>
+   <location>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>X893.19 H61</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>People in the Books: Hebraica and Judaica Manuscripts from Columbia University Libraries</title>
+      </titleInfo>
+      <location>
+         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio9680681</url>
+      </location>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>X Manuscripts</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Hebrew Manuscripts</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordIdentifier>ieh_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>
