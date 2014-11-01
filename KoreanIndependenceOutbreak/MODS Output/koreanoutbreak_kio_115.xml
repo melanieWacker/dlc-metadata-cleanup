@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_002411</identifier>
-   <identifier type="local">kio_115</identifier>
+   <identifier type="local">koreanoutbreak_kio_115</identifier>
    <titleInfo>
       <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
       <partName>Part 8. Page T3</partName>
@@ -26,9 +26,7 @@
    <note>original filename: mrl8kio_0109_04</note>
    <location>
       <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part8/page_t3</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part8/page_t3</url>
    </location>
    <subject authority="lcsh">
       <topic>Korea--History--Independence movement, 1919--Sources</topic>

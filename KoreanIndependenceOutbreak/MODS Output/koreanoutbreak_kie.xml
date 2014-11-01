@@ -5,7 +5,7 @@
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
-   <identifier type="local">kie</identifier>
+   <identifier type="local">koreanoutbreak_kie</identifier>
    <titleInfo>
       <title>Korean Independence Movement Envelope</title>
    </titleInfo>
@@ -22,14 +22,12 @@
    </language>
    <location>
       <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/envelope</url>
       <holdingSimple>
          <copyInformation>
             <shelfLocator>Box 1. Folder 1</shelfLocator>
          </copyInformation>
       </holdingSimple>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/envelope</url>
-      </holdingExternal>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

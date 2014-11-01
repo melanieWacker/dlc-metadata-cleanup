@@ -6,7 +6,7 @@
                 xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <mods version="3.5">
       <identifier type="CLIO">CLIO_7705012</identifier>
-      <identifier type="local">kim</identifier>
+      <identifier type="local">koreanoutbreak_kim</identifier>
       <titleInfo>
          <title>Korean Independence Movement</title>
       </titleInfo>
@@ -66,7 +66,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="CLIO">CLIO_7703837</identifier>
-      <identifier type="local">kio</identifier>
+      <identifier type="local">koreanoutbreak_kio</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
       </titleInfo>
@@ -126,7 +126,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002440</identifier>
-      <identifier type="local">kio_144</identifier>
+      <identifier type="local">koreanoutbreak_kio_144</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 10. Page J10</partName>
@@ -146,9 +146,7 @@
       <note>original filename: mrl8kio_0111_11</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part10/page_j10</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part10/page_j10</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -187,7 +185,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002439</identifier>
-      <identifier type="local">kio_143</identifier>
+      <identifier type="local">koreanoutbreak_kio_143</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 10. Page J9</partName>
@@ -207,9 +205,7 @@
       <note>original filename: mrl8kio_0111_10</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part10/page_j9</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part10/page_j9</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -248,7 +244,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002438</identifier>
-      <identifier type="local">kio_142</identifier>
+      <identifier type="local">koreanoutbreak_kio_142</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 10. Page J8</partName>
@@ -268,9 +264,7 @@
       <note>original filename: mrl8kio_0111_09</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part10/page_j8</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part10/page_j8</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -309,7 +303,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002437</identifier>
-      <identifier type="local">kio_141</identifier>
+      <identifier type="local">koreanoutbreak_kio_141</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 10. Page J7</partName>
@@ -329,9 +323,7 @@
       <note>original filename: mrl8kio_0111_08</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part10/page_j7</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part10/page_j7</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -370,7 +362,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002436</identifier>
-      <identifier type="local">kio_140</identifier>
+      <identifier type="local">koreanoutbreak_kio_140</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 10. Page J6</partName>
@@ -390,9 +382,7 @@
       <note>original filename: mrl8kio_0111_07</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part10/page_j6</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part10/page_j6</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -431,7 +421,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002435</identifier>
-      <identifier type="local">kio_139</identifier>
+      <identifier type="local">koreanoutbreak_kio_139</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 10. Page J5</partName>
@@ -452,9 +442,7 @@
       <note>original filename: mrl8kio_0111_06</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part10/page_j5</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part10/page_j5</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -493,7 +481,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002434</identifier>
-      <identifier type="local">kio_138</identifier>
+      <identifier type="local">koreanoutbreak_kio_138</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 10. Page J4</partName>
@@ -513,9 +501,7 @@
       <note>original filename: mrl8kio_0111_05</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part10/page_j4</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part10/page_j4</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -554,7 +540,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002433</identifier>
-      <identifier type="local">kio_137</identifier>
+      <identifier type="local">koreanoutbreak_kio_137</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 10. Page J3</partName>
@@ -574,9 +560,7 @@
       <note>original filename: mrl8kio_0111_04</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part10/page_j3</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part10/page_j3</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -615,7 +599,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002432</identifier>
-      <identifier type="local">kio_136</identifier>
+      <identifier type="local">koreanoutbreak_kio_136</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 10. Page J2</partName>
@@ -635,9 +619,7 @@
       <note>original filename: mrl8kio_0111_03</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part10/page_j2</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part10/page_j2</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -676,7 +658,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002431</identifier>
-      <identifier type="local">kio_135</identifier>
+      <identifier type="local">koreanoutbreak_kio_135</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 10. Page J1</partName>
@@ -697,9 +679,7 @@
       <note>original filename: mrl8kio_0111_02</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part10/page_j1</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part10/page_j1</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -738,7 +718,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002430</identifier>
-      <identifier type="local">kio_134</identifier>
+      <identifier type="local">koreanoutbreak_kio_134</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 10. Cover page</partName>
@@ -758,9 +738,7 @@
       <note>original filename: mrl8kio_0111_01</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part10/coverpage</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part10/coverpage</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -799,7 +777,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002429</identifier>
-      <identifier type="local">kio_133</identifier>
+      <identifier type="local">koreanoutbreak_kio_133</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 9. Page S17</partName>
@@ -819,9 +797,7 @@
       <note>original filename: mrl8kio_0110_18</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s17</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s17</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -860,7 +836,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002428</identifier>
-      <identifier type="local">kio_132</identifier>
+      <identifier type="local">koreanoutbreak_kio_132</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 9. Page S16</partName>
@@ -880,9 +856,7 @@
       <note>original filename: mrl8kio_0110_17</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s16</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s16</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -921,7 +895,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002427</identifier>
-      <identifier type="local">kio_131</identifier>
+      <identifier type="local">koreanoutbreak_kio_131</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 9. Page S15</partName>
@@ -941,9 +915,7 @@
       <note>original filename: mrl8kio_0110_16</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s15</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s15</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -982,7 +954,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002426</identifier>
-      <identifier type="local">kio_130</identifier>
+      <identifier type="local">koreanoutbreak_kio_130</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 9. Page S14</partName>
@@ -1003,9 +975,7 @@
       <note>original filename: mrl8kio_0110_15</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s14</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s14</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -1044,7 +1014,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002425</identifier>
-      <identifier type="local">kio_129</identifier>
+      <identifier type="local">koreanoutbreak_kio_129</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 9. Page S13</partName>
@@ -1064,9 +1034,7 @@
       <note>original filename: mrl8kio_0110_14</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s13</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s13</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -1105,7 +1073,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002424</identifier>
-      <identifier type="local">kio_128</identifier>
+      <identifier type="local">koreanoutbreak_kio_128</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 9. Page S12</partName>
@@ -1125,9 +1093,7 @@
       <note>original filename: mrl8kio_0110_13</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s12</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s12</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -1166,7 +1132,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002423</identifier>
-      <identifier type="local">kio_127</identifier>
+      <identifier type="local">koreanoutbreak_kio_127</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 9. Page S11</partName>
@@ -1186,9 +1152,7 @@
       <note>original filename: mrl8kio_0110_12</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s11</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s11</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -1227,7 +1191,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002422</identifier>
-      <identifier type="local">kio_126</identifier>
+      <identifier type="local">koreanoutbreak_kio_126</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 9. Page S10</partName>
@@ -1247,9 +1211,7 @@
       <note>original filename: mrl8kio_0110_11</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s10</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s10</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -1288,7 +1250,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002421</identifier>
-      <identifier type="local">kio_125</identifier>
+      <identifier type="local">koreanoutbreak_kio_125</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 9. Page S9</partName>
@@ -1308,9 +1270,7 @@
       <note>original filename: mrl8kio_0110_10</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s9</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s9</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -1349,7 +1309,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002420</identifier>
-      <identifier type="local">kio_124</identifier>
+      <identifier type="local">koreanoutbreak_kio_124</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 9. Page S8</partName>
@@ -1370,9 +1330,7 @@
       <note>original filename: mrl8kio_0110_09</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s8</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s8</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -1411,7 +1369,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002419</identifier>
-      <identifier type="local">kio_123</identifier>
+      <identifier type="local">koreanoutbreak_kio_123</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 9. Page S7</partName>
@@ -1431,9 +1389,7 @@
       <note>original filename: mrl8kio_0110_08</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s7</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s7</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -1472,7 +1428,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002418</identifier>
-      <identifier type="local">kio_122</identifier>
+      <identifier type="local">koreanoutbreak_kio_122</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 9. Page S6</partName>
@@ -1492,9 +1448,7 @@
       <note>original filename: mrl8kio_0110_07</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s6</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s6</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -1533,7 +1487,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002417</identifier>
-      <identifier type="local">kio_121</identifier>
+      <identifier type="local">koreanoutbreak_kio_121</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 9. Page S5</partName>
@@ -1553,9 +1507,7 @@
       <note>original filename: mrl8kio_0110_06</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s5</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s5</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -1594,7 +1546,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002416</identifier>
-      <identifier type="local">kio_120</identifier>
+      <identifier type="local">koreanoutbreak_kio_120</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 9. Page S4</partName>
@@ -1615,9 +1567,7 @@
       <note>original filename: mrl8kio_0110_05</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s4</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s4</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -1656,7 +1606,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002415</identifier>
-      <identifier type="local">kio_119</identifier>
+      <identifier type="local">koreanoutbreak_kio_119</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 9. Page S3</partName>
@@ -1676,9 +1626,7 @@
       <note>original filename: mrl8kio_0110_04</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s3</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s3</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -1717,7 +1665,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002414</identifier>
-      <identifier type="local">kio_118</identifier>
+      <identifier type="local">koreanoutbreak_kio_118</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 9. Page S2</partName>
@@ -1737,9 +1685,7 @@
       <note>original filename: mrl8kio_0110_03</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s2</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s2</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -1778,7 +1724,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002413</identifier>
-      <identifier type="local">kio_117</identifier>
+      <identifier type="local">koreanoutbreak_kio_117</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 9. Page S1</partName>
@@ -1799,9 +1745,7 @@
       <note>original filename: mrl8kio_0110_02</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s1</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/page_s1</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -1840,7 +1784,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002412</identifier>
-      <identifier type="local">kio_116</identifier>
+      <identifier type="local">koreanoutbreak_kio_116</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 9. Cover page</partName>
@@ -1860,9 +1804,7 @@
       <note>original filename: mrl8kio_0110_01</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/coverpage</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part9/coverpage</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -1901,7 +1843,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002411</identifier>
-      <identifier type="local">kio_115</identifier>
+      <identifier type="local">koreanoutbreak_kio_115</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 8. Page T3</partName>
@@ -1921,9 +1863,7 @@
       <note>original filename: mrl8kio_0109_04</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part8/page_t3</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part8/page_t3</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -1962,7 +1902,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002410</identifier>
-      <identifier type="local">kio_114</identifier>
+      <identifier type="local">koreanoutbreak_kio_114</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 8. Page T2</partName>
@@ -1982,9 +1922,7 @@
       <note>original filename: mrl8kio_0109_03</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part8/page_t2</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part8/page_t2</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -2023,7 +1961,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002409</identifier>
-      <identifier type="local">kio_113</identifier>
+      <identifier type="local">koreanoutbreak_kio_113</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 8. Page T1</partName>
@@ -2044,9 +1982,7 @@
       <note>original filename: mrl8kio_0109_02</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part8/page_t1</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part8/page_t1</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -2085,7 +2021,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002408</identifier>
-      <identifier type="local">kio_112</identifier>
+      <identifier type="local">koreanoutbreak_kio_112</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 8. Cover page</partName>
@@ -2105,9 +2041,7 @@
       <note>original filename: mrl8kio_0109_01</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part8/coverpage</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part8/coverpage</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -2146,7 +2080,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002407</identifier>
-      <identifier type="local">kio_111</identifier>
+      <identifier type="local">koreanoutbreak_kio_111</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 7. Page F5</partName>
@@ -2166,9 +2100,7 @@
       <note>original filename: mrl8kio_0108_06</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part7/page_f5</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part7/page_f5</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -2207,7 +2139,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002406</identifier>
-      <identifier type="local">kio_110</identifier>
+      <identifier type="local">koreanoutbreak_kio_110</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 7. Page F4</partName>
@@ -2227,9 +2159,7 @@
       <note>original filename: mrl8kio_0108_05</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part7/page_f4</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part7/page_f4</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -2268,7 +2198,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002405</identifier>
-      <identifier type="local">kio_109</identifier>
+      <identifier type="local">koreanoutbreak_kio_109</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 7. Page F3</partName>
@@ -2288,9 +2218,7 @@
       <note>original filename: mrl8kio_0108_04</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part7/page_f3</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part7/page_f3</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -2329,7 +2257,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002404</identifier>
-      <identifier type="local">kio_108</identifier>
+      <identifier type="local">koreanoutbreak_kio_108</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 7. Page F2</partName>
@@ -2349,9 +2277,7 @@
       <note>original filename: mrl8kio_0108_03</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part7/page_f2</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part7/page_f2</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -2390,7 +2316,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002403</identifier>
-      <identifier type="local">kio_107</identifier>
+      <identifier type="local">koreanoutbreak_kio_107</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 7. Page F1</partName>
@@ -2411,9 +2337,7 @@
       <note>original filename: mrl8kio_0108_02</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part7/force</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part7/force</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -2452,7 +2376,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002402</identifier>
-      <identifier type="local">kio_106</identifier>
+      <identifier type="local">koreanoutbreak_kio_106</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 7. Cover page</partName>
@@ -2472,9 +2396,7 @@
       <note>original filename: mrl8kio_0108_01</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part7/coverpage</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part7/coverpage</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -2513,7 +2435,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002401</identifier>
-      <identifier type="local">kio_105</identifier>
+      <identifier type="local">koreanoutbreak_kio_105</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 6. Page E17</partName>
@@ -2533,9 +2455,7 @@
       <note>original filename: mrl8kio_0107_19</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e17</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e17</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -2574,7 +2494,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002400</identifier>
-      <identifier type="local">kio_104</identifier>
+      <identifier type="local">koreanoutbreak_kio_104</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 6. Page E16</partName>
@@ -2594,9 +2514,7 @@
       <note>original filename: mrl8kio_0107_18</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e16</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e16</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -2635,7 +2553,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002399</identifier>
-      <identifier type="local">kio_103</identifier>
+      <identifier type="local">koreanoutbreak_kio_103</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 6. Page E15</partName>
@@ -2655,9 +2573,7 @@
       <note>original filename: mrl8kio_0107_17</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e15</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e15</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -2696,7 +2612,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002398</identifier>
-      <identifier type="local">kio_102</identifier>
+      <identifier type="local">koreanoutbreak_kio_102</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 6. Page E14</partName>
@@ -2717,9 +2633,7 @@
       <note>original filename: mrl8kio_0107_16</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e14</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e14</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -2758,7 +2672,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002397</identifier>
-      <identifier type="local">kio_101</identifier>
+      <identifier type="local">koreanoutbreak_kio_101</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 6. Page E13</partName>
@@ -2778,9 +2692,7 @@
       <note>original filename: mrl8kio_0107_15</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e13</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e13</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -2819,7 +2731,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002396</identifier>
-      <identifier type="local">kio_100</identifier>
+      <identifier type="local">koreanoutbreak_kio_100</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 6. Page E12</partName>
@@ -2839,9 +2751,7 @@
       <note>original filename: mrl8kio_0107_14</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e12</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e12</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -2880,7 +2790,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002395</identifier>
-      <identifier type="local">kio_099</identifier>
+      <identifier type="local">koreanoutbreak_kio_099</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 6. Page E11</partName>
@@ -2900,10 +2810,8 @@
       <note>original filename: mrl8kio_0107_13</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e11</url>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e13</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e11</url>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e13</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -2942,7 +2850,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002394</identifier>
-      <identifier type="local">kio_098</identifier>
+      <identifier type="local">koreanoutbreak_kio_098</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 6. Page E10</partName>
@@ -2962,9 +2870,7 @@
       <note>original filename: mrl8kio_0107_12</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e10</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e10</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -3003,7 +2909,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002393</identifier>
-      <identifier type="local">kio_097</identifier>
+      <identifier type="local">koreanoutbreak_kio_097</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 6. Page E9</partName>
@@ -3023,9 +2929,7 @@
       <note>original filename: mrl8kio_0107_11</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e9</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e9</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -3064,7 +2968,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002392</identifier>
-      <identifier type="local">kio_096</identifier>
+      <identifier type="local">koreanoutbreak_kio_096</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 6. Page E8</partName>
@@ -3084,9 +2988,7 @@
       <note>original filename: mrl8kio_0107_10</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e8</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e8</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -3125,7 +3027,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002391</identifier>
-      <identifier type="local">kio_095</identifier>
+      <identifier type="local">koreanoutbreak_kio_095</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 6. Page E7</partName>
@@ -3145,9 +3047,7 @@
       <note>original filename: mrl8kio_0107_09</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e7</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e7</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -3186,7 +3086,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002390</identifier>
-      <identifier type="local">kio_094</identifier>
+      <identifier type="local">koreanoutbreak_kio_094</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 6. Page E6</partName>
@@ -3206,9 +3106,7 @@
       <note>original filename: mrl8kio_0107_08</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e6</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e6</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -3247,7 +3145,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002389</identifier>
-      <identifier type="local">kio_093</identifier>
+      <identifier type="local">koreanoutbreak_kio_093</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 6. Page E5</partName>
@@ -3267,9 +3165,7 @@
       <note>original filename: mrl8kio_0107_07</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e5</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e5</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -3308,7 +3204,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002388</identifier>
-      <identifier type="local">kio_092</identifier>
+      <identifier type="local">koreanoutbreak_kio_092</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 6. Page E4</partName>
@@ -3328,9 +3224,7 @@
       <note>original filename: mrl8kio_0107_06</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e4</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e4</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -3369,7 +3263,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002387</identifier>
-      <identifier type="local">kio_091</identifier>
+      <identifier type="local">koreanoutbreak_kio_091</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 6. Page E3</partName>
@@ -3389,9 +3283,7 @@
       <note>original filename: mrl8kio_0107_05</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e3</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e3</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -3430,7 +3322,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002386</identifier>
-      <identifier type="local">kio_090</identifier>
+      <identifier type="local">koreanoutbreak_kio_090</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 6. Page E2</partName>
@@ -3450,9 +3342,7 @@
       <note>original filename: mrl8kio_0107_04</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e2</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e2</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -3491,7 +3381,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002385</identifier>
-      <identifier type="local">kio_089</identifier>
+      <identifier type="local">koreanoutbreak_kio_089</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 6. Page E1</partName>
@@ -3511,9 +3401,7 @@
       <note>original filename: mrl8kio_0107_03</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e1</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/page_e1</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -3552,7 +3440,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002384</identifier>
-      <identifier type="local">kio_088</identifier>
+      <identifier type="local">koreanoutbreak_kio_088</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 6. Relation of the foreign missionaries to the present uprising, half page</partName>
@@ -3573,9 +3461,7 @@
       <note>original filename: mrl8kio_0107_02</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/foreign_missionaries</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/foreign_missionaries</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -3614,7 +3500,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002383</identifier>
-      <identifier type="local">kio_087</identifier>
+      <identifier type="local">koreanoutbreak_kio_087</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 6. Cover page</partName>
@@ -3634,9 +3520,7 @@
       <note>original filename: mrl8kio_0107_01</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/coverpage</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part6/coverpage</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -3675,7 +3559,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002382</identifier>
-      <identifier type="local">kio_086</identifier>
+      <identifier type="local">koreanoutbreak_kio_086</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 5. Page D14</partName>
@@ -3695,9 +3579,7 @@
       <note>original filename: mrl8kio_0106_15</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d14</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d14</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -3736,7 +3618,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002381</identifier>
-      <identifier type="local">kio_085</identifier>
+      <identifier type="local">koreanoutbreak_kio_085</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 5. Page D13</partName>
@@ -3756,9 +3638,7 @@
       <note>original filename: mrl8kio_0106_14</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d13</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d13</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -3797,7 +3677,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002380</identifier>
-      <identifier type="local">kio_084</identifier>
+      <identifier type="local">koreanoutbreak_kio_084</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 5. Page D12</partName>
@@ -3817,9 +3697,7 @@
       <note>original filename: mrl8kio_0106_13</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d12</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d12</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -3858,7 +3736,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002379</identifier>
-      <identifier type="local">kio_083</identifier>
+      <identifier type="local">koreanoutbreak_kio_083</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 5. Page D11</partName>
@@ -3878,9 +3756,7 @@
       <note>original filename: mrl8kio_0106_12</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d11</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d11</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -3919,7 +3795,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002378</identifier>
-      <identifier type="local">kio_082</identifier>
+      <identifier type="local">koreanoutbreak_kio_082</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 5. Page D10</partName>
@@ -3939,9 +3815,7 @@
       <note>original filename: mrl8kio_0106_11</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d10</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d10</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -3980,7 +3854,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002377</identifier>
-      <identifier type="local">kio_081</identifier>
+      <identifier type="local">koreanoutbreak_kio_081</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 5. Page D9</partName>
@@ -4001,9 +3875,7 @@
       <note>original filename: mrl8kio_0106_10</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d9</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d9</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -4042,7 +3914,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002376</identifier>
-      <identifier type="local">kio_080</identifier>
+      <identifier type="local">koreanoutbreak_kio_080</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 5. Page D8</partName>
@@ -4062,9 +3934,7 @@
       <note>original filename: mrl8kio_0106_09</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d8</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d8</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -4103,7 +3973,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002375</identifier>
-      <identifier type="local">kio_079</identifier>
+      <identifier type="local">koreanoutbreak_kio_079</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 5. Page D7</partName>
@@ -4123,9 +3993,7 @@
       <note>original filename: mrl8kio_0106_08</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d7</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d7</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -4164,7 +4032,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002374</identifier>
-      <identifier type="local">kio_078</identifier>
+      <identifier type="local">koreanoutbreak_kio_078</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 5. Page D6</partName>
@@ -4184,9 +4052,7 @@
       <note>original filename: mrl8kio_0106_07</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d6</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d6</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -4225,7 +4091,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002373</identifier>
-      <identifier type="local">kio_076</identifier>
+      <identifier type="local">koreanoutbreak_kio_076</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 5. Page D3 (different text)</partName>
@@ -4245,9 +4111,7 @@
       <note>original filename: mrl8kio_0106_06</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d3_different</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d3_different</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -4286,7 +4150,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002372</identifier>
-      <identifier type="local">kio_077</identifier>
+      <identifier type="local">koreanoutbreak_kio_077</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 5. Page D4</partName>
@@ -4306,9 +4170,7 @@
       <note>original filename: mrl8kio_0106_05</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d4</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d4</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -4347,7 +4209,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002371</identifier>
-      <identifier type="local">kio_075</identifier>
+      <identifier type="local">koreanoutbreak_kio_075</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 5. Page D3</partName>
@@ -4367,9 +4229,7 @@
       <note>original filename: mrl8kio_0106_04</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d3</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d3</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -4408,7 +4268,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002370</identifier>
-      <identifier type="local">kio_074</identifier>
+      <identifier type="local">koreanoutbreak_kio_074</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 5. Page D2</partName>
@@ -4428,9 +4288,7 @@
       <note>original filename: mrl8kio_0106_03</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d2</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/page_d2</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -4469,7 +4327,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002369</identifier>
-      <identifier type="local">kio_073</identifier>
+      <identifier type="local">koreanoutbreak_kio_073</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 5. Page D1</partName>
@@ -4490,9 +4348,7 @@
       <note>original filename: mrl8kio_0106_02</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/search</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/search</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -4531,7 +4387,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002368</identifier>
-      <identifier type="local">kio_072</identifier>
+      <identifier type="local">koreanoutbreak_kio_072</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 5. Cover page</partName>
@@ -4551,9 +4407,7 @@
       <note>original filename: mrl8kio_0106_01</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/coverpage</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part5/coverpage</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -4592,7 +4446,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002367</identifier>
-      <identifier type="local">kio_071</identifier>
+      <identifier type="local">koreanoutbreak_kio_071</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 4. Page C8</partName>
@@ -4612,9 +4466,7 @@
       <note>original filename: mrl8kio_0105_07</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part4/page_c8</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part4/page_c8</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -4653,7 +4505,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002366</identifier>
-      <identifier type="local">kio_070</identifier>
+      <identifier type="local">koreanoutbreak_kio_070</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 4. Pages C5-7</partName>
@@ -4674,9 +4526,7 @@
       <note>original filename: mrl8kio_0105_06</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part4/page_c5</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part4/page_c5</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -4715,7 +4565,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002365</identifier>
-      <identifier type="local">kio_069</identifier>
+      <identifier type="local">koreanoutbreak_kio_069</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 4. Page C4</partName>
@@ -4735,9 +4585,7 @@
       <note>original filename: mrl8kio_0105_05</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part4/page_c4</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part4/page_c4</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -4776,7 +4624,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002364</identifier>
-      <identifier type="local">kio_068</identifier>
+      <identifier type="local">koreanoutbreak_kio_068</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 4. Page C3</partName>
@@ -4796,9 +4644,7 @@
       <note>original filename: mrl8kio_0105_04</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part4/page_c3</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part4/page_c3</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -4837,7 +4683,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002363</identifier>
-      <identifier type="local">kio_067</identifier>
+      <identifier type="local">koreanoutbreak_kio_067</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 4. Page C2</partName>
@@ -4857,9 +4703,7 @@
       <note>original filename: mrl8kio_0105_03</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part4/page_c2</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part4/page_c2</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -4898,7 +4742,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002362</identifier>
-      <identifier type="local">kio_066</identifier>
+      <identifier type="local">koreanoutbreak_kio_066</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 4. Page C1</partName>
@@ -4919,9 +4763,7 @@
       <note>original filename: mrl8kio_0105_02</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part4/incidents</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part4/incidents</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -4960,7 +4802,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002361</identifier>
-      <identifier type="local">kio_065</identifier>
+      <identifier type="local">koreanoutbreak_kio_065</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 4. Cover page</partName>
@@ -4980,9 +4822,7 @@
       <note>original filename: mrl8kio_0105_01</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part4/coverpage</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part4/coverpage</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -5021,7 +4861,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002360</identifier>
-      <identifier type="local">kio_064</identifier>
+      <identifier type="local">koreanoutbreak_kio_064</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 3. Page B4</partName>
@@ -5042,9 +4882,7 @@
       <note>original filename: mrl8kio_0104_05</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part3/pyengyang</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part3/pyengyang</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -5083,7 +4921,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002359</identifier>
-      <identifier type="local">kio_063</identifier>
+      <identifier type="local">koreanoutbreak_kio_063</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 3. Page B3</partName>
@@ -5103,9 +4941,7 @@
       <note>original filename: mrl8kio_0104_04</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part3/page_b3</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part3/page_b3</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -5144,7 +4980,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002358</identifier>
-      <identifier type="local">kio_062</identifier>
+      <identifier type="local">koreanoutbreak_kio_062</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 3. Page B2</partName>
@@ -5164,9 +5000,7 @@
       <note>original filename: mrl8kio_0104_03</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part3/page_b2</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part3/page_b2</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -5205,7 +5039,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002357</identifier>
-      <identifier type="local">kio_061</identifier>
+      <identifier type="local">koreanoutbreak_kio_061</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 3. Page B1</partName>
@@ -5225,9 +5059,7 @@
       <note>original filename: mrl8kio_0104_02</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part3/page_b1</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part3/page_b1</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -5266,7 +5098,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002356</identifier>
-      <identifier type="local">kio_060</identifier>
+      <identifier type="local">koreanoutbreak_kio_060</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 3. Cover page</partName>
@@ -5286,9 +5118,7 @@
       <note>original filename: mrl8kio_0104_01</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part3/coverpage</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part3/coverpage</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -5327,7 +5157,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002355</identifier>
-      <identifier type="local">kio_059</identifier>
+      <identifier type="local">koreanoutbreak_kio_059</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 2. Page A22</partName>
@@ -5348,9 +5178,7 @@
       <note>original filename: mrl8kio_0103_22</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a22</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a22</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -5389,7 +5217,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002354</identifier>
-      <identifier type="local">kio_058</identifier>
+      <identifier type="local">koreanoutbreak_kio_058</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 2. Page A21</partName>
@@ -5410,9 +5238,7 @@
       <note>original filename: mrl8kio_0103_21</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a21</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a21</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -5451,7 +5277,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002353</identifier>
-      <identifier type="local">kio_057</identifier>
+      <identifier type="local">koreanoutbreak_kio_057</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 2. Page A20</partName>
@@ -5472,9 +5298,7 @@
       <note>original filename: mrl8kio_0103_20</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a20</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a20</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -5513,7 +5337,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002352</identifier>
-      <identifier type="local">kio_056</identifier>
+      <identifier type="local">koreanoutbreak_kio_056</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 2. Page A19</partName>
@@ -5534,9 +5358,7 @@
       <note>original filename: mrl8kio_0103_19</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a19</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a19</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -5575,7 +5397,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002351</identifier>
-      <identifier type="local">kio_055</identifier>
+      <identifier type="local">koreanoutbreak_kio_055</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 2. Page A18</partName>
@@ -5596,10 +5418,8 @@
       <note>original filename: mrl8kio_0103_18</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a18</url>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a19</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a18</url>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a19</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -5638,7 +5458,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002350</identifier>
-      <identifier type="local">kio_054</identifier>
+      <identifier type="local">koreanoutbreak_kio_054</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 2. Page A17</partName>
@@ -5659,9 +5479,7 @@
       <note>original filename: mrl8kio_0103_17</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a17</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a17</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -5700,7 +5518,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002349</identifier>
-      <identifier type="local">kio_053</identifier>
+      <identifier type="local">koreanoutbreak_kio_053</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 2. Page A16</partName>
@@ -5721,9 +5539,7 @@
       <note>original filename: mrl8kio_0103_16</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a16</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a16</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -5762,7 +5578,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002348</identifier>
-      <identifier type="local">kio_052</identifier>
+      <identifier type="local">koreanoutbreak_kio_052</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 2. Page A15</partName>
@@ -5783,9 +5599,7 @@
       <note>original filename: mrl8kio_0103_15</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a15</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a15</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -5824,7 +5638,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002347</identifier>
-      <identifier type="local">kio_051</identifier>
+      <identifier type="local">koreanoutbreak_kio_051</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 2. Pages A13-A14</partName>
@@ -5845,9 +5659,7 @@
       <note>original filename: mrl8kio_0103_14</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a13</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a13</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -5886,7 +5698,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002346</identifier>
-      <identifier type="local">kio_050</identifier>
+      <identifier type="local">koreanoutbreak_kio_050</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 2. Page A12</partName>
@@ -5907,9 +5719,7 @@
       <note>original filename: mrl8kio_0103_13</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a12</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a12</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -5948,7 +5758,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002345</identifier>
-      <identifier type="local">kio_049</identifier>
+      <identifier type="local">koreanoutbreak_kio_049</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 2. Page A11</partName>
@@ -5969,9 +5779,7 @@
       <note>original filename: mrl8kio_0103_12</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a11</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a11</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -6010,7 +5818,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002344</identifier>
-      <identifier type="local">kio_048</identifier>
+      <identifier type="local">koreanoutbreak_kio_048</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 2. Page A10</partName>
@@ -6031,9 +5839,7 @@
       <note>original filename: mrl8kio_0103_11</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a10</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a10</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -6072,7 +5878,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002343</identifier>
-      <identifier type="local">kio_047</identifier>
+      <identifier type="local">koreanoutbreak_kio_047</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 2. Page A9</partName>
@@ -6093,9 +5899,7 @@
       <note>original filename: mrl8kio_0103_10</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a9</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a9</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -6134,7 +5938,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002342</identifier>
-      <identifier type="local">kio_046</identifier>
+      <identifier type="local">koreanoutbreak_kio_046</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 2. Page A8</partName>
@@ -6155,9 +5959,7 @@
       <note>original filename: mrl8kio_0103_09</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a8</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a8</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -6196,7 +5998,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002341</identifier>
-      <identifier type="local">kio_045</identifier>
+      <identifier type="local">koreanoutbreak_kio_045</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 2. Page A7</partName>
@@ -6217,9 +6019,7 @@
       <note>original filename: mrl8kio_0103_08</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a7</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a7</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -6258,7 +6058,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002340</identifier>
-      <identifier type="local">kio_044</identifier>
+      <identifier type="local">koreanoutbreak_kio_044</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 2. Page A6</partName>
@@ -6279,9 +6079,7 @@
       <note>original filename: mrl8kio_0103_07</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a6</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a6</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -6320,7 +6118,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002339</identifier>
-      <identifier type="local">kio_043</identifier>
+      <identifier type="local">koreanoutbreak_kio_043</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 2. Page A5</partName>
@@ -6341,9 +6139,7 @@
       <note>original filename: mrl8kio_0103_06</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a5</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a5</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -6382,7 +6178,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002338</identifier>
-      <identifier type="local">kio_042</identifier>
+      <identifier type="local">koreanoutbreak_kio_042</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 2. Page C4 [sic]</partName>
@@ -6403,9 +6199,7 @@
       <note>original filename: mrl8kio_0103_05</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_c4</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_c4</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -6444,7 +6238,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002337</identifier>
-      <identifier type="local">kio_041</identifier>
+      <identifier type="local">koreanoutbreak_kio_041</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 2. Page A3</partName>
@@ -6465,9 +6259,7 @@
       <note>original filename: mrl8kio_0103_04</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a3</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a3</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -6506,7 +6298,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002336</identifier>
-      <identifier type="local">kio_040</identifier>
+      <identifier type="local">koreanoutbreak_kio_040</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 2. Page A2</partName>
@@ -6527,9 +6319,7 @@
       <note>original filename: mrl8kio_0103_03</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a2</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a2</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -6568,7 +6358,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002335</identifier>
-      <identifier type="local">kio_039</identifier>
+      <identifier type="local">koreanoutbreak_kio_039</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 2. Page A1</partName>
@@ -6589,9 +6379,7 @@
       <note>original filename: mrl8kio_0103_02</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a1</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/page_a1</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -6630,7 +6418,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002334</identifier>
-      <identifier type="local">kio_038</identifier>
+      <identifier type="local">koreanoutbreak_kio_038</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 2. Cover Page</partName>
@@ -6651,9 +6439,7 @@
       <note>original filename: mrl8kio_0103_01</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/coverpage</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part2/coverpage</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -6692,7 +6478,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002333</identifier>
-      <identifier type="local">kio_037</identifier>
+      <identifier type="local">koreanoutbreak_kio_037</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 33, half page</partName>
@@ -6713,9 +6499,7 @@
       <note>original filename: mrl8kio_0102_38</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page33</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page33</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -6754,7 +6538,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002332</identifier>
-      <identifier type="local">kio_036</identifier>
+      <identifier type="local">koreanoutbreak_kio_036</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 32</partName>
@@ -6775,9 +6559,7 @@
       <note>original filename: mrl8kio_0102_37</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page32</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page32</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -6816,7 +6598,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002331</identifier>
-      <identifier type="local">kio_035</identifier>
+      <identifier type="local">koreanoutbreak_kio_035</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 31</partName>
@@ -6837,9 +6619,7 @@
       <note>original filename: mrl8kio_0102_36</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page-31</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page-31</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -6878,7 +6658,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002330</identifier>
-      <identifier type="local">kio_034</identifier>
+      <identifier type="local">koreanoutbreak_kio_034</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 30</partName>
@@ -6899,9 +6679,7 @@
       <note>original filename: mrl8kio_0102_35</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page30</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page30</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -6940,7 +6718,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002329</identifier>
-      <identifier type="local">kio_033</identifier>
+      <identifier type="local">koreanoutbreak_kio_033</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 29</partName>
@@ -6961,9 +6739,7 @@
       <note>original filename: mrl8kio_0102_34</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page29</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page29</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -7002,7 +6778,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002328</identifier>
-      <identifier type="local">kio_032</identifier>
+      <identifier type="local">koreanoutbreak_kio_032</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 28 (not a duplicate)</partName>
@@ -7023,9 +6799,7 @@
       <note>original filename: mrl8kio_0102_33</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page-28</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page-28</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -7064,7 +6838,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002327</identifier>
-      <identifier type="local">kio_031</identifier>
+      <identifier type="local">koreanoutbreak_kio_031</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 28</partName>
@@ -7085,9 +6859,7 @@
       <note>original filename: mrl8kio_0102_32</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page-28</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page-28</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -7126,7 +6898,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002326</identifier>
-      <identifier type="local">kio_030</identifier>
+      <identifier type="local">koreanoutbreak_kio_030</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 27</partName>
@@ -7147,9 +6919,7 @@
       <note>original filename: mrl8kio_0102_31</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page27</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page27</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -7188,7 +6958,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002325</identifier>
-      <identifier type="local">kio_029</identifier>
+      <identifier type="local">koreanoutbreak_kio_029</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 26</partName>
@@ -7209,9 +6979,7 @@
       <note>original filename: mrl8kio_0102_30</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page26</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page26</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -7250,7 +7018,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002324</identifier>
-      <identifier type="local">kio_028</identifier>
+      <identifier type="local">koreanoutbreak_kio_028</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 25</partName>
@@ -7271,9 +7039,7 @@
       <note>original filename: mrl8kio_0102_29</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page25</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page25</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -7312,7 +7078,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002323</identifier>
-      <identifier type="local">kio_027</identifier>
+      <identifier type="local">koreanoutbreak_kio_027</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 24</partName>
@@ -7333,9 +7099,7 @@
       <note>original filename: mrl8kio_0102_28</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page24</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page24</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -7374,7 +7138,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002322</identifier>
-      <identifier type="local">kio_026</identifier>
+      <identifier type="local">koreanoutbreak_kio_026</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 23</partName>
@@ -7395,9 +7159,7 @@
       <note>original filename: mrl8kio_0102_27</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page23</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page23</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -7436,7 +7198,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002321</identifier>
-      <identifier type="local">kio_025</identifier>
+      <identifier type="local">koreanoutbreak_kio_025</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 22</partName>
@@ -7457,9 +7219,7 @@
       <note>original filename: mrl8kio_0102_26</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page22</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page22</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -7498,7 +7258,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002320</identifier>
-      <identifier type="local">kio_024</identifier>
+      <identifier type="local">koreanoutbreak_kio_024</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 21</partName>
@@ -7519,9 +7279,7 @@
       <note>original filename: mrl8kio_0102_25</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page21</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page21</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -7560,7 +7318,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002319</identifier>
-      <identifier type="local">kio_023</identifier>
+      <identifier type="local">koreanoutbreak_kio_023</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 20</partName>
@@ -7581,9 +7339,7 @@
       <note>original filename: mrl8kio_0102_24</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page20</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page20</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -7622,7 +7378,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002318</identifier>
-      <identifier type="local">kio_022</identifier>
+      <identifier type="local">koreanoutbreak_kio_022</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 19</partName>
@@ -7643,9 +7399,7 @@
       <note>original filename: mrl8kio_0102_23</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page19</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page19</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -7684,7 +7438,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002317</identifier>
-      <identifier type="local">kio_021</identifier>
+      <identifier type="local">koreanoutbreak_kio_021</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 18</partName>
@@ -7705,9 +7459,7 @@
       <note>original filename: mrl8kio_0102_22</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page18</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page18</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -7746,7 +7498,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002316</identifier>
-      <identifier type="local">kio_020</identifier>
+      <identifier type="local">koreanoutbreak_kio_020</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 17</partName>
@@ -7767,9 +7519,7 @@
       <note>original filename: mrl8kio_0102_21</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page17</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page17</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -7808,7 +7558,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002315</identifier>
-      <identifier type="local">kio_019</identifier>
+      <identifier type="local">koreanoutbreak_kio_019</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 16</partName>
@@ -7829,9 +7579,7 @@
       <note>original filename: mrl8kio_0102_20</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page16</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page16</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -7870,7 +7618,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002314</identifier>
-      <identifier type="local">kio_018</identifier>
+      <identifier type="local">koreanoutbreak_kio_018</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 15</partName>
@@ -7891,9 +7639,7 @@
       <note>original filename: mrl8kio_0102_19</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page15</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page15</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -7932,7 +7678,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002313</identifier>
-      <identifier type="local">kio_017</identifier>
+      <identifier type="local">koreanoutbreak_kio_017</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 14</partName>
@@ -7953,9 +7699,7 @@
       <note>original filename: mrl8kio_0102_18</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page14</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page14</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -7994,7 +7738,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002312</identifier>
-      <identifier type="local">kio_016</identifier>
+      <identifier type="local">koreanoutbreak_kio_016</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 13</partName>
@@ -8015,9 +7759,7 @@
       <note>original filename: mrl8kio_0102_17</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page13</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page13</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -8056,7 +7798,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002311</identifier>
-      <identifier type="local">kio_015</identifier>
+      <identifier type="local">koreanoutbreak_kio_015</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 12</partName>
@@ -8077,9 +7819,7 @@
       <note>original filename: mrl8kio_0102_16</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page12</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page12</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -8118,7 +7858,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002310</identifier>
-      <identifier type="local">kio_014</identifier>
+      <identifier type="local">koreanoutbreak_kio_014</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 11</partName>
@@ -8139,9 +7879,7 @@
       <note>original filename: mrl8kio_0102_15</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page11</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page11</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -8180,7 +7918,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002309</identifier>
-      <identifier type="local">kio_013</identifier>
+      <identifier type="local">koreanoutbreak_kio_013</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 10</partName>
@@ -8201,9 +7939,7 @@
       <note>original filename: mrl8kio_0102_14</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page10</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page10</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -8242,7 +7978,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002308</identifier>
-      <identifier type="local">kio_012</identifier>
+      <identifier type="local">koreanoutbreak_kio_012</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 9, half page</partName>
@@ -8263,9 +7999,7 @@
       <note>original filename: mrl8kio_0102_13</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page9</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page9</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -8304,7 +8038,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002307</identifier>
-      <identifier type="local">kio_011</identifier>
+      <identifier type="local">koreanoutbreak_kio_011</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 8</partName>
@@ -8325,9 +8059,7 @@
       <note>original filename: mrl8kio_0102_12</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page8</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page8</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -8366,7 +8098,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002306</identifier>
-      <identifier type="local">kio_010</identifier>
+      <identifier type="local">koreanoutbreak_kio_010</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 7 (not a duplicate)</partName>
@@ -8387,9 +8119,7 @@
       <note>original filename: mrl8kio_0102_11</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page7</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page7</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -8428,7 +8158,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002305</identifier>
-      <identifier type="local">kio_009</identifier>
+      <identifier type="local">koreanoutbreak_kio_009</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 7</partName>
@@ -8449,9 +8179,7 @@
       <note>original filename: mrl8kio_0102_10</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page7</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page7</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -8490,7 +8218,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002304</identifier>
-      <identifier type="local">kio_008</identifier>
+      <identifier type="local">koreanoutbreak_kio_008</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 6</partName>
@@ -8511,9 +8239,7 @@
       <note>original filename: mrl8kio_0102_09</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page6</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page6</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -8552,7 +8278,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002303</identifier>
-      <identifier type="local">kio_007</identifier>
+      <identifier type="local">koreanoutbreak_kio_007</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 5</partName>
@@ -8573,9 +8299,7 @@
       <note>original filename: mrl8kio_0102_08</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page5</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page5</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -8614,7 +8338,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002302</identifier>
-      <identifier type="local">kio_006</identifier>
+      <identifier type="local">koreanoutbreak_kio_006</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page Ext. 4</partName>
@@ -8635,9 +8359,7 @@
       <note>original filename: mrl8kio_0102_07</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page4</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page4</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -8676,7 +8398,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002301</identifier>
-      <identifier type="local">kio_005</identifier>
+      <identifier type="local">koreanoutbreak_kio_005</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 4</partName>
@@ -8697,9 +8419,7 @@
       <note>original filename: mrl8kio_0102_06</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page4</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page4</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -8738,7 +8458,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002300</identifier>
-      <identifier type="local">kio_004</identifier>
+      <identifier type="local">koreanoutbreak_kio_004</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 3</partName>
@@ -8759,9 +8479,7 @@
       <note>original filename: mrl8kio_0102_05</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page3</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page3</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -8800,7 +8518,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002299</identifier>
-      <identifier type="local">kio_003</identifier>
+      <identifier type="local">koreanoutbreak_kio_003</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 2</partName>
@@ -8821,9 +8539,7 @@
       <note>original filename: mrl8kio_0102_04</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page2</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page2</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -8862,7 +8578,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002298</identifier>
-      <identifier type="local">kio_002</identifier>
+      <identifier type="local">koreanoutbreak_kio_002</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Page 1</partName>
@@ -8883,9 +8599,7 @@
       <note>original filename: mrl8kio_0102_03</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page1</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/page1</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -8924,7 +8638,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002297</identifier>
-      <identifier type="local">kio_001</identifier>
+      <identifier type="local">koreanoutbreak_kio_001</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Pyeng Yang chronicle of the Korean independence outbreak</partName>
@@ -8944,9 +8658,7 @@
       <note>original filename: mrl8kio_0102_02</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/pyeng_yang</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/pyeng_yang</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -8985,7 +8697,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002296</identifier>
-      <identifier type="local">kio_000</identifier>
+      <identifier type="local">koreanoutbreak_kio_000</identifier>
       <titleInfo>
          <title>Korean Independence Outbreak Beginning, March 1st, 1919</title>
          <partName>Part 1. Cover page</partName>
@@ -9006,9 +8718,7 @@
       <note>original filename: mrl8kio_0102_01</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/cover</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/outbreak_part1/cover</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -9047,7 +8757,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002295</identifier>
-      <identifier type="local">kie_000</identifier>
+      <identifier type="local">koreanoutbreak_kie_000</identifier>
       <titleInfo>
          <title>Korean Independence Movement Envelope</title>
       </titleInfo>
@@ -9067,14 +8777,12 @@
       <note>original filename: mrl8kio_0101_16</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/envelope</url>
          <holdingSimple>
             <copyInformation>
                <shelfLocator>Box 1. Folder 1</shelfLocator>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/envelope</url>
-         </holdingExternal>
       </location>
       <relatedItem type="host" displayLabel="Project">
          <titleInfo>
@@ -9099,7 +8807,7 @@
       </recordInfo>
    </mods>
    <mods version="3.5">
-      <identifier type="local">kie</identifier>
+      <identifier type="local">koreanoutbreak_kie</identifier>
       <titleInfo>
          <title>Korean Independence Movement Envelope</title>
       </titleInfo>
@@ -9116,14 +8824,12 @@
       </language>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/envelope</url>
          <holdingSimple>
             <copyInformation>
                <shelfLocator>Box 1. Folder 1</shelfLocator>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/envelope</url>
-         </holdingExternal>
       </location>
       <relatedItem type="host" displayLabel="Project">
          <titleInfo>
@@ -9149,7 +8855,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002294</identifier>
-      <identifier type="local">kim_014</identifier>
+      <identifier type="local">koreanoutbreak_kim_014</identifier>
       <titleInfo>
          <title>Korean Independence Movement</title>
          <partName>Page 14</partName>
@@ -9170,9 +8876,7 @@
       <note>original filename: mrl8kio_0101_15</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page14</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page14</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -9211,7 +8915,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002293</identifier>
-      <identifier type="local">kim_013</identifier>
+      <identifier type="local">koreanoutbreak_kim_013</identifier>
       <titleInfo>
          <title>Korean Independence Movement</title>
          <partName>Page 13</partName>
@@ -9232,9 +8936,7 @@
       <note>original filename: mrl8kio_0101_14</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page13</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page13</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -9273,7 +8975,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002292</identifier>
-      <identifier type="local">kim_012</identifier>
+      <identifier type="local">koreanoutbreak_kim_012</identifier>
       <titleInfo>
          <title>Korean Independence Movement</title>
          <partName>Page 12</partName>
@@ -9294,9 +8996,7 @@
       <note>original filename: mrl8kio_0101_13</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page12</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page12</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -9335,7 +9035,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002291</identifier>
-      <identifier type="local">kim_011</identifier>
+      <identifier type="local">koreanoutbreak_kim_011</identifier>
       <titleInfo>
          <title>Korean Independence Movement</title>
          <partName>Page 11</partName>
@@ -9356,9 +9056,7 @@
       <note>original filename: mrl8kio_0101_12</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page11</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page11</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -9397,7 +9095,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002290</identifier>
-      <identifier type="local">kim_010</identifier>
+      <identifier type="local">koreanoutbreak_kim_010</identifier>
       <titleInfo>
          <title>Korean Independence Movement</title>
          <partName>Page 10</partName>
@@ -9418,9 +9116,7 @@
       <note>original filename: mrl8kio_0101_11</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page10</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page10</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -9459,7 +9155,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002289</identifier>
-      <identifier type="local">kim_009</identifier>
+      <identifier type="local">koreanoutbreak_kim_009</identifier>
       <titleInfo>
          <title>Korean Independence Movement</title>
          <partName>Page 9</partName>
@@ -9480,9 +9176,7 @@
       <note>original filename: mrl8kio_0101_10</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page9</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page9</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -9521,7 +9215,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002288</identifier>
-      <identifier type="local">kim_008</identifier>
+      <identifier type="local">koreanoutbreak_kim_008</identifier>
       <titleInfo>
          <title>Korean Independence Movement</title>
          <partName>Page 8</partName>
@@ -9542,9 +9236,7 @@
       <note>original filename: mrl8kio_0101_09</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page8</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page8</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -9583,7 +9275,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002287</identifier>
-      <identifier type="local">kim_007</identifier>
+      <identifier type="local">koreanoutbreak_kim_007</identifier>
       <titleInfo>
          <title>Korean Independence Movement</title>
          <partName>Page 7</partName>
@@ -9604,9 +9296,7 @@
       <note>original filename: mrl8kio_0101_08</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page7</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page7</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -9645,7 +9335,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002286</identifier>
-      <identifier type="local">kim_006</identifier>
+      <identifier type="local">koreanoutbreak_kim_006</identifier>
       <titleInfo>
          <title>Korean Independence Movement</title>
          <partName>Page 6</partName>
@@ -9666,9 +9356,7 @@
       <note>original filename: mrl8kio_0101_07</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page6</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page6</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -9707,7 +9395,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002285</identifier>
-      <identifier type="local">kim_005</identifier>
+      <identifier type="local">koreanoutbreak_kim_005</identifier>
       <titleInfo>
          <title>Korean Independence Movement</title>
          <partName>Page 5</partName>
@@ -9728,9 +9416,7 @@
       <note>original filename: mrl8kio_0101_06</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page5</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page5</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -9769,7 +9455,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002284</identifier>
-      <identifier type="local">kim_004</identifier>
+      <identifier type="local">koreanoutbreak_kim_004</identifier>
       <titleInfo>
          <title>Korean Independence Movement</title>
          <partName>Page 4</partName>
@@ -9790,9 +9476,7 @@
       <note>original filename: mrl8kio_0101_05</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page4</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page4</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -9831,7 +9515,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002283</identifier>
-      <identifier type="local">kim_003</identifier>
+      <identifier type="local">koreanoutbreak_kim_003</identifier>
       <titleInfo>
          <title>Korean Independence Movement</title>
          <partName>Page 3</partName>
@@ -9852,9 +9536,7 @@
       <note>original filename: mrl8kio_0101_04</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page3</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page3</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -9893,7 +9575,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002282</identifier>
-      <identifier type="local">kim_002</identifier>
+      <identifier type="local">koreanoutbreak_kim_002</identifier>
       <titleInfo>
          <title>Korean Independence Movement</title>
          <partName>Page 2</partName>
@@ -9914,9 +9596,7 @@
       <note>original filename: mrl8kio_0101_03</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page2</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page2</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -9955,7 +9635,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002281</identifier>
-      <identifier type="local">kim_001</identifier>
+      <identifier type="local">koreanoutbreak_kim_001</identifier>
       <titleInfo>
          <title>Korean Independence Movement</title>
          <partName>Page 1</partName>
@@ -9976,9 +9656,7 @@
       <note>original filename: mrl8kio_0101_02</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page1</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page1</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>
@@ -10017,7 +9695,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_002280</identifier>
-      <identifier type="local">kim_000</identifier>
+      <identifier type="local">koreanoutbreak_kim_000</identifier>
       <titleInfo>
          <title>Korean Independence Movement</title>
          <partName>Front cover</partName>
@@ -10037,9 +9715,7 @@
       <note>original filename: mrl8kio_0101_01</note>
       <location>
          <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/frontcover</url>
-         </holdingExternal>
+         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/frontcover</url>
       </location>
       <subject authority="lcsh">
          <topic>Korea--History--Independence movement, 1919--Sources</topic>

@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_002282</identifier>
-   <identifier type="local">kim_002</identifier>
+   <identifier type="local">koreanoutbreak_kim_002</identifier>
    <titleInfo>
       <title>Korean Independence Movement</title>
       <partName>Page 2</partName>
@@ -27,9 +27,7 @@
    <note>original filename: mrl8kio_0101_03</note>
    <location>
       <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page2</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/kio/pamphlet/page2</url>
    </location>
    <subject authority="lcsh">
       <topic>Korea--History--Independence movement, 1919--Sources</topic>
