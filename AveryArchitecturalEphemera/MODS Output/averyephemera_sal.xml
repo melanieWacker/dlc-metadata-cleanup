@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="CLIO">CLIO_9116980</identifier>
-   <identifier type="local">sal</identifier>
+   <identifier type="local">averyephemera_sal</identifier>
    <name authority="naf"
          valueURI="http://id.loc.gov/authorities/names/n79021788">
       <namePart>Le Corbusier, 1887-1965</namePart>

@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="CLIO">CLIO_82024</identifier>
-   <identifier type="local">emw</identifier>
+   <identifier type="local">averyephemera_emw</identifier>
    <name>
       <namePart>Hart, Son, Peard &amp; Co.</namePart>
    </name>

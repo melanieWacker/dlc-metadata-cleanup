@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007293</identifier>
-   <identifier type="local">gnc_001</identifier>
+   <identifier type="local">averyephemera_gnc_001</identifier>
    <name authority="naf"
          valueURI="http://id.loc.gov/authorities/names/n85149698">
       <namePart>Isaac H. Blanchard Co.</namePart>
@@ -37,14 +37,12 @@
    <note>original filename: 1202210020.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/viewbooks/view</url>
       <holdingSimple>
          <copyInformation>
             <subLocation>Avery Classics Collection</subLocation>
          </copyInformation>
       </holdingSimple>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/viewbooks/view</url>
-      </holdingExternal>
    </location>
    <subject authority="lcsh">
       <topic>Coney Island (New York, N.Y.)--Pictorial works</topic>

@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="CLIO">CLIO_1101838</identifier>
-   <identifier type="local">anm</identifier>
+   <identifier type="local">averyephemera_anm</identifier>
    <name authority="naf"
          valueURI="http://id.loc.gov/authorities/names/nr93021379">
       <namePart>Hening, H. B.</namePart>

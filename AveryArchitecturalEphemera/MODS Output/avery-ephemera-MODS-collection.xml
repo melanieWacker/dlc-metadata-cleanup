@@ -6,7 +6,7 @@
                 xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <mods version="3.5">
       <identifier type="omeka">omeka_007307</identifier>
-      <identifier type="local">lhw_000</identifier>
+      <identifier type="local">averyephemera_lhw_000</identifier>
       <name>
          <namePart>Leeds &amp; Hazard</namePart>
       </name>
@@ -33,14 +33,12 @@
       <note>original filename: 1202210030.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/letterheads/letterhead</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/letterheads/letterhead</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh85006905">
@@ -81,7 +79,7 @@
       </recordInfo>
    </mods>
    <mods version="3.5">
-      <identifier type="local">lhw</identifier>
+      <identifier type="local">averyephemera_lhw</identifier>
       <name>
          <namePart>Leeds &amp; Hazard</namePart>
       </name>
@@ -151,7 +149,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007306</identifier>
-      <identifier type="local">lpm_000</identifier>
+      <identifier type="local">averyephemera_lpm_000</identifier>
       <name>
          <namePart>Lazell's Perfumes</namePart>
       </name>
@@ -181,14 +179,12 @@
       <note>original filename: 1202210029.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/letterheads/letterhead</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/letterheads/letterhead</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh85006905">
@@ -229,7 +225,7 @@
       </recordInfo>
    </mods>
    <mods version="3.5">
-      <identifier type="local">lpm</identifier>
+      <identifier type="local">averyephemera_lpm</identifier>
       <name>
          <namePart>Lazell's Perfumes</namePart>
       </name>
@@ -302,7 +298,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007305</identifier>
-      <identifier type="local">jfs_000</identifier>
+      <identifier type="local">averyephemera_jfs_000</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/n78023423">
          <namePart>Stratton, John F.</namePart>
@@ -329,15 +325,13 @@
       <note>original filename: 1202210028.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/letterheads/letterhead</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
                <shelfLocator>AA735 N4 J619</shelfLocator>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/letterheads/letterhead</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh85006905">
@@ -378,7 +372,7 @@
       </recordInfo>
    </mods>
    <mods version="3.5">
-      <identifier type="local">jfs</identifier>
+      <identifier type="local">averyephemera_jfs</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/n78023423">
          <namePart>Stratton, John F.</namePart>
@@ -402,15 +396,13 @@
       <note type="ownership">Donated by Bernice Gordon in memory of Mr. John H. Yardley.</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/letterheads/letterhead</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
                <shelfLocator>AA735 N4 J619</shelfLocator>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/letterheads/letterhead</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh85006905">
@@ -452,7 +444,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007304</identifier>
-      <identifier type="local">abs_000</identifier>
+      <identifier type="local">averyephemera_abs_000</identifier>
       <name>
          <namePart>Abel Bros. &amp; Co.</namePart>
       </name>
@@ -479,14 +471,12 @@
       <note>original filename: 1202210027.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/letterheads/letterhead</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/letterheads/letterhead</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh85006905">
@@ -527,7 +517,7 @@
       </recordInfo>
    </mods>
    <mods version="3.5">
-      <identifier type="local">abs</identifier>
+      <identifier type="local">averyephemera_abs</identifier>
       <name>
          <namePart>Abel Bros. &amp; Co.</namePart>
       </name>
@@ -597,7 +587,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007303</identifier>
-      <identifier type="local">wbc_000</identifier>
+      <identifier type="local">averyephemera_wbc_000</identifier>
       <name>
          <namePart>Walter Brewing Company</namePart>
       </name>
@@ -628,14 +618,12 @@
       <note>original filename: ave_biggert_00049r.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/letterheads/letterhead</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/letterheads/letterhead</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh85006905">
@@ -664,7 +652,7 @@
       </recordInfo>
    </mods>
    <mods version="3.5">
-      <identifier type="local">wbc</identifier>
+      <identifier type="local">averyephemera_wbc</identifier>
       <name>
          <namePart>Walter Brewing Company</namePart>
       </name>
@@ -726,7 +714,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007302</identifier>
-      <identifier type="local">nsc_000</identifier>
+      <identifier type="local">averyephemera_nsc_000</identifier>
       <name>
          <namePart>National State Capital Bank</namePart>
       </name>
@@ -760,14 +748,12 @@
       <note>original filename: ave_biggert_00770r.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/letterheads/letterhead</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/letterheads/letterhead</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh85006905">
@@ -796,7 +782,7 @@
       </recordInfo>
    </mods>
    <mods version="3.5">
-      <identifier type="local">nsc</identifier>
+      <identifier type="local">averyephemera_nsc</identifier>
       <name>
          <namePart>National State Capital Bank</namePart>
       </name>
@@ -861,7 +847,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007301</identifier>
-      <identifier type="local">lfd_000</identifier>
+      <identifier type="local">averyephemera_lfd_000</identifier>
       <name>
          <namePart>Louis F. Dow Company</namePart>
       </name>
@@ -898,14 +884,12 @@
       <note>original filename: ave_biggert_00675r.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/letterheads/letterhead</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/letterheads/letterhead</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh85006905">
@@ -934,7 +918,7 @@
       </recordInfo>
    </mods>
    <mods version="3.5">
-      <identifier type="local">lfd</identifier>
+      <identifier type="local">averyephemera_lfd</identifier>
       <name>
          <namePart>Louis F. Dow Company</namePart>
       </name>
@@ -1002,7 +986,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007300</identifier>
-      <identifier type="local">jlc_000</identifier>
+      <identifier type="local">averyephemera_jlc_000</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/nr91041562">
          <namePart>John Lucas &amp; Co.</namePart>
@@ -1034,14 +1018,12 @@
       <note>original filename: ave_biggert_01425r.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/letterheads/letterhead</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/letterheads/letterhead</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh85006905">
@@ -1070,7 +1052,7 @@
       </recordInfo>
    </mods>
    <mods version="3.5">
-      <identifier type="local">jlc</identifier>
+      <identifier type="local">averyephemera_jlc</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/nr91041562">
          <namePart>John Lucas &amp; Co.</namePart>
@@ -1133,7 +1115,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007289</identifier>
-      <identifier type="local">swa_000</identifier>
+      <identifier type="local">averyephemera_swa_000</identifier>
       <name>
          <namePart>C. P. Johnston Company</namePart>
       </name>
@@ -1168,14 +1150,12 @@
       <note>original filename: 1202210016.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/souvenir/postcard</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/souvenir/postcard</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh85140537">
@@ -1216,7 +1196,7 @@
       </recordInfo>
    </mods>
    <mods version="3.5">
-      <identifier type="local">swa</identifier>
+      <identifier type="local">averyephemera_swa</identifier>
       <name>
          <namePart>C. P. Johnston Company</namePart>
       </name>
@@ -1293,7 +1273,7 @@
       </recordInfo>
    </mods>
    <mods version="3.5">
-      <identifier type="local">sfd</identifier>
+      <identifier type="local">averyephemera_sfd</identifier>
       <titleInfo>
          <title>Souvenir folder of Detroit Mich</title>
       </titleInfo>
@@ -1351,7 +1331,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007288</identifier>
-      <identifier type="local">sfd_000</identifier>
+      <identifier type="local">averyephemera_sfd_000</identifier>
       <titleInfo>
          <title>Souvenir folder of Detroit Mich</title>
          <partName>Recto of souvenir booklet cover</partName>
@@ -1371,14 +1351,12 @@
       <note>original filename: 1202210015.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/souvenir/postcard</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/souvenir/postcard</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh85140537">
@@ -1415,7 +1393,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007294</identifier>
-      <identifier type="local">anm_000</identifier>
+      <identifier type="local">averyephemera_anm_000</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/nr93021379">
          <namePart>Hening, H. B.</namePart>
@@ -1450,14 +1428,12 @@
       <note>original filename: 1202210021.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/viewbooks/view</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/viewbooks/view</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh">
          <topic>Albuquerque (N.M.)--Description and travel</topic>
@@ -1488,7 +1464,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007295</identifier>
-      <identifier type="local">anm_001</identifier>
+      <identifier type="local">averyephemera_anm_001</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/nr93021379">
          <namePart>Hening, H. B.</namePart>
@@ -1523,14 +1499,12 @@
       <note>original filename: 1202210022.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/viewbooks/view</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/viewbooks/view</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh">
          <topic>Albuquerque (N.M.)--Description and travel</topic>
@@ -1561,7 +1535,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="CLIO">CLIO_1101838</identifier>
-      <identifier type="local">anm</identifier>
+      <identifier type="local">averyephemera_anm</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/nr93021379">
          <namePart>Hening, H. B.</namePart>
@@ -1628,7 +1602,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007296</identifier>
-      <identifier type="local">ccb_000</identifier>
+      <identifier type="local">averyephemera_ccb_000</identifier>
       <titleInfo>
          <title>Chicago, the city beautiful</title>
          <partName>Cover of viewbook</partName>
@@ -1659,14 +1633,12 @@
       <note>original filename: 1202210023.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/viewbooks/view</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/viewbooks/view</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh2009115478">
@@ -1701,7 +1673,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007297</identifier>
-      <identifier type="local">ccb_001</identifier>
+      <identifier type="local">averyephemera_ccb_001</identifier>
       <titleInfo>
          <title>Chicago, the city beautiful</title>
          <partName>Chicago skyline, showing Grant Park and Michigan Boulevard</partName>
@@ -1732,14 +1704,12 @@
       <note>original filename: 1202210024.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/viewbooks/view</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/viewbooks/view</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh2009115478">
@@ -1774,7 +1744,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="CLIO">CLIO_1100670</identifier>
-      <identifier type="local">ccb</identifier>
+      <identifier type="local">averyephemera_ccb</identifier>
       <titleInfo>
          <title>Chicago, the city beautiful</title>
       </titleInfo>
@@ -1841,7 +1811,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007277</identifier>
-      <identifier type="local">emw_000</identifier>
+      <identifier type="local">averyephemera_emw_000</identifier>
       <name>
          <namePart>Hart, Son, Peard &amp; Co.</namePart>
       </name>
@@ -1871,14 +1841,12 @@
       <note>original filename: 1202210004.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/catalogs/trade</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/catalogs/trade</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh85006597">
@@ -1907,7 +1875,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007279</identifier>
-      <identifier type="local">emw_001</identifier>
+      <identifier type="local">averyephemera_emw_001</identifier>
       <name>
          <namePart>Hart, Son, Peard &amp; Co.</namePart>
       </name>
@@ -1937,14 +1905,12 @@
       <note>original filename: 1202210006.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/catalogs/trade</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/catalogs/trade</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh85006597">
@@ -1973,7 +1939,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007278</identifier>
-      <identifier type="local">emw_002</identifier>
+      <identifier type="local">averyephemera_emw_002</identifier>
       <name>
          <namePart>Hart, Son, Peard &amp; Co.</namePart>
       </name>
@@ -2036,7 +2002,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="CLIO">CLIO_82024</identifier>
-      <identifier type="local">emw</identifier>
+      <identifier type="local">averyephemera_emw</identifier>
       <name>
          <namePart>Hart, Son, Peard &amp; Co.</namePart>
       </name>
@@ -2096,7 +2062,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007292</identifier>
-      <identifier type="local">gnc_000</identifier>
+      <identifier type="local">averyephemera_gnc_000</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/n85149698">
          <namePart>Isaac H. Blanchard Co.</namePart>
@@ -2127,14 +2093,12 @@
       <note>original filename: 1202210019.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/viewbooks/view</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/viewbooks/view</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh">
          <topic>Coney Island (New York, N.Y.)--Pictorial works</topic>
@@ -2170,7 +2134,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007293</identifier>
-      <identifier type="local">gnc_001</identifier>
+      <identifier type="local">averyephemera_gnc_001</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/n85149698">
          <namePart>Isaac H. Blanchard Co.</namePart>
@@ -2201,14 +2165,12 @@
       <note>original filename: 1202210020.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/viewbooks/view</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/viewbooks/view</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh">
          <topic>Coney Island (New York, N.Y.)--Pictorial works</topic>
@@ -2244,7 +2206,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="CLIO">CLIO_1355568</identifier>
-      <identifier type="local">gnc</identifier>
+      <identifier type="local">averyephemera_gnc</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/n85149698">
          <namePart>Isaac H. Blanchard Co.</namePart>
@@ -2312,7 +2274,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007314</identifier>
-      <identifier type="local">gnr_000</identifier>
+      <identifier type="local">averyephemera_gnr_000</identifier>
       <name>
          <namePart>Alan H. Polkes Associates, Inc.</namePart>
       </name>
@@ -2343,14 +2305,12 @@
       <note>original filename: ldpd_YR_0050_LI_001_001.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/brochures/nyre</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/brochures/nyre</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh2009115107">
@@ -2400,7 +2360,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007315</identifier>
-      <identifier type="local">gnr_001</identifier>
+      <identifier type="local">averyephemera_gnr_001</identifier>
       <name>
          <namePart>Alan H. Polkes Associates, Inc.</namePart>
       </name>
@@ -2431,14 +2391,12 @@
       <note>original filename: ldpd_YR_0050_LI_001_002.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/brochures/nyre</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/brochures/nyre</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh2009115107">
@@ -2487,7 +2445,7 @@
       </recordInfo>
    </mods>
    <mods version="3.5">
-      <identifier type="local">gnr</identifier>
+      <identifier type="local">averyephemera_gnr</identifier>
       <name>
          <namePart>Alan H. Polkes Associates, Inc.</namePart>
       </name>
@@ -2569,7 +2527,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007298</identifier>
-      <identifier type="local">hmo_000</identifier>
+      <identifier type="local">averyephemera_hmo_000</identifier>
       <name>
          <namePart>Business Men’s Association of the City of Helena, Montana</namePart>
       </name>
@@ -2599,14 +2557,12 @@
       <note>original filename: 1202210025.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/viewbooks/view</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/viewbooks/view</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh">
          <topic>Helena (Mont.)--Description and travel</topic>
@@ -2640,7 +2596,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007299</identifier>
-      <identifier type="local">hmo_001</identifier>
+      <identifier type="local">averyephemera_hmo_001</identifier>
       <name>
          <namePart>Business Men’s Association of the City of Helena, Montana</namePart>
       </name>
@@ -2670,14 +2626,12 @@
       <note>original filename: 1202210026.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/viewbooks/view</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/viewbooks/view</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh">
          <topic>Helena (Mont.)--Description and travel</topic>
@@ -2711,7 +2665,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="CLIO">CLIO_1243529</identifier>
-      <identifier type="local">hmo</identifier>
+      <identifier type="local">averyephemera_hmo</identifier>
       <name>
          <namePart>Business Men’s Association of the City of Helena, Montana</namePart>
       </name>
@@ -2776,7 +2730,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007312</identifier>
-      <identifier type="local">hpb_000</identifier>
+      <identifier type="local">averyephemera_hpb_000</identifier>
       <name>
          <namePart>David Kenneth Specter and Associates</namePart>
       </name>
@@ -2813,14 +2767,12 @@
       <note>original filename: ldpd_YR_0002_SI_001_001.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/brochures/nyre</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/brochures/nyre</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh2009115107">
@@ -2870,7 +2822,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007313</identifier>
-      <identifier type="local">hpb_006</identifier>
+      <identifier type="local">averyephemera_hpb_006</identifier>
       <name>
          <namePart>David Kenneth Specter and Associates</namePart>
       </name>
@@ -2907,14 +2859,12 @@
       <note>original filename: ldpd_YR_0002_SI_001_006.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/brochures/nyre</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/brochures/nyre</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh2009115107">
@@ -2963,7 +2913,7 @@
       </recordInfo>
    </mods>
    <mods version="3.5">
-      <identifier type="local">hpb</identifier>
+      <identifier type="local">averyephemera_hpb</identifier>
       <name>
          <namePart>David Kenneth Specter and Associates</namePart>
       </name>
@@ -3051,7 +3001,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007290</identifier>
-      <identifier type="local">jal_000</identifier>
+      <identifier type="local">averyephemera_jal_000</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/no2011092523">
          <namePart>Dexter Press</namePart>
@@ -3083,14 +3033,12 @@
       <note>original filename: 1202210017.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/souvenir/postcard</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/souvenir/postcard</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh85140537">
@@ -3127,7 +3075,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007291</identifier>
-      <identifier type="local">jal_001</identifier>
+      <identifier type="local">averyephemera_jal_001</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/no2011092523">
          <namePart>Dexter Press</namePart>
@@ -3159,14 +3107,12 @@
       <note>original filename: 1202210018.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/souvenir/postcard</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/souvenir/postcard</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh85140537">
@@ -3202,7 +3148,7 @@
       </recordInfo>
    </mods>
    <mods version="3.5">
-      <identifier type="local">jal</identifier>
+      <identifier type="local">averyephemera_jal</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/no2011092523">
          <namePart>Dexter Press</namePart>
@@ -3272,7 +3218,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007308</identifier>
-      <identifier type="local">nbs_000</identifier>
+      <identifier type="local">averyephemera_nbs_000</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/nr90017477">
          <namePart>Cross &amp; Brown Company</namePart>
@@ -3301,14 +3247,12 @@
       <note>original filename: ldpd_YR_1051_MH_001_001.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/brochures/nyre</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/brochures/nyre</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh2009115107">
@@ -3358,7 +3302,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007309</identifier>
-      <identifier type="local">nbs_004</identifier>
+      <identifier type="local">averyephemera_nbs_004</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/nr90017477">
          <namePart>Cross &amp; Brown Company</namePart>
@@ -3387,14 +3331,12 @@
       <note>original filename: ldpd_YR_1051_MH_001_004.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/brochures/nyre</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/brochures/nyre</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh2009115107">
@@ -3443,7 +3385,7 @@
       </recordInfo>
    </mods>
    <mods version="3.5">
-      <identifier type="local">nbs</identifier>
+      <identifier type="local">averyephemera_nbs</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/nr90017477">
          <namePart>Cross &amp; Brown Company</namePart>
@@ -3523,7 +3465,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007285</identifier>
-      <identifier type="local">nyn_000</identifier>
+      <identifier type="local">averyephemera_nyn_000</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/no2014045406">
          <namePart>Manhattan Post Card Co.</namePart>
@@ -3555,14 +3497,12 @@
       <note>original filename: 1202210012.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/souvenir/postcard</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/souvenir/postcard</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh85140537">
@@ -3599,7 +3539,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007286</identifier>
-      <identifier type="local">nyn_001</identifier>
+      <identifier type="local">averyephemera_nyn_001</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/no2014045406">
          <namePart>Manhattan Post Card Co.</namePart>
@@ -3631,14 +3571,12 @@
       <note>original filename: 1202210013.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/souvenir/postcard</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/souvenir/postcard</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh85140537">
@@ -3675,7 +3613,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007287</identifier>
-      <identifier type="local">nyn_002</identifier>
+      <identifier type="local">averyephemera_nyn_002</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/no2014045406">
          <namePart>Manhattan Post Card Co.</namePart>
@@ -3747,7 +3685,7 @@
       </recordInfo>
    </mods>
    <mods version="3.5">
-      <identifier type="local">nyn</identifier>
+      <identifier type="local">averyephemera_nyn</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/no2014045406">
          <namePart>Manhattan Post Card Co.</namePart>
@@ -3817,7 +3755,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007282</identifier>
-      <identifier type="local">sal_000</identifier>
+      <identifier type="local">averyephemera_sal_000</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/n79021788">
          <namePart>Le Corbusier, 1887-1965</namePart>
@@ -3849,14 +3787,12 @@
       <note>original filename: 1202210009.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/catalogs/trade</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/catalogs/trade</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh85144953">
@@ -3881,7 +3817,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007283</identifier>
-      <identifier type="local">sal_001</identifier>
+      <identifier type="local">averyephemera_sal_001</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/n79021788">
          <namePart>Le Corbusier, 1887-1965</namePart>
@@ -3910,14 +3846,12 @@
       <note>original filename: 1202210010.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/catalogs/trade</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/catalogs/trade</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh85144953">
@@ -3942,7 +3876,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007284</identifier>
-      <identifier type="local">sal_002</identifier>
+      <identifier type="local">averyephemera_sal_002</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/n79021788">
          <namePart>Le Corbusier, 1887-1965</namePart>
@@ -4003,7 +3937,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="CLIO">CLIO_9116980</identifier>
-      <identifier type="local">sal</identifier>
+      <identifier type="local">averyephemera_sal</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/n79021788">
          <namePart>Le Corbusier, 1887-1965</namePart>
@@ -4061,7 +3995,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007274</identifier>
-      <identifier type="local">sbd_000</identifier>
+      <identifier type="local">averyephemera_sbd_000</identifier>
       <name>
          <namePart>Dunn &amp; Witt</namePart>
       </name>
@@ -4091,14 +4025,12 @@
       <note>original filename: 1202210001.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/catalogs/trade</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/catalogs/trade</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh2009115369">
@@ -4131,7 +4063,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007275</identifier>
-      <identifier type="local">sbd_001</identifier>
+      <identifier type="local">averyephemera_sbd_001</identifier>
       <name>
          <namePart>Dunn &amp; Witt</namePart>
       </name>
@@ -4198,7 +4130,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007276</identifier>
-      <identifier type="local">sbd_002</identifier>
+      <identifier type="local">averyephemera_sbd_002</identifier>
       <name>
          <namePart>Dunn &amp; Witt</namePart>
       </name>
@@ -4228,14 +4160,12 @@
       <note>original filename: 1202210003.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/catalogs/trade</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/catalogs/trade</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh2009115369">
@@ -4268,7 +4198,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="CLIO">CLIO_223013</identifier>
-      <identifier type="local">sbd</identifier>
+      <identifier type="local">averyephemera_sbd</identifier>
       <name>
          <namePart>Dunn &amp; Witt</namePart>
       </name>
@@ -4332,7 +4262,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007280</identifier>
-      <identifier type="local">sko_000</identifier>
+      <identifier type="local">averyephemera_sko_000</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/nr92011762">
          <namePart>Standard Varnish Works</namePart>
@@ -4364,14 +4294,12 @@
       <note>original filename: 1202210007.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/catalogs/trade</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/catalogs/trade</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh">
          <topic>Stains and staining--Specimens</topic>
@@ -4399,7 +4327,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007281</identifier>
-      <identifier type="local">sko_001</identifier>
+      <identifier type="local">averyephemera_sko_001</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/nr92011762">
          <namePart>Standard Varnish Works</namePart>
@@ -4431,14 +4359,12 @@
       <note>original filename: 1202210008.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/catalogs/trade</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/catalogs/trade</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh">
          <topic>Stains and staining--Specimens</topic>
@@ -4466,7 +4392,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="CLIO">CLIO_901391</identifier>
-      <identifier type="local">sko</identifier>
+      <identifier type="local">averyephemera_sko</identifier>
       <name authority="naf"
             valueURI="http://id.loc.gov/authorities/names/nr92011762">
          <namePart>Standard Varnish Works</namePart>
@@ -4527,7 +4453,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007310</identifier>
-      <identifier type="local">sop_000</identifier>
+      <identifier type="local">averyephemera_sop_000</identifier>
       <name>
          <namePart>Schuman and Lichtenstein</namePart>
       </name>
@@ -4561,14 +4487,12 @@
       <note>original filename: ldpd_YR_0688_BR_001_001.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/brochures/nyre</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/brochures/nyre</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh2009115107">
@@ -4618,7 +4542,7 @@
    </mods>
    <mods version="3.5">
       <identifier type="omeka">omeka_007311</identifier>
-      <identifier type="local">sop_003</identifier>
+      <identifier type="local">averyephemera_sop_003</identifier>
       <name>
          <namePart>Schuman and Lichtenstein</namePart>
       </name>
@@ -4652,14 +4576,12 @@
       <note>original filename: ldpd_YR_0688_BR_001_003.jpg</note>
       <location>
          <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/brochures/nyre</url>
          <holdingSimple>
             <copyInformation>
                <subLocation>Avery Classics Collection</subLocation>
             </copyInformation>
          </holdingSimple>
-         <holdingExternal>
-            <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/brochures/nyre</url>
-         </holdingExternal>
       </location>
       <subject authority="lcsh"
                valueURI="http://id.loc.gov/authorities/subjects/sh2009115107">
@@ -4708,7 +4630,7 @@
       </recordInfo>
    </mods>
    <mods version="3.5">
-      <identifier type="local">sop</identifier>
+      <identifier type="local">averyephemera_sop</identifier>
       <name>
          <namePart>Schuman and Lichtenstein</namePart>
       </name>

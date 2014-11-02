@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007287</identifier>
-   <identifier type="local">nyn_002</identifier>
+   <identifier type="local">averyephemera_nyn_002</identifier>
    <name authority="naf"
          valueURI="http://id.loc.gov/authorities/names/no2014045406">
       <namePart>Manhattan Post Card Co.</namePart>

@@ -5,7 +5,7 @@
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
-   <identifier type="local">jfs</identifier>
+   <identifier type="local">averyephemera_jfs</identifier>
    <name authority="naf"
          valueURI="http://id.loc.gov/authorities/names/n78023423">
       <namePart>Stratton, John F.</namePart>
@@ -29,15 +29,13 @@
    <note type="ownership">Donated by Bernice Gordon in memory of Mr. John H. Yardley.</note>
    <location>
       <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/letterheads/letterhead</url>
       <holdingSimple>
          <copyInformation>
             <subLocation>Avery Classics Collection</subLocation>
             <shelfLocator>AA735 N4 J619</shelfLocator>
          </copyInformation>
       </holdingSimple>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/letterheads/letterhead</url>
-      </holdingExternal>
    </location>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85006905">
