@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007163</identifier>
-   <identifier type="local">svd_002</identifier>
+   <identifier type="local">peopleinbooks_svd_002</identifier>
    <titleInfo>
       <title>Selichot: van de 40 dagen die men smorgens selichot</title>
       <partName>Front cover</partName>
@@ -29,9 +29,7 @@
    <note>original filename: X893_J71_001.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_j71</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_j71</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

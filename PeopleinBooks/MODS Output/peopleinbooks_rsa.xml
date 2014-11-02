@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="CLIO">CLIO_8306271</identifier>
-   <identifier type="local">rsa</identifier>
+   <identifier type="local">peopleinbooks_rsa</identifier>
    <titleInfo>
       <title>Reshimat shemot anashim ṿe-nashim: le-giṭin u-sheṭarot</title>
    </titleInfo>

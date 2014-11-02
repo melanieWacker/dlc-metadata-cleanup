@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="CLIO">CLIO_8595585</identifier>
-   <identifier type="local">tal</identifier>
+   <identifier type="local">peopleinbooks_tal</identifier>
    <titleInfo>
       <title>Tefilot: ʻal derekh ha-ḳabalah</title>
    </titleInfo>

@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="CLIO">CLIO_7330087</identifier>
-   <identifier type="local">shn</identifier>
+   <identifier type="local">peopleinbooks_shn</identifier>
    <titleInfo>
       <title>Sefer ha-nitsaḥon</title>
    </titleInfo>

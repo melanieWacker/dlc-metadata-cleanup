@@ -6,8 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007189</identifier>
-   <identifier type="CLIO">CLIO_7362792</identifier>
-   <identifier type="local">isi_000</identifier>
+   <identifier type="local">peopleinbooks_isi_000</identifier>
    <titleInfo>
       <title>Igeret sheliḥut: isuf tsedaḳah la-iʻr Tsefat</title>
    </titleInfo>
@@ -35,14 +34,12 @@
    <note>original filename: 120017160.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/travelers/x893_m5863</url>
       <holdingSimple>
          <copyInformation>
             <shelfLocator>X893 M5863</shelfLocator>
          </copyInformation>
       </holdingSimple>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/travelers/x893_m5863</url>
-      </holdingExternal>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

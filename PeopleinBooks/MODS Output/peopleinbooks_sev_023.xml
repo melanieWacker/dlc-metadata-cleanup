@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007111</identifier>
-   <identifier type="local">sev_023</identifier>
+   <identifier type="local">peopleinbooks_sev_023</identifier>
    <titleInfo>
       <title>Sefer ʻevronot</title>
       <partName>Leaves 23 verso - 24 recto</partName>
@@ -39,9 +39,7 @@
    <note>original filename: 100168001.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/timekeepers/x893_se36</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/timekeepers/x893_se36</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

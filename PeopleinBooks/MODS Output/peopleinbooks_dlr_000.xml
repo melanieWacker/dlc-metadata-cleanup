@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007134</identifier>
-   <identifier type="local">dlr_000</identifier>
+   <identifier type="local">peopleinbooks_dlr_000</identifier>
    <titleInfo>
       <title>Drafts of loan records, many pertaining to Jews</title>
    </titleInfo>
@@ -35,14 +35,12 @@
    <note>original filename: 5598.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/western_ms_41f</url>
       <holdingSimple>
          <copyInformation>
             <shelfLocator>Western MS 41F</shelfLocator>
          </copyInformation>
       </holdingSimple>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/western_ms_41f</url>
-      </holdingExternal>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

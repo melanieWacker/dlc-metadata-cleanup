@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007095</identifier>
-   <identifier type="local">gah_094</identifier>
+   <identifier type="local">peopleinbooks_gah_094</identifier>
    <titleInfo>
       <title>Grabadin asher hu ḳibuts Ṿanotrion</title>
       <partName>Leaf 94 recto</partName>
@@ -36,9 +36,7 @@
    <note>original filename: 120017063.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/doctors/x893_m56</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/doctors/x893_m56</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

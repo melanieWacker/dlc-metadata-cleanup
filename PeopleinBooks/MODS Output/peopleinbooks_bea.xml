@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="CLIO">CLIO_7330065</identifier>
-   <identifier type="local">bea</identifier>
+   <identifier type="local">peopleinbooks_bea</identifier>
    <titleInfo>
       <title>Biur emtsaʻi ʻal sifre ha-higayon shel Arisṭo</title>
    </titleInfo>

@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="CLIO">CLIO_7927181</identifier>
-   <identifier type="local">map</identifier>
+   <identifier type="local">peopleinbooks_map</identifier>
    <titleInfo>
       <title>Midrash ʻal parashat ṿa-yeḥi: be-Aramit ḥadashah</title>
    </titleInfo>

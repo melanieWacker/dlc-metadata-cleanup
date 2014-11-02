@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007199</identifier>
-   <identifier type="local">sho_096</identifier>
+   <identifier type="local">peopleinbooks_sho_096</identifier>
    <titleInfo>
       <title>Sefer ha-orah</title>
       <partName>Leaf 96 verso</partName>
@@ -32,9 +32,7 @@
    <note>original filename: 120017016.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/mystics/x893_g363</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/mystics/x893_g363</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007123</identifier>
-   <identifier type="local">pmm_001</identifier>
+   <identifier type="local">peopleinbooks_pmm_001</identifier>
    <titleInfo>
       <title>Pinkas Mohel: min ha-shanim 5479-5478 (1719-1728)</title>
       <partName>First leaf of text</partName>
@@ -32,9 +32,7 @@
    <note>original filename: 120017082.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893_se32</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893_se32</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

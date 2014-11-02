@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007194</identifier>
-   <identifier type="local">ari_099</identifier>
+   <identifier type="local">peopleinbooks_ari_099</identifier>
    <titleInfo>
       <title>Asis Rimonim</title>
       <partName>Leaf 111 recto</partName>
@@ -32,9 +32,7 @@
    <note>original filename: 120017004.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/mystics/x893_c81</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/mystics/x893_c81</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

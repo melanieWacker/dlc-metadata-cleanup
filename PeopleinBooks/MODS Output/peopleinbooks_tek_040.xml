@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007106</identifier>
-   <identifier type="local">tek_040</identifier>
+   <identifier type="local">peopleinbooks_tek_040</identifier>
    <titleInfo>
       <title>Tekhunat ha-olam u-binah le-itim: bo yitbaer tsurat ha-arets ve-tavnit ha-olam</title>
       <partName>Page 40 recto</partName>
@@ -32,9 +32,7 @@
    <note>original filename: 120040_X893_L979_089.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/timekeepers/x893_l979</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/timekeepers/x893_l979</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

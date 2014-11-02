@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="CLIO">CLIO_8557302</identifier>
-   <identifier type="local">szb</identifier>
+   <identifier type="local">peopleinbooks_szb</identifier>
    <titleInfo>
       <title>Seder zakhor berit</title>
    </titleInfo>

@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007211</identifier>
-   <identifier type="local">ess_020</identifier>
+   <identifier type="local">peopleinbooks_ess_020</identifier>
    <titleInfo>
       <title>ʻEsʹer sefirot</title>
       <partName>Leaves 20 verso - 21 recto</partName>
@@ -33,9 +33,7 @@
    <note>original filename: 120017079.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/mystics/x893_se3</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/mystics/x893_se3</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

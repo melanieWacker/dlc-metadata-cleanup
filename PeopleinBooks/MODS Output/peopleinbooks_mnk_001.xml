@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007080</identifier>
-   <identifier type="local">mnk_001</identifier>
+   <identifier type="local">peopleinbooks_mnk_001</identifier>
    <titleInfo>
       <title>Moreh nevukhim, keta (3:32): be-Aravit-Yehudit</title>
       <partName>Leaf 1 verso</partName>
@@ -33,9 +33,7 @@
    <note>original filename: X893.15_M28_002.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/humanities/x893_15_m28</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/humanities/x893_15_m28</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

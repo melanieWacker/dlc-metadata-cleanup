@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007097</identifier>
-   <identifier type="local">has_002</identifier>
+   <identifier type="local">peopleinbooks_has_002</identifier>
    <titleInfo>
       <title>Hikhot Alfas: Sukkah</title>
       <partName>Leaf 1 verso</partName>
@@ -33,9 +33,7 @@
    <note>original filename: 120017136.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/timekeepers/x893_al352</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/timekeepers/x893_al352</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

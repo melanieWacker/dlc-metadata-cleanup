@@ -5,7 +5,7 @@
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
-   <identifier type="local">cdd</identifier>
+   <identifier type="local">peopleinbooks_cdd</identifier>
    <titleInfo>
       <title>Compendio de diferentes materias dignas de se lerem para teras noticias do que ellas contem</title>
    </titleInfo>

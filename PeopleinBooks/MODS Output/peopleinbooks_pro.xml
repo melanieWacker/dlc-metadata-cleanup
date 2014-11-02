@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="CLIO">CLIO_7140120</identifier>
-   <identifier type="local">pro</identifier>
+   <identifier type="local">peopleinbooks_pro</identifier>
    <titleInfo>
       <title>Prophets</title>
    </titleInfo>

@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007084</identifier>
-   <identifier type="local">hyy_003</identifier>
+   <identifier type="local">peopleinbooks_hyy_003</identifier>
    <titleInfo>
       <title>Ḥozeḳ yad: ṿe-hu ha-yad ha-ḥazaḳah asher ʻasʹah Mosheh ben Maimon ṿe-ḥibarti..be-mahut ha-shir</title>
       <partName>Leaf 3 recto</partName>
@@ -29,9 +29,7 @@
    <note>original filename: 120017096.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/humanities/x893_15_m88</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/humanities/x893_15_m88</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

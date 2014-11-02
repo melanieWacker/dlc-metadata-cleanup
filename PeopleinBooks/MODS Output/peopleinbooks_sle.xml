@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="CLIO">CLIO_7328890</identifier>
-   <identifier type="local">sle</identifier>
+   <identifier type="local">peopleinbooks_sle</identifier>
    <titleInfo>
       <title>Sefer leḳeṭ ha-kolel</title>
    </titleInfo>

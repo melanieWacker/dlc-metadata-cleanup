@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007131</identifier>
-   <identifier type="local">ssy_099</identifier>
+   <identifier type="local">peopleinbooks_ssy_099</identifier>
    <titleInfo>
       <title>Seder shel Yom ha-Kippurim: ke-minhag Lisle</title>
       <partName>Leaf 206 verso</partName>
@@ -32,9 +32,7 @@
    <note>original filename: 120017131.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893c_j55_v25</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893c_j55_v25</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

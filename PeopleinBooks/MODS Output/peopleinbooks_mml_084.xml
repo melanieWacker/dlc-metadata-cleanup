@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007096</identifier>
-   <identifier type="local">mml_084</identifier>
+   <identifier type="local">peopleinbooks_mml_084</identifier>
    <titleInfo>
       <title>Materia medica: Ladino</title>
       <partName>Leaves 84 verso - 85 recto</partName>
@@ -39,9 +39,7 @@
    <note>original filename: 120017017.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/doctors/x893_r62</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/doctors/x893_r62</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

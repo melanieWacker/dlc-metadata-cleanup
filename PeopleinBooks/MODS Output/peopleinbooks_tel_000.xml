@@ -6,8 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007038</identifier>
-   <identifier type="CLIO">CLIO_3464252</identifier>
-   <identifier type="local">tel_000</identifier>
+   <identifier type="local">peopleinbooks_tel_000</identifier>
    <titleInfo>
       <title>Temple Emanu-el, N.Y.C.: detail drawing of sanctuary in elevation</title>
    </titleInfo>
@@ -26,15 +25,13 @@
    <note>original filename: Avery_3759_01.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/nyda_1963_002_01873</url>
       <holdingSimple>
          <copyInformation>
             <subLocation>Avery Drawings &amp; Archives</subLocation>
             <shelfLocator>NYDA.1963.002.01873</shelfLocator>
          </copyInformation>
       </holdingSimple>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/nyda_1963_002_01873</url>
-      </holdingExternal>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

@@ -7,7 +7,7 @@
       version="3.5">
    <identifier type="omeka">omeka_007045</identifier>
    <identifier type="CLIO">CLIO_7200528</identifier>
-   <identifier type="local">csv</identifier>
+   <identifier type="local">peopleinbooks_csv</identifier>
    <titleInfo>
       <title>Carmina sacra varu idiomatis variique argumeti</title>
    </titleInfo>

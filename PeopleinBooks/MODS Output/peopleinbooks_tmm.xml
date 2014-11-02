@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="CLIO">CLIO_7460934</identifier>
-   <identifier type="local">tmm</identifier>
+   <identifier type="local">peopleinbooks_tmm</identifier>
    <titleInfo>
       <title>Talmud (Megillah, Moʻed ḳaṭan and Zevaḥim)</title>
    </titleInfo>

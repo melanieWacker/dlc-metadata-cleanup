@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="CLIO">CLIO_7140072</identifier>
-   <identifier type="local">pha</identifier>
+   <identifier type="local">peopleinbooks_pha</identifier>
    <titleInfo>
       <title>Psalterium Harmonicum</title>
    </titleInfo>

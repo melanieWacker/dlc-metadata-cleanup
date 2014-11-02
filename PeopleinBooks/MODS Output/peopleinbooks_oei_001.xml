@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007214</identifier>
-   <identifier type="local">oei_001</identifier>
+   <identifier type="local">peopleinbooks_oei_001</identifier>
    <titleInfo>
       <title>Observate ex Immanuelis</title>
       <partName>Leaves 1 verso - 2 recto</partName>

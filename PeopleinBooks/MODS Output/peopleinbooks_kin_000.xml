@@ -6,8 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007144</identifier>
-   <identifier type="CLIO">CLIO_8797666</identifier>
-   <identifier type="local">kin_000</identifier>
+   <identifier type="local">peopleinbooks_kin_000</identifier>
    <titleInfo>
       <title>Ḳinah: le-moto shel Eliyahu ben Menaḥem ha-Kohen</title>
    </titleInfo>
@@ -39,14 +38,12 @@
    <note>original filename: 120017161.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_m81</url>
       <holdingSimple>
          <copyInformation>
             <shelfLocator>X893 M81</shelfLocator>
          </copyInformation>
       </holdingSimple>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_m81</url>
-      </holdingExternal>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

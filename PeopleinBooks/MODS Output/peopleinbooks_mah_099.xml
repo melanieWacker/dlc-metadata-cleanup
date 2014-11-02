@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007154</identifier>
-   <identifier type="local">mah_099</identifier>
+   <identifier type="local">peopleinbooks_mah_099</identifier>
    <titleInfo>
       <title>Mahzor</title>
       <partName>Leaves 116 verso - 117 recto</partName>
@@ -33,9 +33,7 @@
    <note>original filename: 120017159.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_m273</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_m273</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

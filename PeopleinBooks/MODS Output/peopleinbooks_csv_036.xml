@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007046</identifier>
-   <identifier type="local">csv_036</identifier>
+   <identifier type="local">peopleinbooks_csv_036</identifier>
    <titleInfo>
       <title>Carmina sacra varu idiomatis variique argumeti</title>
       <partName>Leaf 36</partName>
@@ -29,9 +29,7 @@
    <note>original filename: 120017037.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/x893_j5</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/x893_j5</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

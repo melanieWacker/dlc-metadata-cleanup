@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007060</identifier>
-   <identifier type="local">dhh_000</identifier>
+   <identifier type="local">peopleinbooks_dhh_000</identifier>
    <titleInfo>
       <title>Divre Ḥakhamim: halo ema pesaḳim mezuḳaḳim rabe ha-toʻelet</title>
       <partName>Title leaf</partName>
@@ -35,9 +35,7 @@
    <note>original filename: 120017146.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/rabbis/x893_d54</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/rabbis/x893_d54</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007049</identifier>
-   <identifier type="local">shn_004</identifier>
+   <identifier type="local">peopleinbooks_shn_004</identifier>
    <titleInfo>
       <title>Sefer ha-nitsaḥon</title>
       <partName>Volume 1, leaf 4 verso</partName>
@@ -33,9 +33,7 @@
    <note>original filename: 120017084.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/x893_se35</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/x893_se35</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

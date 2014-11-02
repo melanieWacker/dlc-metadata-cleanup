@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007222</identifier>
-   <identifier type="local">igr_051</identifier>
+   <identifier type="local">peopleinbooks_igr_051</identifier>
    <titleInfo>
       <title>Igrot</title>
       <partName>Leaf 51 verso</partName>

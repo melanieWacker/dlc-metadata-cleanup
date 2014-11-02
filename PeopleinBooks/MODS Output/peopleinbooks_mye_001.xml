@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007220</identifier>
-   <identifier type="local">mye_001</identifier>
+   <identifier type="local">peopleinbooks_mye_001</identifier>
    <titleInfo>
       <title>Maʻaʹse Yehudit</title>
       <partName>First leaf of text</partName>

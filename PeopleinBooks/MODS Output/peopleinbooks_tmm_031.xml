@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007064</identifier>
-   <identifier type="local">tmm_031</identifier>
+   <identifier type="local">peopleinbooks_tmm_031</identifier>
    <titleInfo>
       <title>Talmud (Megillah, Moʻed ḳaṭan and Zevaḥim)</title>
       <partName>Leaves 31 verso - 32 recto</partName>
@@ -35,9 +35,7 @@
    <note>original filename: X893_T141_037.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/rabbis/x893_t141</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/rabbis/x893_t141</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

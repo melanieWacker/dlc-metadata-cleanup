@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="CLIO">CLIO_8507583</identifier>
-   <identifier type="local">sup</identifier>
+   <identifier type="local">peopleinbooks_sup</identifier>
    <titleInfo>
       <title>Sheṭarot u-pinḳase kehilah: Mantua. Seating chart</title>
    </titleInfo>
@@ -29,14 +29,12 @@
    </language>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_d549</url>
       <holdingSimple>
          <copyInformation>
             <shelfLocator>X893 D549</shelfLocator>
          </copyInformation>
       </holdingSimple>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_d549</url>
-      </holdingExternal>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

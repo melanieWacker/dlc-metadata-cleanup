@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="CLIO">CLIO_7815001</identifier>
-   <identifier type="local">ieh</identifier>
+   <identifier type="local">peopleinbooks_ieh</identifier>
    <titleInfo>
       <title>Igeret: el ha-Baron Hirsh ʻal haḳamat bet ha-ḥolim Osef Dal be-Ioannina</title>
    </titleInfo>

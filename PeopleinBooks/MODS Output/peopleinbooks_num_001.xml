@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007235</identifier>
-   <identifier type="local">num_001</identifier>
+   <identifier type="local">peopleinbooks_num_001</identifier>
    <titleInfo>
       <title>Nagid u-metsaṿeh: ʻim ḳetsat hagahot ha-Rama.z asher bo nikhlalim kol minhagim shel ha-rav</title>
       <partName>Unknown leaf recto</partName>
@@ -36,9 +36,7 @@
    <note>original filename: 120017012.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/writers/x893_se5</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/writers/x893_se5</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

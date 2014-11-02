@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="CLIO">CLIO_7518780</identifier>
-   <identifier type="local">keu</identifier>
+   <identifier type="local">peopleinbooks_keu</identifier>
    <titleInfo>
       <title>Ketuba</title>
    </titleInfo>
@@ -31,14 +31,12 @@
    </language>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893_k51991</url>
       <holdingSimple>
          <copyInformation>
             <shelfLocator>X893 K51991</shelfLocator>
          </copyInformation>
       </holdingSimple>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893_k51991</url>
-      </holdingExternal>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

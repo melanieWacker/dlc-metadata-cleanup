@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007141</identifier>
-   <identifier type="local">mzm_000</identifier>
+   <identifier type="local">peopleinbooks_mzm_000</identifier>
    <titleInfo>
       <title>Minḥat zikaron: mizkeret ḥasde ha-Shem asher hefli la-ḳahal ḳadosh Breselo be-ḥamishah be-Kisleṿ shenat 5526</title>
       <partName>Title leaf</partName>
@@ -32,9 +32,7 @@
    <note>original filename: 120017060.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_l571</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_l571</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

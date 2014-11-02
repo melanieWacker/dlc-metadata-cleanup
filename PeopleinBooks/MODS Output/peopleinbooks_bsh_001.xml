@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007036</identifier>
-   <identifier type="local">bsh_001</identifier>
+   <identifier type="local">peopleinbooks_bsh_001</identifier>
    <titleInfo>
       <title>Biblia Sacra Hebraica</title>
       <partName>Title leaf verso</partName>
@@ -30,9 +30,7 @@
    <note>original filename: 120017138.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NyNyCBL</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/burke_ms_74</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/burke_ms_74</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

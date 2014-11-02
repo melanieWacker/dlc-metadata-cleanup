@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="CLIO">CLIO_7268119</identifier>
-   <identifier type="local">mlk</identifier>
+   <identifier type="local">peopleinbooks_mlk</identifier>
    <titleInfo>
       <title>Matsref la-kesef: me-ḥibur Meʾor ʻenayim</title>
    </titleInfo>

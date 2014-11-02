@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007145</identifier>
-   <identifier type="local">tdl_001</identifier>
+   <identifier type="local">peopleinbooks_tdl_001</identifier>
    <titleInfo>
       <title>Tratado de la verdad de la ley de Moseh y providencia de Dios con su pueblo</title>
       <partName>Leaf 1 recto</partName>
@@ -30,9 +30,7 @@
    <note>original filename: 120017069.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_m841</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_m841</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

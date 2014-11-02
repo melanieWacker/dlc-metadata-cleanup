@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="CLIO">CLIO_7844272</identifier>
-   <identifier type="local">meb</identifier>
+   <identifier type="local">peopleinbooks_meb</identifier>
    <titleInfo>
       <title>Mikhtav: el beni ṿe-yedidi Yaʻaḳov Shalish</title>
    </titleInfo>
@@ -28,14 +28,12 @@
    </language>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893_z8_v3_n3</url>
       <holdingSimple>
          <copyInformation>
             <shelfLocator>X893 Z8 v.3 no.3</shelfLocator>
          </copyInformation>
       </holdingSimple>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893_z8_v3_n3</url>
-      </holdingExternal>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

@@ -6,8 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007112</identifier>
-   <identifier type="CLIO">CLIO_7518797</identifier>
-   <identifier type="local">phs_000</identifier>
+   <identifier type="local">peopleinbooks_phs_000</identifier>
    <titleInfo>
       <title>Perush hagadah shel Pesaḥ: ʻaravit yehudit</title>
    </titleInfo>
@@ -33,14 +32,12 @@
    <note>original filename: X893.1N_Z6_V1_2b.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/timekeepers/x893_1n_z6_v1</url>
       <holdingSimple>
          <copyInformation>
             <shelfLocator>X893.1N Z6 v.1</shelfLocator>
          </copyInformation>
       </holdingSimple>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/timekeepers/x893_1n_z6_v1</url>
-      </holdingExternal>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

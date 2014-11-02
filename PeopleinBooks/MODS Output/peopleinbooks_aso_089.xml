@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007039</identifier>
-   <identifier type="local">aso_089</identifier>
+   <identifier type="local">peopleinbooks_aso_089</identifier>
    <titleInfo>
       <title>Album: signatures of some of those who came to examine the model of the Temple of Solomon</title>
       <partName>Pages 89-90</partName>
@@ -33,9 +33,7 @@
    <note>original filename: X893_AL1_095.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/x893_al1</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/x893_al1</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

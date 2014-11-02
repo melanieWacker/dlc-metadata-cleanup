@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007074</identifier>
-   <identifier type="local">hmm_008</identifier>
+   <identifier type="local">peopleinbooks_hmm_008</identifier>
    <titleInfo>
       <title>Ha-mavaṭim: melekhet kele ha-itsṭolvvi le-yediʻat matsav ha-galgal le-khol ʻet she-yirtsu</title>
       <partName>Leaf 8 verso</partName>
@@ -36,9 +36,7 @@
    <note>original filename: 120017071.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/humanities/x893_p95</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/humanities/x893_p95</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

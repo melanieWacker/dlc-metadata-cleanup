@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007087</identifier>
-   <identifier type="local">cca_001</identifier>
+   <identifier type="local">peopleinbooks_cca_001</identifier>
    <titleInfo>
       <title>Comoediae. Comm: Aelius Donatus and in part J. Calphurnius</title>
       <partName>Binding (front)</partName>
@@ -32,9 +32,7 @@
    <note>original filename: 120017140.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/book/goff_t89g</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/book/goff_t89g</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

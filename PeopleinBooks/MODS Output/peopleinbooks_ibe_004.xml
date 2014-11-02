@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007136</identifier>
-   <identifier type="local">ibe_004</identifier>
+   <identifier type="local">peopleinbooks_ibe_004</identifier>
    <titleInfo>
       <title>Igeret be-enyan Sabtai Tsevi</title>
       <partName>Leaf 4 recto</partName>
@@ -36,9 +36,7 @@
    <note>original filename: 120017023.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_f84</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_f84</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

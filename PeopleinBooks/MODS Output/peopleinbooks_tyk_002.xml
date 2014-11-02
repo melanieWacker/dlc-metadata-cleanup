@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007181</identifier>
-   <identifier type="local">tyk_002</identifier>
+   <identifier type="local">peopleinbooks_tyk_002</identifier>
    <titleInfo>
       <title>Toldot yehude Ḳutsin</title>
       <partName>Closed scroll</partName>
@@ -29,9 +29,7 @@
    <note>original filename: SMITH_HEB_4_001.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/travelers/x893_19_p41</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/travelers/x893_19_p41</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

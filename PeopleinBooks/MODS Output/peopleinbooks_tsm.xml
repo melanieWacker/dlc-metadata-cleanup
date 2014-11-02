@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="CLIO">CLIO_7926952</identifier>
-   <identifier type="local">tsm</identifier>
+   <identifier type="local">peopleinbooks_tsm</identifier>
    <titleInfo>
       <title>Taḳanot: shel megorashe Kasʹṭilia asher be-Fas</title>
    </titleInfo>

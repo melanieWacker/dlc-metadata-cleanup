@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007252</identifier>
-   <identifier type="local">uid_003</identifier>
+   <identifier type="local">peopleinbooks_uid_003</identifier>
    <titleInfo>
       <title>Universita' Italiana della Sinagoga Corfiota Aborigine contro Universita' della Sinagoga Corfiota Greca</title>
       <partName>Rear cover</partName>
@@ -39,9 +39,7 @@
    <note>original filename: 120017168.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_z8_v3_n6</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/x893_z8_v3_n6</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>

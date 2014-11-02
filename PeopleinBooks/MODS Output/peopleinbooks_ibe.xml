@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="CLIO">CLIO_7166249</identifier>
-   <identifier type="local">ibe</identifier>
+   <identifier type="local">peopleinbooks_ibe</identifier>
    <titleInfo>
       <title>Igeret be-enyan Sabtai Tsevi</title>
    </titleInfo>

@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007179</identifier>
-   <identifier type="local">slo_000</identifier>
+   <identifier type="local">peopleinbooks_slo_000</identifier>
    <titleInfo>
       <title>Seliḥot: le-omram aḥar Minḥah be-khol Ḥodesh Elul be-Montticelli Primgeno di Ongina be-shnat 5602</title>
       <partName>Title leaf</partName>
@@ -32,9 +32,7 @@
    <note>original filename: 120017043.jpg</note>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
-      <holdingExternal>
-         <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_j544</url>
-      </holdingExternal>
+      <url access="object in context" usage="primary display">http://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/congregants/x893_j544</url>
    </location>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
