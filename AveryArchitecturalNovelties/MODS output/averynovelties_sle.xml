@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="CLIO">CLIO_600865</identifier>
+   <identifier type="local">averynovelties_sle</identifier>
+   <name>
+      <namePart>Nutshell Novelty Company</namePart>
+   </name>
+   <titleInfo>
+      <title>St. Louis Exposition in a Nutshell</title>
+   </titleInfo>
+   <originInfo>
+      <place>
+         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n78086438">Chicago (Ill.)</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Chicago, IL</placeTerm>
+      </place>
+      <dateCreated>circa 1904</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1904</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <extent>1-1/2" length of nutshell</extent>
+      <form authority="aat">photographs</form>
+   </physicalDescription>
+   <abstract>Nutshell case containing photographic views of the Louisiana Purchase Exposition held in St. Louis in 1904</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <note>Photographs of the exposition mounted on accordion-style paper, enclosed in a nutshell case with a red, white, and blue string tie</note>
+   <location>
+      <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Avery Classics Collection</subLocation>
+            <shelfLocator>AA6750 Sa2 1904 N8</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n91094010">
+         <namePart>Louisiana Purchase Exposition Co. (Saint Louis, Mo.)</namePart>
+      </name>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Avery’s Architectural Novelties</title>
+      </titleInfo>
+      <location>
+         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio9427856</url>
+      </location>
+   </relatedItem>
+   <recordInfo>
+      <recordIdentifier>sle_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>

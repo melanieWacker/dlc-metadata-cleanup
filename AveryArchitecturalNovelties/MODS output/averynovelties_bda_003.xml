@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="omeka">omeka_006650</identifier>
+   <identifier type="local">averynovelties_bda_003</identifier>
+   <name>
+      <namePart>Ludwig, Alois, 1872-1969</namePart>
+   </name>
+   <titleInfo>
+      <title>Ball der Architekten 24. Jan. 98</title>
+      <partName>Clasp</partName>
+   </titleInfo>
+   <originInfo>
+      <place>
+         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n79018895">Vienna (Austria)</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Vienna</placeTerm>
+      </place>
+      <dateCreated>1898</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1898</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form>dance cards</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form authority="aat">objects</form>
+   </physicalDescription>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+   </language>
+   <note>original filename: 110178051.jpg</note>
+   <location>
+      <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/novelties/dancecard/dancecard</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Avery Classics Collection</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject authority="lcsh">
+      <topic>Dance cards--Specimens</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Architects--Austria--Vienna--Social life and customs--19th century</topic>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Avery’s Architectural Novelties</title>
+      </titleInfo>
+      <location>
+         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio9427856</url>
+      </location>
+   </relatedItem>
+   <recordInfo>
+      <recordIdentifier>006650_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>
