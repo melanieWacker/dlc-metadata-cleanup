@@ -237,11 +237,7 @@
             </relatedItem>
         </xsl:for-each>
     <!-- accessCondition -->
-        <xsl:for-each select="accessCondition">
-            <accessCondition>
-                <xsl:value-of select="."/>
-            </accessCondition>
-        </xsl:for-each>
+        <accessCondition>Columbia University Libraries copyright/permissions information can be found at http://library.columbia.edu/about/policies/copyright-online-collections.html</accessCondition>
     <!-- recordInfo --> 
         <recordInfo>
             <recordIdentifier>
@@ -451,11 +447,7 @@
             </relatedItem>
         </xsl:for-each>
         <!-- accessCondition -->
-        <xsl:for-each select="accessCondition">
-            <accessCondition>
-                <xsl:value-of select="."/>
-            </accessCondition>
-        </xsl:for-each>
+        <accessCondition>Columbia University Libraries copyright/permissions information can be found at http://library.columbia.edu/about/policies/copyright-online-collections.html</accessCondition>
         <!-- recordInfo --> 
         <recordInfo>
             <recordIdentifier>
