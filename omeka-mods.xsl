@@ -237,7 +237,7 @@
             </relatedItem>
         </xsl:for-each>
     <!-- accessCondition -->
-        <accessCondition>Columbia University Libraries copyright/permissions information can be found at http://library.columbia.edu/about/policies/copyright-online-collections.html</accessCondition>
+        <accessCondition type="use and reproduction">Columbia University Libraries copyright/permissions information can be found at http://library.columbia.edu/about/policies/copyright-online-collections.html</accessCondition>
     <!-- recordInfo --> 
         <recordInfo>
             <recordIdentifier>
@@ -447,7 +447,7 @@
             </relatedItem>
         </xsl:for-each>
         <!-- accessCondition -->
-        <accessCondition>Columbia University Libraries copyright/permissions information can be found at http://library.columbia.edu/about/policies/copyright-online-collections.html</accessCondition>
+        <accessCondition type="use and reproduction">Columbia University Libraries copyright/permissions information can be found at http://library.columbia.edu/about/policies/copyright-online-collections.html</accessCondition>
         <!-- recordInfo --> 
         <recordInfo>
             <recordIdentifier>
