@@ -477,32 +477,32 @@
 <!-- SUBTEMPLATES -->
     <xsl:template match="name_primary">
         <name>
-            <xsl:if test="../name_primary_type">
+            <xsl:if test="following-sibling::node()[1][self::name_primary_type]">
                 <xsl:attribute name="type">
-                    <xsl:value-of select="../name_primary_type"/>
+                    <xsl:value-of select="following-sibling::node()[1][self::name_primary_type]"/>
                 </xsl:attribute>
             </xsl:if>
-            <xsl:if test="../name_primary_authority">
+            <xsl:if test="following-sibling::node()[1][self::name_primary_authority]">
                 <xsl:attribute name="authority">
-                    <xsl:value-of select="../name_primary_authority"/>
+                    <xsl:value-of select="following-sibling::node()[1][self::name_primary_authority]"/>
                 </xsl:attribute> <xsl:attribute name="valueURI">
-                    <xsl:value-of select="../name_primary_authority_identifier"/>
+                    <xsl:value-of select="following-sibling::node()[1][self::name_primary_authority_identifier]"/>
                 </xsl:attribute>
             </xsl:if>
             <namePart>
                 <xsl:value-of select="."/>
             </namePart>
-            <xsl:if test="../name_primary_role_code">
+            <xsl:if test="following-sibling::node()[1][self::name_primary_role_code]">
                 <role>
                     <roleTerm type="code" authority="marcrelator">
-                        <xsl:value-of select="../name_primary_role_code"/>                        
+                        <xsl:value-of select="following-sibling::node()[1][self::name_primary_role_code]"/>                        
                     </roleTerm>
                 </role>
             </xsl:if>
-            <xsl:if test="../name_primary_role_text">
+            <xsl:if test="following-sibling::node()[1][self::name_primary_role_text]">
                 <role>
                     <roleTerm type="text" authority="marcrelator">
-                        <xsl:value-of select="../name_primary_role_text"/>                        
+                        <xsl:value-of select="following-sibling::node()[1][self::name_primary_role_text]"/>                        
                     </roleTerm>
                 </role>
             </xsl:if>
@@ -510,32 +510,32 @@
     </xsl:template>
     <xsl:template match="name">
         <name>
-            <xsl:if test="../name_type">
+            <xsl:if test="following-sibling::node()[1][self::name_type]">
                 <xsl:attribute name="type">
-                    <xsl:value-of select="../name_type"/>
+                    <xsl:value-of select="following-sibling::node()[1][self::name_type]"/>
                 </xsl:attribute>
             </xsl:if>
-            <xsl:if test="../name_authority">
+            <xsl:if test="following-sibling::node()[1][self::name_authority]">
                 <xsl:attribute name="authority">
-                    <xsl:value-of select="../name_authority"/>
+                    <xsl:value-of select="following-sibling::node()[1][self::name_authority]"/>
                 </xsl:attribute> <xsl:attribute name="valueURI">
-                    <xsl:value-of select="../name_authority_identifier"/>
+                    <xsl:value-of select="following-sibling::node()[1][self::name_authority_identifier]"/>
                 </xsl:attribute>
             </xsl:if>
             <namePart>
                 <xsl:value-of select="."/>
             </namePart>
-            <xsl:if test="../role_code">
+            <xsl:if test="following-sibling::node()[1][self::role_code]">
                 <role>
                     <roleTerm type="code" authority="marcrelator">
-                        <xsl:value-of select="../role_code"/>                        
+                        <xsl:value-of select="following-sibling::node()[1][self::role_code]"/>                        
                     </roleTerm>
                 </role>
             </xsl:if>
-            <xsl:if test="../role_text">
+            <xsl:if test="following-sibling::node()[1][self::role_text]">
                 <role>
                     <roleTerm type="text" authority="marcrelator">
-                        <xsl:value-of select="../role_text"/>                        
+                        <xsl:value-of select="following-sibling::node()[1][self::role_text]"/>                        
                     </roleTerm>
                 </role>
             </xsl:if>
@@ -545,9 +545,9 @@
         <place>
             <placeTerm type="text">
             <!-- No authority attribute - currently not available in MODS 3.6 - CMH, 10/2014 -->
-                <xsl:if test="../place_authority_identifier">
+                <xsl:if test="following-sibling::node()[1][self::place_authority_identifier]">
                     <xsl:attribute name="valueURI">
-                        <xsl:value-of select="../place_authority_identifier"/>
+                        <xsl:value-of select="following-sibling::node()[1][self::place_authority_identifier]"/>
                     </xsl:attribute>
                 </xsl:if>
                 <xsl:value-of select="."/>
@@ -572,7 +572,7 @@
     <xsl:template match="form">
         <form>
             <xsl:attribute name="authority">
-                <xsl:value-of select="../form_authority"/>
+                <xsl:value-of select="following-sibling::node()[1][self::form_authority]"/>
             </xsl:attribute>
             <xsl:value-of select="."/>
         </form>
@@ -626,13 +626,13 @@
     </xsl:template>
     <xsl:template match="subject_topic">
         <subject>
-            <xsl:if test="../subject_topic_authority">
+            <xsl:if test="following-sibling::node()[1][self::subject_topic_authority]">
                 <xsl:attribute name="authority">
-                    <xsl:value-of select="../subject_topic_authority"/>
+                    <xsl:value-of select="following-sibling::node()[1][self::subject_topic_authority]"/>
                 </xsl:attribute>
-            </xsl:if> <xsl:if test="../subject_topic_authority_identifier">
+            </xsl:if> <xsl:if test="following-sibling::node()[1][self::subject_topic_authority_identifier]">
                 <xsl:attribute name="valueURI">
-                    <xsl:value-of select="../subject_topic_authority_identifier"/>
+                    <xsl:value-of select="following-sibling::node()[1][self::subject_topic_authority_identifier]"/>
                 </xsl:attribute>
             </xsl:if>
             <topic>
@@ -643,11 +643,11 @@
     <xsl:template match="subject_name">
         <subject>
             <name>
-                <xsl:if test="../subject_name_authority">
+                <xsl:if test="following-sibling::node()[1][self::subject_name_authority]">
                     <xsl:attribute name="authority">
-                        <xsl:value-of select="../subject_name_authority"/>
+                        <xsl:value-of select="following-sibling::node()[1][self::subject_name_authority]"/>
                     </xsl:attribute> <xsl:attribute name="valueURI">
-                        <xsl:value-of select="../subject_name_authority_identifier"/>
+                        <xsl:value-of select="following-sibling::node()[1][self::subject_name_authority_identifier]"/>
                     </xsl:attribute>
                 </xsl:if>
                 <namePart>
@@ -659,11 +659,11 @@
     <xsl:template match="subject_geographic">
         <subject>
             <geographic>
-                <xsl:if test="../subject_geographic_authority">
+                <xsl:if test="following-sibling::node()[1][self::subject_geographic_authority]">
                     <xsl:attribute name="authority">
-                        <xsl:value-of select="../subject_geographic_authority"/>
+                        <xsl:value-of select="following-sibling::node()[1][self::subject_geographic_authority]"/>
                     </xsl:attribute> <xsl:attribute name="valueURI">
-                        <xsl:value-of select="../subject_geographic_authority_identifier"/>
+                        <xsl:value-of select="following-sibling::node()[1][self::subject_geographic_authority_identifier]"/>
                     </xsl:attribute>
                 </xsl:if>
                     <xsl:value-of select="."/>
