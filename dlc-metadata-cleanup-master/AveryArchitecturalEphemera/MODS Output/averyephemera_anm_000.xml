@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="omeka">omeka_007294</identifier>
+   <identifier type="local">averyephemera_anm_000</identifier>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/nr93021379">
+      <namePart>Hening, H. B.</namePart>
+   </name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/nr93021382">
+      <namePart>Johnson, E. Dana</namePart>
+   </name>
+   <titleInfo>
+      <title>Albuquerque, New Mexico : chief city of a new empire in the great Southwest</title>
+      <partName>Recto cover of viewbook</partName>
+   </titleInfo>
+   <originInfo>
+      <place>
+         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n79079329">Albuquerque (N.M.)</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Albuquerque, N.M.</placeTerm>
+      </place>
+      <publisher>H.B. Hening and E.D. Johnson</publisher>
+      <dateCreated>circa 1908</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1908</dateCreated>
+   </originInfo>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form authority="aat">books</form>
+   </physicalDescription>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <note>original filename: 1202210021.jpg</note>
+   <location>
+      <physicalLocation authority="marcorg">NNC-A</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/ephemera/viewbooks/view</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Avery Classics Collection</subLocation>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject authority="lcsh">
+      <topic>Albuquerque (N.M.)--Description and travel</topic>
+   </subject>
+   <subject authority="lcsh" valueURI="http://id.worldcat.org/fast/1155558">
+      <topic>Travel</topic>
+   </subject>
+   <subject>
+      <geographic authority="naf"
+                  valueURI="http://id.loc.gov/authorities/names/n79079329">Albuquerque (N.M.)</geographic>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Avery’s Architectural Ephemera Collections</title>
+      </titleInfo>
+      <location>
+         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio10813843</url>
+      </location>
+   </relatedItem>
+   <recordInfo>
+      <recordIdentifier>007294_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">jewels_prr</identifier>
+   <name type="personal"
+         authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n50008430">
+      <namePart>Taylor, Telford</namePart>
+   </name>
+   <titleInfo>
+      <title>Public Relations Photo Section, Office Chief of Counsel for War Crimes, Nuremberg, Germany, APO 696-A, US Army, Photo No. OMT-IX-P-7</title>
+   </titleInfo>
+   <originInfo>
+      <place>
+         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n80017681">Nuremberg (Germany)</placeTerm>
+      </place>
+      <publisher>Palace of Justice</publisher>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1948-02-13</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <extent>20.3 x 25.4 cm.</extent>
+      <form authority="aat">photographs</form>
+      <extent>Black and white photograph</extent>
+   </physicalDescription>
+   <location>
+      <physicalLocation>NNC-L</physicalLocation>
+      <url access="object in context" usage="primary display">http://www.columbia.edu/cu/lweb/eresources/exhibitions/treasures/html/188a.html</url>
+   </location>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85075119">
+      <topic>Law</topic>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Jewels in her crown: treasures of Columbia University Libraries special collections</title>
+      </titleInfo>
+      <location>
+         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio4887511</url>
+      </location>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Telford Taylor papers</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition>No known restrictions.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>ldpd_treasures_188a_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>

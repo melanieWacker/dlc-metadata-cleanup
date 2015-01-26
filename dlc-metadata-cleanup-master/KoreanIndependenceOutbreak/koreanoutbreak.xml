@@ -1,0 +1,4202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--The name of each XML element representing an Omeka element or element set is
+based on the name of the element or element set in Omeka. For example:
+     The "Dublin Core" element set is represented by the DublinCore XML element
+     The "Form Genre" element in MODS is represented by the FormGenre XML element
+
+The following XML elements are based on internal Omeka data:
+     The OriginalFileLoadedIntoOmeka XML element contains the name/path of
+     of the file(s) loaded into Omeka for the given item.
+     The OmekaCollection XML element contains the name of the Omeka collection
+     containing the item, if the item belongs to an Omeka collection. Please note
+     that this element is different from the Collection element in MODS, which is
+     curator-populated.
+-->
+<itemContainer>
+  <item itemId="2440" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0111_11</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0111_11</text>
+        <text>Box 1 Folder 11</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 10</text>
+      </Description>
+      <Title>
+        <text>page J10</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2439" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0111_10</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0111_10</text>
+        <text>Box 1 Folder 11</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 10</text>
+      </Description>
+      <Title>
+        <text>page J9</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2438" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0111_09</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0111_9</text>
+        <text>Box 1 Folder 11</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 10</text>
+      </Description>
+      <Title>
+        <text>page J8</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2437" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0111_08</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0111_8</text>
+        <text>Box 1 Folder 11</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 10</text>
+      </Description>
+      <Title>
+        <text>page J7</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2436" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0111_07</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0111_7</text>
+        <text>Box 1 Folder 11</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 10</text>
+      </Description>
+      <Title>
+        <text>page J6</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2435" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0111_06</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0111_6</text>
+        <text>Box 1 Folder 11</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 10</text>
+      </Description>
+      <Title>
+        <text>Genesis of the Korean independent movement</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2434" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0111_05</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0111_5</text>
+        <text>Box 1 Folder 11</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 10</text>
+      </Description>
+      <Title>
+        <text>page J4</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2433" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0111_04</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0111_4</text>
+        <text>Box 1 Folder 11</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 10</text>
+      </Description>
+      <Title>
+        <text>page J3</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2432" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0111_03</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0111_3</text>
+        <text>Box 1 Folder 11</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 10</text>
+      </Description>
+      <Title>
+        <text>page J2</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2431" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0111_02</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0111_2</text>
+        <text>Box 1 Folder 11</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 10</text>
+      </Description>
+      <Title>
+        <text>Statement of what happened at Fusanchin and Fusan</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2430" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0111_01</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0111_1</text>
+        <text>Box 1 Folder 11</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 10</text>
+      </Description>
+      <Title>
+        <text>cover page</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2429" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0110_18</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0110_18</text>
+        <text>Box 1 Folder 10</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 9</text>
+      </Description>
+      <Title>
+        <text>page S17</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2428" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0110_17</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0110_17</text>
+        <text>Box 1 Folder 10</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 9</text>
+      </Description>
+      <Title>
+        <text>page S16</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2427" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0110_16</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0110_16</text>
+        <text>Box 1 Folder 10</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 9</text>
+      </Description>
+      <Title>
+        <text>page S15</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2426" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0110_15</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0110_15</text>
+        <text>Box 1 Folder 10</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 9</text>
+      </Description>
+      <Title>
+        <text>The moral failure of Japan in Korea</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2425" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0110_14</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0110_14</text>
+        <text>Box 1 Folder 10</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 9</text>
+      </Description>
+      <Title>
+        <text>page S13</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2424" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0110_13</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0110_13</text>
+        <text>Box 1 Folder 10</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 9</text>
+      </Description>
+      <Title>
+        <text>page S12</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2423" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0110_12</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0110_12</text>
+        <text>Box 1 Folder 10</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 9</text>
+      </Description>
+      <Title>
+        <text>page S11</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2422" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0110_11</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0110_11</text>
+        <text>Box 1 Folder 10</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 9</text>
+      </Description>
+      <Title>
+        <text>page S10</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2421" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0110_10</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0110_10</text>
+        <text>Box 1 Folder 10</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 9</text>
+      </Description>
+      <Title>
+        <text>page S9</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2420" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0110_09</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0110_9</text>
+        <text>Box 1 Folder 10</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 9</text>
+      </Description>
+      <Title>
+        <text>Report of the Su-Chon atrocities</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2419" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0110_08</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0110_8</text>
+        <text>Box 1 Folder 10</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 9</text>
+      </Description>
+      <Title>
+        <text>page S7</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2418" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0110_07</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0110_7</text>
+        <text>Box 1 Folder 10</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 9</text>
+      </Description>
+      <Title>
+        <text>page S6</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2417" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0110_06</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0110_6</text>
+        <text>Box 1 Folder 10</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 9</text>
+      </Description>
+      <Title>
+        <text>page S5</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2416" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0110_05</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0110_5</text>
+        <text>Box 1 Folder 10</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 9</text>
+      </Description>
+      <Title>
+        <text>The massacre of Chai Amm-Ni</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2415" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0110_04</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0110_4</text>
+        <text>Box 1 Folder 10</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 9</text>
+      </Description>
+      <Title>
+        <text>page S3</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2414" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0110_03</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0110_3</text>
+        <text>Box 1 Folder 10</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 9</text>
+      </Description>
+      <Title>
+        <text>page S2</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2413" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0110_02</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0110_2</text>
+        <text>Box 1 Folder 10</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 9</text>
+      </Description>
+      <Title>
+        <text>The atrocities in Suwen</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2412" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0110_01</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0110_1</text>
+        <text>Box 1 Folder 10</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 9</text>
+      </Description>
+      <Title>
+        <text>cover page</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2411" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0109_04</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0109_4</text>
+        <text>Box 1 Folder 9</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 8</text>
+      </Description>
+      <Title>
+        <text>page T3</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2410" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0109_03</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0109_3</text>
+        <text>Box 1 Folder 9</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 8</text>
+      </Description>
+      <Title>
+        <text>page T2</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2409" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0109_02</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0109_2</text>
+        <text>Box 1 Folder 9</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 8</text>
+      </Description>
+      <Title>
+        <text>How the Korean shops were re-opened</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2408" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0109_01</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0109_1</text>
+        <text>Box 1 Folder 9</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 8</text>
+      </Description>
+      <Title>
+        <text>cover page</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2407" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0108_06</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0108_6</text>
+        <text>Box 1 Folder 8</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 7</text>
+      </Description>
+      <Title>
+        <text>page F5</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2406" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0108_05</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0108_5</text>
+        <text>Box 1 Folder 8</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 7</text>
+      </Description>
+      <Title>
+        <text>page F4</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2405" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0108_04</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0108_4</text>
+        <text>Box 1 Folder 8</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 7</text>
+      </Description>
+      <Title>
+        <text>page F3</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2404" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0108_03</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0108_3</text>
+        <text>Box 1 Folder 8</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 7</text>
+      </Description>
+      <Title>
+        <text>page F2</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2403" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0108_02</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0108_2</text>
+        <text>Box 1 Folder 8</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 7</text>
+      </Description>
+      <Title>
+        <text>Policy of force</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2402" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0108_01</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0108_1</text>
+        <text>Box 1 Folder 8</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 7</text>
+      </Description>
+      <Title>
+        <text>cover page</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2401" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0107_19</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0107_19</text>
+        <text>Box 1 Folder 7</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 6</text>
+      </Description>
+      <Title>
+        <text>page E17</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2400" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0107_18</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0107_18</text>
+        <text>Box 1 Folder 7</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 6</text>
+      </Description>
+      <Title>
+        <text>page E16</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2399" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0107_17</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0107_17</text>
+        <text>Box 1 Folder 7</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 6</text>
+      </Description>
+      <Title>
+        <text>page E15</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2398" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0107_16</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0107_16</text>
+        <text>Box 1 Folder 7</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 6</text>
+      </Description>
+      <Title>
+        <text>Interview with the Civil Governor of Korea</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2397" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0107_15</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0107_15</text>
+        <text>Box 1 Folder 7</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 6</text>
+      </Description>
+      <Title>
+        <text>page E13</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2396" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0107_14</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0107_14</text>
+        <text>Box 1 Folder 7</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 6</text>
+      </Description>
+      <Title>
+        <text>page E12</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2395" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0107_13</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0107_13</text>
+        <text>Box 1 Folder 7</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 6</text>
+      </Description>
+      <Title>
+        <text>page E11</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2394" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0107_12</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0107_12</text>
+        <text>Box 1 Folder 7</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 6</text>
+      </Description>
+      <Title>
+        <text>page E10</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2393" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0107_11</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0107_11</text>
+        <text>Box 1 Folder 7</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 6</text>
+      </Description>
+      <Title>
+        <text>page E9</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2392" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0107_10</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0107_10</text>
+        <text>Box 1 Folder 7</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 6</text>
+      </Description>
+      <Title>
+        <text>page E8</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2391" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0107_09</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0107_9</text>
+        <text>Box 1 Folder 7</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 6</text>
+      </Description>
+      <Title>
+        <text>page E7</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2390" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0107_08</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0107_8</text>
+        <text>Box 1 Folder 7</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 6</text>
+      </Description>
+      <Title>
+        <text>page E6</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2389" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0107_07</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0107_7</text>
+        <text>Box 1 Folder 7</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 6</text>
+      </Description>
+      <Title>
+        <text>page E5</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2388" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0107_06</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0107_6</text>
+        <text>Box 1 Folder 7</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 6</text>
+      </Description>
+      <Title>
+        <text>page E4</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2387" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0107_05</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0107_5</text>
+        <text>Box 1 Folder 7</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 6</text>
+      </Description>
+      <Title>
+        <text>page E3</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2386" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0107_04</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0107_4</text>
+        <text>Box 1 Folder 7</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 6</text>
+      </Description>
+      <Title>
+        <text>page E2</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2385" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0107_03</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0107_3</text>
+        <text>Box 1 Folder 7</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 6</text>
+      </Description>
+      <Title>
+        <text>page E1</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2384" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0107_02</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0107_2</text>
+        <text>Box 1 Folder 7</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 6</text>
+      </Description>
+      <Title>
+        <text>Relation of the foreign missionaries to the present uprising (half page)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2383" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0107_01</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0107_1</text>
+        <text>Box 1 Folder 7</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 6</text>
+      </Description>
+      <Title>
+        <text>cover page</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2382" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0106_15</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0106_15</text>
+        <text>Box 1 Folder 6</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 5</text>
+      </Description>
+      <Title>
+        <text>page D14</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2381" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0106_14</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0106_14</text>
+        <text>Box 1 Folder 6</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 5</text>
+      </Description>
+      <Title>
+        <text>page D13</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2380" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0106_13</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0106_13</text>
+        <text>Box 1 Folder 6</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 5</text>
+      </Description>
+      <Title>
+        <text>page D12</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2379" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0106_12</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0106_12</text>
+        <text>Box 1 Folder 6</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 5</text>
+      </Description>
+      <Title>
+        <text>page D11</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2378" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0106_11</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0106_11</text>
+        <text>Box 1 Folder 6</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 5</text>
+      </Description>
+      <Title>
+        <text>page D10</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2377" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0106_10</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0106_10</text>
+        <text>Box 1 Folder 6</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 5</text>
+      </Description>
+      <Title>
+        <text>Visit to the Pyeng Yang Saibansho</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2376" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0106_09</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0106_9</text>
+        <text>Box 1 Folder 6</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 5</text>
+      </Description>
+      <Title>
+        <text>page D8</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2375" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0106_08</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0106_8</text>
+        <text>Box 1 Folder 6</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 5</text>
+      </Description>
+      <Title>
+        <text>page D7</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2374" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0106_07</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0106_7</text>
+        <text>Box 1 Folder 6</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 5</text>
+      </Description>
+      <Title>
+        <text>page D6</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2373" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0106_06</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0106_6</text>
+        <text>Box 1 Folder 6</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 5</text>
+      </Description>
+      <Title>
+        <text>page D3 again (different text)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2372" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0106_05</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0106_5</text>
+        <text>Box 1 Folder 6</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 5</text>
+      </Description>
+      <Title>
+        <text>page D4</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2371" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0106_04</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0106_4</text>
+        <text>Box 1 Folder 6</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 5</text>
+      </Description>
+      <Title>
+        <text>page D3</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2370" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0106_03</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0106_3</text>
+        <text>Box 1 Folder 6</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 5</text>
+      </Description>
+      <Title>
+        <text>page D2</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2369" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0106_02</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0106_2</text>
+        <text>Box 1 Folder 6</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 5</text>
+      </Description>
+      <Title>
+        <text>Search of foreign houses</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2368" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0106_01</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0106_1</text>
+        <text>Box 1 Folder 6</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 5</text>
+      </Description>
+      <Title>
+        <text>cover page</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2367" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0105_07</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0105_7</text>
+        <text>Box 1 Folder 5</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 4</text>
+      </Description>
+      <Title>
+        <text>page C8</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2366" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0105_06</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0105_6</text>
+        <text>Box 1 Folder 5</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 4</text>
+      </Description>
+      <Title>
+        <text>The Japanese spy system (page C5,6,7)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2365" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0105_05</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0105_5</text>
+        <text>Box 1 Folder 5</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 4</text>
+      </Description>
+      <Title>
+        <text>page C4</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2364" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0105_04</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0105_4</text>
+        <text>Box 1 Folder 5</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 4</text>
+      </Description>
+      <Title>
+        <text>page C3</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2363" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0105_03</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0105_3</text>
+        <text>Box 1 Folder 5</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 4</text>
+      </Description>
+      <Title>
+        <text>page C2</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2362" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0105_02</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0105_2</text>
+        <text>Box 1 Folder 5</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 4</text>
+      </Description>
+      <Title>
+        <text>Incidents occurring March 6 or before</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2361" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0105_01</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0105_1</text>
+        <text>Box 1 Folder 5</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 4</text>
+      </Description>
+      <Title>
+        <text>cover page</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2360" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0104_05</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0104_5</text>
+        <text>Box 1 Folder 4</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 3</text>
+      </Description>
+      <Title>
+        <text>The doings of the Pyengyang pressman</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2359" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0104_04</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0104_4</text>
+        <text>Box 1 Folder 4</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 3</text>
+      </Description>
+      <Title>
+        <text>page B3</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2358" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0104_03</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0104_3</text>
+        <text>Box 1 Folder 4</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 3</text>
+      </Description>
+      <Title>
+        <text>page B2</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2357" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0104_02</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0104_2</text>
+        <text>Box 1 Folder 4</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 3</text>
+      </Description>
+      <Title>
+        <text>page B1</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2356" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0104_01</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0104_1</text>
+        <text>Box 1 Folder 4</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 3</text>
+      </Description>
+      <Title>
+        <text>cover page</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2355" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0103_22</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0103_22</text>
+        <text>Box 1 Folder 3</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 2</text>
+      </Description>
+      <Title>
+        <text>Status of Korea (cont.); Treaties with Korea, (page A22)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2354" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0103_21</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0103_21</text>
+        <text>Box 1 Folder 3</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 2</text>
+      </Description>
+      <Title>
+        <text>Status of Korea (cont.), (page A21)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2353" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0103_20</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0103_20</text>
+        <text>Box 1 Folder 3</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 2</text>
+      </Description>
+      <Title>
+        <text>Status of Korea (cont.), (page A20)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2352" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0103_19</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0103_19</text>
+        <text>Box 1 Folder 3</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 2</text>
+      </Description>
+      <Title>
+        <text>Status of Korea (cont.), (page A19)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2351" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0103_18</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0103_18</text>
+        <text>Box 1 Folder 3</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 2</text>
+      </Description>
+      <Title>
+        <text>Status of Korea (cont.), (page A18)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2350" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0103_17</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0103_17</text>
+        <text>Box 1 Folder 3</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 2</text>
+      </Description>
+      <Title>
+        <text>Racial discrimination in Korea (Japan Chronicle editorial, April 6th, 1919) (cont.); The status of Korea, (page A17)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2349" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0103_16</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0103_16</text>
+        <text>Box 1 Folder 3</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 2</text>
+      </Description>
+      <Title>
+        <text>Racial discrimination in Korea (Japan Chronicle editorial, April 6th, 1919) (cont.), (page A16)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2348" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0103_15</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0103_15</text>
+        <text>Box 1 Folder 3</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 2</text>
+      </Description>
+      <Title>
+        <text>Racial discrimination in Korea (Japan Chronicle editorial, April 6th, 1919), (page A15)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2347" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0103_14</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0103_14</text>
+        <text>Box 1 Folder 3</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 2</text>
+      </Description>
+      <Title>
+        <text>Pitition [sic] presented by Kim Youn Sik and Yi Young Chick to the Governor General (cont.), (page A13,14 [sic])</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2346" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0103_13</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0103_13</text>
+        <text>Box 1 Folder 3</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 2</text>
+      </Description>
+      <Title>
+        <text>Pitition [sic] presented by Kim Youn Sik and Yi Young Chick to the Governor General (cont.), (page A12)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2345" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0103_12</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0103_12</text>
+        <text>Box 1 Folder 3</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 2</text>
+      </Description>
+      <Title>
+        <text>Statement of the situation in Korea, copied from the China Press (cont.); Pitition [sic], to His Excellency Hasegawa; Pitition [sic] presented by Kim Youn Sik and Yi Young Chick to the Governor General, (page A11)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2344" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0103_11</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0103_11</text>
+        <text>Box 1 Folder 3</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 2</text>
+      </Description>
+      <Title>
+        <text>Statement of the situation in Korea, copied from the China Press (cont.), (page A10)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2343" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0103_10</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0103_10</text>
+        <text>Box 1 Folder 3</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 2</text>
+      </Description>
+      <Title>
+        <text>Statement of the situation in Korea, copied from the China Press (cont.); Certain internal conditions, (page A9)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2342" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0103_09</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0103_9</text>
+        <text>Box 1 Folder 3</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 2</text>
+      </Description>
+      <Title>
+        <text>Grievances of the Korean people, issued by the organizing committee of the independence movement (cont.); Statement of the situation in Korea, copied from the China Press; Korean Insurrection--its origin, (page A8)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2341" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0103_08</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0103_8</text>
+        <text>Box 1 Folder 3</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 2</text>
+      </Description>
+      <Title>
+        <text>Grievances of the Korean people, issued by the organizing committee of the independence movement (cont.), (page A7)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2340" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0103_07</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0103_7</text>
+        <text>Box 1 Folder 3</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 2</text>
+      </Description>
+      <Title>
+        <text>Proclamation (Declaration of Korean Independence) (cont.); Three items of agreement; The grievances of the Korean people, issued by the organizing committee of the independence movement, (page A6)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2339" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0103_06</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0103_6</text>
+        <text>Box 1 Folder 3</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 2</text>
+      </Description>
+      <Title>
+        <text>Proclamation (Declaration of Korean Independence) (cont.), (page A5)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2338" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0103_05</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0103_5</text>
+        <text>Box 1 Folder 3</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 2</text>
+      </Description>
+      <Title>
+        <text>Document setting forth Korean claims (cont.); Othe oppression; A proclamation (Declaration of Korean Independence), (page C4 [sic])</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2337" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0103_04</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0103_4</text>
+        <text>Box 1 Folder 3</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 2</text>
+      </Description>
+      <Title>
+        <text>Document setting forth Korean claims (cont.); The mal-administration of Korea by Japan; Immorality encouraged, (page A3)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2336" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0103_03</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0103_3</text>
+        <text>Box 1 Folder 3</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 2</text>
+      </Description>
+      <Title>
+        <text>Memorandum of program of procedure (cont.); Koreans entreat President Wilson to aid Korea; Document setting forth Korean claims; Japan violates treaty, (page A2)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2335" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0103_02</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0103_2</text>
+        <text>Box 1 Folder 3</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 2</text>
+      </Description>
+      <Title>
+        <text>Ten reasons why Korea should be liberated; Memorandum of program of procedure, (page A1)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2334" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0103_01</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0103_1</text>
+        <text>Box 1 Folder 3</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 2</text>
+      </Description>
+      <Title>
+        <text>Korean Independence Outbreak; Beginning; March 1st., 1919.; Part II.; Its origin and cause.</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2333" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_38</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_38</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Detailed account of the beating (cont.), (page 33, half page)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2332" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_37</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_37</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Theological seminary men beaten; Detailed account of the beating, (page 32)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2331" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_36</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_36</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Following letter was sent to the Seoul Press representing the Japanese official view (cont.), (page 31)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2330" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_35</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_35</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Kyumipo church damaged (signed C.F. Bernbeisel), (cont.); American missionary tells how his wife was struck by hun-like soldiers (Peking Daily News, Apr. 13, 1919); the following letter was sent to the Seoul Press representing the Japanese official view, (page 30)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2329" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_34</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_34</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Little boy tied and arrested (cont.); Women shot at and knocked over; The Korean revolt; Kyumipo church damaged (signed C.F. Bernbeisel), (page 29)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2328" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_33</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_33</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Missionary writes of some of the outrages (cont.); Man run down by two horseman [sic]; Young boy caught and beaten; Little boy tied and arrested, (page 28, not a duplicate)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2327" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_32</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_32</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Story of arrest of two American missionaries; A missionary writes of some of the outrages, (page 28)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2326" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_31</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_31</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Special announcement; A call to prayer, issued Monday, Mar. 3rd.; Extra important accouncement, Korean Independence Band, (page 27)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2325" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_30</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_30</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Brief account of revolution to date (March 10th.), (cont.); Loyal Announcement, (page 26)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2324" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_29</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_29</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Statement by Rev. M. McRae (Canadian Presbyterian Mission) of events in Hamlung (cont.); Brief account of revolution to date (March 10th.), (page 25)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2323" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_28</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_28</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Seoul uprising in passive resistance (cont.); "Orderly," says minister; Statement by Rev. M. McRae (Canadian Presbyterian Mission) of events in Hamlung, (page 24)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2322" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_27</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_27</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Seoul uprising in passive resistance; Without arms they defy authority; All peninsula affected; Outside of Seoul rioters are out of hand; Girls fearless leaders; Hospital nurses parade; Police with drawn swords, (page 23)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2321" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_26</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_26</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>53 murdered at Maingsan; Singchang village church bell broken and pastor's wife mutilated, (page 22)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2320" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_25</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_25</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Incidents of severe treatment of Koreans seen by Stacy L. Roberts (cont.); 3. Little boy tied and arrested; 4. Women shot at and knocked over, (page 21)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2319" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_24</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_24</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Incidents of severe treatment of Koreans seen by Stacy L. Roberts; 1. A man run down by two horsemen; 2. Young boy caught and severely beaten, (page 20)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2318" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_23</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_23</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>[Announcement], (page 19)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2317" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_22</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_22</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Following are translations of some of the announcements circulated in the early days of the demonstrations, (page 18)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2316" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_21</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_21</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Proclamation [Korean Declaration of Independence] (cont.), (page 17)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2315" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_20</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_20</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Proclamation [Korean Declaration of Independence] (cont.), (page 16)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2314" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_19</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_19</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Proclamation [Korean Declaration of Independence], (page 15)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2313" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_18</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_18</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Following is one translation of the Korean Declaration of Independence, (page 14)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2312" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_17</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_17</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Urgent instruction by Governor General, (page 13)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2311" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_16</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_16</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Urgent instruction by Governor General, (page 12)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2310" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_15</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_15</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>The Governor General finally, on March 6th. issued the following proclamation in the Official Gazette, (page 11)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2309" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_14</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_14</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Political disturbance in Chosen; Arrest of ringleaders, (page 10)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2308" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_13</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_13</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>On the 7th of March the Seoul Press had the following report, (page 9, half page)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2307" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_12</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_12</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Independence movement in Chosen (cont.), (page 8)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2306" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_11</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_11</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Independence movement in Chosen (cont.); Tuesday, March 4th.; Wednesday, March 5th., (page 7, not a duplicate)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2305" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_10</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_10</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Independence movement in Chosen (cont.), (page 7)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2304" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_09</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_9</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Independence movement in Chosen (cont.); March 3rd. Monday., (page 6)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2303" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_08</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_8</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Independence movement in Chosen (cont.), (page 5)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2302" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_07</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_7</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Independence movement in Chosen (cont.); Sunday. March 2nd., (page Ext.4)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2301" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_06</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_6</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Independence movement in Chosen (cont.), (page 4)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2300" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_05</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_5</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Independence movement in Chosen (cont.), (page 3)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2299" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_04</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_4</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Independence movement in Chosen (cont.), (page 2)</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2298" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_03</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_3</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Independence movement in Chosen; Pyengyang Chosen, March 1st. 1919</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2297" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_02</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_2</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Pyeng Yang chronicle of the Korean independence outbreak</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2296" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0102_01</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0102_1</text>
+        <text>Box 1 Folder 2</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Outbreak, Part 1</text>
+      </Description>
+      <Title>
+        <text>Korean Independence Outbreak; Beginning; March 1st., 1919; Part 1.; The deginning [sic] of the Korean independence uprising March 1-5.</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2295" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0101_16</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0101_16</text>
+        <text>Box 1 Folder 1</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Movement Pamphlet</text>
+      </Description>
+      <Title>
+        <text>Addressee: Mr. C. H. Fahs, New York; sender: "Kopogo" c/o Mr. J. W. Crofoot, Shanghai.</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2294" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0101_15</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0101_15</text>
+        <text>Box 1 Folder 1</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Movement Pamphlet</text>
+      </Description>
+      <Title>
+        <text>He cries out for the liberty of the Koreans.</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2293" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0101_14</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0101_14</text>
+        <text>Box 1 Folder 1</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Movement Pamphlet</text>
+      </Description>
+      <Title>
+        <text>Japanese soldiers and armed police compelling the Koreans to open their shops against their wish.</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2292" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0101_13</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0101_13</text>
+        <text>Box 1 Folder 1</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Movement Pamphlet</text>
+      </Description>
+      <Title>
+        <text>This man is more fortunate.  He has a bayonet stab in his eye.  He was taken into one of the mission (Christian) hospitals, where he received treatment.  The picture was taken one week after the man received the wound.</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2291" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0101_12</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0101_12</text>
+        <text>Box 1 Folder 1</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Movement Pamphlet</text>
+      </Description>
+      <Title>
+        <text>To show their sympathy with the independence demonstrators and as a pacific means to demand the release of those who have been arrested, all Korean shopkeepers have closed their shops.  Japanese soldiers are seen patrolling the streets with fixed bayonets.</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2290" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0101_11</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0101_11</text>
+        <text>Box 1 Folder 1</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Movement Pamphlet</text>
+      </Description>
+      <Title>
+        <text>Another piece of Japanese brutality.  The leg of a Korean is beaten flat after being shot at.</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2289" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0101_10</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0101_10</text>
+        <text>Box 1 Folder 1</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Movement Pamphlet</text>
+      </Description>
+      <Title>
+        <text>After the first surprise the Japanese authorities turned loose the soldiers on the Koreans.  This picture shows how one of them was slashed and cut up all over the body by merciless Japanese soldiers.</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2288" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0101_09</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0101_09</text>
+        <text>Box 1 Folder 1</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Movement Pamphlet</text>
+      </Description>
+      <Title>
+        <text>Japanese soldiers dot the streets of Seoul and other important cities in Korea like flies--one Japanese soldier at intervals of five houses.  A busy market square presents a deserted air.</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2287" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0101_08</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0101_08</text>
+        <text>Box 1 Folder 1</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Movement Pamphlet</text>
+      </Description>
+      <Title>
+        <text>Corner of the park where Japanese soldiers are stationed to suppress Korean demonstrations.</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2286" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0101_07</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0101_07</text>
+        <text>Box 1 Folder 1</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Movement Pamphlet</text>
+      </Description>
+      <Title>
+        <text>Japanese soldiers guarding the park gate after demonstration to prevent further gathering of Koreans.</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2285" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0101_06</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0101_06</text>
+        <text>Box 1 Folder 1</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Movement Pamphlet</text>
+      </Description>
+      <Title>
+        <text>Demonstration for independence in the Park. The Koreans are seen shouting "Mansei" with their hands up in the air.  Not a single man is armed.</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2284" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0101_05</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0101_05</text>
+        <text>Box 1 Folder 1</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Movement Pamphlet</text>
+      </Description>
+      <Title>
+        <text>Thousands of enthusiastic Koreans, including women and girls, shouting "Mansei" with hands in the air outside the palace in Seoul.</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2283" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0101_04</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0101_04</text>
+        <text>Box 1 Folder 1</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Movement Pamphlet</text>
+      </Description>
+      <Title>
+        <text>Immense procession of Korean demonstrators, shouting "Mansei" after presenting the declaration of independence to the American Consulate.  The Consulate building appears in the background--Seoul</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2282" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0101_03</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0101_03</text>
+        <text>Box 1 Folder 1</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Movement Pamphlet</text>
+      </Description>
+      <Title>
+        <text>Japanese Prussianism</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2281" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0101_02</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0101_02</text>
+        <text>Box 1 Folder 1</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Movement Pamphlet</text>
+      </Description>
+      <Title>
+        <text>Korea's cry for freedom</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2280" public="1" featured="0">
+    <OmekaCollection>Korean Independence Outbreak Movement</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=mrl8kio_0101_01</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Identifier>
+        <text>mrl8kio_0101_01</text>
+        <text>Box 1 Folder 1</text>
+      </Identifier>
+      <Description>
+        <text>Korean Independence Movement Pamphlet</text>
+      </Description>
+      <Title>
+        <text>Front cover</text>
+      </Title>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Source>
+        <text>Korean Independence Outbreak Collection</text>
+        <text>The Burke Library Archives (Columbia University Libraries)</text>
+      </Source>
+    </DublinCore>
+  </item>
+</itemContainer>

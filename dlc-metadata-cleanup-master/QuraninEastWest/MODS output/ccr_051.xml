@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="omeka">omeka_006100</identifier>
+   <identifier type="local">ccr_051</identifier>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n79112983">
+      <namePart>Picart, Bernard, 1673-1733</namePart>
+   </name>
+   <titleInfo>
+      <title>Cérémonies et coutumes religieuses de tous les peuples du monde</title>
+      <partName>Volume 5, l'inauguration premiere, plate and premiere dissertation sur le mahometisme, first two pages</partName>
+   </titleInfo>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Amsterdam</placeTerm>
+      </place>
+      <publisher>Bernard, Jean-Frédéric, 1683?-1744</publisher>
+      <dateCreated>1723-1743</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1723</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="end">1743</dateCreated>
+   </originInfo>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <form>book in 8 vols.</form>
+      <extent>40 x 26 cm</extent>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form authority="aat">books</form>
+   </physicalDescription>
+   <abstract>Fine illustrated reprint edition of the most important works concerning the world's religions as known in early eighteenth-century Europe</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+   </language>
+   <note>Physical description for set from which digital images were taken:  8 vols. in 9, 253 leaves of plates, some folded in this set vol. 1 has as frontispiece Picart's 1727 engraving "Tableau des principales religions du monde"</note>
+   <note>For an image of Muhammad as reading from the Quran to his followers, see the frontispiece by Adolf van der Laan (c.1690-1742) for the revised French edition of du Ryer's 1747 French Quran translation, published by Pierre Mortier in Amsterdam 1734</note>
+   <note>references:
+STCN PPN 251242188 and 164352457 for the 1737 reprint of vol. V, which includes the Islam section
+Elizabeth M. Sheets, "Jean-Frédéric Bernard: Précurseur du mouvement philosophique du XVIIIe siècle," MA thesis, Columbia University, 1934
+Maxime Préaud, "Bernard Picart," in: Grove Art Online, available at: http://www.oxfordartonline.com:80/subscriber/article/grove/art/T067311pg2 (accessed 11 June 2011)
+Paola von Wyss-Giacosa, Religionsbilder der frühen Aufklärung: Bernard Picarts Tafeln für die Cérémonies et coutumes religieuses de tous les peuples du monde, Wabern, Berne 2006
+Bernard Picart and the First Global Vision of Religion, eds. Lynn A. Hunt et al., Los Angeles, Calif. 2010</note>
+   <note>"So precious a foundation": The Library of Leander van Ess at the Burke Library of Union Theological Seminary in the City of New York, ed. Milton McC. Gatch, New York 1996, pp. 359-360 s.v. XI.9</note>
+   <note type="ownership">Leander van Ess (1772-1847)</note>
+   <note>5c90a21fab1743e86a520e0f739aa999.jpg</note>
+   <note>78a9ed14f8afd843c97e16cf0f3a275b.jpg</note>
+   <location>
+      <physicalLocation/>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/quran/bibcrittoworldrel/worldreligions</url>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Union Rare Folio OD30 C41</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>Quran in East and West: Manuscripts and Printed Books</title>
+      </titleInfo>
+      <location>
+         <url/>
+      </location>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Burke [UTS] Union Rare</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordIdentifier>006100_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>

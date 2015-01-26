@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="omeka">omeka_006098</identifier>
+   <identifier type="local">maf_001</identifier>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/no00008512">
+      <namePart>Widmanstetter, Johann Albrecht, 1506?-1557</namePart>
+   </name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n84050077">
+      <namePart>Hermann, of Carinthia</namePart>
+   </name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n84184693">
+      <namePart>Robert, of Ketton, fl. 1141-1157</namePart>
+   </name>
+   <titleInfo>
+      <title>Mahometis Abdallae filii theologia dialogo explicata</title>
+      <partName>First two pages of Alcorani Epitome</partName>
+   </titleInfo>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Nuremberg</placeTerm>
+      </place>
+      <publisher>Petrejus, Johannes, 1497-1550</publisher>
+      <dateCreated>1543</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1543</dateCreated>
+   </originInfo>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <form>book</form>
+      <extent>20.5 x 15.25 x 1 cm</extent>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form authority="aat">books</form>
+   </physicalDescription>
+   <abstract>Summary of the twelfth-century Latin Quran translation</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+   </language>
+   <note>in 1543 Petreius printed "De revolutionibus orbium coelestium libri VI" by Nicolaus Copernicus</note>
+   <note>For whole item from which this image was taken: no binding.</note>
+   <note>references:
+VD16 ZV 10260
+Sigmund von Riezler, "Widmanstetter, Johann Albrecht," in: Allgemeine Deutsche Biographie 42, 1897, pp. 357-361, available online: http://www.deutsche-biographie.de/sfz85377.html (accessed 11 June 2011)
+Charles Burnett, "Ketton, Robert of (fl. 1141-1157)," in: Oxford Dictionary of National Biography, 2004, available online: http://www.oxforddnb.com/view/article/24529 (accessed 11 June 2011)</note>
+   <note>Hans Jürgen Rieckenberg, "Hermann von Kärnten,“ in: Neue Deutsche Biographie 8, 1969, pp. 646-647, available online: http://www.deutsche-biographie.de/sfz30113.html (accessed 11 June 2011)</note>
+   <note type="ownership">Leander van Ess (1772-1847)</note>
+   <note>mahometis_01.jpg</note>
+   <note>mahometis_02.jpg</note>
+   <location>
+      <physicalLocation/>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/quran/qurans/printed</url>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Van Ess 1</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85068390">
+      <topic>Islam</topic>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>Quran in East and West: Manuscripts and Printed Books</title>
+      </titleInfo>
+      <location>
+         <url/>
+      </location>
+   </relatedItem>
+   <recordInfo>
+      <recordIdentifier>006098_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>
