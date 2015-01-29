@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="CLIO">CLIO id: 4938512</identifier>
+   <identifier type="local">tsd</identifier>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n80046324">
+      <namePart>Michelet, Jules, 1798-1874</namePart>
+   </name>
+   <titleInfo>
+      <title>Tableaux synchroniques de l'histoire moderne</title>
+   </titleInfo>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Brussels</placeTerm>
+      </place>
+      <publisher>Meline, Cans &amp; Compagnie</publisher>
+      <dateCreated>1840</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1840</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form>book</form>
+      <extent>slides show tables 4 (1494-1501) and 3 (1484-1493)
+unpaginated</extent>
+      <extent>30.5 x 22.75 x 2 cm</extent>
+      <form authority="aat">books</form>
+   </physicalDescription>
+   <abstract>Tables for the separately printed "Précis de l'histoire moderne: Introduction à l'histoire universelle", covering years 1453-1648.</abstract>
+   <abstract>History instruction in public schools in nineteenth-century France</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+   </language>
+   <note>pamphlet with paper wrapper, bound with other historical tables</note>
+   <note>The first French edition of the "Tableau chronologique de l'histoire moderne" (1825) and its textbook "Précis de l'histoire moderne" (1827) was published by Louis Colas in Paris. After the foundation of Belgium in 1830 later editions of the textbook were also published in Brussels with the subtitle: "Ouvrage adopté par le conseil royal de l'université de France et prescrit pour l'enseignement de l'histoire moderne, das les colléges royaux et dans les etablissements d'instruction publicque"</note>
+   <note>references:
+Michelet, ed. Roland Barthes, tr. Richard Howard, New York 1987 (original: Michelet par lui-même: Images et textes, Paris 1954)
+Paule Petitier, La géographie de Michelet: Territoire et modèles naturels dans les premières oeuvres de Michelet, Paris 1997</note>
+   <location>
+      <physicalLocation/>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>703 A7</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>Quran in East and West: Manuscripts and Printed Books</title>
+      </titleInfo>
+      <location>
+         <url/>
+      </location>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Gillett Collection of American History and Theology</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordIdentifier>tsd_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>

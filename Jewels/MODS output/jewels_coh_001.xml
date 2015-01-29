@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">jewels_coh_001</identifier>
+   <name type="personal"
+         authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n82154718">
+      <namePart>Mazzinghi, Joseph, 1765-1844</namePart>
+   </name>
+   <titleInfo>
+      <title>Chains of the Heart, or the Slave by Choice. A Comic Opera.</title>
+      <partName>Title page</partName>
+   </titleInfo>
+   <originInfo>
+      <place>
+         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n79005665">London (England)</placeTerm>
+      </place>
+      <publisher>Goulding Phipps &amp;amp; D'Almaine</publisher>
+      <dateCreated/>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1801</dateCreated>
+   </originInfo>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <form authority="local">music</form>
+   </physicalDescription>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>NyNyCMA</physicalLocation>
+      <url access="object in context" usage="primary display">http://www.columbia.edu/cu/lweb/eresources/exhibitions/treasures/html/228.html</url>
+   </location>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85088762">
+      <topic>Music</topic>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Jewels in her crown: treasures of Columbia University Libraries special collections</title>
+      </titleInfo>
+      <location>
+         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio4887511</url>
+      </location>
+   </relatedItem>
+   <accessCondition>No known restrictions.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>ldpd_treasures_228_001_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>

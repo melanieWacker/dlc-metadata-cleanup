@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="CLIO">CLIO_7094337</identifier>
+   <identifier type="local">peopleinbooks_ohy</identifier>
+   <titleInfo>
+      <title>Olam hafukh: ṿe-hu sipur ha-magefah asher neheytah be-yamaṿ be-geṭo Padova be-shnat 5391 [1631]</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>עולם הפוך והוא ספור המגפה אשר נהיתה בימיו בגיטו של פדובה בשנת השצ"א</title>
+   </titleInfo>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Padua, Italy</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n79027122">Padua (Italy)</placeTerm>
+      </place>
+      <dateCreated>17th century</dateCreated>
+      <dateCreated encoding="w3cdtf"
+                   keyDate="yes"
+                   point="start"
+                   qualifier="approximate">1600</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="end">1699</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="lcsh">manuscripts</form>
+   </physicalDescription>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">heb</languageTerm>
+   </language>
+   <location>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>X893 Ab8</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>People in the Books: Hebraica and Judaica Manuscripts from Columbia University Libraries</title>
+      </titleInfo>
+      <location>
+         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio9680681</url>
+      </location>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>X Manuscripts</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Hebrew Manuscripts</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordIdentifier>ohy_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>

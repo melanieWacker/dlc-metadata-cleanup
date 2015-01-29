@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="CLIO">CLIO id: 4585128</identifier>
+   <identifier type="local">hgr</identifier>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n84121106">
+      <namePart>Baudier, Michel, 1589?-1645</namePart>
+   </name>
+   <titleInfo>
+      <title>Histoire générale de la religion des Turcs</title>
+   </titleInfo>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Paris</placeTerm>
+      </place>
+      <publisher>Cramoisy, Claude</publisher>
+      <dateCreated>1625</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1625</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form>book</form>
+      <extent>24 x 18.5 x 3 cm</extent>
+      <form authority="aat">books</form>
+   </physicalDescription>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+   </language>
+   <location>
+      <physicalLocation/>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Union Rare OT23 B33</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject authority="lcsh">
+      <topic>Turkey--History--Ottoman Empire, 1288-1918--Religion</topic>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>Quran in East and West: Manuscripts and Printed Books</title>
+      </titleInfo>
+      <location>
+         <url/>
+      </location>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Burke [UTS] Union Rare</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordIdentifier>hgr_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>

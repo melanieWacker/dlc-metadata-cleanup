@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">ngp</identifier>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n91126835">
+      <namePart>Perkins, Justin, 1805-1869</namePart>
+   </name>
+   <titleInfo>
+      <title>Nestorian girl with a profusion of ornaments</title>
+   </titleInfo>
+   <originInfo>
+      <place>
+         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n91047104">Urūmīyah (Iran)</placeTerm>
+      </place>
+      <dateCreated>1839</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1839</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form>gouache sent as a letter</form>
+      <extent>opaque colors and ink on paper</extent>
+      <extent>21 x 29 cm</extent>
+      <form authority="gmgpc">paintings</form>
+   </physicalDescription>
+   <abstract>Part of a letter sent to the Inquiring Society at Union Theological Seminary, New York City, from Justin Perkins</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <note>uncatalogued as of June 2011</note>
+   <note type="ownership">Inquiring Society at Union Theological Seminary</note>
+   <location>
+      <physicalLocation/>
+   </location>
+   <subject>
+      <geographic authority="naf"
+                  valueURI="http://id.loc.gov/authorities/names/n91047104">Urūmīyah (Iran)</geographic>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>Quran in East and West: Manuscripts and Printed Books</title>
+      </titleInfo>
+      <location>
+         <url/>
+      </location>
+   </relatedItem>
+   <recordInfo>
+      <recordIdentifier>ngp_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>
