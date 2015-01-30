@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--The name of each XML element representing an Omeka element or element set is
+based on the name of the element or element set in Omeka. For example:
+     The "Dublin Core" element set is represented by the DublinCore XML element
+     The "Form Genre" element in MODS is represented by the FormGenre XML element
+
+The following XML elements are based on internal Omeka data:
+     The OriginalFileLoadedIntoOmeka XML element contains the name/path of
+     of the file(s) loaded into Omeka for the given item.
+     The OmekaCollection XML element contains the name of the Omeka collection
+     containing the item, if the item belongs to an Omeka collection. Please note
+     that this element is different from the Collection element in MODS, which is
+     curator-populated.
+-->
+<itemContainer>
+  <item itemId="0000" public="0" featured="0">
+    <ItemType>Document<text>Text: Item Type Text</text><text>Original Format: Item Type Original Format</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>c4l15logo.eps</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/index.php/exhibits/show/butler75/art---architecture/architecture--page-2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>DC Title</text>
+      </Title>
+      <Subject>
+        <text>DC Subject</text>
+      </Subject>
+      <Description>
+        <text>DC Description</text>
+      </Description>
+      <Creator>
+        <text>DC Creator</text>
+      </Creator>
+      <Source>
+        <text>DC Source</text>
+      </Source>
+      <Publisher>
+        <text>DC Publisher</text>
+      </Publisher>
+      <Date>
+        <text>DC Date</text>
+      </Date>
+      <Contributor>
+        <text>DC Contributor</text>
+      </Contributor>
+      <Rights>
+        <text>DC Rights</text>
+      </Rights>
+      <Relation>
+        <text>DC Relation</text>
+      </Relation>
+      <Format>
+        <text>DC Format</text>
+      </Format>
+      <Language>
+        <text>aar</text>
+      </Language>
+      <Type>
+        <text>DC Type</text>
+      </Type>
+      <Identifier>
+        <text>DC Identifier</text>
+      </Identifier>
+      <Coverage>
+        <text>DC Coverage</text>
+      </Coverage>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>MODS Key Date</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>MODS Publication Place</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>MODS Publication Date</text>
+      </PublicationDate>
+      <PlaceofOrigin>
+        <text>MODS Place of Origin</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>MODS Form/Genre</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>MODS Physical Description</text>
+      </PhysicalDescription>
+      <PhysicalLocation>
+        <text>MODS Physical Location</text>
+      </PhysicalLocation>
+      <RepositoryName>
+        <text>Art Properties, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>MODS Subrepository</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>MODS Shelf Location</text>
+      </ShelfLocation>
+      <Notes>
+        <text>MODS Notes</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>born digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>MODS Collection</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>Additional Spatial Coverage</text>
+      </SpatialCoverage>
+      <RightsHolder>
+        <text>Additional Rights Holder</text>
+      </RightsHolder>
+      <Provenance>
+        <text>Additional Provenance</text>
+      </Provenance>
+      <Citation>
+        <text>Additional Citation</text>
+      </Citation>
+      <TemporalCoverage>
+        <text>Additional Temporal Coverage</text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+    <tagContainer>
+      <tag tagId="179">
+        <name>Tag 1</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="8994" public="0" featured="0">
+    <ItemType>Document<text>Text: Item Type Text</text><text>Original Format: Item Type Original Format</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>c4l15logo.eps</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/index.php/exhibits/show/butler75/art---architecture/architecture--page-2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>DC Title</text>
+      </Title>
+      <Subject>
+        <text>DC Subject</text>
+      </Subject>
+      <Description>
+        <text>DC Description</text>
+      </Description>
+      <Creator>
+        <text>DC Creator</text>
+      </Creator>
+      <Source>
+        <text>DC Source</text>
+      </Source>
+      <Publisher>
+        <text>DC Publisher</text>
+      </Publisher>
+      <Date>
+        <text>DC Date</text>
+      </Date>
+      <Contributor>
+        <text>DC Contributor</text>
+      </Contributor>
+      <Rights>
+        <text>DC Rights</text>
+      </Rights>
+      <Relation>
+        <text>DC Relation</text>
+      </Relation>
+      <Format>
+        <text>DC Format</text>
+      </Format>
+      <Language>
+        <text>aar</text>
+      </Language>
+      <Type>
+        <text>DC Type</text>
+      </Type>
+      <Identifier>
+        <text>DC Identifier</text>
+      </Identifier>
+      <Coverage>
+        <text>DC Coverage</text>
+      </Coverage>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>MODS Key Date</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>MODS Publication Place</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>MODS Publication Date</text>
+      </PublicationDate>
+      <PlaceofOrigin>
+        <text>MODS Place of Origin</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>MODS Form/Genre</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>MODS Physical Description</text>
+      </PhysicalDescription>
+      <PhysicalLocation>
+        <text>MODS Physical Location</text>
+      </PhysicalLocation>
+      <RepositoryName>
+        <text>Art Properties, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>MODS Subrepository</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>MODS Shelf Location</text>
+      </ShelfLocation>
+      <Notes>
+        <text>MODS Notes</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>born digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>MODS Collection</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>Additional Spatial Coverage</text>
+      </SpatialCoverage>
+      <RightsHolder>
+        <text>Additional Rights Holder</text>
+      </RightsHolder>
+      <Provenance>
+        <text>Additional Provenance</text>
+      </Provenance>
+      <Citation>
+        <text>Additional Citation</text>
+      </Citation>
+      <TemporalCoverage>
+        <text>Additional Temporal Coverage</text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+    <tagContainer>
+      <tag tagId="179">
+        <name>Tag 1</name>
+      </tag>
+    </tagContainer>
+  </item>
+</itemContainer>
