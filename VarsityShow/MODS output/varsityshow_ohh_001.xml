@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="omeka">omeka_omeka_4193</identifier>
+   <identifier type="local">omeka_4193</identifier>
+   <identifier type="local">varsityshow_ohh_001</identifier>
+   <name type="personal">
+      <namePart>R.F.</namePart>
+   </name>
+   <titleInfo>
+      <title>Oh Hector!</title>
+   </titleInfo>
+   <titleInfo type="">
+      <title/>
+   </titleInfo>
+   <originInfo>
+      <place>
+         <placeTerm type="text"/>
+      </place>
+      <publisher/>
+      <dateCreated>1929</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier=""/>
+   </originInfo>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <form>theater programs</form>
+      <extent>8" x 10.5"</extent>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form authority="aat">printed ephemera</form>
+   </physicalDescription>
+   <abstract>Program cover for Varsity Show "Oh, Hector!" (1929)</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <note type="ownership"/>
+   <location>
+      <physicalLocation authority="NNC-UA"/>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/varsity-show/artwork/program</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation/>
+            <shelfLocator>Box 11, folder 1</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject>
+      <name authority="" valueURI="">
+         <namePart/>
+      </name>
+   </subject>
+   <subject>
+      <geographic authority="" valueURI=""/>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>Varsity Show: A Columbia Tradition</title>
+      </titleInfo>
+      <location>
+         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8225262</url>
+      </location>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Varsity Show Records</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">Columbia University Libraries copyright/permissions information can be found at http://library.columbia.edu/about/policies/copyright-online-collections.html</accessCondition>
+   <recordInfo>
+      <recordIdentifier>omeka_4193_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>
