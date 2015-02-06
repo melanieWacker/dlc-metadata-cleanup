@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">omeka_5031</identifier>
+   <identifier type="local">dramaticmuseum_msd_000</identifier>
+   <name type="personal">
+      <role>
+         <roleTerm authority="marcrelator"/>
+      </role>
+      <namePart>Devred, Alfred </namePart>
+   </name>
+   <titleInfo>
+      <title>Model Of The Salle Des Machines, Theater In The Tuilieries, Paris, In 1671</title>
+   </titleInfo>
+   <originInfo>
+      <place>
+         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n79006404">France</placeTerm>
+      </place>
+      <dateCreated>after 1906</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1906</dateCreated>
+   </originInfo>
+   <typeOfResource>three dimensional object</typeOfResource>
+   <physicalDescription>
+      <form>Stage Model</form>
+      <extent>16" x 21" x 20"</extent>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form authority="aat">objects</form>
+   </physicalDescription>
+   <abstract>Represents a setting for "Psyche" by Moliere and Corneille, based upon a 1906 revival of the play at the Theatre Francaise. With B08, the model illustrates differing methods of staging in 17th century French theatre. La Salles de Machines was a large and extravagently-equipped theatre built by Gaspare Vigarani in a wing of the Tuileries. </abstract>
+   <note>Original filename: rbml_realia_b11.tif</note>
+   <note>Scale 3:100</note>
+   <note type="ownership">Gift, Brander Matthews</note>
+   <note type="filename">rbml_realia_b11</note>
+   <location>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/index.php/exhibits/show/realia/historical_models/gallery</url>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>DM number: B11</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject authority="fast" valueURI="http://id.worldcat.org/fast/1149393">
+      <topic>Theaters--Models</topic>
+   </subject>
+   <subject>
+      <name authority="naf" valueURI="">
+         <namePart>Théâtre des Tuileries (Paris, France)</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf" valueURI="">
+         <namePart>Psyché (Choreographic work)</namePart>
+      </name>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Dramatic Museum Realia</title>
+      </titleInfo>
+      <location>
+         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8556788</url>
+      </location>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Dramatic Museum Realia</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">Columbia University Libraries copyright/permissions information can be found at http://library.columbia.edu/about/policies/copyright-online-collections.html</accessCondition>
+   <recordInfo>
+      <recordIdentifier>omeka_5031_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>

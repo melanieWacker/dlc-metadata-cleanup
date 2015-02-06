@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">omeka_1449</identifier>
+   <identifier type="local">dramaticmuseum_bdp_000</identifier>
+   <titleInfo>
+      <title>Black Devil Hand Puppet</title>
+   </titleInfo>
+   <originInfo>
+      <place>
+         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n79006404">France</placeTerm>
+      </place>
+      <dateCreated>between 1700 and 1966</dateCreated>
+      <dateCreated encoding="w3cdtf"
+                   keyDate="yes"
+                   point="start"
+                   qualifier="inferred">1700</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="end">1966</dateCreated>
+   </originInfo>
+   <typeOfResource>three dimensional object</typeOfResource>
+   <physicalDescription>
+      <form>papier mache</form>
+      <form>Hand puppets</form>
+      <extent>12"</extent>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form authority="aat">objects</form>
+   </physicalDescription>
+   <note>Date range based on the date range ([18th c.]-1966) of the Dramatic Museum Realia collection</note>
+   <note type="ownership">Purchased by Brander Matthews in Paris</note>
+   <note type="filename">rbml_realia_p08.08</note>
+   <location>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/index.php/exhibits/show/realia/puppets_france/gallery6</url>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>DM number: P08.08,  Box:  10</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject authority="fast" valueURI="http://id.worldcat.org/fast/950880">
+      <topic>Hand puppets</topic>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Dramatic Museum Realia</title>
+      </titleInfo>
+      <location>
+         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8556788</url>
+      </location>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Dramatic Museum Realia</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">Columbia University Libraries copyright/permissions information can be found at http://library.columbia.edu/about/policies/copyright-online-collections.html</accessCondition>
+   <recordInfo>
+      <recordIdentifier>omeka_1449_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>

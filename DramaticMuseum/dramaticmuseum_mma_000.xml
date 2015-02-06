@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">omeka_2534</identifier>
+   <identifier type="local">dramaticmuseum_mma_000</identifier>
+   <titleInfo>
+      <title>Carnival Mask Mold</title>
+   </titleInfo>
+   <originInfo>
+      <place>
+         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n81013960">Mexico</placeTerm>
+      </place>
+      <dateCreated>1800-1899</dateCreated>
+      <dateCreated encoding="w3cdtf"
+                   keyDate="yes"
+                   point="start"
+                   qualifier="approximate">1800</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="end">1899</dateCreated>
+   </originInfo>
+   <typeOfResource>three dimensional object</typeOfResource>
+   <physicalDescription>
+      <form>clay</form>
+      <form>Masks (costume)</form>
+      <extent>7.5" x 6.5"</extent>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form authority="aat">objects</form>
+   </physicalDescription>
+   <abstract>Clay mold for papier mache carnival mask.</abstract>
+   <abstract>Carlebach dates in 19th century but a later date is more appropriate</abstract>
+   <note>Original filename: rbml_realia_m24.20.tif
+</note>
+   <note type="ownership">gift, George P. Edgar through Carlebach, 1960</note>
+   <note type="filename">rbml_realia_m24.20</note>
+   <location>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/index.php/exhibits/show/realia/masks_mexico/gallery3</url>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>DM number: M24.20,  Box:  146</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject authority="fast" valueURI="http://id.worldcat.org/fast/847674">
+      <topic>Carnival masks</topic>
+   </subject>
+   <subject authority="fast" valueURI="http://id.worldcat.org/fast/1024381">
+      <topic>Models (Clay, plaster, etc.)</topic>
+   </subject>
+   <subject>
+      <temporal>1800-1899</temporal>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Dramatic Museum Realia</title>
+      </titleInfo>
+      <location>
+         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8556788</url>
+      </location>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Dramatic Museum Realia</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">Columbia University Libraries copyright/permissions information can be found at http://library.columbia.edu/about/policies/copyright-online-collections.html</accessCondition>
+   <recordInfo>
+      <recordIdentifier>omeka_2534_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>

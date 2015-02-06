@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">omeka_2442</identifier>
+   <identifier type="local">dramaticmuseum_cze_000</identifier>
+   <titleInfo>
+      <title>Chokwe Mask Of Mwana Po (beautiful Girl)</title>
+   </titleInfo>
+   <originInfo>
+      <place>
+         <placeTerm type="text"
+                    valueURI="http://id.loc.gov/authorities/subjects/sh85001531">Africa</placeTerm>
+      </place>
+      <dateCreated>between 1700 and 1966</dateCreated>
+      <dateCreated encoding="w3cdtf"
+                   keyDate="yes"
+                   point="start"
+                   qualifier="inferred">1700</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="end">1966</dateCreated>
+   </originInfo>
+   <typeOfResource>three dimensional object</typeOfResource>
+   <physicalDescription>
+      <form>wood, string, hair, fiber</form>
+      <form>Masks (costume)</form>
+      <extent>11" x 8"</extent>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form authority="aat">objects</form>
+   </physicalDescription>
+   <abstract>Ornately carved oval wood mask with woven hood covering the head of wearer (in brown). Surface is highly polished and of high quality</abstract>
+   <note>Date range based on the date range ([18th c.]-1966) of the Dramatic Museum Realia collection</note>
+   <note type="ownership">gift, Stanley Marcus through Carlebach, 1953</note>
+   <note type="filename">rbml_realia_m18.03</note>
+   <location>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/index.php/exhibits/show/realia/masks_africa/gallery</url>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>DM number: M18.03,  Box:  118</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject authority="fast" valueURI="http://id.worldcat.org/fast/1011099">
+      <topic>Masks, African</topic>
+   </subject>
+   <subject authority="fast" valueURI="http://id.worldcat.org/fast/858377">
+      <topic>Chokwe (African people)</topic>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Dramatic Museum Realia</title>
+      </titleInfo>
+      <location>
+         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8556788</url>
+      </location>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Dramatic Museum Realia</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">Columbia University Libraries copyright/permissions information can be found at http://library.columbia.edu/about/policies/copyright-online-collections.html</accessCondition>
+   <recordInfo>
+      <recordIdentifier>omeka_2442_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>

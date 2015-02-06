@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">omeka_1516</identifier>
+   <identifier type="local">dramaticmuseum_psm_000</identifier>
+   <titleInfo>
+      <title>Peg-leg Sailor Marionette With Fiddle And Bow</title>
+   </titleInfo>
+   <originInfo>
+      <place>
+         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n79006404">France</placeTerm>
+      </place>
+      <dateCreated>1870-1899</dateCreated>
+      <dateCreated encoding="w3cdtf"
+                   keyDate="yes"
+                   point="start"
+                   qualifier="approximate">1870</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="end">1899</dateCreated>
+   </originInfo>
+   <typeOfResource>three dimensional object</typeOfResource>
+   <physicalDescription>
+      <form>wood, cloth</form>
+      <form>Marionettes (stringed puppets)</form>
+      <extent>22"</extent>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form authority="aat">objects</form>
+   </physicalDescription>
+   <abstract>Is constructed like P5.7. Left eye missing (no patch); blue jacket and white bell-bottom trousers</abstract>
+   <note type="ownership">Purchased by Brander Matthews from De Vere in Paris, 1925</note>
+   <note type="filename">rbml_realia_p05.08</note>
+   <location>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/index.php/exhibits/show/realia/puppets_france/gallery1</url>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>DM number: P05.08,  Box:  6</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject authority="fast" valueURI="http://id.worldcat.org/fast/1010062">
+      <topic>Marionettes</topic>
+   </subject>
+   <subject authority="fast" valueURI="http://id.worldcat.org/fast/1103543">
+      <topic>Sailors</topic>
+   </subject>
+   <subject authority="fast" valueURI="http://id.worldcat.org/fast/1167350">
+      <topic>Violin</topic>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Dramatic Museum Realia</title>
+      </titleInfo>
+      <location>
+         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8556788</url>
+      </location>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Dramatic Museum Realia</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">Columbia University Libraries copyright/permissions information can be found at http://library.columbia.edu/about/policies/copyright-online-collections.html</accessCondition>
+   <recordInfo>
+      <recordIdentifier>omeka_1516_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>
