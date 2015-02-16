@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">varsityshow_mma</identifier>
+   <name type="conference">
+      <namePart>Varsity Show (Columbia University) (1912)</namePart>
+   </name>
+   <titleInfo>
+      <title>Mysterious Miss Apache</title>
+   </titleInfo>
+   <originInfo>
+      <dateCreated>1912</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1912</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form>posters</form>
+      <extent>22" x 14"</extent>
+      <form authority="aat">posters</form>
+   </physicalDescription>
+   <abstract>Original poster for 1912 Varsity Show "The Mysterious Miss Apache"</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <note type="holdings">Flat Files UA#0106</note>
+   <note type="filename">varsity_100129035</note>
+   <location>
+      <physicalLocation authority="marcorg">NNC-UA</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>UA Flat Files Box 14, folder 4</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject authority="fast" valueURI="http://id.worldcat.org/fast/1199201">
+      <topic>College musicals</topic>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>Varsity Show: A Columbia Tradition</title>
+      </titleInfo>
+      <location>
+         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8225262</url>
+      </location>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Varsity Show Records</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">Columbia University Libraries copyright/permissions information can be found at http://library.columbia.edu/about/policies/copyright-online-collections.html</accessCondition>
+   <recordInfo>
+      <recordIdentifier>4216_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>
