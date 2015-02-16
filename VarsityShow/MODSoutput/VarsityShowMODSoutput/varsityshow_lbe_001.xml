@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">omeka_4196</identifier>
+   <identifier type="local">varsityshow_lbe_001</identifier>
+   <name type="conference">
+      <namePart>Varsity Show (Columbia University) (1940)</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>Columbia University Players</namePart>
+   </name>
+   <titleInfo>
+      <title>Life Begins In '40</title>
+      <partName>Title page</partName>
+   </titleInfo>
+   <originInfo>
+      <dateCreated>1940</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1940</dateCreated>
+   </originInfo>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <form>theater programs</form>
+      <extent>9" x 11.5"</extent>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form authority="aat">printed ephemera</form>
+   </physicalDescription>
+   <abstract>Title page inside Varsity Show program for "Life Begins In 40" (1940)</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <note type="holdings">UA#0106</note>
+   <note type="filename">varsity_100129015</note>
+   <location>
+      <physicalLocation authority="marcorg">NNC-UA</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/varsity-show/alums/diamond</url>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 11, folder 12</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject authority="fast" valueURI="http://id.worldcat.org/fast/1199201">
+      <topic>College musicals</topic>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>Varsity Show: A Columbia Tradition</title>
+      </titleInfo>
+      <location>
+         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8225262</url>
+      </location>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Varsity Show Records</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem>
+      <note>The Columbia Jester, April 1940</note>
+   </relatedItem>
+   <accessCondition type="use and reproduction">Columbia University Libraries copyright/permissions information can be found at http://library.columbia.edu/about/policies/copyright-online-collections.html</accessCondition>
+   <recordInfo>
+      <recordIdentifier>4196_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>
