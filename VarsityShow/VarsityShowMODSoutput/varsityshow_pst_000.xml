@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">omeka_4218</identifier>
+   <identifier type="local">varsityshow_pst_000</identifier>
+   <name usage="primary" type="personal">
+      <namePart>H.P. ??</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">ill</roleTerm>
+      </role>
+   </name>
+   <name type="conference">
+      <namePart>Varsity Show (Columbia University) (1909)</namePart>
+   </name>
+   <titleInfo>
+      <title>In Newport</title>
+   </titleInfo>
+   <originInfo>
+      <dateCreated>1909</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1909</dateCreated>
+   </originInfo>
+   <typeOfResource>still image</typeOfResource>
+   <physicalDescription>
+      <form>posters</form>
+      <extent>22.25" x 14"</extent>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form authority="aat">posters</form>
+   </physicalDescription>
+   <abstract>Printed poster advertising 1909 Varsity Show "In Newport" featuring the image of a can can girl.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <note type="holdings">Flat Files UA#0106</note>
+   <note type="filename">varsity_100129037</note>
+   <location>
+      <physicalLocation authority="marcorg">NNC-UA</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/varsity-show/artwork/posters</url>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>UA Flat Files, Map Case, drawer 8</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject authority="fast" valueURI="http://id.worldcat.org/fast/1199201">
+      <topic>College musicals</topic>
+   </subject>
+   <subject authority="fast" valueURI="http://id.worldcat.org/fast/887581">
+      <topic>Dancers</topic>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>Varsity Show: A Columbia Tradition</title>
+      </titleInfo>
+      <location>
+         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8225262</url>
+      </location>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Varsity Show Records</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">Columbia University Libraries copyright/permissions information can be found at http://library.columbia.edu/about/policies/copyright-online-collections.html</accessCondition>
+   <recordInfo>
+      <recordIdentifier>4218_descMetadata</recordIdentifier>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+   </recordInfo>
+</mods>
