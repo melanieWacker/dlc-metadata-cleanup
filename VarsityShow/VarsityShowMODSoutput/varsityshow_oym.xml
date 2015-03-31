@@ -2,9 +2,9 @@
 <mods xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns="http://www.loc.gov/mods/v3"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
+   <identifier type="local">omeka_4198</identifier>
    <identifier type="local">varsityshow_oym</identifier>
    <name usage="primary" type="personal">
       <namePart>Preston, Thomas</namePart>
@@ -17,8 +17,7 @@
    </titleInfo>
    <originInfo>
       <dateCreated>April 1936</dateCreated>
-      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1936</dateCreated>
-      <dateCreated encoding="w3cdtf" keyDate="yes" point="end">4</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1936-04</dateCreated>
    </originInfo>
    <physicalDescription>
       <form>theater programs</form>
@@ -66,7 +65,7 @@
    </relatedItem>
    <accessCondition type="use and reproduction">Columbia University Libraries copyright/permissions information can be found at http://library.columbia.edu/about/policies/copyright-online-collections.html</accessCondition>
    <recordInfo>
-      <recordIdentifier>varsityshow_oym_descMetadata</recordIdentifier>
+      <recordIdentifier>4198_descMetadata</recordIdentifier>
       <recordContentSource authority="marcorg">NNC</recordContentSource>
       <languageOfCataloging>
          <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
