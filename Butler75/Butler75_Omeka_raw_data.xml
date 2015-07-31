@@ -1,0 +1,3264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--The name of each XML element representing an Omeka element or element set is
+based on the name of the element or element set in Omeka. For example:
+     The "Dublin Core" element set is represented by the DublinCore XML element
+     The "Form Genre" element in MODS is represented by the FormGenre XML element
+
+The following XML elements are based on internal Omeka data:
+     The OriginalFileLoadedIntoOmeka XML element contains the name/path of
+     of the file(s) loaded into Omeka for the given item.
+     The OmekaCollection XML element contains the name of the Omeka collection
+     containing the item, if the item belongs to an Omeka collection. Please note
+     that this element is different from the Collection element in MODS, which is
+     curator-populated.
+-->
+<itemContainer>
+  <item itemId="825" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>banner.jpg</text>
+      <text>banner2.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/art---architecture/architecture--page-2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Banner Project</text>
+      </Title>
+      <Description>
+        <text>Photograph of banner of seven great female authors (Sappho, Marie de France, Christine de Pizan, Sor Juana Ines de la Cruz, Bronte, Dickinson, and Woolf) unfurled over Butler Library.</text>
+      </Description>
+      <Date>
+        <text>1989</text>
+      </Date>
+      <Contributor>
+        <text>Laura Hotchkiss Brown</text>
+      </Contributor>
+    </DublinCore>
+  </item>
+  <item itemId="676" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1155</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Soph-Frosh Rush</text>
+      </Title>
+      <Description>
+        <text>Students playing with a very large ball in front of Butler Library as part of the 1947 Soph-Frosh Rush.</text>
+      </Description>
+      <Creator>
+        <text>Manny Warman, Columbia University</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 199; Folder 29 (SASL-Traditions -Rushes-1947)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="675" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1154</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Craftsmanship Award Presentation</text>
+      </Title>
+      <Description>
+        <text>President Nicholas Murray Butler handing out a Craftsmanship Award in front of South Hall (Butler Library), 1934.</text>
+      </Description>
+      <Creator>
+        <text>Albert Rothschild</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection; Box 185; Folder 27 (Events - Awards - Craftsmanship Award, 1934)</text>
+      </Source>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Events-Awards-Craftmanship Award</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="674" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1153</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Craftsmanship Award Winners</text>
+      </Title>
+      <Description>
+        <text>Group photograph of the 1934 Craftsmanship Award winners with President Nicholas Murray Butler in front of South Hall (Butler Library).</text>
+      </Description>
+      <Creator>
+        <text>Albert Rothschild</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection; Box 185; Folder 27(Events - Awards - Craftsmanship Award, 1934)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="673" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1152</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Commencement 1953</text>
+      </Title>
+      <Description>
+        <text>1953 Columbia graduate, holding two children, having his picture taken after the ceremony is over.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 189;Folder 9 (Events - Commencement - 1953)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="672" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1151</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Commencement 1957</text>
+      </Title>
+      <Description>
+        <text>View of Butler Library from Low Library entrance, during the 1957commencement.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 189;Folder 13 (Events - Commencement - 1957)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="671" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1150</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Mace Bearer</text>
+      </Title>
+      <Description>
+        <text>Professor Larkin Farinrolt marches from Butler Library with the mace, in front of President Grayson Kirk, at the 1957 commencement ceremony.</text>
+      </Description>
+      <Creator>
+        <text>Morton Weinstein</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;MS 189;Folder 13 (Events - Commencement - 1957)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="670" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1149</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Commencement Procession</text>
+      </Title>
+      <Description>
+        <text>18 May 1977 Commencement ceremony. Procession of University Trustees from Butler Library to Low Plaza.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 190;Folder 10 (Events - Commencement - 1977)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="669" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1148</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Soph-Frosh Rush</text>
+      </Title>
+      <Description>
+        <text>Crowd standing in front of Butler Library after the completion of the Soph-Frosh Rush, ca. 1950.</text>
+      </Description>
+      <Creator>
+        <text>Paul B. Coogan, Columbian</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 199; Folder 23 (SASL-Traditions - Rushes, n.d.)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="668" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1147</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Frosh-Soph Tug of War</text>
+      </Title>
+      <Description>
+        <text>Tug of war for Soph-Frosh Rush taking place in front of Butler Library.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 199; Folder 23 (SASL-Traditions - Rushes, n.d.)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="667" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1146</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Soph-Frosh Rush 1950</text>
+      </Title>
+      <Description>
+        <text>Crowd of students in front of Butler Library participating in the 1950 Soph-Frosh Rush. </text>
+      </Description>
+      <Creator>
+        <text>George Zimbel</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection; Box 199; Folder 32 (SASL-Traditions -Rushes-1950)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="666" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1145</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Sleeping in the Library</text>
+      </Title>
+      <Description>
+        <text>Group of students sleeping at a library table, ca. 1970s.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection; Box 195; Folder 14 (Student Life - Miscellaneous, ca. 1960-1990s)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="665" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1144</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Columbia Bicentennial Display</text>
+      </Title>
+      <Description>
+        <text>"Students discuss one of the panels in Columbia University's Bicentennial Exhibit entitled 'A Man's Right to Knowledge and the Free Use Thereof." A funereal design surrounds a photograph showing the damaged front of the office of La Prensa, the opposition newspaper in Buenos Aires, Argentina, closed by order of Juan Peron, January 26, 1951. The quotation from John Locke reads: '...if what (a man) holds be, as he gives out, well fenced with evidence, and he sees it to be true, what need he fear to put it to the proof?...He whose assent goes beyond his evidence owes this excess of his adherence only to prejudice, and does, in effect, own it....declaring thereby that it is not evidence he seeks but the quiet enjoyment of the opinion he is fond of...'"</text>
+      </Description>
+      <Creator>
+        <text>Manny Warman, Columbia University</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection; MS 149; Folder 2 (Bicentennial - Exhibits - Columbia University, New York, 1954)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="664" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1143</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/art---architecture/art---architecture</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Exhibit of French Universities at Butler Library </text>
+      </Title>
+      <Description>
+        <text>Image of (L to R) Pierre Douzelot, President Grayson Kirk, Jean Sarrailk, and Henri Bonnet examining a part of the exhibit of French Universities at Butler Library, 18 October 1954.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection; MS 149; Folder 2 (Bicentennial - Exhibits - Columbia University, New York, 1954)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="663" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1142</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Columbia Bicentennial Coverage</text>
+      </Title>
+      <Description>
+        <text>Woman looking at bulletin board containing examples of the media coverage for Columbia University's Bicentennial in 1954. </text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection; MS 149; Folder 2 (Bicentennial - Exhibits - Columbia University, New York, 1954)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="662" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1141</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text> "Banned Books" Display</text>
+      </Title>
+      <Description>
+        <text>"Students pore over a display of "Banned Books of All Ages" in Butler Library at Columbia University which is observing its 200th anniversary throughout 1954."</text>
+      </Description>
+      <Creator>
+        <text>Manny Warman, Columbia University</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection; Box 149; Folder 2 (Bicentennial - Exhibits - Columbia University, New York, 1954)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="661" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1140</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Film Editing</text>
+      </Title>
+      <Description>
+        <text>CMC (Columbia Movie Club?) members editing film, ca. 1947.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection; Box 129; Folder 2 (Academics - Affiliated Institutions - Columbia University Press)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="660" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1139</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Columbia Encyclopedia Publication Party</text>
+      </Title>
+      <Description>
+        <text>Professor Tyndall and Dwight Miner at the publication party for the Columbia Encyclopedia.</text>
+      </Description>
+      <Creator>
+        <text>Manny Warman, Columbia University</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection; Box 129; Folder 2 (Academics - Affiliated Institutions - Columbia University Press)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="659" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1138</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Recent Books by Columbia Faculty</text>
+      </Title>
+      <Description>
+        <text>Table of Columbia University Press books written by Columbia Faculty, May 1951.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection; Box 129; Folder 2 (Academics - Affiliated Institutions - Columbia University Press)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="658" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1137</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Checking Sources</text>
+      </Title>
+      <Description>
+        <text>"Theodore Shabad, assistant editor of the Gazetteer, checks data on source which include a Communist atlas published in 1950, and the China Postal Guide in both Chinese and English editions. "</text>
+      </Description>
+      <Creator>
+        <text>Manny Warman, Columbia University</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection; Box 129; Folder 2 (Academics - Affiliated Institutions - Columbia University Press)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="657" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1136</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people--page-3</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Viewing a Rare Book Display</text>
+      </Title>
+      <Description>
+        <text>Patron viewing a display of rare books in the Rare Book and Manuscript Library.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 138;Folder 11 (Administration - Provost - Libraries, Butler, Rare Book and Manuscript)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="656" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1135</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people--page-3</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Consulting Rare Publications</text>
+      </Title>
+      <Description>
+        <text>A student working with some of the rare publications dealing with the Russian Revolutionary Movement, purchased by Columbia University from funds granted by the Rockefeller Foundation.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 138;Folder 11(Administration - Provost - Libraries, Butler, Rare Book and Manuscript)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="655" public="0" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1134</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Rare Map</text>
+      </Title>
+      <Description>
+        <text>Rare Book and Manuscript Library staff member holding up an antique map.</text>
+      </Description>
+      <Creator>
+        <text>Manny Warman, Columbia University.</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 138;Folder 11 (Administration - Provost - Libraries, Butler, Rare Book and Manuscript)</text>
+      </Source>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>(Administration - Provost - Libraries, Butler, Rare Book and Manuscript)</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="654" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1133</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people--page-2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Examining Papyrus</text>
+      </Title>
+      <Description>
+        <text>Two scholars (one of whom is Professor John Day) looking at papyrus with magnifying glass in the Rare Book and Manuscript Library.</text>
+      </Description>
+      <Creator>
+        <text>Esther Bubbley</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 138;Folder 11 (Administration - Provost - Libraries, Butler, Rare book and Manuscript)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="653" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1132</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people--page-2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Unloading The Book Elevator </text>
+      </Title>
+      <Description>
+        <text>31 August 1934. Student workers unloading books from book elevator outside of Low Memorial Library. Between August 20 and September 19, 1934 student workers and professional movers moved books from their original home in Low Library to their new home in South Hall (Butler Library).</text>
+      </Description>
+      <Creator>
+        <text>Boldtman</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 138;Folder 9 (Administration - Provost - Libraries, Butler Transfer of Books from Low)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="652" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1131</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Low Library Book Elevator</text>
+      </Title>
+      <Description>
+        <text>View of the temporary book elevator constructed alongside Low Memorial Library as seen on 31 August 1934. Between August 20 and September 19, 1934 student workers and professional movers moved books from their original home in Low Library to their new home in South Hall (Butler Library).</text>
+      </Description>
+      <Creator>
+        <text>Boldtman</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 138;Folder 9 (Administration - Provost - Libraries, Butler Transfer of Books from Low)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="651" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1130</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people--page-2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Book Transfer</text>
+      </Title>
+      <Description>
+        <text>31 August 1934. Boxes of books loaded onto the book chute next to the Alma Mater on their way across campus. Between August 20 and September 19, 1934 student workers and professional movers moved books from their original home in Low Library to their new home in South Hall (Butler Library).</text>
+      </Description>
+      <Creator>
+        <text>Boldtman</text>
+      </Creator>
+      <Source>
+        <text>HPC;MS 138;Folder 9</text>
+      </Source>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Administration-Provost-Libraries, Butler Transfer of Books from Low</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="650" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1129</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people--page-2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Book Transfer</text>
+      </Title>
+      <Description>
+        <text>Image of student workers moving boxes from book chutes onto book carts at the foot of stairs to Low Plaza. Between August 20 and September 19, 1934 student workers and professional movers moved books from their original home in Low Library to their new home in South Hall (Butler Library).</text>
+      </Description>
+      <Creator>
+        <text>Sprague</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 138;Folder 9 (Administration - Provost - Libraries, Butler Transfer of Books from Low)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="649" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1128</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people--page-2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Book Transfer </text>
+      </Title>
+      <Description>
+        <text>View of one portion of the book conveyor system from behind the Alma Mater statue on Low Plaza. Between August 20 and September 19, 1934 student workers and professional movers moved books from their original home in Low Library to their new home in South Hall (Butler Library).</text>
+      </Description>
+      <Creator>
+        <text>Sprague</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 138;Folder 9 (Administration - Provost - Libraries, Butler Transfer of Books from Low)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="648" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1127</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Oral History Transcriber</text>
+      </Title>
+      <Description>
+        <text>Woman listening to an oral history tape and transcribing the interview.</text>
+      </Description>
+      <Creator>
+        <text>Esther Bubbley</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 138;Folder 8 (Administration - Provost - Libraries, Oral History Research Office)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="647" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1126</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Oral Historian</text>
+      </Title>
+      <Description>
+        <text>Image of a man listening to a recorded oral history on a record in the Oral History Research Office.</text>
+      </Description>
+      <Creator>
+        <text>Esther Bubbley</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 138;Folder 8 (Administration - Provost - Libraries, Oral History Research Office)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="646" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1125</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Oral History Research Office</text>
+      </Title>
+      <Description>
+        <text>Image of interview of Mr. Link (at right) in the Oral History Research Office </text>
+      </Description>
+      <Creator>
+        <text>Esther Bubbley</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 138;Folder 8 (Administration - Provost - Libraries, Oral History Research Office)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="645" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1124</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Book Returns to Columbia Library After 178 Years</text>
+      </Title>
+      <Description>
+        <text>6 September 1950. &#13;
+"Enos M. Johnson (left) of Brooklyn, hands rare volume over to Dr. Richard H. Logsdon, associate director of the Columbia University Libraries. The book, entitled "A System of Natural Philosophy," was drawn from the shelves of the old King's College library in 1772 -- a dozen years before King's College became Columbia. It was recently discovered by Mr. Johnston as he rummaged through the attic at the home of his aunt, Miss Susan Ruggles of Binghamton, N.Y.  The scholar who borrowed the book was Robert Harpur, one-time librarian of King's College and tutor of Alexander Hamilton.  It was not regarded as "overdue" at the University library, which was fortunate in view of the fact that a considerable fine would have been in order. The fine, calculated at the rate of five cents per day, would have totaled $3,248.50. Dr. Logsdon expressed the Library's gratitude for the return of the volume. 'The Library is especially happy to have this historic volume come back into its possession,' said Dr. Logsdon. 'We are most grateful to Mr. Johnston. The book, spanning virtually all of Columbia's life through nearly two centuries of American history, will serves as an interesting item for exhibition in Columbia's coming Bicentennial celebration in 1954." (from: press release attached to image)</text>
+      </Description>
+      <Creator>
+        <text>Manny Warman, Columbia University</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 138;Folder 7 (Administration-Provost-Libraries, Kings College)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="644" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1123</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Consulting the Card Catalog</text>
+      </Title>
+      <Description>
+        <text>Image of a priest looking through card catalog.</text>
+      </Description>
+      <Creator>
+        <text>Esther Bubbley</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 138;Folder 3 (Administration - Provost - Libraries, Butler Cataloging Department)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="643" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1122</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people--page-2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Cataloging Librarian</text>
+      </Title>
+      <Description>
+        <text>Image of a cataloging librarian at work behind two carousels of date stamps.</text>
+      </Description>
+      <Creator>
+        <text>Erich Hartmann, Magnum Photos, Inc.</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 138;Folder 3 (Administration - Provost - Libraries, Butler Cataloging Department)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="642" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1121</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Cataloging Room</text>
+      </Title>
+      <Description>
+        <text>Overhead view of the cataloging room.</text>
+      </Description>
+      <Creator>
+        <text>Hubbard W. Ballou</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 138;Folder 3 (Administration - Provost - Libraries, Butler Cataloging Department)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="641" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1120</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people--page-2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Operating a Binding Machine</text>
+      </Title>
+      <Description>
+        <text>Image of a woman (Vera Herman?) operating a book binding machine.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 138;Folder 2 (Administration - Provost - Libraries, Butler Binding Department)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="640" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1119</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Binding Department</text>
+      </Title>
+      <Description>
+        <text>Employees at work in the binding room with piles of books everywhere.  </text>
+      </Description>
+      <Creator>
+        <text>Hubbard W. Ballou</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 138;Folder 2 (Administration - Provost - Libraries, Butler Binding Department)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="639" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1118</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>College Library Reading Room</text>
+      </Title>
+      <Description>
+        <text>Students studying in College Library reading room (now Room 209). </text>
+      </Description>
+      <Creator>
+        <text>Manny Warman, Columbia University</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 15 (Buildings &amp; Grounds - Morningside - Butler Library, Interior w/ People)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="638" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1117</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people--page-3</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>"Columbia" Gate</text>
+      </Title>
+      <Description>
+        <text>Students walking through "Columbia" gate on the main level of Butler Library.</text>
+      </Description>
+      <Creator>
+        <text>Esther Bubbley</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 15 (Buildings &amp; Grounds - Morningside - Butler Library, Interior w/ People)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="637" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1116</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people--page-2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Researching Clippings Files</text>
+      </Title>
+      <Description>
+        <text>View of a man looking through boxes of clippings and printed matter.</text>
+      </Description>
+      <Creator>
+        <text>Esther Bubbley</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 15 (Buildings &amp; Grounds - Morningside - Butler Library, Interior w/ People)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="636" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1115</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people--page-2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Paging in the Stacks</text>
+      </Title>
+      <Description>
+        <text>Image of a man looking through oversize volumes in the Butler Library stacks.</text>
+      </Description>
+      <Creator>
+        <text>Esther Bubbley</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 15 (Buildings &amp; Grounds - Morningside - Butler Library, Interior w/ People)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="635" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1114</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/art---architecture/architecture--page-2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Microfilm Reader</text>
+      </Title>
+      <Description>
+        <text>Woman using old microfilm reading machine in the periodicals room of Butler Library.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 15 (Buildings &amp; Grounds - Morningside - Butler Library, Interior w/ People)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="634" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1113</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people--page-3</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Studying in the College Library</text>
+      </Title>
+      <Description>
+        <text>Woman reading at a large desk in the undergraduate library reading room.</text>
+      </Description>
+      <Creator>
+        <text>Esther Bubbley</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 15 (Buildings &amp; Grounds - Morningside - Butler Library, Interior w/ People)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="633" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1112</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Sleeping in the Library</text>
+      </Title>
+      <Description>
+        <text>A student sleeping at a desk in the College library reading room.</text>
+      </Description>
+      <Creator>
+        <text>Esther Bubbley</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 15 (Buildings &amp; Grounds - Morningside - Butler Library, Interior w/ People)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="632" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1111</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people--page-3</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Reference Desk in Catalog Room</text>
+      </Title>
+      <Description>
+        <text>View of the reference desk in it's original location within the main catalog room.</text>
+      </Description>
+      <Creator>
+        <text>Wurts Bros., N.Y.</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 15 (Buildings &amp; Grounds - Morningside - Butler Library, Interior w/ People)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="631" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1110</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people--page-3</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Sleeping in the Library</text>
+      </Title>
+      <Description>
+        <text>Student sleeping at a table in a Butler Library reading room.</text>
+      </Description>
+      <Creator>
+        <text>Esther Bubbley</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 15 (Buildings &amp; Grounds - Morningside - Butler Library, Interior w/ People)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="630" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1109</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people--page-3</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Harkness Theater</text>
+      </Title>
+      <Description>
+        <text>Students sitting in the Harkness Theater, Butler Library.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 15 (Buildings &amp; Grounds - Morningside - Butler Library, Interior w/ People)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="629" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1108</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people--page-3</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Reading Apparatus</text>
+      </Title>
+      <Description>
+        <text>Man sitting at a reading apparatus in Butler Library that might be an early microfilm reader.</text>
+      </Description>
+      <Creator>
+        <text>Bernard Sunshine</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 15 (Buildings &amp; Grounds - Morningside - Butler Library, Interior w/ People)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="628" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1107</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/art---architecture/art---architecture</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Butler Library - Main entrance mural</text>
+      </Title>
+      <Description>
+        <text>Man and woman on bench in front of the main entrance mural of Athene painted by  Eugene Savage of the Yale School of Fine Arts. </text>
+      </Description>
+      <Creator>
+        <text>LOOK Magazine</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 15 (Buildings &amp; Grounds - Morningside - Butler Library, Interior w/ People)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="627" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1106</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people--page-2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Woman Studying</text>
+      </Title>
+      <Description>
+        <text>Image of a female student studying at table in Butler Library.</text>
+      </Description>
+      <Creator>
+        <text>Esther Bubbley</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 15 (Buildings &amp; Grounds - Morningside - Butler Library, Interior w/ People)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="626" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1105</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>College Library Reading Room</text>
+      </Title>
+      <Description>
+        <text>College students studying in the reading room.</text>
+      </Description>
+      <Creator>
+        <text>Manny Warman, Columbia University</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 15 (Buildings &amp; Grounds - Morningside - Butler Library, Interior w/ People)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="625" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1104</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Consulting the Card Catalog</text>
+      </Title>
+      <Description>
+        <text>Image of patrons using the card catalog in Butler Library.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 15 (Buildings &amp; Grounds - Morningside - Butler Library, Interior w/ People)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="624" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1103</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people--page-3</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Studying in the Library</text>
+      </Title>
+      <Description>
+        <text>Man and woman sitting at a table in Butler Library.</text>
+      </Description>
+      <Creator>
+        <text>Hubbard W. Ballou</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 15 (Buildings &amp; Grounds - Morningside - Butler Library, Interior w/ People)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="623" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1102</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>College Reading Room</text>
+      </Title>
+      <Description>
+        <text>View of the college reading room (226 Butler Library).</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 15 (Buildings &amp; Grounds - Morningside - Butler Library, Interior w/ People)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="622" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1101</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people--page-2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Re-shelving in the Stacks</text>
+      </Title>
+      <Description>
+        <text>Woman with bangs and glasses putting a book back on the shelf in the stacks</text>
+      </Description>
+      <Creator>
+        <text>Esther Bubbley</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 15 (Buildings &amp; Grounds - Morningside - Butler Library, Interior w/ People)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="621" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1100</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Office</text>
+      </Title>
+      <Description>
+        <text>View inside an office inside Butler Library on the third floor.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection; Box 162;Folder 14 (Buildings &amp; Grounds - Morningside - Butler Library,Interior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="620" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1099</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Library Catalog and Book Return Cart</text>
+      </Title>
+      <Description>
+        <text>Wooden cart that appears to have a card catalog and book return function. Image taken in the Butler Library storage room.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 14 (Buildings &amp; Grounds - Morningside - Butler Library,Interior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="619" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1098</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Library Catalog Cart</text>
+      </Title>
+      <Description>
+        <text>Wooden cart that appears to have some catalog card function. Image taken in the Butler Library storage room.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 14 (Buildings &amp; Grounds - Morningside - Butler Library,Interior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="618" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1097</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Library Catalog Cart</text>
+      </Title>
+      <Description>
+        <text>Wood cart that appears to have some function related to catalog  cards. Image taken in the Butler Library storage room.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 14 (Buildings &amp; Grounds - Morningside - Butler Library,Interior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="617" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1096</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Stack Hallway</text>
+      </Title>
+      <Description>
+        <text>View of long hallway in Butler Library's stacks.</text>
+      </Description>
+      <Creator>
+        <text>Manny Warman, Columbia University</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 14 (Buildings &amp; Grounds - Morningside - Butler Library, Interior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="616" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1095</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Charge Desk</text>
+      </Title>
+      <Description>
+        <text>Butler Library's main circulation/charge desk with a lighted call board above it, 7 March 1942.</text>
+      </Description>
+      <Creator>
+        <text>Columbia University Library</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 14 (Buildings &amp; Grounds - Morningside - Butler Library, Interior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="615" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1094</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/art---architecture/art---architecture</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Entrance Hallway Mural</text>
+      </Title>
+      <Description>
+        <text>Mural painting by Eugene Savage of the Yale School of Fine Arts. The painting is of Athene in white depicted warding off two devils, symbolic of malevolent influence and disorder. The flying figures at the right represent divinity, the sciences and the arts. Below is a group symbolic of modern occupations: agriculture, industry, and intellectual endeavor. Behind the figure of Athene is the skyline of lower Manhattan. At the top of the canvas stands a temple whose frieze bears the Columbia motto (p.103, A GUIDE TO COLUMBIA UNIVERSITY edited by John William Robson).</text>
+      </Description>
+      <Creator>
+        <text>Wurts Bros., N.Y.</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 14 (Buildings &amp; Grounds - Morningside - Butler Library, Interior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="614" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1093</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Study Carrel</text>
+      </Title>
+      <Description>
+        <text>South Hall (Butler Library) stack study unit at left and temporary aisle at right, ca. 1930s.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 14 (Buildings &amp; Grounds - Morningside - Butler Library, Interior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="613" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1092</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/art---architecture/art---architecture</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Peter Stuyvesant Stained Glass Window</text>
+      </Title>
+      <Description>
+        <text>Dr. Wybo J. Goslinga, acting president of Netherlands Antilles Legislative Council, presents 12-foot stained glass window of Peter Stuyvesant to New York City at December 30, 1954 ceremony in Butler Library's College Study, the window's permanent location.</text>
+      </Description>
+      <Creator>
+        <text>Manny Warman, Columbia University</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 14 (Buildings &amp; Grounds - Morningside - Butler Library, Interior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="612" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1091</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/art---architecture/architecture--page-2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Stacks</text>
+      </Title>
+      <Description>
+        <text>Main transverse stack aisle showing continuous beam less ceiling and tile covered floor, ca. 1930s.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 14 (Buildings &amp; Grounds - Morningside - Butler Library, Interior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="611" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1090</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Stack Stairs</text>
+      </Title>
+      <Description>
+        <text>Staircase in the South Hall (Butler Library) stacks. </text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 14 (Buildings &amp; Grounds - Morningside - Butler Library, Interior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="610" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1089</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/art---architecture/art---architecture</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>College Library Reading Room Artwork</text>
+      </Title>
+      <Description>
+        <text>View of artwork on wall in the College Library reading room.</text>
+      </Description>
+      <Creator>
+        <text>Manny Warman, Columbia University</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 14 (Buildings &amp; Grounds - Morningside - Butler Library, Interior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="609" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1088</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Stack Desk Control Station</text>
+      </Title>
+      <Description>
+        <text>Typical stack desk control station with nest of book-dispatching trays, ca. 1930s.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 14 (Buildings &amp; Grounds - Morningside - Butler Library, Interior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="608" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1087</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Book Sorting Shelves</text>
+      </Title>
+      <Description>
+        <text>Books on book sorting shelves with sloping backs and bottoms.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 14 (Buildings &amp; Grounds - Morningside - Butler Library, Interior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="607" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1086</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Conservation Work Room</text>
+      </Title>
+      <Description>
+        <text>View of staff work spaces in the Conservation work room.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 14 (Buildings &amp; Grounds - Morningside - Butler Library, Interior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="606" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1085</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Conservation Work Room</text>
+      </Title>
+      <Description>
+        <text>View of equipment in the Conservation work room.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 14 (Buildings &amp; Grounds - Morningside - Butler Library, Interior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="605" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1084</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Conservation Work Room</text>
+      </Title>
+      <Description>
+        <text>View of paper rolls in the Conservation department work room.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 14 (Buildings &amp; Grounds - Morningside - Butler Library, Interior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="604" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1083</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/art---architecture/architecture--page-2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Main Reading Room</text>
+      </Title>
+      <Description>
+        <text>Students studying in the main reading room of Butler Library, ca. early 1990's.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 14 (Buildings &amp; Grounds - Morningside - Butler Library, Interior)</text>
+      </Source>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Buildings &amp; Grounds-Morningside-Butler Library,Interior</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="603" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1082</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people--page-2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Special Collections Reading Room</text>
+      </Title>
+      <Description>
+        <text>View of the Special Collections Reading Room, 653 Butler Library, ca. 1949.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 14 (Buildings &amp; Grounds - Morningside - Butler Library, Interior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="602" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1081</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Study Desks</text>
+      </Title>
+      <Description>
+        <text>Movable study shelves (desks) along central transverse aisle in South Hall (Butler Library) stacks.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 14 (Buildings &amp; Grounds - Morningside - Butler Library, Interior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="601" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1080</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Book Chute</text>
+      </Title>
+      <Description>
+        <text>Delivery desk station near a book conveyor with gravity discharge in South Hall (Butler Library)</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 14 (Buildings &amp; Grounds - Morningside - Butler Library, Interior)</text>
+      </Source>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Buildings &amp; Grounds-Morningside-Butler Library,Interior</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="600" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1079</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Typewriter Room</text>
+      </Title>
+      <Description>
+        <text>View of desks with typewriters lined up in a typewriter room.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 14 (Buildings &amp; Grounds - Morningside - Butler Library, Interior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="599" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1078</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Reading Room</text>
+      </Title>
+      <Description>
+        <text>View of one of the reading rooms in Butler Library.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 14 (Buildings &amp; Grounds - Morningside - Butler Library, Interior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="598" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1077</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Reading Room </text>
+      </Title>
+      <Description>
+        <text>View of a reading room inside Butler Library. </text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 14 (Buildings &amp; Grounds - Morningside - Butler Library, Interior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="597" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1076</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library from Avery</text>
+      </Title>
+      <Description>
+        <text>View of Butler Library as seen from steps of Avery Library, 8 September 1937.</text>
+      </Description>
+      <Creator>
+        <text>W.L. Bogert, CC 1888</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 13 (Buildings &amp; Grounds - Morningside - Butler Library, exterior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="596" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1075</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ball Playing in Front of Butler</text>
+      </Title>
+      <Description>
+        <text>Students playing football or possible rugby on lawn in front of Journalism Building with Butler Library in the background.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 13 (Buildings &amp; Grounds - Morningside - Butler Library, exterior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="595" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1074</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Entrance</text>
+      </Title>
+      <Description>
+        <text>View of Butler Library main entrance, with a Columbia security vehicle and a kid in the foreground.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 13 (Buildings &amp; Grounds - Morningside - Butler Library, exterior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="594" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1073</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>View of Butler Library</text>
+      </Title>
+      <Description>
+        <text>View of Butler Library as seen from Low Plaza with people waking across College Walk, ca. 1950s.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 13 (Buildings &amp; Grounds - Morningside - Butler Library, exterior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="593" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1072</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>View of Butler Library</text>
+      </Title>
+      <Description>
+        <text>View of South Hall (Butler Library) from Low Library Plaza. View includes one of the Low Plaza fountains, cars driving across 116th Street, the Sun Ball, John Jay Hall, and the South Field tennis courts.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 13 (Buildings &amp; Grounds - Morningside - Butler Library, exterior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="592" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1071</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Front Door</text>
+      </Title>
+      <Description>
+        <text>View of Butler Library's main entrance.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 13 (Buildings &amp; Grounds - Morningside - Butler Library, exterior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="591" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1070</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Exterior Lamp</text>
+      </Title>
+      <Description>
+        <text>View from below of one of the exterior light fixtures on the front of Butler Library.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 13 (Buildings &amp; Grounds - Morningside - Butler Library, exterior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="590" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1069</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library - Looking West</text>
+      </Title>
+      <Description>
+        <text>View of Butler Library through foliage and a fence, looking west, 1934.</text>
+      </Description>
+      <Creator>
+        <text>Manny Warman, Columbia University</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 13 (Buildings &amp; Grounds - Morningside - Butler Library, exterior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="589" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1068</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library - Looking West</text>
+      </Title>
+      <Description>
+        <text>View of Butler Library through foliage and a fence, looking west.</text>
+      </Description>
+      <Creator>
+        <text>Manny Warman, Columbia University</text>
+      </Creator>
+      <Source>
+        <text>HPC;MS 162;Folder 13</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="588" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1067</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library at Night</text>
+      </Title>
+      <Description>
+        <text>South Hall (Butler Library) at night, 1941.</text>
+      </Description>
+      <Creator>
+        <text>Alumni Federation of Columbia University, Inc.</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 13 (Buildings &amp; Grounds - Morningside - Butler Library, exterior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="587" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1066</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library at Night</text>
+      </Title>
+      <Description>
+        <text>View of Butler Library at night as viewed from across 116th Street, November 1937.</text>
+      </Description>
+      <Creator>
+        <text>Seymour Janovsky</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 13 (Buildings &amp; Grounds - Morningside - Butler Library, exterior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="586" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1065</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Painted Red</text>
+      </Title>
+      <Description>
+        <text>"While Columbia University guards were lunching early today [September 25, 1936], a well-organized squad of vandals daubed this red curtain of paint on the university's new library.  Work was believed done either by painters' union or students sympathizing with Bob Burke expulsion.  Paint is stain that 'sticks.'"</text>
+      </Description>
+      <Creator>
+        <text>Associated Press, "Wire Photo"</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 13 (Buildings &amp; Grounds - Morningside - Butler Library, exterior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="585" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1064</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Exterior Lamp</text>
+      </Title>
+      <Description>
+        <text>View of one of the light fixtures on the outside of Butler Library, ca. 1933-34.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 13 (Buildings &amp; Grounds - Morningside - Butler Library, exterior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="584" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1063</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library at Dusk</text>
+      </Title>
+      <Description>
+        <text>View of Butler Library at dusk from across 116th Street, looking south.</text>
+      </Description>
+      <Creator>
+        <text>Manny Warman, Columbia University</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 13 (Buildings &amp; Grounds - Morningside - Butler Library, exterior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="583" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1062</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Bonfire in Front of Butler Library</text>
+      </Title>
+      <Description>
+        <text>Wide view of bonfire in front of Butler Library, ca. 1940s.</text>
+      </Description>
+      <Creator>
+        <text>Morris J. Hopp</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 13 (Buildings &amp; Grounds - Morningside - Butler Library, exterior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="582" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1061</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library - Looking West</text>
+      </Title>
+      <Description>
+        <text>View of Butler Library through foliage, looking west.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 13 (Buildings &amp; Grounds - Morningside - Butler Library, exterior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="581" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1060</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library from Low Library Entrance</text>
+      </Title>
+      <Description>
+        <text>View of Butler Library as seen from the entrance of Low Memorial Library.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 13 (Buildings &amp; Grounds - Morningside - Butler Library, exterior)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="580" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1059</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 29</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 7 October 1933.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 12 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1933-1934)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="579" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1058</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 28</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 25 October 1933.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 12 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1933-1934)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="578" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1057</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 27</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 10 August 1933.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 12 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1933-1934)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="577" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1056</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 26</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 1 June 1933.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 12 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1933-1934)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="576" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1055</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 25</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 19 May 1933.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 12 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1933-1934)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="575" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1054</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/construction/construction</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 24</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 5 April 1933.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 12 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1933-1934)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="574" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1053</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 23</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 20 April 1933.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 12 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1933-1934)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="573" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1052</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 22</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 9 March 1933.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 12 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1933-1934)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="572" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1051</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/construction/construction</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 21</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 6 February 1933.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 12 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1933-1934)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="571" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1050</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 20</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 20 January 1933.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 12 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1933-1934)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="570" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1049</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/construction/construction</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 19</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction 5 January 1933.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 12 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1933-1934)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="569" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1048</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction Pit</text>
+      </Title>
+      <Description>
+        <text>View of the construction pit on the site of the future Butler Library.</text>
+      </Description>
+      <Creator>
+        <text>J. Boldtman Photography, Columbia University</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 11 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1932)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="568" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1047</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction Pit </text>
+      </Title>
+      <Description>
+        <text>View of the construction pit on the site of the future Butler Library.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 11 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1932)</text>
+      </Source>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Buildings &amp; Grounds-Morningside-Butler Library, Construction 1932</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="567" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1046</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/construction/construction</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Butler Library (South Hall) Completed</text>
+      </Title>
+      <Description>
+        <text>View of completed South Hall (Butler Library), 1934.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 11 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1932)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="566" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1045</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/construction/construction</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 18</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 22 December 1932.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 11 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1932)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="565" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1044</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/construction/construction</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 17</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 7 December 1932.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 11 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1932)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="564" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1043</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/construction/construction</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 16</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 25 November 1932.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 11 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1932)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="563" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1042</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 15</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 22 October 1932.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 11 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1932)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="562" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1041</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 14</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 3 October 1932.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 11 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1932)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="561" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1040</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/construction/construction</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 13</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 19 September 1932.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 11 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1932)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="560" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1039</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 12</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 7 September 1932.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 11 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1932)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="559" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1038</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 11</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 26 August 1932.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 11 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1932)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="558" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1037</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 10</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 15 August 1932.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 11 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1932)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="557" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1036</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/construction/construction</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 9</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 4 August 1932.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 11 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1932)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="556" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1035</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 8</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 21 July 1932.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 11 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1932)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="555" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1034</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/construction/construction</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 7</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 8 July 1932.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 11 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1932)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="554" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1033</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 6</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, June 1932.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 11 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1932)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="553" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1032</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 5</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 28 June 1932.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 11 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1932)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="552" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1031</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/construction/construction</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 4</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 15 June 1932.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 11 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1932)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="551" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1030</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 3</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 15 June 1932.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 11 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1932)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="550" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1029</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 2</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 6 June 1932.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 11 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1932)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="549" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1028</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/construction/construction</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Butler Library Construction 1</text>
+      </Title>
+      <Description>
+        <text>Butler Library construction, 14 May 1932.</text>
+      </Description>
+      <Creator>
+        <text>A. Tennyson Beals </text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 11 (Buildings &amp; Grounds - Morningside - Butler Library, Construction 1932)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="548" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1027</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people--page-3</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Business Library Reading Room</text>
+      </Title>
+      <Description>
+        <text>View of students in the Business Library reading room located in Butler Library.</text>
+      </Description>
+      <Creator>
+        <text>Manny Warman, Columbia University</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 10 (Buildings &amp; Grounds - Morningside - Butler Library, School of Business)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="547" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1026</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people--page-3</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Business Library </text>
+      </Title>
+      <Description>
+        <text>View of the Business Library's reference desk located in Butler Library, April 1941.</text>
+      </Description>
+      <Creator>
+        <text>Columbia University Photograph Division</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 10 (Buildings &amp; Grounds - Morningside - Butler Library, School of Business)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="546" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1025</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Browsing Room </text>
+      </Title>
+      <Description>
+        <text>Students in Butler Library's Browsing Room.</text>
+      </Description>
+      <Creator>
+        <text>Esther Bubley</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 9 (Buildings &amp; Grounds - Morningside - Butler Library, Browsing Room)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="545" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1024</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Browsing Room </text>
+      </Title>
+      <Description>
+        <text>View of students in Butler Library's Browsing Room.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 9 (Buildings &amp; Grounds - Morningside - Butler Library, Browsing Room)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="544" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1023</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Browsing Room, December 1945</text>
+      </Title>
+      <Description>
+        <text>Students in the Butler Library Browsing Room, December 1945.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection; Box 162;Folder 9 (Buildings &amp; Grounds - Morningside - Butler Library, Browsing Room)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="543" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1022</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/student-life/people</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>College Study - Butler Library</text>
+      </Title>
+      <Description>
+        <text>View of students in the College Study located within Butler Library.</text>
+      </Description>
+      <Source>
+        <text>Historical Photograph Collection;Bpx 162;Folder 9 (Buildings &amp; Grounds - Morningside - Butler Library, Browsing Room)</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="542" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1021</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/art---architecture/architecture</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Harkness Academic Theatre</text>
+      </Title>
+      <Description>
+        <text>View of the Harkness Academic Theatre inside South Hall (Butler Library), ca. 1934.</text>
+      </Description>
+      <Creator>
+        <text>Wurts Bros., N.Y.</text>
+      </Creator>
+      <Source>
+        <text>Historical Subject Files;Box 162;Folder 7 (Buildings &amp; Grounds - Morningside - Butler library, Album "The New Library building of Columbia University, Gift of Edward S. Harkness,1934")</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="541" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1020</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/art---architecture/architecture</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Reading Room of the School of Library Service</text>
+      </Title>
+      <Description>
+        <text>View of the School of Library Service reading room inside South Hall (Butler Library), ca. 1934.</text>
+      </Description>
+      <Creator>
+        <text>Wurts Bros., N.Y.</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 7 (Buildings &amp; Grounds - Morningside - Butler library, Album "The New Library building of Columbia University, Gift of Edward S. Harkness,1934")</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="540" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1019</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/art---architecture/architecture</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Periodical Room</text>
+      </Title>
+      <Description>
+        <text>View of the periodical room in South Hall (Butler Library), ca. 1934.</text>
+      </Description>
+      <Creator>
+        <text>Wurts Bros., N.Y.</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 7 (Buildings &amp; Grounds - Morningside - Butler library, Album "The New Library building of Columbia University, Gift of Edward S. Harkness,1934")</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="539" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1018</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Alcove in Browsing Room</text>
+      </Title>
+      <Description>
+        <text>View of people sitting in an alcove in South Hall (Butler Library) browsing room, ca. 1934.</text>
+      </Description>
+      <Creator>
+        <text>Wurts Bros., N.Y.</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 7 (Buildings &amp; Grounds - Morningside - Butler library, Album "The New Library building of Columbia University, Gift of Edward S. Harkness,1934")</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="538" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1017</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Browsing Room</text>
+      </Title>
+      <Description>
+        <text>View of South Hall (Butler Library) browsing room, ca. 1934.</text>
+      </Description>
+      <Creator>
+        <text>Wurts Bros., N.Y.</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 7 (Buildings &amp; Grounds - Morningside - Butler library, Album "The New Library building of Columbia University, Gift of Edward S. Harkness,1934")</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="537" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1016</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/art---architecture/architecture</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Main reading Room looking East</text>
+      </Title>
+      <Description>
+        <text>View of the main reading room, looking east, in South Hall (Butler Library), ca. 1934.</text>
+      </Description>
+      <Creator>
+        <text>Wurts Bros., N.Y.</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box162;Folder 7 (Buildings &amp; Grounds - Morningside - Butler library, Album "The New Library building of Columbia University, Gift of Edward S. Harkness,1934")</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="536" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1015</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/art---architecture/architecture--page-2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Catalogue Room</text>
+      </Title>
+      <Description>
+        <text>View of patrons consulting the card catalog in the Catalogue Room, ca. 1934.</text>
+      </Description>
+      <Creator>
+        <text>Wurts Bros., N.Y.</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 7 (Buildings &amp; Grounds - Morningside - Butler library, Album "The New Library building of Columbia University, Gift of Edward S. Harkness,1934")</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="535" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1014</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Reference Room and Catalogue</text>
+      </Title>
+      <Description>
+        <text>View of the reference room and card catalogs in South Hall (Butler Library), ca. 1934.</text>
+      </Description>
+      <Creator>
+        <text>Wurts Bros., N.Y.</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 7 (Buildings &amp; Grounds - Morningside - Butler library, Album "The New Library building of Columbia University, Gift of Edward S. Harkness,1934")</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="534" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1013</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/art---architecture/architecture--page-2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Loan desk</text>
+      </Title>
+      <Description>
+        <text>View of the loan desk in South Hall (Butler Library), looking west, ca. 1934.</text>
+      </Description>
+      <Creator>
+        <text>Wurts Bros., N.Y.</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 7 (Buildings &amp; Grounds - Morningside - Butler library, Album "The New Library building of Columbia University, Gift of Edward S. Harkness,1934")</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="533" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1012</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Loan Desk</text>
+      </Title>
+      <Description>
+        <text>View of the area in front of the Loan Desk in South Hall (Butler Library), ca. 1934.</text>
+      </Description>
+      <Creator>
+        <text>Wurts Bros., N.Y.</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 7 (Buildings &amp; Grounds - Morningside - Butler library, Album "The New Library building of Columbia University, Gift of Edward S. Harkness,1934")</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="532" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1011</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/art---architecture/architecture</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Staircase-East Stairs</text>
+      </Title>
+      <Description>
+        <text>View of the east staircase in South Hall (Butler Library), ca. 1934.</text>
+      </Description>
+      <Creator>
+        <text>Wurts Bros., N.Y.</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 7 (Buildings &amp; Grounds - Morningside - Butler library, Album "The New Library building of Columbia University, Gift of Edward S. Harkness,1934")</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="531" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1010</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/art---architecture/art---architecture</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Ceiling-Butler Library</text>
+      </Title>
+      <Description>
+        <text>Detail view of the ceiling in the Butler Library of Philosophy located in South Hall (Butler Library), ca. 1934.</text>
+      </Description>
+      <Creator>
+        <text>Wurts Bros., N.Y.</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 7 (Buildings &amp; Grounds - Morningside - Butler library, Album "The New Library building of Columbia University, Gift of Edward S. Harkness,1934")</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="530" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1009</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/art---architecture/architecture</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Butler Library of Philosophy</text>
+      </Title>
+      <Description>
+        <text>View of the Butler Library of Philosophy located in South Hall (Butler Library), ca. 1934.</text>
+      </Description>
+      <Creator>
+        <text>Wurts Bros., N.Y.</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 7 (Buildings &amp; Grounds - Morningside - Butler library, Album "The New Library building of Columbia University, Gift of Edward S. Harkness,1934")</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="529" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1008</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Business Library Reading Room</text>
+      </Title>
+      <Description>
+        <text>View of the Business Library Reading Room in South Hall (Butler Library), ca. 1934.</text>
+      </Description>
+      <Creator>
+        <text>Wurts Bros., N.Y.</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 7 (Buildings &amp; Grounds - Morningside - Butler library, Album "The New Library building of Columbia University, Gift of Edward S. Harkness,1934")</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="528" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1007</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/art---architecture/architecture</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Modern languages</text>
+      </Title>
+      <Description>
+        <text>Modern languages study room in South Hall (Butler Library), ca. 1934.</text>
+      </Description>
+      <Creator>
+        <text>Wurts Bros., N.Y.</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 7 (Buildings &amp; Grounds - Morningside - Butler library, Album "The New Library building of Columbia University, Gift of Edward S. Harkness,1934")</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="527" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1006</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/art---architecture/architecture</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Main Entrance Looking West</text>
+      </Title>
+      <Description>
+        <text>Main entrance inside South Hall (Butler Library) as viewed by looking west, ca. 1934.</text>
+      </Description>
+      <Creator>
+        <text>Wurts Bros., N.Y.</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 7 (Buildings &amp; Grounds - Morningside - Butler library, Album "The New Library building of Columbia University, Gift of Edward S. Harkness, 1934")</text>
+      </Source>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Buildings &amp; Grounds-Morningside-Butler library, Album "The New Library building of Columbia University, Gift of Edward S. Harkness,1934"</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="526" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1005</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/art---architecture/architecture</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Main Entrance</text>
+      </Title>
+      <Description>
+        <text>View of the main entrance inside South Hall (Butler Library), ca. 1934.</text>
+      </Description>
+      <Creator>
+        <text>Wurts Bros., N.Y.</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 7 (Buildings &amp; Grounds - Morningside - Butler library, Album "The New Library building of Columbia University, Gift of Edward S. Harkness,1934")</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="525" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1004</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/art---architecture/architecture</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>View from Hamilton Hall</text>
+      </Title>
+      <Description>
+        <text>View of South Hall (Butler Library) as seen from Hamilton Hall, ca. 1934</text>
+      </Description>
+      <Creator>
+        <text>Wurts Bros., N.Y.</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 7 (Buildings &amp; Grounds - Morningside - Butler library, Album "The New Library building of Columbia University, Gift of Edward S. Harkness,1934")</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="524" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1003</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/art---architecture/architecture</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>South West Aspect on West 114th Street</text>
+      </Title>
+      <Description>
+        <text>View of South Hall (Butler Library) as seen from the South West Aspect on West 114th Street, ca. 1934.</text>
+      </Description>
+      <Creator>
+        <text>Wurts Bros., N.Y.</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 7 (Buildings &amp; Grounds - Morningside - Butler library, Album "The New Library building of Columbia University, Gift of Edward S. Harkness,1934")</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="523" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1002</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/art---architecture/architecture</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>North Facade</text>
+      </Title>
+      <Description>
+        <text>View of the north facade of South Hall (Butler Library), ca. 1934</text>
+      </Description>
+      <Creator>
+        <text>Wurts Bros., N.Y.</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 7 (Buildings &amp; Grounds - Morningside - Butler library, Album "The New Library building of Columbia University, Gift of Edward S. Harkness,1934")</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="522" public="1" featured="0">
+    <OmekaCollection>Butler 75: Butler Library's 75th Anniversary, 1934-2009</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=B75_1001</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/butler75/art---architecture/architecture--page-2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>View from Low Memorial Library</text>
+      </Title>
+      <Description>
+        <text>View of South Hall (Butler Library) as seen from Low Memorial Library, ca. 1934.</text>
+      </Description>
+      <Creator>
+        <text>Wurts Bros., N.Y.</text>
+      </Creator>
+      <Source>
+        <text>Historical Photograph Collection;Box 162;Folder 7 (Buildings &amp; Grounds - Morningside - Butler library, Album "The New Library building of Columbia University, Gift of Edward S. Harkness,1934")</text>
+      </Source>
+    </DublinCore>
+  </item>
+</itemContainer>
+
+
