@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns="http://www.loc.gov/mods/v3"
-        xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
-        xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-        xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        version="2.0">
-    <xsl:output encoding="UTF-8" indent="yes" method="xml"/>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    exclude-result-prefixes="xs"
+    version="2.0" xmlns="http://www.loc.gov/mods/v3">
+     <xsl:output encoding="UTF-8" indent="yes" method="xml"/>
     <xsl:strip-space elements="*"/>
     
 <!-- Create MODS:Collection to hold all records -->
@@ -19,69 +18,69 @@
 <!-- Create Part/Child and Work/Parent records according to identifier and create MODS separate files/records -->
     <xsl:template match="row">
     <xsl:variable name="filename" select="identifier_title"/>
-        <xsl:choose>
-            <xsl:when test="matches(identifier_title, '[a-z]{3}$')">
-                <mods version="3.5">
-                    <xsl:call-template name="aaParentRecord"/>
+      <xsl:choose>
+          <xsl:when test="matches($filename, '[a-z]{3}$')">    
+              <mods version="3.5">
+                  <xsl:call-template name="aaParentRecord"/>
+              </mods>
+              <xsl:result-document method="xml" href="{$filename}.xml" encoding="UTF-8" indent="yes">
+                  <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/mods/v3"
+                      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+                      <xsl:call-template name="aaParentRecord"/>
+                  </mods>
+              </xsl:result-document>
+          </xsl:when>
+          <xsl:when test="matches($filename, '[a-z]{3}_\d{3}')">
+              <mods version="3.5">
+                   <xsl:call-template name="aaChildRecord"/>
+               </mods>
+               <xsl:result-document method="xml" href="{$filename}.xml" encoding="UTF-8" indent="yes">
+                   <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/mods/v3"
+                       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+                       <xsl:call-template name="aaChildRecord"/>
+                   </mods>
+               </xsl:result-document>
+           </xsl:when>
+           <xsl:otherwise>
+               <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/mods/v3"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+                         <xsl:call-template name="aaParentRecord"/>
                 </mods>
                 <xsl:result-document method="xml" href="{$filename}.xml" encoding="UTF-8" indent="yes">
-                    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/mods/v3"
-                        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                        xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
-                        <xsl:call-template name="aaParentRecord"/>
-                    </mods>
-                </xsl:result-document>
-            </xsl:when>
-            <xsl:when test="matches(identifier_title, '[a-z]{3}_\d{3}')">
-                <mods version="3.5">
-                    <xsl:call-template name="aaChildRecord"/>
-                </mods>
-                <xsl:result-document method="xml" href="{$filename}.xml" encoding="UTF-8" indent="yes">
-                    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/mods/v3"
-                        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                        xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
-                        <xsl:call-template name="aaChildRecord"/>
-                    </mods>
-                </xsl:result-document>
-            </xsl:when>
-            <xsl:otherwise>
-                <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/mods/v3"
-                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
-                    <xsl:call-template name="aaParentRecord"/>
-                </mods>
-                <xsl:result-document method="xml" href="{$filename}.xml" encoding="UTF-8" indent="yes">
-                    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/mods/v3"
-                        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                        xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
-                        <xsl:call-template name="aaParentRecord"/>
-                    </mods>
+                     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/mods/v3"
+                            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+                            <xsl:call-template name="aaParentRecord"/>
+                     </mods>
                 </xsl:result-document>
             </xsl:otherwise>
-        </xsl:choose>
-    </xsl:template>
+        </xsl:choose>  
+</xsl:template>
 
 <!-- Base Templates -->
 <!-- WORK/PARENT Record -->
     <xsl:template name="aaParentRecord">
     <!-- Item/Record Identifiers -->
-        <xsl:if test="identifier_omeka">
-            <identifier type="omeka">
+    <!-- <xsl:if test="identifier_omeka">
+            <identifier type="local">
                 <xsl:value-of select="concat('omeka_', identifier_omeka)"/>
             </identifier>
-        </xsl:if>
+        </xsl:if> -->
         <xsl:if test="not(contains(identifier_record, '_'))">
             <identifier type="local">
-                <xsl:value-of select="identifier_omeka"/>
-            </identifier>
+                <xsl:value-of select="concat('omeka_', identifier_omeka)"/>
+            </identifier> 
         </xsl:if>
         <xsl:if test="identifier_clio">
             <identifier type="CLIO">
-                <xsl:value-of select="identifier_clio"/>
+                <xsl:value-of select="concat('CLIO_', identifier_clio)"/>
             </identifier>
         </xsl:if>
         <identifier type="local">
-            <xsl:value-of select="identifier_title" />
+            <xsl:value-of select="identifier_title"/>
         </identifier>
     <!-- Name -->
         <xsl:apply-templates select="name_primary"/>
@@ -122,17 +121,17 @@
                 <xsl:value-of select="dateCreated"/>
             </dateCreated>
             <xsl:choose>
-                <xsl:when test="keyDate-end">
+                <xsl:when test="keyDate_end">
                     <dateCreated encoding="w3cdtf" keyDate="yes" point="start">
                         <xsl:if test="dateQualifier">
                             <xsl:attribute name="qualifier">
                                 <xsl:value-of select="dateQualifier"/>
                             </xsl:attribute>
                         </xsl:if>
-                        <xsl:value-of select="keyDate-start"/>
+                        <xsl:value-of select="keyDate_start"/>
                     </dateCreated>
                     <dateCreated encoding="w3cdtf" keyDate="yes" point="end">
-                        <xsl:value-of select="keyDate-end"/>
+                        <xsl:value-of select="keyDate_end"/>
                     </dateCreated>
                 </xsl:when>
                 <xsl:otherwise>
@@ -142,11 +141,13 @@
                                 <xsl:value-of select="dateQualifier"/>
                             </xsl:attribute>
                         </xsl:if>
-                        <xsl:value-of select="keyDate-start"/>
+                        <xsl:value-of select="keyDate_start"/>
                     </dateCreated>
                 </xsl:otherwise>
             </xsl:choose>
         </originInfo>
+    <!-- Genre -->
+        <xsl:apply-templates select="genre"/>
     <!-- physicalDescription -->
         <xsl:if test="form_originalFormat | extent | form | physicalNote">
             <physicalDescription>
@@ -163,21 +164,18 @@
     <!-- Note -->
         <xsl:apply-templates select="note"/>
         <xsl:apply-templates select="note_ownership"/>
+        <xsl:apply-templates select="note_holdings"/>
+        <xsl:apply-templates select="note_filename"/>
     <!-- Location -->  
         <location>
             <physicalLocation>
-                <xsl:if test="repository_authority">
+                <xsl:if test="physicalLocation_authority">
                     <xsl:attribute name="authority">
-                        <xsl:value-of select="repository_authority"/>
+                        <xsl:value-of select="physicalLocation_authority"/>
                     </xsl:attribute>
                 </xsl:if>
-                <xsl:value-of select="repository"/>
+                <xsl:value-of select="physicalLocation"/>
             </physicalLocation>
-            <xsl:for-each select="location_url_ObjectInContext">
-                <url access="object in context" usage="primary display">
-                    <xsl:value-of select="."/>
-                </url>
-            </xsl:for-each>
             <xsl:if test="location_url_physicalObject">
                 <url>
                     <xsl:value-of select="location_url_physicalObject" />
@@ -216,7 +214,7 @@
             </titleInfo>
             <location>
                 <url>
-                    <xsl:value-of select="project_URL"/>
+                    <xsl:value-of select="projectURL"/>
                 </url>
             </location>
         </relatedItem>
@@ -267,22 +265,17 @@
     <xsl:template name="aaChildRecord">
         <!-- Item/Record Identifiers -->
         <xsl:if test="identifier_omeka">
-            <identifier type="omeka">
+            <identifier type="local">
                 <xsl:value-of select="concat('omeka_', identifier_omeka)"/>
             </identifier>
-        </xsl:if>
-        <xsl:if test="not(contains(identifier_record, '_'))">
-            <identifier type="local">
-                <xsl:value-of select="identifier_omeka"/>
-            </identifier>
-        </xsl:if>
+        </xsl:if> 
         <identifier type="local">
             <xsl:value-of select="identifier_title" />
         </identifier>
-        <!-- Name -->
+    <!-- Name -->
         <xsl:apply-templates select="name_primary"/>
         <xsl:apply-templates select="name"/>
-        <!-- titleInfo -->
+    <!-- titleInfo -->
         <titleInfo>
             <xsl:if test="title_nonSort">
                 <nonSort>
@@ -328,17 +321,17 @@
                 <xsl:value-of select="dateCreated"/>
             </dateCreated>
             <xsl:choose>
-                <xsl:when test="keyDate-end">
+                <xsl:when test="keyDate_end">
                     <dateCreated encoding="w3cdtf" keyDate="yes" point="start">
                         <xsl:if test="dateQualifier">
                             <xsl:attribute name="qualifier">
                                 <xsl:value-of select="dateQualifier"/>
                             </xsl:attribute>
                         </xsl:if>
-                        <xsl:value-of select="keyDate-start"/>
+                        <xsl:value-of select="keyDate_start"/>
                     </dateCreated>
                     <dateCreated encoding="w3cdtf" keyDate="yes" point="end">
-                        <xsl:value-of select="keyDate-end"/>
+                        <xsl:value-of select="keyDate_end"/>
                     </dateCreated>
                 </xsl:when>
                 <xsl:otherwise>
@@ -348,13 +341,15 @@
                                 <xsl:value-of select="dateQualifier"/>
                             </xsl:attribute>
                         </xsl:if>
-                        <xsl:value-of select="keyDate-start"/>
+                        <xsl:value-of select="keyDate_start"/>
                     </dateCreated>
                 </xsl:otherwise>
             </xsl:choose>
         </originInfo>
         <!-- typeOfResource -->
         <xsl:apply-templates select="typeOfResource"/>
+        <!-- Genre -->
+        <xsl:apply-templates select="genre"/>
         <!-- physicalDescription -->
         <xsl:if test="form_originalFormat | extent | digitalOrigin | form | physicalNote">
             <physicalDescription>
@@ -372,6 +367,7 @@
         <!-- Notes -->
         <xsl:apply-templates select="note"/>
         <xsl:apply-templates select="note_ownership"/>
+        <xsl:apply-templates select="note_holdings"/>
         <xsl:apply-templates select="note_filename"/>
         <!-- Location -->  
         <location>
@@ -415,7 +411,7 @@
             </subject>
         </xsl:for-each>
         <!-- relatedItem -->
-        <relatedItem type="host" displayLabel="Project">
+       <relatedItem type="host" displayLabel="Project">
             <titleInfo>
                 <xsl:if test="relatedItem_Project_nonSort">
                     <nonSort><xsl:value-of select="relatedItem_Project_nonSort"/></nonSort>
@@ -476,26 +472,29 @@
 <!-- End BASE Templates -->
 <!-- SUBTEMPLATES -->
     <xsl:template match="name_primary">
-        <name>
+        <name usage="primary">
             <xsl:if test="following-sibling::node()[1][self::name_primary_type]">
                 <xsl:attribute name="type">
                     <xsl:value-of select="following-sibling::node()[1][self::name_primary_type]"/>
                 </xsl:attribute>
             </xsl:if>
-            <xsl:if test="following-sibling::node()[1][self::name_primary_authority]">
+            <xsl:if test="following-sibling::node()[3][self::name_primary_authority]">
                 <xsl:attribute name="authority">
-                    <xsl:value-of select="following-sibling::node()[1][self::name_primary_authority]"/>
-                </xsl:attribute> <xsl:attribute name="valueURI">
-                    <xsl:value-of select="following-sibling::node()[1][self::name_primary_authority_identifier]"/>
+                    <xsl:value-of select="following-sibling::node()[3][self::name_primary_authority]"/>
+                </xsl:attribute> 
+            </xsl:if>
+            <xsl:if test="following-sibling::node()[4][self::name_primary_authority_identifier]">
+                <xsl:attribute name="valueURI">
+                    <xsl:value-of select="following-sibling::node()[4][self::name_primary_authority_identifier]"/>
                 </xsl:attribute>
             </xsl:if>
             <namePart>
                 <xsl:value-of select="."/>
             </namePart>
-            <xsl:if test="following-sibling::node()[1][self::name_primary_role_code]">
+            <xsl:if test="following-sibling::node()[2][self::name_primary_Relator]">
                 <role>
                     <roleTerm type="code" authority="marcrelator">
-                        <xsl:value-of select="following-sibling::node()[1][self::name_primary_role_code]"/>                        
+                        <xsl:value-of select="following-sibling::node()[2][self::name_primary_Relator]"/>
                     </roleTerm>
                 </role>
             </xsl:if>
@@ -515,20 +514,23 @@
                     <xsl:value-of select="following-sibling::node()[1][self::name_type]"/>
                 </xsl:attribute>
             </xsl:if>
-            <xsl:if test="following-sibling::node()[1][self::name_authority]">
+            <xsl:if test="following-sibling::node()[3][self::name_authority]">
                 <xsl:attribute name="authority">
-                    <xsl:value-of select="following-sibling::node()[1][self::name_authority]"/>
-                </xsl:attribute> <xsl:attribute name="valueURI">
-                    <xsl:value-of select="following-sibling::node()[1][self::name_authority_identifier]"/>
+                    <xsl:value-of select="following-sibling::node()[3][self::name_authority]"/>
+                </xsl:attribute>
+            </xsl:if>
+            <xsl:if test="following-sibling::node()[4][self::name_authority_identifier]">
+                <xsl:attribute name="valueURI">
+                    <xsl:value-of select="following-sibling::node()[4][self::name_authority_identifier]"/>
                 </xsl:attribute>
             </xsl:if>
             <namePart>
-                <xsl:value-of select="."/>
+                    <xsl:value-of select="."/>
             </namePart>
-            <xsl:if test="following-sibling::node()[1][self::role_code]">
+            <xsl:if test="following-sibling::node()[2][self::nameRelator]">
                 <role>
                     <roleTerm type="code" authority="marcrelator">
-                        <xsl:value-of select="following-sibling::node()[1][self::role_code]"/>                        
+                        <xsl:value-of select="following-sibling::node()[2][self::nameRelator]"/>
                     </roleTerm>
                 </role>
             </xsl:if>
@@ -545,9 +547,9 @@
         <place>
             <placeTerm type="text">
             <!-- No authority attribute - currently not available in MODS 3.6 - CMH, 10/2014 -->
-                <xsl:if test="following-sibling::node()[1][self::place_authority_identifier]">
+                <xsl:if test="following-sibling::node()[2][self::place_authority_identifier]">
                     <xsl:attribute name="valueURI">
-                        <xsl:value-of select="following-sibling::node()[1][self::place_authority_identifier]"/>
+                        <xsl:value-of select="following-sibling::node()[2][self::place_authority_identifier]"/>
                     </xsl:attribute>
                 </xsl:if>
                 <xsl:value-of select="."/>
@@ -563,6 +565,21 @@
         <digitalOrigin>
             <xsl:value-of select="."/>
         </digitalOrigin>
+    </xsl:template>
+    <xsl:template match="genre">
+        <genre>
+            <xsl:if test="following-sibling::node()[1][self::genre_authority]">
+                <xsl:attribute name="authority">
+                    <xsl:value-of select="following-sibling::node()[1][self::genre_authority]"/>
+                </xsl:attribute>
+            </xsl:if>
+            <xsl:if test="following-sibling::node()[2][self::genre_authority_identifier]">
+                <xsl:attribute name="valueURI">
+                    <xsl:value-of select="following-sibling::node()[2][self::genre_authority_identifier]"/>
+                </xsl:attribute>
+            </xsl:if>
+            <xsl:value-of select="."/>
+        </genre>
     </xsl:template>
     <xsl:template match="form_originalFormat">
         <form>
@@ -609,8 +626,13 @@
             <xsl:value-of select="."/>
         </note>
     </xsl:template>
+    <xsl:template match="note_holdings">
+        <note type="holdings">
+            <xsl:value-of select="."/>
+        </note>
+    </xsl:template>
     <xsl:template match="note_filename">
-        <note>
+        <note type="filename">
             <xsl:value-of select="."/>
         </note>
     </xsl:template>
@@ -630,9 +652,10 @@
                 <xsl:attribute name="authority">
                     <xsl:value-of select="following-sibling::node()[1][self::subject_topic_authority]"/>
                 </xsl:attribute>
-            </xsl:if> <xsl:if test="following-sibling::node()[1][self::subject_topic_authority_identifier]">
+            </xsl:if> 
+            <xsl:if test="following-sibling::node()[2][self::subject_topic_authority_identifier]">
                 <xsl:attribute name="valueURI">
-                    <xsl:value-of select="following-sibling::node()[1][self::subject_topic_authority_identifier]"/>
+                    <xsl:value-of select="following-sibling::node()[2][self::subject_topic_authority_identifier]"/>
                 </xsl:attribute>
             </xsl:if>
             <topic>
@@ -662,8 +685,9 @@
                 <xsl:if test="following-sibling::node()[1][self::subject_geographic_authority]">
                     <xsl:attribute name="authority">
                         <xsl:value-of select="following-sibling::node()[1][self::subject_geographic_authority]"/>
-                    </xsl:attribute> <xsl:attribute name="valueURI">
-                        <xsl:value-of select="following-sibling::node()[1][self::subject_geographic_authority_identifier]"/>
+                    </xsl:attribute> 
+                    <xsl:attribute name="valueURI">
+                        <xsl:value-of select="following-sibling::node()[2][self::subject_geographic_authority_identifier]"/>
                     </xsl:attribute>
                 </xsl:if>
                     <xsl:value-of select="."/>
@@ -713,5 +737,13 @@
         <citySection>
             <xsl:value-of select='concat("Street: ", .)'/>
         </citySection>
+    </xsl:template>
+    <xsl:template match="*" mode="copy-unless-empty">
+        <xsl:if test="node()">
+            <xsl:copy>
+                <xsl:copy-of select="@*"/>
+                <xsl:value-of select="."/>
+            </xsl:copy>
+        </xsl:if>
     </xsl:template>
 </xsl:stylesheet>
