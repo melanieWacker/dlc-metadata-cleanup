@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Columbia University Libraries
+Following MODS output created by the CulModsXmlOutput plugin
+running on the following Omeka server:
+Columbia University Libraries Online Exhibitions
+Date: 2015-01-09 12:51:22-->
+<mods>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>MODS record conforms to the DLF Implementation Guidelines for Shareable MODS records, Version 3.4</recordOrigin>
+  </recordInfo>
+  <identifier type="local" displayLabel="Omeka ID">8994</identifier>
+  <titleInfo>
+    <title>DC Title</title>
+  </titleInfo>
+  <name>
+    <namePart>DC Creator</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>DC Subject</topic>
+  </subject>
+  <note>DC Description</note>
+  <originInfo>
+    <publisher>DC Publisher</publisher>
+    <dateOther>DC Date</dateOther>
+    <place>
+      <placeTerm type="text">MODS Place of Origin</placeTerm>
+    </place>
+    <dateCreated encoding="w3cdtf" point="start" keyDate="yes">MODS</dateCreated>
+    <dateCreated encoding="w3cdtf" point="end">Key</dateCreated>
+  </originInfo>
+  <name>
+    <namePart>DC Contributor</namePart>
+  </name>
+  <genre>DC Type</genre>
+  <physicalDescription>
+    <form>DC Format</form>
+    <digitalOrigin>born digital</digitalOrigin>
+    <extent>MODS Physical Description</extent>
+    <form>MODS Form/Genre</form>
+    <internetMediaType>application/postscript</internetMediaType>
+  </physicalDescription>
+  <identifier type="local">DC Identifier</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>DC Source</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">aar</languageTerm>
+  </language>
+  <relatedItem>
+    <titleInfo>
+      <title>DC Relation</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <geographic>DC Coverage</geographic>
+  </subject>
+  <accessCondition>DC Rights</accessCondition>
+  <location>
+    <shelfLocator>MODS Shelf Location</shelfLocator>
+    <physicalLocation>Art Properties, Columbia University</physicalLocation>
+  </location>
+  <note>MODS Notes</note>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>MODS Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <note type="ownership">Additional Provenance</note>
+  <subject>
+    <geographic>Additional Spatial Coverage</geographic>
+  </subject>
+</mods>
