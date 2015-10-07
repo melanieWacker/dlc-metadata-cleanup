@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--The name of each XML element representing an Omeka element or element set is
+based on the name of the element or element set in Omeka. For example:
+     The "Dublin Core" element set is represented by the DublinCore XML element
+     The "Form Genre" element in MODS is represented by the FormGenre XML element
+
+The following XML elements are based on internal Omeka data:
+     The OriginalFileLoadedIntoOmeka XML element contains the name/path of
+     of the file(s) loaded into Omeka for the given item.
+     The OmekaCollection XML element contains the name of the Omeka collection
+     containing the item, if the item belongs to an Omeka collection. Please note
+     that this element is different from the Collection element in MODS, which is
+     curator-populated.
+-->
+<itemContainer>
+  <item itemId="1334" public="1" featured="0">
+    <OmekaCollection>Wilbert Webster White Papers</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 7x6.25</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>genwww_3A0702_03.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/white/teaching/recommendations</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Dr. White and Bible Study Recommendations</text>
+      </Title>
+      <Description>
+        <text>Blunders for Beginners in Bible Study, a pamphlet produced by White from the Broadway Tabernacle.</text>
+      </Description>
+      <Date>
+        <text>19??</text>
+      </Date>
+      <Identifier>
+        <text>The Burke Archives (Columbia University Libraries): W. W. White Papers Series 3A box 7 f2</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>W.W. White; New York Theological Seminary</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="1333" public="1" featured="0">
+    <OmekaCollection>Wilbert Webster White Papers</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 7x6.25</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>genwww_3A0702_02.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/white/teaching/recommendations</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Dr. White and Bible Study Recommendations</text>
+      </Title>
+      <Description>
+        <text>Blunders for Beginners in Bible Study, a pamphlet produced by White from the Broadway Tabernacle.</text>
+      </Description>
+      <Date>
+        <text>19??</text>
+      </Date>
+      <Identifier>
+        <text>The Burke Archives (Columbia University Libraries): W. W. White Papers Series 3A box 7 f2</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>W.W. White; New York Theological Seminary</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="1332" public="1" featured="0">
+    <OmekaCollection>Wilbert Webster White Papers</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: large size photo</text><text>Physical Dimensions: 11.25x16.25</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>gennyts_UNP0102_1.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/white/teaching/classphoto</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Bible Teachers' Training School Class Photograph</text>
+      </Title>
+      <Description>
+        <text>Class photo of students with Dr. White on the roof of 541 Lexington Ave, the building to which Bible Teachers' Training School moved in 1904 and where, from 1905-1907, it was known as The Winona Bible School. The number of women and the number of overseas students within the group is an unusual factor at that time.</text>
+      </Description>
+      <Date>
+        <text>1904?</text>
+      </Date>
+      <Identifier>
+        <text>The Burke Archives (Columbia University Libraries): New York Theological Seminary Records, UNP box 2</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>W.W. White; New York Theological Seminary</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="1331" public="1" featured="0">
+    <OmekaCollection>Wilbert Webster White Papers</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 8.5x11</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>genwww_3A0702_01.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/white/teaching/biblestudy</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Dr. White and Bible Study</text>
+      </Title>
+      <Description>
+        <text>Recommendations for Bible Study: Sample Bible Study chart by Dr. White. This is one of many charts within the White collection produced and used within his teaching process by White.</text>
+      </Description>
+      <Date>
+        <text>19??</text>
+      </Date>
+      <Identifier>
+        <text>The Burke Archives (Columbia University Libraries): W. W. White Papers Series 3A box 7 f2</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>W.W. White; New York Theological Seminary</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="1330" public="1" featured="0">
+    <OmekaCollection>Wilbert Webster White Papers</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 8.5x11</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>genwww_20305_01.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/white/curriculum/torrey</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Letter from Reuben Archer Torrey, Sr. first superintendent of the Chicago Evangelization Society (later renamed the Moody Bible Institute) to W. W. White, April 5, 1894.</text>
+      </Title>
+      <Description>
+        <text>The letter expresses the wish to set up a meeting between Dwight Lyman Moody and White. Torrey suggests John R. Mott as someone who could speak knowledgeably about Moody and the Institute to White. As a result of this meeting White left his chair at Xenia Seminary in 1894 to become Associate Director of the Moody Bible Institute.</text>
+      </Description>
+      <Date>
+        <text>1894</text>
+      </Date>
+      <Identifier>
+        <text>The Burke Archives (Columbia University Libraries): W. W. White Papers Series 2 box 3 f5</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>W.W. White; New York Theological Seminary</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="1329" public="1" featured="0">
+    <OmekaCollection>Wilbert Webster White Papers</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 8.5x11</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>genwww_41005_17.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/white/curriculum/bibliocentric11</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>What the Biblio-centric Curriculum Really Means</text>
+      </Title>
+      <Description>
+        <text>Address by Wilbert W. White to The Swedish Church, 52nd and Lexington given on November 26th, 1912</text>
+      </Description>
+      <Date>
+        <text>1912</text>
+      </Date>
+      <Identifier>
+        <text>The Burke Archives (Columbia University Libraries): W. W. White Papers Series 4 box 10 f5</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>W.W. White; New York Theological Seminary</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="1328" public="1" featured="0">
+    <OmekaCollection>Wilbert Webster White Papers</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 8.5x11</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>genwww_41005_16.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/white/curriculum/bibliocentric11</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>What the Biblio-centric Curriculum Really Means</text>
+      </Title>
+      <Description>
+        <text>Address by Wilbert W. White to The Swedish Church, 52nd and Lexington given on November 26th, 1912</text>
+      </Description>
+      <Date>
+        <text>1912</text>
+      </Date>
+      <Identifier>
+        <text>The Burke Archives (Columbia University Libraries): W. W. White Papers Series 4 box 10 f5</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>W.W. White; New York Theological Seminary</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="1327" public="1" featured="0">
+    <OmekaCollection>Wilbert Webster White Papers</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 8.5x11</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>genwww_41005_15.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/white/curriculum/bibliocentric11</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>What the Biblio-centric Curriculum Really Means</text>
+      </Title>
+      <Description>
+        <text>Address by Wilbert W. White to The Swedish Church, 52nd and Lexington given on November 26th, 1912</text>
+      </Description>
+      <Date>
+        <text>1912</text>
+      </Date>
+      <Identifier>
+        <text>The Burke Archives (Columbia University Libraries): W. W. White Papers Series 4 box 10 f5</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>W.W. White; New York Theological Seminary</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="1326" public="1" featured="0">
+    <OmekaCollection>Wilbert Webster White Papers</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 8.5x11</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>genwww_41005_14.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/white/curriculum/bibliocentric11</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>What the Biblio-centric Curriculum Really Means</text>
+      </Title>
+      <Description>
+        <text>Address by Wilbert W. White to The Swedish Church, 52nd and Lexington given on November 26th, 1912</text>
+      </Description>
+      <Date>
+        <text>1912</text>
+      </Date>
+      <Identifier>
+        <text>The Burke Archives (Columbia University Libraries): W. W. White Papers Series 4 box 10 f5</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>W.W. White; New York Theological Seminary</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="1325" public="1" featured="0">
+    <OmekaCollection>Wilbert Webster White Papers</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 8.5x11</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>genwww_41005_13.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/white/curriculum/bibliocentric11</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>What the Biblio-centric Curriculum Really Means</text>
+      </Title>
+      <Description>
+        <text>Address by Wilbert W. White to The Swedish Church, 52nd and Lexington given on November 26th, 1912</text>
+      </Description>
+      <Date>
+        <text>1912</text>
+      </Date>
+      <Identifier>
+        <text>The Burke Archives (Columbia University Libraries): W. W. White Papers Series 4 box 10 f5</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>W.W. White; New York Theological Seminary</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="1324" public="1" featured="0">
+    <OmekaCollection>Wilbert Webster White Papers</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 8.5x11</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>genwww_41005_12.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/white/curriculum/bibliocentric11</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>What the Biblio-centric Curriculum Really Means</text>
+      </Title>
+      <Description>
+        <text>Address by Wilbert W. White to The Swedish Church, 52nd and Lexington given on November 26th, 1912</text>
+      </Description>
+      <Date>
+        <text>1912</text>
+      </Date>
+      <Identifier>
+        <text>The Burke Archives (Columbia University Libraries): W. W. White Papers Series 4 box 10 f5</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>W.W. White; New York Theological Seminary</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="1323" public="1" featured="0">
+    <OmekaCollection>Wilbert Webster White Papers</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 8.5x11</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>genwww_41005_11.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/white/curriculum/bibliocentric11</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>What the Biblio-centric Curriculum Really Means</text>
+      </Title>
+      <Description>
+        <text>Address by Wilbert W. White to The Swedish Church, 52nd and Lexington given on November 26th, 1912</text>
+      </Description>
+      <Date>
+        <text>1912</text>
+      </Date>
+      <Identifier>
+        <text>The Burke Archives (Columbia University Libraries): W. W. White Papers Series 4 box 10 f5</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>W.W. White; New York Theological Seminary</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="1322" public="1" featured="0">
+    <OmekaCollection>Wilbert Webster White Papers</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 8.5x11</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>genwww_41005_10.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/white/curriculum/bibliocentric1</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>What the Biblio-centric Curriculum Really Means</text>
+      </Title>
+      <Description>
+        <text>Address by Wilbert W. White to The Swedish Church, 52nd and Lexington given on November 26th, 1912</text>
+      </Description>
+      <Date>
+        <text>1912</text>
+      </Date>
+      <Identifier>
+        <text>The Burke Archives (Columbia University Libraries): W. W. White Papers Series 4 box 10 f5</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>W.W. White; New York Theological Seminary</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="1321" public="1" featured="0">
+    <OmekaCollection>Wilbert Webster White Papers</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 8.5x11</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>genwww_41005_09.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/white/curriculum/bibliocentric1</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>What the Biblio-centric Curriculum Really Means</text>
+      </Title>
+      <Description>
+        <text>Address by Wilbert W. White to The Swedish Church, 52nd and Lexington given on November 26th, 1912</text>
+      </Description>
+      <Date>
+        <text>1912</text>
+      </Date>
+      <Identifier>
+        <text>The Burke Archives (Columbia University Libraries): W. W. White Papers Series 4 box 10 f5</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>W.W. White; New York Theological Seminary</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="1320" public="1" featured="0">
+    <OmekaCollection>Wilbert Webster White Papers</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 8.5x11</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>genwww_41005_08.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/white/curriculum/bibliocentric8</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>What the Biblio-centric Curriculum Really Means</text>
+      </Title>
+      <Description>
+        <text>Address by Wilbert W. White to The Swedish Church, 52nd and Lexington given on November 26th, 1912</text>
+      </Description>
+      <Date>
+        <text>1912</text>
+      </Date>
+      <Identifier>
+        <text>The Burke Archives (Columbia University Libraries): W. W. White Papers Series 4 box 10 f5</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>W.W. White; New York Theological Seminary</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="1319" public="1" featured="0">
+    <OmekaCollection>Wilbert Webster White Papers</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 8.5x11</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>genwww_41005_07.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/white/curriculum/bibliocentric7</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>What the Biblio-centric Curriculum Really Means</text>
+      </Title>
+      <Description>
+        <text>Address by Wilbert W. White to The Swedish Church, 52nd and Lexington given on November 26th, 1912</text>
+      </Description>
+      <Date>
+        <text>1912</text>
+      </Date>
+      <Identifier>
+        <text>The Burke Archives (Columbia University Libraries): W. W. White Papers Series 4 box 10 f5</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>W.W. White; New York Theological Seminary</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="1318" public="1" featured="0">
+    <OmekaCollection>Wilbert Webster White Papers</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 8.5x11</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>genwww_41005_06.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/white/curriculum/bibliocentric6</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>What the Biblio-centric Curriculum Really Means</text>
+      </Title>
+      <Description>
+        <text>Address by Wilbert W. White to The Swedish Church, 52nd and Lexington given on November 26th, 1912</text>
+      </Description>
+      <Date>
+        <text>1912</text>
+      </Date>
+      <Identifier>
+        <text>The Burke Archives (Columbia University Libraries): W. W. White Papers Series 4 box 10 f5</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>W.W. White; New York Theological Seminary</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="1317" public="1" featured="0">
+    <OmekaCollection>Wilbert Webster White Papers</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 8.5x11</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>genwww_41005_05.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/white/curriculum/bibliocentric5</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>What the Biblio-centric Curriculum Really Means</text>
+      </Title>
+      <Description>
+        <text>Address by Wilbert W. White to The Swedish Church, 52nd and Lexington given on November 26th, 1912</text>
+      </Description>
+      <Date>
+        <text>1912</text>
+      </Date>
+      <Identifier>
+        <text>The Burke Archives (Columbia University Libraries): W. W. White Papers Series 4 box 10 f5</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>W.W. White; New York Theological Seminary</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="1316" public="1" featured="0">
+    <OmekaCollection>Wilbert Webster White Papers</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 8.5x11</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>genwww_41005_04.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/white/curriculum/4</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>What the Biblio-centric Curriculum Really Means</text>
+      </Title>
+      <Description>
+        <text>Address by Wilbert W. White to The Swedish Church, 52nd and Lexington given on November 26th, 1912</text>
+      </Description>
+      <Date>
+        <text>1912</text>
+      </Date>
+      <Identifier>
+        <text>The Burke Archives (Columbia University Libraries): W. W. White Papers Series 4 box 10 f5</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>W.W. White; New York Theological Seminary</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="1315" public="1" featured="0">
+    <OmekaCollection>Wilbert Webster White Papers</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 8.5x11</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>genwww_41005_03.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/white/curriculum/bibliocentric3</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>What the Biblio-centric Curriculum Really Means</text>
+      </Title>
+      <Description>
+        <text>Address by Wilbert W. White to The Swedish Church, 52nd and Lexington given on November 26th, 1912</text>
+      </Description>
+      <Date>
+        <text>1912</text>
+      </Date>
+      <Identifier>
+        <text>The Burke Archives (Columbia University Libraries): W. W. White Papers Series 4 box 10 f5</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>W.W. White; New York Theological Seminary</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="1314" public="1" featured="0">
+    <OmekaCollection>Wilbert Webster White Papers</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 8.5x11</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>genwww_41005_02.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/white/curriculum/bibliocentric2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>What the Biblio-centric Curriculum Really Means</text>
+      </Title>
+      <Description>
+        <text>Address by Wilbert W. White to The Swedish Church, 52nd and Lexington given on November 26th, 1912</text>
+      </Description>
+      <Date>
+        <text>1912</text>
+      </Date>
+      <Identifier>
+        <text>The Burke Archives (Columbia University Libraries): W. W. White Papers Series 4 box 10 f5</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>W.W. White; New York Theological Seminary</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="1313" public="1" featured="0">
+    <OmekaCollection>Wilbert Webster White Papers</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: Text</text><text>Physical Dimensions: 8.5x11</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>genwww_41005_01.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/white/curriculum/bibliocentric1</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>What the Biblio-centric Curriculum Really Means</text>
+      </Title>
+      <Description>
+        <text>Address by Wilbert W. White to The Swedish Church, 52nd and Lexington given on November 26th, 1912</text>
+      </Description>
+      <Date>
+        <text>1912</text>
+      </Date>
+      <Identifier>
+        <text>The Burke Archives (Columbia University Libraries): W. W. White Papers Series 4 box 10 f5</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>W.W. White; New York Theological Seminary</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="1312" public="1" featured="0">
+    <OmekaCollection>Wilbert Webster White Papers</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: Photo print</text><text>Physical Dimensions: 7.25x5.5</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>genwww_010105_01.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/white/portrait/portrait</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Wilbert Webster White portrait</text>
+      </Title>
+      <Description>
+        <text>Pictured here is the New York Times Studio press portrait first used in the New York Times article of April 11, 1931 describing the celebration by 700 people in the Hotel Roosevelt of White's thirtieth anniversary as Biblical Seminary's President and founder.</text>
+      </Description>
+      <Date>
+        <text>1931</text>
+      </Date>
+      <Identifier>
+        <text>The Burke Archives (Columbia University Libraries): W. W. White Papers Series 1 box 1 f5</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>W.W. White; New York Theological Seminary</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+</itemContainer>
+
