@@ -1,0 +1,3841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--The name of each XML element representing an Omeka element or element set is
+based on the name of the element or element set in Omeka. For example:
+     The "Dublin Core" element set is represented by the DublinCore XML element
+     The "Form Genre" element in MODS is represented by the FormGenre XML element
+
+The following XML elements are based on internal Omeka data:
+     The OriginalFileLoadedIntoOmeka XML element contains the name/path of
+     of the file(s) loaded into Omeka for the given item.
+     The OmekaCollection XML element contains the name of the Omeka collection
+     containing the item, if the item belongs to an Omeka collection. Please note
+     that this element is different from the Collection element in MODS, which is
+     curator-populated.
+-->
+<itemContainer>
+  <item itemId="6833" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/DS-6234.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/compiling/morallfabletalke</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Morall Fabletalke, Pages 188-189</text>
+      </Title>
+      <Description>
+        <text>A Latin poem,  followed by a table. </text>
+      </Description>
+      <Creator>
+        <text>Golding, Arthur</text>
+      </Creator>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1575 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>circa 1575-1599</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Western MS 16</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 6234.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6832" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/DS-6233.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/compiling/morallfabletalke</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Morall Fabletalke, Pages 140-141</text>
+      </Title>
+      <Description>
+        <text>Added tales and morals in the back of A Morall Fabletalke. The hand in which these tales are written is different from that in which the translation of Aesop is done. </text>
+      </Description>
+      <Creator>
+        <text>Golding, Arthur</text>
+      </Creator>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1575 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>circa 1575-1599</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Western MS 16</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 6233.tif </text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6831" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/DS-6231.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/compiling/morallfabletalke</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Morall Fabletalke, Page 1</text>
+      </Title>
+      <Description>
+        <text>An opening in A Morall Fabletalke. The first fable and its moral are set off by rubricated text and an owner has made an annotation in the margin.</text>
+      </Description>
+      <Creator>
+        <text>Golding, Arthur</text>
+      </Creator>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1575 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>circa 1575-1599</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Western MS 16</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 6231.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6830" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/DS-6230.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/compiling/morallfabletalke</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Morall Fabletalke, Folio iv r (title page)</text>
+      </Title>
+      <Description>
+        <text>Title page of A Morall Fabletalke</text>
+      </Description>
+      <Creator>
+        <text>Golding, Arthur</text>
+      </Creator>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1575 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>circa 1575-1599</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Western MS 16</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 6230.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6829" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/DS-7367.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/compiling/sixteenthcenturycommonplaceboo</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Sixteenth-century Commonplace Book, Folio 17v</text>
+      </Title>
+      <Description>
+        <text>1554 Signature of William Somer</text>
+      </Description>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1500 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>circa 1500-1599</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Plimpton MS 276</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 7367.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6828" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/DS-7293.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/compiling/sixteenthcenturycommonplaceboo</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Sixteenth-century Commonplace Book, Folio 7r</text>
+      </Title>
+      <Description>
+        <text>Text detailing the spiritual dangers of fornication in two hands.</text>
+      </Description>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1500 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>circa 1500-1599</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Plimpton MS 276</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 7293.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6827" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/DS-7191.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/compiling/sixteenthcenturycommonplaceboo</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Sixteenth-century Commonplace Book, Folio 5r</text>
+      </Title>
+      <Description>
+        <text>The end of a 32-line poem. </text>
+      </Description>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1500 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>circa 1500-1599</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Plimpton MS 276</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 7191.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6826" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/DS-7190.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/compiling/sixteenthcenturycommonplaceboo</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Sixteenth-century Commonplace Book, Folio 4r</text>
+      </Title>
+      <Description>
+        <text>Lines from the poem on the previous page, as well as other alphabets.</text>
+      </Description>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1500 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>circa 1500-1599</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Plimpton MS 276</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 7190.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6825" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/DS-7359.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Sixteenth-century Commonplace Book, Folio 3v</text>
+      </Title>
+      <Description>
+        <text>The beginning of a 32-line poem, prefaced by a practice alphabet. </text>
+      </Description>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1500 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>circa 1500-1599</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Plimpton MS 276</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 7359.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6824" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/DS-7189.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/compiling/earlymoderncompiling</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Sixteenth-century Commonplace Book, Folio 3r</text>
+      </Title>
+      <Description>
+        <text>A copy of a 1554 letter from William Sommers to Agnes Bowyer.</text>
+      </Description>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1500 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>circa 1500-1599</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Plimpton MS 276</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 7189.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6823" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/DS-8719.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Sixteenth-century Commonplace Book, Front cover</text>
+      </Title>
+      <Description>
+        <text>This commonplace book is bound in a leaf from a fifteenth-century ferial psalter. </text>
+      </Description>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1400 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>circa 1400-1499</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Plimpton MS 276</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 8719.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6822" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>0009992.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/englishcanon/msconfessio</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Confessio Amantis, Folio 171v</text>
+      </Title>
+      <Description>
+        <text>Drawings by an early reader plus an illuminated letter cut out.</text>
+      </Description>
+      <Creator>
+        <text>Gower, John, 1325?-1408</text>
+      </Creator>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1400 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>circa 1400-1415</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Plimpton MS 265</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 0009992.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6821" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/DS-8290.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/englishcanon/msconfessio</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Confessio Amantis, Folio 76r</text>
+      </Title>
+      <Description>
+        <text>Marginal note by an early reader.</text>
+      </Description>
+      <Creator>
+        <text>Gower, John, 1325?-1408</text>
+      </Creator>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1400 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>circa 1400-1415</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Plimpton MS 265</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 8290.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6820" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>0009991.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/englishcanon/msconfessio</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Confessio Amantis, Folio 53r</text>
+      </Title>
+      <Description>
+        <text>Illuminated leaf cut out.</text>
+      </Description>
+      <Creator>
+        <text>Gower, John, 1325?-1408</text>
+      </Creator>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1400 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>circa 1400-1415</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Plimpton MS 265</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 0009991.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6819" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/DS-8287.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/englishcanon/msconfessio</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Confessio Amantis, Folio 37r</text>
+      </Title>
+      <Description>
+        <text>Incipit liber tertius.</text>
+      </Description>
+      <Creator>
+        <text>Gower, John, 1325?-1408</text>
+      </Creator>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1400 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>circa 1400-1415</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Plimpton MS 265</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 8287.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6818" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/DS-8285.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/englishcanon/canonicalbooks</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Confessio Amantis, Folio 1v</text>
+      </Title>
+      <Description>
+        <text>Miniature of the dream of Nabuchodonosor.</text>
+      </Description>
+      <Creator>
+        <text>Gower, John, 1325?-1408</text>
+      </Creator>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1400 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>circa 1400-1415</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Plimpton MS 265</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 8285.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6817" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/DS-6056.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/compiling/fifteenthcenturycommonplaceboo</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Fifteenth-Century Commonplace Book, Folio 54r</text>
+      </Title>
+      <Description>
+        <text>Sayings of philosophers.</text>
+      </Description>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1450 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>circa 1450-1475</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Plimpton MS 259</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 6056.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6816" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>0009995.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/compiling/fifteenthcenturycommonplaceboo</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Fifteenth-Century Commonplace Book, Folio 14r</text>
+      </Title>
+      <Description>
+        <text>Proverbs in Latin and English.</text>
+      </Description>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1450 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>circa 1450-1475</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Plimpton MS 259</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 0009995.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6815" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>0009994.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/compiling/fifteenthcenturycommonplaceboo</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Fifteenth-Century Commonplace Book, Folio 11r</text>
+      </Title>
+      <Description>
+        <text>Words of a good horse.</text>
+      </Description>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1450 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>circa 1450-1475</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Plimpton MS 259</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 0009994.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6814" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>0009993.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/compiling/fifteenthcenturycommonplaceboo</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Fifteenth-Century Commonplace Book, Folio 8r</text>
+      </Title>
+      <Description>
+        <text>Found in an old book.</text>
+      </Description>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1450 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>circa 1450-1475</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Plimpton MS 259</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 0009993.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6813" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034049.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/idealcopy/confessioamantis</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Confessio Amantis, 7v-8r (B1v-B2r)</text>
+      </Title>
+      <Description>
+        <text>Beginning of Book 1.</text>
+      </Description>
+      <Creator>
+        <text>Gower, John, 1325?-1408</text>
+      </Creator>
+      <Publisher>
+        <text>Thomas Berthelette</text>
+      </Publisher>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>367502</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1554 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1554</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>PR1984 .C6 1554</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 120034049.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6812" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034048.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/idealcopy/confessioamantis</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034048.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1554</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1554</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>PR1984 .C6 1554</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Gower, John, 1325?-1408</text>
+      </Creator>
+      <Title>
+        <text>Confessio Amantis, 2v-3r</text>
+      </Title>
+      <Publisher>
+        <text>Thomas Berthelette</text>
+      </Publisher>
+      <Description>
+        <text>Table of contents.</text>
+      </Description>
+      <Identifier>
+        <text>367502</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6811" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034047.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/idealcopy/confessioamantis</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034047.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1554</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1554</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>PR1984 .C6 1554</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Gower, John, 1325?-1408</text>
+      </Creator>
+      <Title>
+        <text>Confessio Amantis, 1v-2r</text>
+      </Title>
+      <Publisher>
+        <text>Thomas Berthelette</text>
+      </Publisher>
+      <Description>
+        <text>Beginning of dedicatory epistle.</text>
+      </Description>
+      <Identifier>
+        <text>367502</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6810" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034046.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/idealcopy/confessioamantis</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034046.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1554</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1554</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>PR1984 .C6 1554</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Gower, John, 1325?-1408</text>
+      </Creator>
+      <Title>
+        <text>Confessio Amantis, Title page</text>
+      </Title>
+      <Publisher>
+        <text>Thomas Berthelette</text>
+      </Publisher>
+      <Description>
+        <text>Title page.</text>
+      </Description>
+      <Identifier>
+        <text>367502</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6809" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034045.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/imaginingtheauthor/jonsonfolio</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034045.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1616</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1616</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>PR2600 1616</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Jonson, Benjamin, 1573?-1637</text>
+      </Creator>
+      <Title>
+        <text>Workes of Benjamin Jonson, Page 524</text>
+      </Title>
+      <Publisher>
+        <text>William Stansby</text>
+      </Publisher>
+      <Description>
+        <text>A note describing the original performance.</text>
+      </Description>
+      <Identifier>
+        <text>7315518</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6808" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034044.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/imaginingtheauthor/jonsonfolio</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034044.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1616</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1616</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>PR2600 1616</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Jonson, Benjamin, 1573?-1637</text>
+      </Creator>
+      <Title>
+        <text>Workes of Benjamin Jonson, Pages 448-49</text>
+      </Title>
+      <Publisher>
+        <text>William Stansby</text>
+      </Publisher>
+      <Description>
+        <text>"The persons of the play" and the beginning of Volpone. </text>
+      </Description>
+      <Identifier>
+        <text>7315518</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6807" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034043.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/imaginingtheauthor/jonsonfolio</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034043.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1616</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1616</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>PR2600 1616</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Jonson, Benjamin, 1573?-1637</text>
+      </Creator>
+      <Title>
+        <text>Workes of Benjamin Jonson, Page 439</text>
+      </Title>
+      <Publisher>
+        <text>William Stansby</text>
+      </Publisher>
+      <Description>
+        <text>Title page of Volpone. </text>
+      </Description>
+      <Identifier>
+        <text>7315518</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6806" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034042.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/imaginingtheauthor/jonsonfolio</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034042.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1616</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1616</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>PR2600 1616</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Jonson, Benjamin, 1573?-1637</text>
+      </Creator>
+      <Title>
+        <text>Workes of Benjamin Jonson, Title page</text>
+      </Title>
+      <Publisher>
+        <text>William Stansby</text>
+      </Publisher>
+      <Description>
+        <text>Title page of the Jonson Folio.</text>
+      </Description>
+      <Identifier>
+        <text>7315518</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6805" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034041.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034041.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1683</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1683</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>PR3415 .L6 1694g </text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Shakespeare, William, 1564-1616</text>
+      </Creator>
+      <Title>
+        <text>Tragedy of Hamlet Prince of Denmark, Page 88</text>
+      </Title>
+      <Publisher>
+        <text>H. Heringman and R. Bentley</text>
+      </Publisher>
+      <Description>
+        <text>The last page of the play. Note the last line was deleted for performance.</text>
+      </Description>
+      <Identifier>
+        <text>7217358</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6804" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034040.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/englishcanon/hamlet</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034040.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1683</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1683</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>PR3415 .L6 1694g </text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Shakespeare, William, 1564-1616</text>
+      </Creator>
+      <Title>
+        <text>Tragedy of Hamlet Prince of Denmark, Pages 12-13 (signatures C2v-C3r)</text>
+      </Title>
+      <Publisher>
+        <text>H. Heringman and R. Bentley</text>
+      </Publisher>
+      <Description>
+        <text>Pages with ", which marks lines deleted during performance</text>
+      </Description>
+      <Identifier>
+        <text>7217358</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6803" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034039.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/englishcanon/hamlet</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034039.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1683</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1683</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>PR3415 .L6 1694g </text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Shakespeare, William, 1564-1616</text>
+      </Creator>
+      <Title>
+        <text>Tragedy of Hamlet Prince of Denmark, Signature A2r</text>
+      </Title>
+      <Publisher>
+        <text>H. Heringman and R. Bentley</text>
+      </Publisher>
+      <Description>
+        <text>A note to the reader about excisions to the text made during performance.</text>
+      </Description>
+      <Identifier>
+        <text>7217358</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6802" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034038.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/englishcanon/hamlet</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034038.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1683</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1683</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>PR3415 .L6 1694g </text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Shakespeare, William, 1564-1616</text>
+      </Creator>
+      <Title>
+        <text>Tragedy of Hamlet Prince of Denmark, Title page</text>
+      </Title>
+      <Publisher>
+        <text>H. Heringman and R. Bentley</text>
+      </Publisher>
+      <Description>
+        <text>Title page of Hamlet. </text>
+      </Description>
+      <Identifier>
+        <text>7217358</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6801" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034037.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/englishcanon/hamlet</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034037.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1683</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1683</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>PR3415 .L6 1694g </text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Shakespeare, William, 1564-1616</text>
+      </Creator>
+      <Title>
+        <text>Tragedy of Hamlet Prince of Denmark, Flyleaf (facing title page of Love Triumphant)</text>
+      </Title>
+      <Publisher>
+        <text>H. Heringman and R. Bentley</text>
+      </Publisher>
+      <Description>
+        <text>Handwritten table of contents. </text>
+      </Description>
+      <Identifier>
+        <text>7217358</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6800" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034036.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/englishcanon/pierceplowman</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034036.tif</text>
+        <text>2nd edition</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1550</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1550</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>Phoenix P821.15 I</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Langland, William, 1330?-1400?</text>
+      </Creator>
+      <Title>
+        <text>Vision of Pierce Plowman, Signature N2r</text>
+      </Title>
+      <Publisher>
+        <text>Robert Crowley</text>
+      </Publisher>
+      <Description>
+        <text>Bossy printed marginalia. "Reade thys," it instructs.</text>
+      </Description>
+      <Identifier>
+        <text>7483409</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6799" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034035.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/englishcanon/pierceplowman</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034035.tif</text>
+        <text>2nd edition</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1550</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1550</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>Phoenix P821.15 I</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Langland, William, 1330?-1400?</text>
+      </Creator>
+      <Title>
+        <text>Vision of Pierce Plowman, Signature Br</text>
+      </Title>
+      <Publisher>
+        <text>Robert Crowley</text>
+      </Publisher>
+      <Description>
+        <text>One of the book's annotators glossed the hard words in the margins.</text>
+      </Description>
+      <Identifier>
+        <text>7483409</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6798" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034034.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/englishcanon/pierceplowman</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034034.tif</text>
+        <text>2nd edition</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1550</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1550</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>Phoenix P821.15 I</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Langland, William, 1330?-1400?</text>
+      </Creator>
+      <Title>
+        <text>Vision of Pierce Plowman, (fleur di lis) 3r</text>
+      </Title>
+      <Publisher>
+        <text>Robert Crowley</text>
+      </Publisher>
+      <Description>
+        <text>Text that  summarizes the poem's passus.</text>
+      </Description>
+      <Identifier>
+        <text>7483409</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6797" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034033.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/englishcanon/pierceplowman</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034033.tif</text>
+        <text>2nd edition</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1550</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1550</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>Phoenix P821.15 I</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Langland, William, 1330?-1400?</text>
+      </Creator>
+      <Title>
+        <text>Vision of Pierce Plowman, Signature *2r</text>
+      </Title>
+      <Publisher>
+        <text>Robert Crowley</text>
+      </Publisher>
+      <Description>
+        <text>Crowley's letter to the reader. Like Bale, Crowley packages the fourteenth-century poet as a proto-reformer. </text>
+      </Description>
+      <Identifier>
+        <text>7483409</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6796" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034032.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/englishcanon/pierceplowman</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034032.tif</text>
+        <text>2nd edition</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1550</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1550</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>Phoenix P821.15 I</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Langland, William, 1330?-1400?</text>
+      </Creator>
+      <Title>
+        <text>Vision of Pierce Plowman, Title page</text>
+      </Title>
+      <Publisher>
+        <text>Robert Crowley</text>
+      </Publisher>
+      <Description>
+        <text>Title page of The Vision of Pierce Plowman.</text>
+      </Description>
+      <Identifier>
+        <text>7483409</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6795" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034031.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034031.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1542</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1542</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>Phoenix P017.En1 B64 1542C </text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Chaucer, Geoffrey, d. 1400</text>
+      </Creator>
+      <Title>
+        <text>Workes of Geffray Chaucer newlye printed, G2v (folio Xxvi)</text>
+      </Title>
+      <Publisher>
+        <text>Printed by [Richard Grafton for] Wyllyam Bonham</text>
+      </Publisher>
+      <Description>
+        <text>Beginning of the Squire's Tale, with woodcut.</text>
+      </Description>
+      <Identifier>
+        <text>6997785</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6794" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034030.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/imaginingtheauthor/1542chaucer</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034030.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1542</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1542</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>Phoenix P017.En1 B64 1542C </text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Chaucer, Geoffrey, d. 1400</text>
+      </Creator>
+      <Title>
+        <text>Workes of Geffray Chaucer newlye printed, C1r (folio i)</text>
+      </Title>
+      <Publisher>
+        <text>Printed by [Richard Grafton for] Wyllyam Bonham</text>
+      </Publisher>
+      <Description>
+        <text>Beginning of the Knight's Tale, with woodcut.</text>
+      </Description>
+      <Identifier>
+        <text>6997785</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6793" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034029.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/imaginingtheauthor/1542chaucer</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034029.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1542</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1542</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>Phoenix P017.En1 B64 1542C </text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Chaucer, Geoffrey, d. 1400</text>
+      </Creator>
+      <Title>
+        <text>Workes of Geffray Chaucer newlye printed, A2v-A3r</text>
+      </Title>
+      <Publisher>
+        <text>Printed by [Richard Grafton for] Wyllyam Bonham</text>
+      </Publisher>
+      <Description>
+        <text>Editor's preface.</text>
+      </Description>
+      <Identifier>
+        <text>6997785</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6792" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034028.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/imaginingtheauthor/1542chaucer</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034028.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1542</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1542</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>Phoenix P017.En1 B64 1542C </text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Chaucer, Geoffrey, d. 1400</text>
+      </Creator>
+      <Title>
+        <text>Workes of Geffray Chaucer newlye printed, Title page</text>
+      </Title>
+      <Publisher>
+        <text>Printed by [Richard Grafton for] Wyllyam Bonham</text>
+      </Publisher>
+      <Description>
+        <text>Original title page with a much later frontispiece.</text>
+      </Description>
+      <Identifier>
+        <text>6997785</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6791" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034027.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/imaginingtheauthor/printauthorship</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034027.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1542</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1542</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>Phoenix P017.En1 B64 1542C </text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Chaucer, Geoffrey, d. 1400</text>
+      </Creator>
+      <Title>
+        <text>Workes of Geffray Chaucer newlye printed, Frontispiece</text>
+      </Title>
+      <Publisher>
+        <text>Printed by [Richard Grafton for] Wyllyam Bonham</text>
+      </Publisher>
+      <Description>
+        <text>Original title page with a much later frontispiece.</text>
+      </Description>
+      <Identifier>
+        <text>6997785</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6790" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034026.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/imaginingtheauthor/1542chaucer</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034026.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>England</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1542</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1542</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>Phoenix P017.En1 B64 1542C </text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Chaucer, Geoffrey, d. 1400</text>
+      </Creator>
+      <Title>
+        <text>Workes of Geffray Chaucer newlye printed, Front flyleaf</text>
+      </Title>
+      <Publisher>
+        <text>Printed by [Richard Grafton for] Wyllyam Bonham</text>
+      </Publisher>
+      <Description>
+        <text>Note by James Boaden, former owner.</text>
+      </Description>
+      <Identifier>
+        <text>6997785</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6789" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034025.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/englishcanon/faeriequeene</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034025.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1609</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1609</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>B823Sp3 Q5 1609</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Spenser, Edmund, 1552?-1599</text>
+      </Creator>
+      <Title>
+        <text>Faerie Queene, Pages 186-89</text>
+      </Title>
+      <Publisher>
+        <text>Matthew Lownes</text>
+      </Publisher>
+      <Description>
+        <text>The end of Book 3 and beginning of Book 4 of The Faerie Queene. The title page that should be between these two leaves has been moved to the front of the book and altered.</text>
+      </Description>
+      <Identifier>
+        <text>5579826</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6788" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034024.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/englishcanon/faeriequeene</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034024.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1609</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1609</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>B823Sp3 Q5 1609</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Spenser, Edmund, 1552?-1599</text>
+      </Creator>
+      <Title>
+        <text>Faerie Queene, Pages 20-21</text>
+      </Title>
+      <Publisher>
+        <text>Matthew Lownes</text>
+      </Publisher>
+      <Description>
+        <text>The end of the ink facsimile. </text>
+      </Description>
+      <Identifier>
+        <text>5579826</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6787" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034023.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/englishcanon/faeriequeene</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034023.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1609</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1609</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>B823Sp3 Q5 1609</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Spenser, Edmund, 1552?-1599</text>
+      </Creator>
+      <Title>
+        <text>Faerie Queene, Pages 12-13</text>
+      </Title>
+      <Publisher>
+        <text>Matthew Lownes</text>
+      </Publisher>
+      <Description>
+        <text>This copy was missing some leaves, so one of the book's owners carefully made an ink facsimile of the missing pages.</text>
+      </Description>
+      <Identifier>
+        <text>5579826</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6786" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034022.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/englishcanon/faeriequeene</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034022.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1609</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1609</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>B823Sp3 Q5 1609</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Spenser, Edmund, 1552?-1599</text>
+      </Creator>
+      <Title>
+        <text>Faerie Queene, Title page</text>
+      </Title>
+      <Publisher>
+        <text>Matthew Lownes</text>
+      </Publisher>
+      <Description>
+        <text>Columbia's copy of the 1609 Faerie Queene lacks the title page and dedicatory epistle. One of the book's owners thus removed the title page preceding books 4-6, inserted it at the beginning of the book, and altered it to read "The First Part of the Faerie Queene: Containing the first, second, &amp; third books." Note that several words are pasted in: "First" preceding part as well as "first, second, and third." </text>
+      </Description>
+      <Identifier>
+        <text>5579826</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6785" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034021.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034021.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1632</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1632</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>B823SI IC 32</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Shakespeare, William, 1564-1616</text>
+      </Creator>
+      <Title>
+        <text>Comedies, Histories and Tragedies, ddd4v (very last page)</text>
+      </Title>
+      <Publisher>
+        <text>Printed by Tho. Cotes</text>
+      </Publisher>
+      <Description>
+        <text>A dirty page.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="6784" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034020.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/idealcopy/shakespearefolio</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034020.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1632</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1632</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>B823SI IC 32</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Shakespeare, William, 1564-1616</text>
+      </Creator>
+      <Title>
+        <text>Comedies, Histories and Tragedies, F1r (page 61)</text>
+      </Title>
+      <Publisher>
+        <text>Printed by Tho. Cotes</text>
+      </Publisher>
+      <Description>
+        <text>Grease stain and the beginning of Measure for Measure.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="6783" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034019.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034019.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1632</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1632</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>B823SI IC 32</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Shakespeare, William, 1564-1616</text>
+      </Creator>
+      <Title>
+        <text>Comedies, Histories and Tragedies, A3v</text>
+      </Title>
+      <Publisher>
+        <text>Printed by Tho. Cotes</text>
+      </Publisher>
+      <Description>
+        <text>Leaf a little burnt.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="6782" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034018.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/idealcopy/shakespearefolio</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034018.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1632</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1632</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>B823SI IC 32</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Shakespeare, William, 1564-1616</text>
+      </Creator>
+      <Title>
+        <text>Comedies, Histories and Tragedies, *4v-A1r</text>
+      </Title>
+      <Publisher>
+        <text>Printed by Tho. Cotes</text>
+      </Publisher>
+      <Description>
+        <text>Catalogue and beginning of The Tempest.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="6781" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034017.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/idealcopy/shakespearefolio</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034017.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1632</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1632</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>B823SI IC 32</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Shakespeare, William, 1564-1616</text>
+      </Creator>
+      <Title>
+        <text>Comedies, Histories and Tragedies, Title page and facing page</text>
+      </Title>
+      <Publisher>
+        <text>Printed by Tho. Cotes</text>
+      </Publisher>
+      <Description>
+        <text>Title page of the Shakespeare second folio.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="6780" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034016.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/imaginingtheauthor/speghtchaucer</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034016.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1602</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1602</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>B822 C39 I 1602</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Chaucer, Geoffrey, d. 1400</text>
+      </Creator>
+      <Title>
+        <text>Workes of Our Ancient and Learned English Poet, Geffrey Chaucer, Signature 3Tr</text>
+      </Title>
+      <Publisher>
+        <text>Adam Islip</text>
+      </Publisher>
+      <Description>
+        <text>A dictionary wherein "olde and obscure words in Chaucer" are explained.</text>
+      </Description>
+      <Identifier>
+        <text>5567527</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6779" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034015.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/imaginingtheauthor/speghtchaucer</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034015.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1602</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1602</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>B822 C39 I 1602</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Chaucer, Geoffrey, d. 1400</text>
+      </Creator>
+      <Title>
+        <text>Workes of Our Ancient and Learned English Poet, Geffrey Chaucer, Folio 1</text>
+      </Title>
+      <Publisher>
+        <text>Adam Islip</text>
+      </Publisher>
+      <Description>
+        <text>Text of The Canterbury Tales. The margins contain manicules marking the sentences, as the title page advertises. Note the slight difference between the manicules in the left and right margins.</text>
+      </Description>
+      <Identifier>
+        <text>5567527</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6778" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034014.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/imaginingtheauthor/speghtchaucer</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034014.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1602</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1602</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>B822 C39 I 1602</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Chaucer, Geoffrey, d. 1400</text>
+      </Creator>
+      <Title>
+        <text>Workes of Our Ancient and Learned English Poet, Geffrey Chaucer, Signature b2v</text>
+      </Title>
+      <Publisher>
+        <text>Adam Islip</text>
+      </Publisher>
+      <Description>
+        <text>A coat-of-arms, which the editors of this volume "coniecture" is Chaucer's. The letters "g" and "ar" indicate its colors, which future owners could fill in. </text>
+      </Description>
+      <Identifier>
+        <text>5567527</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6777" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034013.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/imaginingtheauthor/speghtchaucer</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034013.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1602</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1602</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>B822 C39 I 1602</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Chaucer, Geoffrey, d. 1400</text>
+      </Creator>
+      <Title>
+        <text>Workes of Our Ancient and Learned English Poet, Geffrey Chaucer, Title page</text>
+      </Title>
+      <Publisher>
+        <text>Adam Islip</text>
+      </Publisher>
+      <Description>
+        <text>Title page of Speight's Chaucer, which details  some of the features of the 1602 edition</text>
+      </Description>
+      <Identifier>
+        <text>5567527</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6776" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034012.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/idealcopy/collation</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034012.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>Basle</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1557-59</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1557 - 1559</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>B015.42 B192</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Bale, John, 1495-1563</text>
+      </Creator>
+      <Title>
+        <text>Scriptorum illustriu[m] maioris Brytanni[a]e, Signature T4v</text>
+      </Title>
+      <Publisher>
+        <text>Joannem Oporinum</text>
+      </Publisher>
+      <Description>
+        <text>The printer's device at the end of Scriptorum Illustrium.</text>
+      </Description>
+      <Identifier>
+        <text>6478246</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6775" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034011.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/idealcopy/johnbale</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034011.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>Basle</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1557-59</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1557 - 1559</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>B015.42 B192</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Bale, John, 1495-1563</text>
+      </Creator>
+      <Title>
+        <text>Scriptorum illustriu[m] maioris Brytanni[a]e, Signature uu2v-uu3r (pages 524-25)</text>
+      </Title>
+      <Publisher>
+        <text>Joannem Oporinum</text>
+      </Publisher>
+      <Description>
+        <text>Entries for John Gower and Geoffrey Chaucer</text>
+      </Description>
+      <Identifier>
+        <text>6478246</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6774" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034010.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034010.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>Basle</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1557-59</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1557 - 1559</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>B015.42 B192</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Bale, John, 1495-1563</text>
+      </Creator>
+      <Title>
+        <text>Scriptorum illustriu[m] maioris Brytanni[a]e, Signature Ov-2Or (pages 474-75)</text>
+      </Title>
+      <Publisher>
+        <text>Joannem Oporinum</text>
+      </Publisher>
+      <Description>
+        <text>Entry for "Robertus Langelande." Bale, and later Crowley, would refer to William Langland as Robert Langland.</text>
+      </Description>
+      <Identifier>
+        <text>6478246</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6773" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034009.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034009.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>Basle</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1557-59</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1557 - 1559</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>B015.42 B192</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Bale, John, 1495-1563</text>
+      </Creator>
+      <Title>
+        <text>Scriptorum illustriu[m] maioris Brytanni[a]e, Signature ar/ page 1 (and its facing page, which doesn't have a signature)</text>
+      </Title>
+      <Publisher>
+        <text>Joannem Oporinum</text>
+      </Publisher>
+      <Description>
+        <text>Errata page and the beginning of Scriptorum Illustrium</text>
+      </Description>
+      <Identifier>
+        <text>6478246</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6772" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034008.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/idealcopy/johnbale</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034008.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>Basle</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1557-59</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1557 - 1559</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>B015.42 B192</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Bale, John, 1495-1563</text>
+      </Creator>
+      <Title>
+        <text>Scriptorum illustriu[m] maioris Brytanni[a]e, Frontispiece</text>
+      </Title>
+      <Publisher>
+        <text>Joannem Oporinum</text>
+      </Publisher>
+      <Description>
+        <text>Portrait of John Bale</text>
+      </Description>
+      <Identifier>
+        <text>6478246</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6771" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034007.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/idealcopy/johnbale</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034007.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>Basle</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1557-59</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1557 - 1559</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>B015.42 B192</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Bale, John, 1495-1563</text>
+      </Creator>
+      <Title>
+        <text>Scriptorum illustriu[m] maioris Brytanni[a]e, Title page</text>
+      </Title>
+      <Publisher>
+        <text>Joannem Oporinum</text>
+      </Publisher>
+      <Description>
+        <text>Torn title page of Scriptorum Illustrium</text>
+      </Description>
+      <Identifier>
+        <text>6478246</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6770" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034006.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/imaginingtheauthor/petrarch</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034006.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>Venice</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1533</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1533</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>B85 P445</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Petrarca, Francesco, 1304-1374</text>
+      </Creator>
+      <Title>
+        <text>Petrarca colla spositione di Misser Giovanni Andrea Gesualdo, KK1v-KK2r</text>
+      </Title>
+      <Publisher>
+        <text>Giouann'Antonio di Nicolini &amp; fratelli da Sabbio</text>
+      </Publisher>
+      <Description>
+        <text>Beginning of the handwritten section of the book.</text>
+      </Description>
+      <Identifier>
+        <text>7476848</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6769" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034005.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034005.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>Venice</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1533</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1533</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>B85 P445</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Petrarca, Francesco, 1304-1374</text>
+      </Creator>
+      <Title>
+        <text>Petrarca colla spositione di Misser Giovanni Andrea Gesualdo, I6v</text>
+      </Title>
+      <Publisher>
+        <text>Giouann'Antonio di Nicolini &amp; fratelli da Sabbio</text>
+      </Publisher>
+      <Description>
+        <text>A marginal note by an early reader mentioning Machiavelli.</text>
+      </Description>
+      <Identifier>
+        <text>7476848</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6768" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034004.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/imaginingtheauthor/petrarch</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034004.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>Venice</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1533</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1533</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>B85 P445</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Petrarca, Francesco, 1304-1374</text>
+      </Creator>
+      <Title>
+        <text>Petrarca colla spositione di Misser Giovanni Andrea Gesualdo, A3r</text>
+      </Title>
+      <Publisher>
+        <text>Giouann'Antonio di Nicolini &amp; fratelli da Sabbio</text>
+      </Publisher>
+      <Description>
+        <text>A marginal note suggesting a different explanation.</text>
+      </Description>
+      <Identifier>
+        <text>7476848</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6767" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034003.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/imaginingtheauthor/petrarch</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034003.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>Venice</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1533</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1533</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>B85 P445</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Petrarca, Francesco, 1304-1374</text>
+      </Creator>
+      <Title>
+        <text>Petrarca colla spositione di Misser Giovanni Andrea Gesualdo, A1r</text>
+      </Title>
+      <Publisher>
+        <text>Giouann'Antonio di Nicolini &amp; fratelli da Sabbio</text>
+      </Publisher>
+      <Description>
+        <text>Comment on explanatory note by an early reader.</text>
+      </Description>
+      <Identifier>
+        <text>7476848</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6766" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034002.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>Venice</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1533</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1533</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>B85 P445</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Petrarca, Francesco, 1304-1374</text>
+      </Creator>
+      <Title>
+        <text> Petrarca colla spositione di Misser Giovanni Andrea Gesualdo, a8r</text>
+      </Title>
+      <Publisher>
+        <text>Giouann'Antonio di Nicolini &amp; fratelli da Sabbio</text>
+      </Publisher>
+      <Description>
+        <text>Correction by an early reader.</text>
+      </Description>
+      <Identifier>
+        <text>7476848</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+  <item itemId="6765" public="1" featured="0">
+    <OmekaCollection>The Reading of Books and the Reading of Literature </OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/120034001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/reading/imaginingtheauthor/petrarch</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: 120034001.tif</text>
+      </Notes>
+      <PublicationPlace>
+        <text>Venice</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1533</text>
+      </PublicationDate>
+      <KeyDate>
+        <text>1533</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <ShelfLocation>
+        <text>B85 P445</text>
+      </ShelfLocation>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Petrarca, Francesco, 1304-1374</text>
+      </Creator>
+      <Title>
+        <text>Petrarca colla spositione di Misser Giovanni Andrea Gesualdo, Title page</text>
+      </Title>
+      <Publisher>
+        <text>Giouann'Antonio di Nicolini &amp; fratelli da Sabbio</text>
+      </Publisher>
+      <Description>
+        <text>Title page.</text>
+      </Description>
+      <Identifier>
+        <text>7476848</text>
+      </Identifier>
+    </DublinCore>
+  </item>
+</itemContainer>
+
+
