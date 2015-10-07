@@ -1,0 +1,4523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--The name of each XML element representing an Omeka element or element set is
+based on the name of the element or element set in Omeka. For example:
+     The "Dublin Core" element set is represented by the DublinCore XML element
+     The "Form Genre" element in MODS is represented by the FormGenre XML element
+
+The following XML elements are based on internal Omeka data:
+     The OriginalFileLoadedIntoOmeka XML element contains the name/path of
+     of the file(s) loaded into Omeka for the given item.
+     The OmekaCollection XML element contains the name of the Omeka collection
+     containing the item, if the item belongs to an Omeka collection. Please note
+     that this element is different from the Collection element in MODS, which is
+     curator-populated.
+-->
+<itemContainer>
+  <item itemId="6598" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_127_1m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/caprarola</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Caprarola, garden wall and sculpture. Caprarola, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1998.015.00091</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 07</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6597" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_049m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/falconieri</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Falconieri, fountain (round). Costanzi, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00090</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 31</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6596" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_048m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/caprarola</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Caprarola?, base of stairs. Caprarola, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1998.015.00089</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 31</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6595" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_047m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/falconieri</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Falconieri, gate surmounted by lions or griffins. Costanzi, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00088</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 30</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6594" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_046m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/unidentified</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Unidentified villa, interior view with chair. Unidentified location, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00087</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 30</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6593" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_045m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/lante</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Lante, corner of villa, hedge, and vase. Bagnaia, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1998.015.00086</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 29</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6592" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_044m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/unidentified</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Unidentified villa, pergola with cactus. Unidentified location, Italy.]</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00085</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 29</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6591" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_043m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/lante</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Lante, Fountain of the Dolphins. Bagnaia, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1998.015.00084</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 29</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6590" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_042m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/unidentified</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Unidentified villa, view of entrance with stairs, colonnade, and balcony. Unidentified location, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00083</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 28</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6589" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_041m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/falconieri</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Falconieri, view through garden to entrance. Costanzi, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00082</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 28</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6588" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_040m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/unidentified</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Unidentified villa, steps to terrace. Unidentified location, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00081</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 26</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6587" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_039m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/pompeii</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Pompeii, table with lion or griffin legs and basin. Pompeii, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00080</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 26</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6586" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_038m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/unidentified</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Unidentified villa, Corner of villa, lawn, steps. Unidentified location, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00079</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 25</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6585" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_037m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/portici</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Portici?, tree-shaded walk. Portici, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00078</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 25</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6584" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_036m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Villa Falconieri, view towards reservoir. Costanzi, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00077</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 25</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6583" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_035m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/colonna</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Colonna Gardens?, walk bounded by plantings and high walls. Rome, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00076</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 24</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6582" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_034m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/unidentified</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Unidentified villa, villa and orchard. Unidentified location, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00075</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 24</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6581" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_033_1m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/unidentified</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Unidentified villa, colonnade and walk with balustrade. Unidentified location, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00074</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 24</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6580" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_032m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/este</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa d'Este?, wooded stairs and walkway to villa. Tivoli, Italy</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00073</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 23</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6579" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_031m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/unidentified</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Unidentified location, garden with wall in background. Unidentified location, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00072</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 23</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6578" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_030m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/lante</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Lante?, garden walk with potted trees and plants. Bagnaia, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1998.015.00071</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 23</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6577" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_029m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/colonna</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Colonna Gardens?, stairs bounded by box hedge and trees. Rome, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00070</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 22</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6576" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_028m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/taverna</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Taverna?, view of walled walk with hedges and villa. Frascati, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00069</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 22</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6575" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_027_1m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/unidentified</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Unidentified villa, foot of staircase. Unidentified location, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00068</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 22</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6574" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_026m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/este</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa d'Este, wooded stairs. Tivoli, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00067</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 21</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6573" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_025m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/pompeii</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Pompeii, table with lion or griffin legs, fountain, and basin. Pompeii, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00066</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 21</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6572" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_024m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/falconieri</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Falconieri, view of reservoir across garden, statuary in foreground. Costanzi, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00065</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 21</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6571" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_023m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/lante</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Lante, Fountain of the Moors and garden. Bagnaia, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1998.015.00064</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 20</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6570" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_022m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/borghese</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Borghese, piazza de Siena. Rome, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00063</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 20</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6569" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_021_1m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/pamfili</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Pamfili?, gate with urns, villa exterior. Rome, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00062</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 20</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6568" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_020m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/pamfili</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Pamfili?, gate and wall with lions. Rome, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00061</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 19</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6567" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_019m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/giusti</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Giusti, wall and cypresses, with villa in distance. Verona, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00060</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 19</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6566" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_018_1m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/este</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa d'Este?, wooded path with vases, fountain, box hedge. Tivoli, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00059</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 19</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6565" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_017_1m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/este</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa d'Este, wooded stairs. Tivoli, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00058</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 18</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6564" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_016m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/boboli</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Boboli Gardens?, garden view with obelisk, theater, and pergola. Florence, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00057</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 18</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6563" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_015m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/lante</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Lante?, gate. Bagnaia, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1998.015.00056</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 26</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6562" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_014m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/portici</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Portici, gate and plantings. Portici, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00055</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 18</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6561" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_013m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/pamfili</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Pamfili?, gate with scrollwork, surmounted by vases. Rome, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00054</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 17</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6560" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_012_1m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/falconieri</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Falconieri?, wall surmounted by columns in wooded area. Frascati, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00053</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 17</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6559" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_011m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/este</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa d'Este, view from porch. Tivoli, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00052</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 17</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6558" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_010m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/quirinal</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Quirinal Gardens?, view of hedge walk with villa. Rome, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00051</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 16</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6557" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_009m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/unidentified</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Unidentified villa, interior view with chair. Unidentified location, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00050</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 16</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6556" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_008m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/conti</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Conti, garden walk to rear entrance. Frascati, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00049</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 16</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6555" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_007_1m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/caprarola</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Caprarola?, entrance and double vaulted colonnade. Caprarola, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1998.015.00048</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 15</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6554" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_006m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/unidentified</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Unidentified villa, façade from across lawn. Unidentified location, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1998.015.00047</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 15</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6553" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_005_1m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/colonna</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Colonna Gardens, flower gardens. Rome, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00046</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 15</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6552" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_004m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/este</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa d'Este?, wooded path. Tivoli, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00045</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 14</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6551" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_003m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/pompeii</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Pompeii, table with lion or griffin legs, basin. Pompeii, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00044</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 14</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6550" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_002m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/lante</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Lante, Fountain of the Moors. Bagnaia, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1998.015.00043</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 14</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6549" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_001m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/unpublished/borghese</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Borghese, Piazza de Siena. Rome, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1998.015.00042</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 13</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6548" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_165m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/caprarola</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Caprarola, casino, view from entrance court. Caprarola, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00041</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 13</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. Portland, OR: Sagapress/Timber Press (1993): 165.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6547" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_164m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/portici</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Portici, pavilion. Portici, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00040</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 13</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. Portland, OR: Sagapress/Timber Press (1993): 164.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6546" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_163m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/mondragone</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Mondragone, view from terrace toward Frascati and Rome. Frascati, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00039</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 12</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. Portland, OR: Sagapress/Timber Press (1993): 163.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6545" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_162m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/mondragone</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Mondragone, approach to palace from public road, with laurels. Frascati, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00038</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 12</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. Portland, OR: Sagapress/Timber Press (1993): 162.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6544" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_161m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/taverna</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Taverna, central fountain and laurels. Frascati, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00037</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 12</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. Portland, OR: Sagapress/Timber Press (1993): 161.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6543" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_160m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/taverna</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Taverna, sunken courtyard entrance to gardens. Frascati, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00036</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 27</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. Portland, OR: Sagapress/Timber Press (1993): 160.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6542" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_159m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/taverna</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Taverna, rear façade, sunken courtyard entrance to gardens. Frascati, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1998.015.00035</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 11</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. Portland, OR: Sagapress/Timber Press (1993): 159.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6541" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_158m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/falconieri</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Falconieri, portico of villa. Frascati, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00034</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 11</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. Portland, OR: Sagapress/Timber Press (1993): 158.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6540" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_157m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/este</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa d'Este, walk along reservoirs. Tivoli, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00033</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 27</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. Portland, OR: Sagapress/Timber Press (1993): 157.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6539" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_156m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/colonna</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Colonna Gardens, statuary. Rome, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00032</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 27</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. Portland, OR: Sagapress/Timber Press (1993): 156.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6538" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_155m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/colonna</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Colonna Gardens, view towards flower garden. Rome, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00031</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 11</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. Portland, OR: Sagapress/Timber Press (1993): 155.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6537" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_154m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/colonna</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Colonna Gardens, allée and steps. Rome, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1998.015.00030</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 10</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. Portland, OR: Sagapress/Timber Press (1993): 154.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6536" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_153m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/quirinal</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Quirinal Gardens, hedge walk. Rome, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00029</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 10</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. Portland, OR: Sagapress/Timber Press (1993): 153.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6535" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_152m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/quirinal</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Quirinal Gardens, entrance to hedge walk. Rome, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00028</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 10</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. Portland, OR: Sagapress/Timber Press (1993): 152.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6534" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_151m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/pamfili</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Pamfili, steps. Rome, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00027</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 09</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. Portland, OR: Sagapress/Timber Press (1993): 151.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6533" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_150m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/lante</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Lante, vases and steps to second terrace. Bagnaia, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1998.015.00026</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 09</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. Portland, OR: Sagapress/Timber Press (1993): 150.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6532" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_149m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/giusti</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Giusti Garden, general view. Verona, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00025</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 09</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. Portland, OR: Sagapress/Timber Press (1993): 149.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6531" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_148m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/lante</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Lante, Fountain of the Moors. Bagnaia, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1998.015.00024</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 08</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. Portland, OR: Sagapress/Timber Press (1993): 148.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6530" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_147m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/lante</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Lante, view of pavilion from lower garden. Bagnaia, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1998.015.00023</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 08</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. Portland, OR: Sagapress/Timber Press (1993): 147.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6529" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_137m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/mondragone</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Mondragone, entrance to villa. Frascati, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00022</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 08</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. Portland, OR: Sagapress/Timber Press (1993): 137.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6528" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_127m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/caprarola</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Caprarola, garden wall, including sculpture with vases. Caprarola, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1998.015.00021</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 07</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. New York: Harper &amp; Brothers (1894): 127.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6527" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_121m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/portici</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Portici, garden gate. Portici, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00020</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 07</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. New York: Harper &amp; Brothers (1894): 121.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6526" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_118m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/portici</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Portici, bosquet. Portici, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00019</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 06</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. New York: Harper &amp; Brothers (1894): 118.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6525" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_114m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/falconieri</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Falconieri, view of villa and garden. Frascati, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00018</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 06</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. New York: Harper &amp; Brothers (1894): 114.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6524" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_113m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/falconieri</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Falconieri, villa entrance. Frascati, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00017</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 06</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. New York: Harper &amp; Brothers (1894): 113.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6523" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_108m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/falconieri</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Falconieri, doorway and tree. Frascati, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00016</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 05</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. New York: Harper &amp; Brothers (1894): 108.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6522" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_105m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/unidentified</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Unidentified villa, wall and cypress adjacent to reservoir. Frascati, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00015</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 05</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. New York: Harper &amp; Brothers (1894): 105.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6521" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_085m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/aldobrandini</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Aldobrandini, wooded path, benches, vases. Frascati, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00014</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 27</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. New York: Harper &amp; Brothers (1894): 85.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6520" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_073m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/falconieri</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Falconieri, view of garden toward reservoir. Fiesole, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00013</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 05</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. New York: Harper &amp; Brothers (1894): 73.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6519" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_061m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/medici</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Medici, box walk. Fiesole, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00012</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 04</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. New York: Harper &amp; Brothers (1894): 61.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6518" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_054m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/colonna</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Colonna Gardens, niches, sculpture, and cypresses. Rome, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00011</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 04</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. New York: Harper &amp; Brothers (1894): 54.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6517" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_053m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/colonna</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Colonna Gardens, flower garden. Rome, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00010</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 04</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. New York: Harper &amp; Brothers (1894): 53.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6516" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_033m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/pamfili</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Pamfili, flower garden. Rome, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00009</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 03</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. New York: Harper &amp; Brothers (1894): 33.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6515" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_027m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Villa Borghese, Piazza de Siena. Rome, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1998.015.00008</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 03</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. New York: Harper &amp; Brothers (1894): 27.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6514" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_021m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/lante</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Lante, Fountain of the Moors and garden. Bagnaia, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1998.015.00007</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 03</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. New York: Harper &amp; Brothers (1894): 21.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6513" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_018m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/lante</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Lante, view of stairs, including balustrade, hedge, and villa. Bagnaia, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1998.015.00006</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 02</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. New York: Harper &amp; Brothers (1894): 18.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6512" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_017m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/lante</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Lante, garden. Bagnaia, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1998.015.00005</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 02</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. New York: Harper &amp; Brothers (1894): 17.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6511" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_012m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/lante</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Lante, fountain and flower garden. Bagnaia, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1998.015.00004</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 02</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. New York: Harper &amp; Brothers (1894): 12.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6510" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_007m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/lante</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Lante, terrace casino. Bagnaia, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1998.015.00003</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 01</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. New York: Harper &amp; Brothers (1894): 7.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6509" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_005m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/borghese</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Borghese, Piazza de Siena. Rome, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00002</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 01</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. New York: Harper &amp; Brothers (1894): 5.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6508" public="1" featured="0">
+    <OmekaCollection>Charles A. Platt's Italian Garden Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://staging.cul.columbia.edu/cu/lweb/img/assets/10173/Platt_0xi_m.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/platt/published/lante</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Villa Lante, pavilion. Bagnaia, Italy.</text>
+      </Title>
+      <Creator>
+        <text>Platt, Charles A. (Charles Adams), 1861-1933</text>
+      </Creator>
+      <Format>
+        <text>negatives</text>
+      </Format>
+      <Identifier>
+        <text>1998.015.00001</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1892</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <Notes>
+        <text>Image is a digitized positive photograph made from a negative.</text>
+      </Notes>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Drawings &amp; Archives Department</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Box 01</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Charles A. Platt Architectural Records and Papers</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Citation>
+        <text>Platt, Charles A. Italian Gardens. New York: Harper &amp; Brothers (1894): xi.</text>
+      </Citation>
+    </AdditionalItemMetadata>
+  </item>
+</itemContainer>
+
+
