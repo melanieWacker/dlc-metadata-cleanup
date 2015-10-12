@@ -1,0 +1,3771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--The name of each XML element representing an Omeka element or element set is
+based on the name of the element or element set in Omeka. For example:
+     The "Dublin Core" element set is represented by the DublinCore XML element
+     The "Form Genre" element in MODS is represented by the FormGenre XML element
+
+The following XML elements are based on internal Omeka data:
+     The OriginalFileLoadedIntoOmeka XML element contains the name/path of
+     of the file(s) loaded into Omeka for the given item.
+     The OmekaCollection XML element contains the name of the Omeka collection
+     containing the item, if the item belongs to an Omeka collection. Please note
+     that this element is different from the Collection element in MODS, which is
+     curator-populated.
+-->
+<itemContainer>
+  <item itemId="6502" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>uts047-opening.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/bibles/ms</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Bible, UTS MS 047, opening page</text>
+      </Title>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1200 1299</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>in</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>nnc-ut</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>UTS MS 047</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6501" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>uts47frater.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Bible, UTS MS 047. Folio 1</text>
+      </Title>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1200 1299</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>ap</text>
+      </TypeofDate>
+      <PlaceofOrigin>
+        <text>England?</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>nnc-ut</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>UTS MS 047</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6500" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>teIgiturPage.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/bibles/liturgy</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Canon Missae, Te igitur page</text>
+      </Title>
+      <Source>
+        <text>Plate from Sir Irvine Masson, F.R.S., The Mainz Psalters and Canon Missae, 1457-1459 </text>
+      </Source>
+      <Publisher>
+        <text>London:  Printed for the Bibliographical Society</text>
+      </Publisher>
+      <Date>
+        <text>1954</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1458 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>in</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Mainz</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1458</text>
+      </PublicationDate>
+      <RepositoryName>
+        <text>nnc-rb</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>GAX Z241.M23 M3</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6301" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/ldpd_7821252_002_00000187.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Aldine Homer--Melancthon's annotations</text>
+      </Title>
+      <Creator>
+        <text>Homer</text>
+        <text>Melanchton</text>
+        <text>Luther, Martin</text>
+      </Creator>
+      <Publisher>
+        <text>Aldus Manutius</text>
+      </Publisher>
+      <Date>
+        <text>1517</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>7820626</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1517 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Venice</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Plimpton 880 1517</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: ldpd_7821252_002_00000187.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6300" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/ldpd_7821252_002_00000009.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/homer/1501-present</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Aldine Homer--inscription to Luther</text>
+      </Title>
+      <Creator>
+        <text>Homer</text>
+        <text>Melanchton</text>
+        <text>Luther, Martin</text>
+      </Creator>
+      <Publisher>
+        <text>Aldus Manutius</text>
+      </Publisher>
+      <Date>
+        <text>1517</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>7820626</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1517 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>ex</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Venice</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Plimpton 880 1517</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: ldpd_7821252_002_00000009.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6299" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119108.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/austen/pandp</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Pride and Prejudice-end vol. 1</text>
+      </Title>
+      <Creator>
+        <text>Austen, Jane</text>
+      </Creator>
+      <Publisher>
+        <text>T. Edgerton</text>
+      </Publisher>
+      <Date>
+        <text>1813</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>97259</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1813 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>PR4034 .P7 Samuels collection</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119108.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6298" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119107.jpg</text>
+      <text>Jane2.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/austen/pandp</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Pride and Prejudice-titlepage</text>
+      </Title>
+      <Creator>
+        <text>Austen, Jane</text>
+      </Creator>
+      <Publisher>
+        <text>T. Egerton</text>
+      </Publisher>
+      <Date>
+        <text>1813</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>97259</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1813 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>PR4034 .P7 Samuels collection</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119107.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6297" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119106.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/woolf/vwoolfpublisher</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Poetry &amp; Criticism</text>
+      </Title>
+      <Creator>
+        <text>Sitwell, Edith, Dame</text>
+        <text>Woolf, Leonard</text>
+        <text>Woolf, Virginia</text>
+      </Creator>
+      <Publisher>
+        <text>Hogarth Press</text>
+      </Publisher>
+      <Date>
+        <text>1925</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>6050153</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1925 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>[London]</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B825Si893 U53 1925</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119106.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6296" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119105.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Poems</text>
+      </Title>
+      <Creator>
+        <text>Eliot, T. S. (Thomas Stearns)</text>
+        <text>Woolf, Leonard</text>
+        <text>Woolf, Virginia</text>
+      </Creator>
+      <Publisher>
+        <text>Hogarth Press</text>
+      </Publisher>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1919 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>[London]</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B812EL46 L3 1919 (vault)</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119105.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6295" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119104.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/woolf/vwoolfpublisher</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Poems</text>
+      </Title>
+      <Creator>
+        <text>Eliot, T. S. (Thomas Stearns)</text>
+        <text>Woolf, Leonard</text>
+        <text>Woolf, Virginia</text>
+      </Creator>
+      <Publisher>
+        <text>Hogarth Press</text>
+      </Publisher>
+      <Date>
+        <text>1919</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>5558715</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1919 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>[London]</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B812EL46 L3 1919 (vault)</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119104.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6294" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119103.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/woolf/intro</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>To the Lighthouse Cover</text>
+      </Title>
+      <Creator>
+        <text>Woolf, Virginia, 1882-1941</text>
+      </Creator>
+      <Publisher>
+        <text>Hogarth Press</text>
+      </Publisher>
+      <Date>
+        <text>1927</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Notes>
+        <text>original filename: 110119103.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6293" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119102.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Two Stories-page 31/snail woodblock</text>
+      </Title>
+      <Creator>
+        <text>Woolf, Virginia, 1882-1941</text>
+        <text>Woolf, Leonard</text>
+      </Creator>
+      <Publisher>
+        <text>Hogarth Press</text>
+      </Publisher>
+      <Date>
+        <text>1917</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>not in CLIO</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1917 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>[London]</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>not cataloged</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119102.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6292" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119101.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/woolf/vwoolfpublisher</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Two Stories-page spread 18-19</text>
+      </Title>
+      <Creator>
+        <text>Woolf, Virginia, 1882-1941</text>
+        <text>Woolf, Leonard</text>
+      </Creator>
+      <Publisher>
+        <text>Hogarth Press</text>
+      </Publisher>
+      <Date>
+        <text>1917</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>not in CLIO</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1917 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>[London]</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>not cataloged</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119101.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6291" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119100.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Two Stories-1st page "Three Jews"</text>
+      </Title>
+      <Creator>
+        <text>Woolf, Virginia, 1882-1941</text>
+        <text>Woolf, Leonard</text>
+      </Creator>
+      <Publisher>
+        <text>Hogarth Press</text>
+      </Publisher>
+      <Date>
+        <text>1921</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>not in CLIO</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1921 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>[London]</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>not cataloged</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119100.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6290" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119099.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Two Stories-titlepage</text>
+      </Title>
+      <Creator>
+        <text>Woolf, Virginia, 1882-1941</text>
+        <text>Woolf, Leonard</text>
+      </Creator>
+      <Publisher>
+        <text>Hogarth Press</text>
+      </Publisher>
+      <Date>
+        <text>1921</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>not in CLIO</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1921 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>[London]</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>not cataloged</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119099.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6289" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119098.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Monday or Tuesday-page 42</text>
+      </Title>
+      <Creator>
+        <text>Woolf, Virginia, 1882-1941</text>
+      </Creator>
+      <Publisher>
+        <text>Harcourt, Brace &amp; Company</text>
+      </Publisher>
+      <Date>
+        <text>1921</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>853830</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1921 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>PR9045 O72 M66 1921g (vault)</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119098.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6288" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119097.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/woolf/vwoolfauthor</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Monday or Tuesday-inscription on titlepage</text>
+      </Title>
+      <Creator>
+        <text>Woolf, Virginia, 1882-1941</text>
+        <text>Crane, Hart</text>
+        <text>Tate, Allen</text>
+      </Creator>
+      <Publisher>
+        <text>Harcourt, Brace &amp; Company</text>
+      </Publisher>
+      <Date>
+        <text>1921</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>853830</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1921 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>PR9045 O72 M66 1921g (vault)</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119097.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6287" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119096.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Three Guineas-page 30/smiling guard</text>
+      </Title>
+      <Creator>
+        <text>Woolf, Virginia, 1882-1941</text>
+      </Creator>
+      <Publisher>
+        <text>Harcourt, Brace &amp; Company</text>
+      </Publisher>
+      <Date>
+        <text>1938</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>6056619</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1938 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B825W883 X3 1938b</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119096.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6286" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119095.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/woolf/intro</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Three Guineas-front cover</text>
+      </Title>
+      <Creator>
+        <text>Woolf, Virginia, 1882-1941</text>
+      </Creator>
+      <Publisher>
+        <text>Harcourt, Brace &amp; Company</text>
+      </Publisher>
+      <Date>
+        <text>1938</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>6056619</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1938 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B825W883 X3 1938b</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119095.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6285" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119094.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Baskerville Virgil-beg. Book 6</text>
+      </Title>
+      <Creator>
+        <text>Virgil</text>
+        <text>Baskerville, John</text>
+      </Creator>
+      <Publisher>
+        <text>Typis Johannis Baskerville</text>
+      </Publisher>
+      <Date>
+        <text>1757</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1080728</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1757 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Birmingham</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>O17.En1 B29 1757v (vault)</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119094.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6284" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119093.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/virgil/print</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Baskerville Virgil-title page</text>
+      </Title>
+      <Creator>
+        <text>Virgil</text>
+        <text>Baskerville, John</text>
+      </Creator>
+      <Publisher>
+        <text>Typis Johannis Baskerville</text>
+      </Publisher>
+      <Date>
+        <text>1757</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1080728</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1757 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Birmingham</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>O17.En1 B29 1757v (vault)</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119093.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6283" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119092.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Lysistrata-group of women</text>
+      </Title>
+      <Creator>
+        <text>Aristophanes</text>
+        <text>Picasso, Pablo, 1881-1973</text>
+      </Creator>
+      <Publisher>
+        <text>Limited Editions Club</text>
+      </Publisher>
+      <Date>
+        <text>1934</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1934 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Notes>
+        <text>original filename: 110119092.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6282" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119091.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Lysistrata-first page</text>
+      </Title>
+      <Creator>
+        <text>Aristophanes</text>
+        <text>Picasso, Pablo, 1881-1973</text>
+      </Creator>
+      <Publisher>
+        <text>Limited Editions Club</text>
+      </Publisher>
+      <Date>
+        <text>1934</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1934 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Notes>
+        <text>original filename: 110119091.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6281" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119090.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Lysistrata-titlepage</text>
+      </Title>
+      <Creator>
+        <text>Aristophanes</text>
+        <text>Picasso, Pablo, 1881-1973</text>
+      </Creator>
+      <Publisher>
+        <text>Limited Editions Club</text>
+      </Publisher>
+      <Date>
+        <text>1934</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1934 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Notes>
+        <text>original filename: 110119090.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6280" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119089.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/greekdrama/lysistrata</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Comoediae nove</text>
+      </Title>
+      <Creator>
+        <text>Aristophanes</text>
+        <text>Phillipus Iuntus</text>
+      </Creator>
+      <Date>
+        <text>1515</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>6204543</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1515 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Florence</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Lodge 1515 Ar 46 vault</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119089.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6279" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119088.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Comoediae nove</text>
+      </Title>
+      <Creator>
+        <text>Aristophanes</text>
+        <text>Phillipus Iuntus</text>
+      </Creator>
+      <Date>
+        <text>1515</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>6204543</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1515 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Florence</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Lodge 1515 Ar 46 vault</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119088.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6278" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119087.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Comoediae nove</text>
+      </Title>
+      <Creator>
+        <text>Aristophanes</text>
+        <text>Phillipus Iuntus</text>
+      </Creator>
+      <Date>
+        <text>1515</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>6204543</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1515 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Florence</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Lodge 1515 Ar 46 vault</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119087.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6277" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119086.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/greekdrama/lysistrata</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Comediae novem</text>
+      </Title>
+      <Creator>
+        <text>Aristophanes</text>
+        <text>Aldus Manutius</text>
+      </Creator>
+      <Publisher>
+        <text>Aldus Manutius</text>
+      </Publisher>
+      <Date>
+        <text>1498</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1080221</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1498 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Venice</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Goff A958</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119086.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6276" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119085.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/greekhistories/thucydides</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Hobbes's Thucydides-battle map</text>
+      </Title>
+      <Creator>
+        <text>Thucydides</text>
+        <text>Hobbes, Thomas</text>
+      </Creator>
+      <Publisher>
+        <text>Hen. Seile</text>
+      </Publisher>
+      <Date>
+        <text>1629</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>6197411</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1629 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Lodge 1629 T42</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119085.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6275" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119084.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/greekhistories/thucydides</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Hobbes's Thucydides-foldout map</text>
+      </Title>
+      <Creator>
+        <text>Thucydides</text>
+        <text>Hobbes, Thomas</text>
+      </Creator>
+      <Publisher>
+        <text>Hen. Seile</text>
+      </Publisher>
+      <Date>
+        <text>1629</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>6197411</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1629 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Lodge 1629 T42</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119084.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6274" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119083.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/greekhistories/thucydides</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Hobbes's Thucydides-frontispiece</text>
+      </Title>
+      <Creator>
+        <text>Thucidydes</text>
+        <text>Hobbes, Thomas</text>
+      </Creator>
+      <Publisher>
+        <text>Hen. Seile</text>
+      </Publisher>
+      <Date>
+        <text>1629</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>6197411</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1629 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Lodge 1629 T42</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119083.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6273" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119082.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/greekhistories/herodotus</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Aldine Herodotus (Erasmus)</text>
+      </Title>
+      <Creator>
+        <text>Herodotus</text>
+        <text>Erasmus, Desiderius, d. 1536</text>
+      </Creator>
+      <Publisher>
+        <text>Aldus Manutius</text>
+      </Publisher>
+      <Date>
+        <text>1502</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>7820626</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1502 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Venice</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Plimpton 880 1502 H43</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119082.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6272" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119081.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Aldine Herodotus (Erasmus)</text>
+      </Title>
+      <Creator>
+        <text>Herodotus</text>
+        <text>Erasmus, Desiderius, d. 1536</text>
+      </Creator>
+      <Publisher>
+        <text>Aldus Manutius</text>
+      </Publisher>
+      <Date>
+        <text>1502</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>7820626</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1502 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Venice</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Plimpton 880 1502 H43</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119081.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6271" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119080.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/montaigne/rlscopy</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Essais-"On Cannibals"</text>
+      </Title>
+      <Creator>
+        <text>Montaigne, Michel de</text>
+        <text>Stevenson, Robert Louis</text>
+      </Creator>
+      <Publisher>
+        <text>A. Murray</text>
+      </Publisher>
+      <Date>
+        <text>1869</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>298023</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1869 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>PR 5495 M6 VAULT</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119080.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6270" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119079.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/montaigne/rlscopy</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Essais-full titlepage</text>
+      </Title>
+      <Creator>
+        <text>Montaigne, Michel de</text>
+        <text>Stevenson, Robert Louis</text>
+      </Creator>
+      <Publisher>
+        <text>A. Murray</text>
+      </Publisher>
+      <Date>
+        <text>1869</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>298023</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1869 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>PR 5495 M6 VAULT</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119079.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6269" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119078.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/montaigne/rlscopy</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Essais-bookplate</text>
+      </Title>
+      <Creator>
+        <text>Montaigne, Michel de</text>
+        <text>Stevenson, Robert Louis</text>
+      </Creator>
+      <Publisher>
+        <text>A. Murray</text>
+      </Publisher>
+      <Date>
+        <text>1869</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>298023</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1869 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>PR 5495 M6 VAULT</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119078.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6268" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119077.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ashendene Boccaccio Day 6 1 page</text>
+      </Title>
+      <Creator>
+        <text>Boccaccio, Giovanni, 1313-1375</text>
+      </Creator>
+      <Publisher>
+        <text>Ashendene Press</text>
+      </Publisher>
+      <Date>
+        <text>1920</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1920 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>[London]</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Z232 As35 1920 B63</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119077.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6267" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119076.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ashendene Boccaccio-day 6-2 page</text>
+      </Title>
+      <Creator>
+        <text>Boccaccio, Giovanni, 1313-1375</text>
+      </Creator>
+      <Publisher>
+        <text>Ashendene Press</text>
+      </Publisher>
+      <Date>
+        <text>1920</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1920 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>[London]</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Z232 As35 1920 B63</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119076.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6266" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119075.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/dante/ashendene</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Ashendene Inferno-colophon</text>
+      </Title>
+      <Creator>
+        <text>Dante Alighieri, 1265-1321</text>
+      </Creator>
+      <Publisher>
+        <text>Ashendene Press</text>
+      </Publisher>
+      <Date>
+        <text>1902</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>7480928</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1902 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>[London]</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART 017.En2 As3 1902d</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119075.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6265" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119074.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/dante/ashendene</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Ashendene Inferno-Lucifer</text>
+      </Title>
+      <Creator>
+        <text>Dante Alighieri, 1265-1321</text>
+      </Creator>
+      <Publisher>
+        <text>Ashendene Press</text>
+      </Publisher>
+      <Date>
+        <text>1902</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>7480928</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1902 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>[London]</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART 017.En2 As3 1902d</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119074.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6264" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119073.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/dante/ashendene</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Ashendene Inferno-page30/31</text>
+      </Title>
+      <Creator>
+        <text>Dante Alighieri, 1265-1321</text>
+      </Creator>
+      <Publisher>
+        <text>Ashendene Press</text>
+      </Publisher>
+      <Date>
+        <text>1902</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>7480928</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1902 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>[London]</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART 017.En2 As3 1902d</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119073.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6263" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119072.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/dante/ashendene</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Ashendene Inferno-page 1</text>
+      </Title>
+      <Creator>
+        <text>Dante Alighieri, 1265-1321</text>
+      </Creator>
+      <Publisher>
+        <text>Ashendene Press</text>
+      </Publisher>
+      <Date>
+        <text>1902</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>7480928</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1902 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>[London]</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART 017.En2 As3 1902d</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119072.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6262" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119071.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/dante/incunable</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>La Commedia (Comm: Christophorus Landinus)</text>
+      </Title>
+      <Creator>
+        <text>Dante Alighieri, 1265-1321</text>
+        <text>Landino, Christophoro</text>
+      </Creator>
+      <Publisher>
+        <text>Boninus de Boninus</text>
+      </Publisher>
+      <Date>
+        <text>1487</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1080028</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1487 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Brescia</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Goff D31</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119071.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6261" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119070.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/dante/incunable</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>La Commedia (Comm: Christophorus Landinus)&#13;
+</text>
+      </Title>
+      <Creator>
+        <text>Dante Alighieri, 1265-1321</text>
+        <text>Landino, Christophoro</text>
+      </Creator>
+      <Publisher>
+        <text>Boninus de Boninus</text>
+      </Publisher>
+      <Date>
+        <text>1487</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1080028</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1487 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Brescia</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Goff D31</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119070.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6260" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119069.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/dante/incunable</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>La Commedia (Comm: Christophorus Landinus)</text>
+      </Title>
+      <Creator>
+        <text>Dante Alighieri, 1265-1321</text>
+        <text>Landino, Christophoro</text>
+      </Creator>
+      <Publisher>
+        <text>Boninus de Boninus</text>
+      </Publisher>
+      <Date>
+        <text>1487</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1080028</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1487 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Brescia</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Goff D31</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119069.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6259" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119068.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/dante/incunable</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>La Commedia (Comm: Christophorus Landinus)</text>
+      </Title>
+      <Creator>
+        <text>Dante Alighieri, 1265-1321</text>
+        <text>Landino, Christophoro</text>
+      </Creator>
+      <Publisher>
+        <text>Boninus de Boninus</text>
+      </Publisher>
+      <Date>
+        <text>1487</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1080028</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1487 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Brescia</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Goff D31</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119068.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6258" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119067.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/dante/incunable</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>La Commedia (Comm: Christophorus Landinus)</text>
+      </Title>
+      <Creator>
+        <text>Dante Alighieri, 1265-1321</text>
+        <text>Landino, Christophoro</text>
+      </Creator>
+      <Publisher>
+        <text>Boninus de Boninus</text>
+      </Publisher>
+      <Date>
+        <text>1487</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1080028</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1487 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Brescia</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Goff D31</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119067.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6257" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119066.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/ovid/print</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>3vol. Ovid-spines of 3vols</text>
+      </Title>
+      <Creator>
+        <text>Ovid, 43 B.C.-17 or 18 A.D.</text>
+      </Creator>
+      <Publisher>
+        <text>Phillipus Iuntae</text>
+      </Publisher>
+      <Date>
+        <text>1522</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>6203892</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1522 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Florence</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Lodge 1522 Ov4</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119066.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6256" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119065.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>3vol. Ovid-page spread</text>
+      </Title>
+      <Creator>
+        <text>Ovid, 43 B.C.-17 or 18 A.D.</text>
+      </Creator>
+      <Publisher>
+        <text>Phillipus Iuntae</text>
+      </Publisher>
+      <Date>
+        <text>1522</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>6203892</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1522 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Florence</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Lodge 1522 Ov4</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119065.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6255" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119064.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>3vol. Ovid-Index fabularum</text>
+      </Title>
+      <Creator>
+        <text>Ovid, 43 B.C.-17 or 18 A.D.</text>
+      </Creator>
+      <Publisher>
+        <text>Phillipus Iuntae</text>
+      </Publisher>
+      <Date>
+        <text>1522</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>6203892</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1522 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Florence</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Lodge 1522 Ov4</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119064.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6254" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119063.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>German Ovid engraving-Aeneas</text>
+      </Title>
+      <Creator>
+        <text>Ovid, 43 B.C.-17 or 18 A.D.</text>
+        <text>Furst, Paul</text>
+      </Creator>
+      <Publisher>
+        <text>Inverlegung Paulus Fursten Kunsthandlers</text>
+      </Publisher>
+      <Date>
+        <text>1641</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>2653104</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1641 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Nuremberg</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Lodge 1641 Ov4</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119063.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6253" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119062.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/ovid/intro</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>German Ovid engraving-Orpheus</text>
+      </Title>
+      <Creator>
+        <text>Ovid, 43 B.C.-17 or 18 A.D.</text>
+        <text>Aubrey, Abraham</text>
+        <text>Furst, Paul</text>
+      </Creator>
+      <Publisher>
+        <text>Inverlegung Paulus Fursten Kunsthandlers</text>
+      </Publisher>
+      <Date>
+        <text>1641</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>2653104</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1641 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Nuremberg</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Lodge 1641 Ov4</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119062.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6252" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119061.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>German Ovid-Perseus</text>
+      </Title>
+      <Creator>
+        <text>Ovid, 43 B.C.-17 or 18 A.D.</text>
+        <text>Aubrey, Abraham</text>
+        <text>Furst, Paul</text>
+      </Creator>
+      <Publisher>
+        <text>Inverlegung Paulus Fursten Kunsthandlers</text>
+      </Publisher>
+      <Date>
+        <text>1641</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>2653104</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1641 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Nuremberg</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Lodge 1641 Ov4</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119061.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6251" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119060.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>German Ovid-first illustration</text>
+      </Title>
+      <Creator>
+        <text>Ovid, 43 B.C.-17 or 18 A.D.</text>
+        <text>Aubrey, Abraham</text>
+        <text>Furst, Paul</text>
+      </Creator>
+      <Publisher>
+        <text>Inverlegung Paulus Fursten Kunsthandlers</text>
+      </Publisher>
+      <Date>
+        <text>1641</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>2653104</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1641 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Nuremberg</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Lodge 1641 Ov4</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119060.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6250" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119059.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/ovid/print</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>German Ovid-title page</text>
+      </Title>
+      <Creator>
+        <text>Ovid, 43 B.C.-17 or 18 A.D.</text>
+        <text>Aubrey, Abraham</text>
+        <text>Furst, Paul</text>
+      </Creator>
+      <Publisher>
+        <text>Inverlegung Paulus Fursten Kunsthandlers</text>
+      </Publisher>
+      <Date>
+        <text>1641</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>2653104</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1641 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Nuremberg</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Lodge 1641 Ov4</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119059.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6249" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119058.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Metamorphoses. Book 6, beginning</text>
+        <text>Moralized Ovid. Beginning of book 6</text>
+      </Title>
+      <Creator>
+        <text>Ovid, 43 B.C.-17 or 18 A.D.</text>
+      </Creator>
+      <Publisher>
+        <text>Iacobi Mareschal</text>
+      </Publisher>
+      <Date>
+        <text>1524</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>6204042</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1524 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Lyons</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Lodge 1524 Ov4</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119058.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6248" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119057.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Metamorphoses. Folio 3</text>
+      </Title>
+      <Subject>
+        <text>Moralized Ovid. Folio 3</text>
+      </Subject>
+      <Creator>
+        <text>Ovid, 43 B.C.-17 or 18 A.D.</text>
+      </Creator>
+      <Publisher>
+        <text>Iacobi Mareschal</text>
+      </Publisher>
+      <Date>
+        <text>1524</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>6204042</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1524 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Lyons</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Lodge 1524 Ov4</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119057.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6247" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119056.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/ovid/print</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Metamorphoses. Book 1, beginning</text>
+        <text>Moralized Ovid. Beginning of book 1</text>
+      </Title>
+      <Creator>
+        <text>Ovid, 43 B.C.-17 or 18 A.D.</text>
+      </Creator>
+      <Publisher>
+        <text>Iacobi Mareschal</text>
+      </Publisher>
+      <Date>
+        <text>1524</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>6204042</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1524 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Lyons</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Lodge 1524 Ov4</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119056.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6246" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119055.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Metamorphoses. Directional wheel (illustration)</text>
+        <text>Moralized Ovid. Directional wheel</text>
+      </Title>
+      <Creator>
+        <text>Ovid, 43 B.C.-17 or 18 A.D.</text>
+      </Creator>
+      <Publisher>
+        <text>Iacobi Mareschal</text>
+      </Publisher>
+      <Date>
+        <text>1524</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>6204042</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1524 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Lyons</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Lodge 1524 Ov4</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119055.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6245" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119054.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Metamorphoses. Title page</text>
+      </Title>
+      <Subject>
+        <text>Moralized Ovid. Titlepage</text>
+      </Subject>
+      <Creator>
+        <text>Ovid, 43 B.C.-17 or 18 A.D.</text>
+      </Creator>
+      <Publisher>
+        <text>Iacobi Mareschal</text>
+      </Publisher>
+      <Date>
+        <text>1524</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>6204042</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1524 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Lyons</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Lodge 1524 Ov4</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119054.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6244" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119053.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/ovid/print</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>1517 Ovid with woodcuts</text>
+      </Title>
+      <Creator>
+        <text>Ovid, 43 B.C.-17 or 18 A.D.</text>
+      </Creator>
+      <Date>
+        <text>1502</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>1638071</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1502 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Goff O-200</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119053.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6243" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119052.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/homer/1501-present</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>"Chapman's Homer" - 1st book Iliad</text>
+      </Title>
+      <Creator>
+        <text>Homer</text>
+        <text>Chapman, George</text>
+      </Creator>
+      <Publisher>
+        <text>Nathaniell Butter</text>
+      </Publisher>
+      <Date>
+        <text>[1611]</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>6196266</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1611 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>STC 13634 Lodge 1611 H75</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119052.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6242" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119051.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>"Chapman's Homer" - "To the Reader"</text>
+      </Title>
+      <Creator>
+        <text>Homer</text>
+        <text>Chapman, George</text>
+      </Creator>
+      <Publisher>
+        <text>Nathaniell Butter</text>
+      </Publisher>
+      <Date>
+        <text>[1611]</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>6196266</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1611 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>STC 13634 Lodge 1611 H75</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119051.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6241" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119050.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>"Chapman's Homer" -Title Page</text>
+      </Title>
+      <Creator>
+        <text>Homer</text>
+        <text>Chapman, George</text>
+      </Creator>
+      <Publisher>
+        <text>Nathaniell Butter</text>
+      </Publisher>
+      <Date>
+        <text>[1611]</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>6196266</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1611 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>STC 13634 Lodge 1611 H75</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119049.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6240" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119049.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Hobbes Homer translation-"To the Reader"</text>
+      </Title>
+      <Creator>
+        <text>Homer</text>
+        <text>Hobbes, Thomas</text>
+      </Creator>
+      <Publisher>
+        <text>William Crook</text>
+      </Publisher>
+      <Date>
+        <text>1677</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>6158282</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1677 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B88HI C77</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119048.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6239" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/lit_hum/110119048.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/lit_hum/homer/1501-present</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Hobbes Homer translation-titlepage</text>
+      </Title>
+      <Creator>
+        <text>Homer</text>
+        <text>Hobbes, Thomas</text>
+      </Creator>
+      <Publisher>
+        <text>William Crook</text>
+      </Publisher>
+      <Date>
+        <text>1677</text>
+      </Date>
+      <Identifier>
+        <text>6158282</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1677</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B88HI C77</text>
+      </ShelfLocation>
+    </MODS>
+  </item>
+  <item itemId="6191" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Literature Humanities</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>MoralizedOvidMS1.jpg</text>
+      <text>MoralizedOvidMS2.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Moralized Ovid MS</text>
+      </Title>
+      <Creator>
+        <text>Ovid</text>
+      </Creator>
+      <Language>
+        <text>lat</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Identifier>
+        <text>X870S.HG</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>ex</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>nnc-rb</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+</itemContainer>
+
