@@ -1,0 +1,2954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--The name of each XML element representing an Omeka element or element set is
+based on the name of the element or element set in Omeka. For example:
+     The "Dublin Core" element set is represented by the DublinCore XML element
+     The "Form Genre" element in MODS is represented by the FormGenre XML element
+
+The following XML elements are based on internal Omeka data:
+     The OriginalFileLoadedIntoOmeka XML element contains the name/path of
+     of the file(s) loaded into Omeka for the given item.
+     The OmekaCollection XML element contains the name of the Omeka collection
+     containing the item, if the item belongs to an Omeka collection. Please note
+     that this element is different from the Collection element in MODS, which is
+     curator-populated.
+-->
+<itemContainer>
+  <item itemId="6504" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>278.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/quran/the-quran</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Koran</text>
+      </Title>
+      <Description>
+        <text>Koran&#13;
+3rd section (of thirty) in muhaqqaq script with Persian interlinear translation, on paper. Copied by the calligrapher Mes‘ud and illuminated by Mahfuz, two sons of ‘Abd al-Malek, scribe of Ghiyath, in 657 A. H. (1259 C E)&#13;
+Smith Oriental MS 263&#13;
+&#13;
+</text>
+      </Description>
+      <Date>
+        <text>1259 C.E.</text>
+      </Date>
+      <Language>
+        <text>ara</text>
+      </Language>
+      <Identifier>
+        <text>Smith Oriental MS 263&#13;
+  &#13;
+</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1259 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>ex</text>
+      </TypeofDate>
+      <PublicationDate>
+        <text>1259 C.E.</text>
+      </PublicationDate>
+      <RepositoryName>
+        <text>nnc-rb</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Smith Oriental MS 263</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+    <AdditionalItemMetadata>
+      <RightsHolder>
+        <text>RBML</text>
+      </RightsHolder>
+      <Provenance>
+        <text>David Eugene Smith </text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="6238" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119047.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/augustine/ms-print</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>De civitate dei</text>
+      </Title>
+      <Creator>
+        <text>Augustine, Saint, Bishop of Hippo</text>
+      </Creator>
+      <Publisher>
+        <text>Nicholas Jenson</text>
+      </Publisher>
+      <Date>
+        <text>1475</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 1079136</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1475 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>ex</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Venice</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Goff A1235</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119047.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6237" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119046.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>In the beginning, in the beginning, in the beginning. </text>
+      </Title>
+      <Creator>
+        <text>Carter, Sebastian</text>
+      </Creator>
+      <Publisher>
+        <text>Rampant Lions Press</text>
+      </Publisher>
+      <Date>
+        <text>2006</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 6890408</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2006 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>ex</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Cambridge</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.R14 2006 B47 (vault)</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119046.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6236" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119045.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/bibles/bibleasart</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>In the beginning, in the beginning, in the beginning</text>
+      </Title>
+      <Creator>
+        <text>Carter, Sebastian</text>
+      </Creator>
+      <Publisher>
+        <text>Rampant Lions Press</text>
+      </Publisher>
+      <Date>
+        <text>2006</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 6890408</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2006 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>ex</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Cambridge</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.R14 2006 B47 (vault)</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119045.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6235" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119044.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/bibles/bibleasart</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Four Gospels of the Lord Jesus Christ according to the Authorized version of King James I. With decorations by Eric Gill. Page 145</text>
+      </Title>
+      <Creator>
+        <text>Gill, Eric</text>
+      </Creator>
+      <Publisher>
+        <text>Golden Cockerell Press</text>
+      </Publisher>
+      <Date>
+        <text>1931</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 6166705</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1931 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>[Waltham St. Lawrence]</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232 G57 1931 B47</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119044.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6234" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119043.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Four Gospels of the Lord Jesus Christ according to the Authorized version of King James I. With decorations by Eric Gill.  Page: The Gospel according to Matthew.</text>
+      </Title>
+      <Creator>
+        <text>Gill, Eric</text>
+      </Creator>
+      <Publisher>
+        <text>Golden Cockerell Press</text>
+      </Publisher>
+      <Date>
+        <text>1931</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 166705</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1931 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>[Waltham St. Lawrence]</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232 G57 1931 B47</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119043.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6233" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119042.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Bible. Translated according to the Ebrew and Greeke, and conferred with the best translations in diuers languages. Page: Ecclesiastes</text>
+      </Title>
+      <Creator>
+        <text>Barker, Christopher</text>
+      </Creator>
+      <Publisher>
+        <text>Christopher Barker</text>
+      </Publisher>
+      <Date>
+        <text>1588</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1588 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>STC 2148</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119042.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6232" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119041.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Bible. Translated according to the Ebrew and Greeke, and conferred with the best translations in diuers languages. First page Genesis</text>
+      </Title>
+      <Creator>
+        <text>Barker, Christopher</text>
+      </Creator>
+      <Publisher>
+        <text>Christopher Barker</text>
+      </Publisher>
+      <Date>
+        <text>1588</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1588 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>STC 2148</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119041.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6231" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119040.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Bible. Translated according to the Ebrew and Greeke, and conferred with the best translations in diuers languages. 2v</text>
+      </Title>
+      <Creator>
+        <text>Barker, Christopher</text>
+      </Creator>
+      <Publisher>
+        <text>Christopher Barker</text>
+      </Publisher>
+      <Date>
+        <text>1588</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1588 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>STC 2148</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119040.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6230" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119039.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Bible. Translated according to the Ebrew and Greeke, and conferred with the best translations in diuers languages.Page: To the Christian reader</text>
+      </Title>
+      <Creator>
+        <text>Barker, Christopher</text>
+      </Creator>
+      <Publisher>
+        <text>Christopher Barker</text>
+      </Publisher>
+      <Date>
+        <text>1588</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1588 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>STC 2148</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119039.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6229" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119038.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Bible. Translated according to the Ebrew and Greeke, and conferred with the best translations in diuers languages. 1v</text>
+      </Title>
+      <Creator>
+        <text>Barker, Christopher</text>
+      </Creator>
+      <Publisher>
+        <text>Christopher Barker</text>
+      </Publisher>
+      <Date>
+        <text>1588</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1588 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>STC 2148</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119038.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6228" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119037.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/reformation/bibles</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Bible. Translated according to the Ebrew and Greeke, and conferred with the best translations in diuers languages. Title page</text>
+      </Title>
+      <Creator>
+        <text>Barker, Christopher</text>
+      </Creator>
+      <Publisher>
+        <text>Christopher Barker</text>
+      </Publisher>
+      <Date>
+        <text>1588</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1588 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>STC 2148</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119037.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6227" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119036.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/reformation/bibles</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Bible and Holy Scriptures conteyned in the Olde and Newe Testamen. First page Genesis</text>
+      </Title>
+      <Publisher>
+        <text>Rouland Hald</text>
+      </Publisher>
+      <Date>
+        <text>1560</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 2451352</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1560 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Geneva</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Plimpton 220.52 1560 B47</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119036.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6226" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119035.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Bible and Holy Scriptures conteyned in the Olde and Newe Testament. Title page</text>
+      </Title>
+      <Publisher>
+        <text>Rouland Hald</text>
+      </Publisher>
+      <Date>
+        <text>1560</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 2451352</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1560 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Geneva</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Plimpton 220.52 1560 B47</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119035.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6225" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119034.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Bible. Polyglot. Complutensian. Title page</text>
+      </Title>
+      <Creator>
+        <text>Jiménez de Cisneros, Francisco, 1436?-1517</text>
+      </Creator>
+      <Publisher>
+        <text>Industria Arnaldi Guillermo de Brocario in Academia de Complutensi</text>
+      </Publisher>
+      <Date>
+        <text>1517</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 305731</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1514 1522</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Alcala de Henares</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>book</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.B78 1514 B47 vol. 3 (vault)</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119034.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6224" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119033.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Bible. Polyglot. Complutensian. Ecc.2</text>
+      </Title>
+      <Creator>
+        <text>Jimenes de Cisnero, Francisco</text>
+        <text>Lopez de Zuniga, Diego</text>
+      </Creator>
+      <Publisher>
+        <text>Industria Arnaldi Guillermo de Brocario in Academia de Complutensi</text>
+      </Publisher>
+      <Date>
+        <text>1517</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 305731</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1514 1522</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>book</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.B78 1514 B47 vol. 3 (vault)</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119033.tif&#13;
+&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6223" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119032.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Bible. Polyglot. Complutensian. Ecc.1</text>
+      </Title>
+      <Creator>
+        <text>Jimenes de Cisnero, Francisco</text>
+        <text>Lopez de Zuniga, Diego</text>
+      </Creator>
+      <Publisher>
+        <text>Industria Arnaldi Guillermo de Brocario in Academia de Complutensi</text>
+      </Publisher>
+      <Date>
+        <text>1517</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 305731</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1514 1522</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>book</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.B78 1514 B47 vol. 3 (vault)</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119032.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6222" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119031.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/bibles/earlyprinted</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Bible. Polyglot. Complutensian. Job</text>
+      </Title>
+      <Creator>
+        <text>Jimenes de Cisnero, Francisco</text>
+        <text>Lopez de Zuniga, Diego</text>
+      </Creator>
+      <Publisher>
+        <text>Industria Arnaldi Guillermo de Brocario in Academia de Complutensi</text>
+      </Publisher>
+      <Date>
+        <text>1517</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 305731</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1514 1522</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Alcala de Henares</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>book</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.B78 1514 B47 vol. 3 (vault)</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119031.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6221" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119030.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>English Bible : containing the Old Testament &amp; the New. Inscription</text>
+      </Title>
+      <Creator>
+        <text>Cobden-Sanderson, T. J. (Thomas)</text>
+      </Creator>
+      <Publisher>
+        <text>Doves Press</text>
+      </Publisher>
+      <Date>
+        <text>1903-1905</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 7477460</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1903 1905</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>[London]</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART 017.En2 D75 1903B copy 1</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119030.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6220" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119029.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/bibles/bibleasart</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>English Bible : containing the Old Testament &amp; the New. First page Genesis</text>
+      </Title>
+      <Creator>
+        <text>Cobden-Sanderson, T. J. (Thomas)</text>
+      </Creator>
+      <Publisher>
+        <text>Doves Press</text>
+      </Publisher>
+      <Date>
+        <text>1903-1905</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 7477460</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1903 1905</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>[London]</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART 017.En2 D75 1903B copy 1</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119029.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6219" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119028.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>English Bible : containing the Old Testament &amp; the New. Binding</text>
+      </Title>
+      <Creator>
+        <text>Cobden-Sanderson, T. J. (Thomas)</text>
+      </Creator>
+      <Publisher>
+        <text>Doves Press</text>
+      </Publisher>
+      <Date>
+        <text>1903-1905</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 7477460</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1903 1905</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>[London]</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART 017.En2 D75 1903B copy 1</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119028.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6218" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119027.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/bibles/earlyprinted</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Gutenberg Bible. First page Revelations</text>
+      </Title>
+      <Creator>
+        <text>Gutenberg, Johann, 1397?-1468</text>
+        <text>Schoeffer, Peter</text>
+      </Creator>
+      <Date>
+        <text>ca. 1455</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 1623893</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1455 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Mainz</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Goff B526</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119027.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6217" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119026.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/freud/psychopathology</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Psychopathology of Everyday Life</text>
+      </Title>
+      <Creator>
+        <text>Freud, Sigmund, 1856-1939</text>
+      </Creator>
+      <Publisher>
+        <text>T. Fisher Unwin</text>
+      </Publisher>
+      <Date>
+        <text>1914</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 5521635</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1914 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B157.5 F895</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119026.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6216" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119025.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/freud/psychopathology</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Zur Psychopathologie des Alltagslebens : (über Vergessen, Versprechen, Vergreifen, Aberglaube und Irrtum)</text>
+      </Title>
+      <Creator>
+        <text>Freud, Sigmund, 1856-1939</text>
+      </Creator>
+      <Publisher>
+        <text>S. Karger</text>
+      </Publisher>
+      <Date>
+        <text>1907</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 2728565</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1907 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Berlin</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B157.5 F89492</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119025.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6215" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119024.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Dialogo dei massimi sistemi. Pages 320-321</text>
+      </Title>
+      <Creator>
+        <text>Galilei, Galileo, 1564-1642</text>
+      </Creator>
+      <Publisher>
+        <text>Per Gio. Batistia Landini</text>
+      </Publisher>
+      <Date>
+        <text>1632</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 6188969</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1632 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Florence</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>SMITH 520 1632 G13</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119024.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6214" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119023.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/galileo/dialogo</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Dialogo dei massimi sistemi. Frontispiece</text>
+      </Title>
+      <Creator>
+        <text>Galilei, Galileo, 1564-1642</text>
+      </Creator>
+      <Publisher>
+        <text>Per Gio. Batistia Landini</text>
+      </Publisher>
+      <Date>
+        <text>1632</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 6188969</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1632 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Florence</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>SMITH 520 1632 G13</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119023.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6213" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119022.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Zur Kritik der politischen Oekonomie. Title page</text>
+      </Title>
+      <Creator>
+        <text>Marx, Karl, 1818-1883</text>
+      </Creator>
+      <Publisher>
+        <text>F. Duncker</text>
+      </Publisher>
+      <Date>
+        <text>1859</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 5492846</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1859 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Berlin</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Seligman 1859Ge M36</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119022.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6212" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119021.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Zur Kritik der politischen Oekonomie. Pages 88-89</text>
+      </Title>
+      <Creator>
+        <text>Marx, Karl, 1818-1883</text>
+      </Creator>
+      <Publisher>
+        <text>F. Duncker</text>
+      </Publisher>
+      <Date>
+        <text>1859</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 5492846</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1859 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Berlin</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Seligman 1859Ge M36</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119021.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6211" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119020.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/darwin/originofspecies</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>On the origin of species by means of natural selection, or The preservation of favoured races in the struggle for life. Pages 8-9</text>
+      </Title>
+      <Creator>
+        <text>Darwin, Charles, 1809-1882</text>
+      </Creator>
+      <Publisher>
+        <text>D. Appleton &amp; Company</text>
+      </Publisher>
+      <Date>
+        <text>1860</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 100456</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1860 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>QH365. O2 1860a</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119020.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6210" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119019.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/darwin/originofspecies</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>On the origin of species by means of natural selection, or The preservation of favoured races in the struggle for life. Title page</text>
+      </Title>
+      <Creator>
+        <text>Darwin, Charles, 1809-1882</text>
+      </Creator>
+      <Publisher>
+        <text>D. Appleton &amp; Company</text>
+      </Publisher>
+      <Date>
+        <text>1860</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 100456</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1860 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>QH365. O2 1860a</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119019.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6209" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119018.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/rights/dubois</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Alexander Gumby Scrapbook. Page</text>
+      </Title>
+      <Description>
+        <text>Scrapbook page includes the pamphlet&lt;em id="tinymce" class="mceContentBody " dir="ltr"&gt; What the Negro has done for the United States and Texas &lt;/em&gt;by W. E. B. Du Bois and clippings dated Feb. 1942&lt;em&gt;&lt;br /&gt;&lt;/em&gt;</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L. S. Alexander, 1885-1961</text>
+        <text>Du Bois, W. E. B. (William Edward Burghardt), 1868-1963</text>
+      </Creator>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 4078845</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>ex</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Gumby collection (ms #0527), Box 55</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119018.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Alexander Gumby collection of Negroiana</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6208" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119017.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/rights/dubois</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Gumby scrapbook. Page 002</text>
+      </Title>
+      <Description>
+        <text>Clippings about W.E.B. Du Bois including &lt;em&gt;Two Typical Leaders&lt;/em&gt; from The Outlook of May 23, 1903.</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L. S. Alexander, 1885-1961</text>
+      </Creator>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 4078845</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>ex</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Gumby collection (ms #0527), Box 55</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119017.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Alexander Gumby collection of Negroiana</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="6207" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119016.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Constitution de la République française. First page</text>
+      </Title>
+      <Publisher>
+        <text>Chez J. De Boffe et J. Debrett</text>
+      </Publisher>
+      <Date>
+        <text>1795</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 5529979</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1795 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Paris [London]</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B342.441 F8471</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119016.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6206" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119015.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/revolutions/frenchrev</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Constitution de la République française. Title page</text>
+      </Title>
+      <Publisher>
+        <text>Chez J. De Boffe et J. Debrett</text>
+      </Publisher>
+      <Date>
+        <text>1795</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>5529979</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1795 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Paris [London]</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B342.441 F8471</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119015.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6205" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119014.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Constitutions of the several independent states of America : the Declaration of Independence, the Articles of Confederation between the said states, the treaties between His Most Christian Majesty and the United States of America, and the treaties between their High Mightinesses the States General of the United Netherlands and the United States of America. Page 3</text>
+      </Title>
+      <Publisher>
+        <text>Norman and Bowen</text>
+      </Publisher>
+      <Date>
+        <text>1785</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 5530045</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1785 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Boston</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>nnc-rb</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B342.731 Un32</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119014.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6204" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119013.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/revolutions/amrev</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Constitutions of the several independent states of America : the Declaration of Independence, the Articles of Confederation between the said states, the treaties between His Most Christian Majesty and the United States of America, and the treaties between their High Mightinesses the States General of the United Netherlands and the United States of America. Title page</text>
+      </Title>
+      <Publisher>
+        <text>Norman and Bowen</text>
+      </Publisher>
+      <Date>
+        <text>1785</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 5530045</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1785 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Boston</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B342.731 Un32</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119013.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6203" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119012.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Farmer Refuted. Page 78</text>
+      </Title>
+      <Creator>
+        <text>Hamilton, Alexander, 1757-1804</text>
+      </Creator>
+      <Publisher>
+        <text>James Rivington</text>
+      </Publisher>
+      <Date>
+        <text>1775</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id:  5458358</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1775 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Seligman 1775 H184 </text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119012.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6202" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119011.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Farmer Refuted Pages iv and B</text>
+      </Title>
+      <Creator>
+        <text>Hamilton, Alexander</text>
+      </Creator>
+      <Publisher>
+        <text>James Rivington</text>
+      </Publisher>
+      <Date>
+        <text>1775</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 5458358</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1775 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Seligman 1775 H184 </text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119011.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6201" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119010.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Farmer Refuted. Advertisement</text>
+      </Title>
+      <Creator>
+        <text>Hamilton, Alexander</text>
+      </Creator>
+      <Publisher>
+        <text>James Rivington</text>
+      </Publisher>
+      <Date>
+        <text>1775</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 5458358</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1775 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Seligman 1775 H184 </text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119010.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6200" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119009.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/revolutions/amrev</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Farmer Refuted. Title page</text>
+      </Title>
+      <Creator>
+        <text>Hamilton, Alexander</text>
+      </Creator>
+      <Publisher>
+        <text>James Rivington</text>
+      </Publisher>
+      <Date>
+        <text>1775</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO: 5458358</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1775 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Seligman 1775 H184 </text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119009.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6199" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119008.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/machiavelli/tutteleopera</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Tvtte le opere di Nicolo Machiavelli</text>
+      </Title>
+      <Creator>
+        <text>Machiavelli, Niccolò, 1469-1527</text>
+      </Creator>
+      <Publisher>
+        <text>Pietro Alberto</text>
+      </Publisher>
+      <Date>
+        <text>1550</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 6180564</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1628 1660</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Geneva</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Spinoza 193Sp4 FM1541</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119008.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6198" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119007.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Du contract social. Beginning of text</text>
+      </Title>
+      <Creator>
+        <text>Rousseau, Jean-Jacques, 1712-1778</text>
+      </Creator>
+      <Publisher>
+        <text>Chez Marc Michel Rey</text>
+      </Publisher>
+      <Date>
+        <text>1762</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 5449649</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1762 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Amsterdam</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Seligman 1762Ho R76</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119007.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6197" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119006.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/revolutions/frenchrev</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Du contract social. Title page</text>
+      </Title>
+      <Creator>
+        <text>Rousseau, Jean-Jacques, 1712-1778</text>
+      </Creator>
+      <Publisher>
+        <text>Chez Marc Michel Rey</text>
+      </Publisher>
+      <Date>
+        <text>1762</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 5449649</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1762 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Amsterdam</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Seligman 1762Ho R76</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119006.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6196" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119005.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/hobbes/leviathan</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Leviathan, or, The matter, forme, &amp; power of a common-wealth ecclesiasticall and civill. Title page</text>
+      </Title>
+      <Creator>
+        <text>Hobbes, Thomas, 1588-1679</text>
+      </Creator>
+      <Publisher>
+        <text>[Andrew Crooke]</text>
+      </Publisher>
+      <Date>
+        <text>1651</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 3242930</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1651 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B320.1 H651</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119005.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6195" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119004.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/hobbes/leviathan</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Leviathan, or, The matter, forme, &amp; power of a common-wealth ecclesiasticall and civill. Frontispiece</text>
+      </Title>
+      <Creator>
+        <text>Hobbes, Thomas, 1588-1679</text>
+      </Creator>
+      <Publisher>
+        <text>[Andrew Crooke]</text>
+      </Publisher>
+      <Date>
+        <text>1651</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 3242930</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1651 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B320.1 H651</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119004.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6194" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119003.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/hobbes/leviathan</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Leviathan, or, The matter, forme, &amp; power of a common-wealth ecclesiasticall and civill. Title page</text>
+      </Title>
+      <Creator>
+        <text>Hobbes, Thomas, 1588-1679</text>
+      </Creator>
+      <Publisher>
+        <text>Andrew Crooke</text>
+      </Publisher>
+      <Date>
+        <text>[1651]</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1651 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Seligman 1651E H652</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119003.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6193" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/hobbes/leviathan</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Leviathan, or, The matter, forme, &amp; power of a common-wealth ecclesiasticall and civill. Frontispiece</text>
+      </Title>
+      <Creator>
+        <text>Hobbes, Thomas</text>
+      </Creator>
+      <Publisher>
+        <text>Andrew Crooke</text>
+      </Publisher>
+      <Date>
+        <text>[1651]</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1651 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Seligman 1651E H652</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119002.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6192" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/contemp_civ/110119001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Aristotelis omnia quae extant opera. Title page</text>
+      </Title>
+      <Creator>
+        <text>Aristotle</text>
+      </Creator>
+      <Publisher>
+        <text>Apud Iunctas</text>
+      </Publisher>
+      <Date>
+        <text>1562</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 6151835</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1562 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Venice</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>x88 Ar512/B88Ar51 IB62</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110119001.tif&#13;
+</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6179" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>fed#5page1.jpeg</text>
+      <text>fed#5page2.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/revolutions/amrev</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Federalist #5 manuscript</text>
+      </Title>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>ex</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>nnc-rb</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6178" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Galileo-Siderius.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/galileo/siderius</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Galileo, Siderius</text>
+      </Title>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>ex</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>nnc-rb</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6177" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1473Antiphonal.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>1473 Antiphonal</text>
+      </Title>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>ex</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>nnc-rb</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6175" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>freud-totemtaboo.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/cc/freud/totemtaboo</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Freud, Totem und Tabu</text>
+      </Title>
+      <Creator>
+        <text>Freud, Sigmund </text>
+      </Creator>
+      <Date>
+        <text>ca. 1912-1913</text>
+      </Date>
+      <Language>
+        <text>ger</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>ex</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>nnc-rb</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6174" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>ShakesOvid.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Shakespeare's Ovid</text>
+      </Title>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>ex</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>nnc-rb</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6173" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>DQfrontispiece.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>History of Don Quichote</text>
+      </Title>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>ex</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>nnc-rb</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6172" public="1" featured="0">
+    <OmekaCollection>Core Curriculum: Contemporary Civilization</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1611BarkerBible.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>1611 Barker Bible</text>
+      </Title>
+      <Creator>
+        <text>Barker, Robert</text>
+      </Creator>
+      <Publisher>
+        <text>Robert Barker, printer to the King's Most Excellent Maiestie</text>
+      </Publisher>
+      <Date>
+        <text>1611</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>ex</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>nnc-rb</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+</itemContainer>
+
+
