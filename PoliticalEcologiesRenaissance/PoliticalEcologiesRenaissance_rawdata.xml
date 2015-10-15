@@ -1,0 +1,2123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--The name of each XML element representing an Omeka element or element set is
+based on the name of the element or element set in Omeka. For example:
+     The "Dublin Core" element set is represented by the DublinCore XML element
+     The "Form Genre" element in MODS is represented by the FormGenre XML element
+
+The following XML elements are based on internal Omeka data:
+     The OriginalFileLoadedIntoOmeka XML element contains the name/path of
+     of the file(s) loaded into Omeka for the given item.
+     The OmekaCollection XML element contains the name of the Omeka collection
+     containing the item, if the item belongs to an Omeka collection. Please note
+     that this element is different from the Collection element in MODS, which is
+     curator-populated.
+-->
+<itemContainer>
+  <item itemId="4780" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027047</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Sturmy, Samuel, 1633</text>
+      </Creator>
+      <Title>
+        <text>The Mariners Magazine</text>
+      </Title>
+      <Publisher>
+        <text>Anne Godbid for William Fisher, Edward Thomas, Robert Boulter, Thomas Passinger, Ralph Smith, and Richard Northcot. </text>
+      </Publisher>
+      <Description>
+        <text>A dialling scale. </text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1679</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4779" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027046</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Sturmy, Samuel, 1633</text>
+      </Creator>
+      <Title>
+        <text>The Mariners Magazine</text>
+      </Title>
+      <Publisher>
+        <text>Anne Godbid for William Fisher, Edward Thomas, Robert Boulter, Thomas Passinger, Ralph Smith, and Richard Northcot. </text>
+      </Publisher>
+      <Description>
+        <text>A mathematical ruler. The ruler is inserted at the beginning of the first book. </text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1679</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4778" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027045</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Staynred, Philip, 1635-1648</text>
+      </Creator>
+      <Title>
+        <text>A Compendium of Fortification reprinted in Samuel Sturmy's The Mariners Magazine</text>
+      </Title>
+      <Publisher>
+        <text>Anne Godbid for William Fisher, Edward Thomas, Robert Boulter, Thomas Passinger, Ralph Smith, and Richard Northcot. </text>
+      </Publisher>
+      <Description>
+        <text>A cross-section of a fort. </text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1679</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4777" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027044</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Staynred, Philip, 1635-1648</text>
+      </Creator>
+      <Title>
+        <text>A Compendium of Fortification reprinted in Samuel Sturmy's The Mariners Magazine</text>
+      </Title>
+      <Publisher>
+        <text>Anne Godbid for William Fisher, Edward Thomas, Robert Boulter, Thomas Passinger, Ralph Smith, and Richard Northcot. </text>
+      </Publisher>
+      <Description>
+        <text>"A Scale of Fortification," a mathematical ruler used in the construction of forts. </text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1679</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4776" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027043</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Rheticus, Georg Joachim, 1514-1574</text>
+      </Creator>
+      <Title>
+        <text>Narratio in Johannes Kepler's Mysterium Cosmographicum</text>
+      </Title>
+      <Publisher>
+        <text>Godfrey Tampach and Erasmus Kempfer</text>
+      </Publisher>
+      <Description>
+        <text>An illustration depicting the heliocentric universe. </text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Frankfurt</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1621</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4775" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027042</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Pater, Erra</text>
+      </Creator>
+      <Title>
+        <text>A Prognostication for Ever, Made by Erra Pater, a Jew, born in Jewry, Doctor in Astronomy and Physick: Very Profitable to keep the Body in health. And also Ptolomeus saith the same. Together with the Fairs and High-Ways, and several new Additions</text>
+      </Title>
+      <Publisher>
+        <text>Thomas Basset, Richard Chiswel, Samuel Smith, Benjamin Walford, and George Conyers</text>
+      </Publisher>
+      <Description>
+        <text>The Cover of the 1694 A Prognostication for euer</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1694</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4774" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027041</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Pater, Erra</text>
+      </Creator>
+      <Title>
+        <text>A Prognostication for Ever</text>
+      </Title>
+      <Publisher>
+        <text>Thomas Basset, Richard Chiswel, Samuel Smith, Benjamin Walford, and George Conyers</text>
+      </Publisher>
+      <Description>
+        <text>Formulae for bills and obligations.</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1694</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4773" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027040</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Pater, Erra</text>
+      </Creator>
+      <Title>
+        <text>A Prognostication for Ever, Made by Erra Pater, a Jew, born in Jewry, Doctor in Astronomy and Physick: Very Profitable to keep the Body in health. And also Ptolomeus saith the same. Together with the Fairs and High-Ways, and several new Additions</text>
+      </Title>
+      <Publisher>
+        <text>Thomas Basset, Richard Chiswel, Samuel Smith, Benjamin Walford, and George Conyers</text>
+      </Publisher>
+      <Description>
+        <text>A catalogue of the highway distances between cities in England.</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1694</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4772" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027039</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Pater, Erra</text>
+      </Creator>
+      <Title>
+        <text>A Prognostication for Ever, Made by Erra Pater, a Jew, born in Jewry, Doctor in Astronomy and Physick: Very Profitable to keep the Body in health. And also Ptolomeus saith the same. Together with the Fairs and High-Ways, and several new Additions</text>
+      </Title>
+      <Publisher>
+        <text>Thomas Basset, Richard Chiswel, Samuel Smith, Benjamin Walford, and George Conyers</text>
+      </Publisher>
+      <Description>
+        <text>A catalogue of the fairs in England and Wales. </text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1694</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4771" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027038</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Pater, Erra</text>
+      </Creator>
+      <Title>
+        <text>A Prognostication for Ever, Made by Erra Pater, a Jew, born in Jewry, Doctor in Astronomy and Physick: Very Profitable to keep the Body in health. And also Ptolomeus saith the same. Together with the Fairs and High-Ways, and several new Additions</text>
+      </Title>
+      <Publisher>
+        <text>Thomas Basset, Richard Chiswel, Samuel Smith, Benjamin Walford, and George Conyers</text>
+      </Publisher>
+      <Description>
+        <text>A table designed to help the reader calculate 6% interest on any sum of money from 1 shilling to 1 pound, from a day to a year.</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1694</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4770" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027037</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Pater, Erra</text>
+      </Creator>
+      <Title>
+        <text>A Prognostication for Ever, Made by Erra Pater, a Jew, born in Jewry, Doctor in Astronomy and Physick: Very Profitable to keep the Body in health. And also Ptolomeus saith the same. Together with the Fairs and High-Ways, and several new Additions</text>
+      </Title>
+      <Publisher>
+        <text>Thomas Basset, Richard Chiswel, Samuel Smith, Benjamin Walford, and George Conyers</text>
+      </Publisher>
+      <Description>
+        <text>An opening of A Prognostication for euer. The page on the left provides a rule  for determining the beginning and endings of the Hilary, Easter, Trinity, and Michaelmas terms. The page on the right provides a table for determining "how long the Moon shineth, and when she riseth and setteth."</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1694</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4769" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027036</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Pater, Erra</text>
+      </Creator>
+      <Title>
+        <text>A Prognostication for Ever, Made by Erra Pater, a Jew, born in Jewry, Doctor in Astronomy and Physick: Very Profitable to keep the Body in health. And also Ptolomeus saith the same. Together with the Fairs and High-Ways, and several new Additions</text>
+      </Title>
+      <Publisher>
+        <text>Thomas Basset, Richard Chiswel, Samuel Smith, Benjamin Walford, and George Conyers</text>
+      </Publisher>
+      <Description>
+        <text>The frontispiece of the 1694 A Prognostication for euer, which depicts Erra Pater using a sextant.</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1694</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4768" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027035</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Morland, Samuel, 1625-1685</text>
+      </Creator>
+      <Title>
+        <text>Elevation des eaux par toute sorte de machines</text>
+      </Title>
+      <Description>
+        <text>Title page of Elevation des eaux par toute sorte de machines</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Paris</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1685</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4767" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027034</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Morland, Samuel, 1625-1685</text>
+      </Creator>
+      <Title>
+        <text>Elevation des eaux par toute sorte de machines</text>
+      </Title>
+      <Description>
+        <text>An illustration of a water pump</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Paris</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1685</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4766" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027033</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Morland, Samuel, 1625-1695</text>
+      </Creator>
+      <Title>
+        <text>Elevation des eaux par toute sorte de machines</text>
+      </Title>
+      <Description>
+        <text>Figure 1 in Elevation des eaux par toute sorte de machines depicts hoses used in an experiment to determine the weight of the River Seine.</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Paris</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1685</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4765" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>110027032.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Elevation des eaux par toute sorte de machines</text>
+      </Title>
+      <Description>
+        <text>An illustration of the human arm holding a weight. The illustration includes the arm's range of motion. Above and below the arm are two Bible verses in Hebrew, with Psalm 139:14-15 below and Job 10:2 above</text>
+      </Description>
+      <Creator>
+        <text>Morland, Samuel, 1625-1685</text>
+      </Creator>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1685 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Paris</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="4764" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027031</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Kircher, Athanasius, 1602-1680</text>
+      </Creator>
+      <Title>
+        <text>Mundus Subterraneus</text>
+      </Title>
+      <Publisher>
+        <text>Johannes Janssonius and Elizeus Weyerstraten</text>
+      </Publisher>
+      <Description>
+        <text>An illustration of a man-powered water lift. </text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Amsterdam</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1665</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4763" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027030</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Kircher, Athanasius, 1602-1680</text>
+      </Creator>
+      <Title>
+        <text>Mundus Subterraneus</text>
+      </Title>
+      <Publisher>
+        <text>Johannes Janssonius and Elizeus Weyerstraten</text>
+      </Publisher>
+      <Description>
+        <text>An illustration of the surface of the sun.</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Amsterdam</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1665</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4762" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027029</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Kircher, Athanasius, 1602-1680</text>
+      </Creator>
+      <Title>
+        <text>Mundus Subterraneus</text>
+      </Title>
+      <Publisher>
+        <text>Johannes Janssonius and Elizeus Weyerstraten</text>
+      </Publisher>
+      <Description>
+        <text>A cross-section of Mount Vesuvius, depicting the inside of the crater, which Kircher explored in 1638. </text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Amsterdam</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1665</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4761" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027028</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Kircher, Athanasius, 1602-1680</text>
+      </Creator>
+      <Title>
+        <text>Mundus Subterraneus</text>
+      </Title>
+      <Publisher>
+        <text>Johannes Janssonius and Elizeus Weyerstraten</text>
+      </Publisher>
+      <Description>
+        <text>An illustration of the subterranean rivers, oceans, and fiery channels Kircher posited lay beneath the Earth's surface. </text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Amsterdam</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1665</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4760" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027027</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Kepler, Johannes, 1571-1630</text>
+      </Creator>
+      <Title>
+        <text>Mysterium Cosmographicum</text>
+      </Title>
+      <Publisher>
+        <text>Godfrey Tampach and Erasmus Kempfer</text>
+      </Publisher>
+      <Description>
+        <text>An illustration of the planets' epicycles.</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Frankfurt</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1621</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4759" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027026</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Kepler, Johannes, 1571-1630</text>
+      </Creator>
+      <Title>
+        <text>Mysterium Cosmographicum</text>
+      </Title>
+      <Publisher>
+        <text>Godfrey Tampach and Erasmus Kempfer</text>
+      </Publisher>
+      <Description>
+        <text>Illustration of nested regular solids, depicting Kepler's model of the solar system. Saturn's orbit circumscribes the cube, Jupiter's orbit the tetrahedron, Mars' orbit the dodecahedron, Earth's orbit the icosahedron, and Venus' orbit the octahedron. Mercury's orbit is nested inside the octahedron. </text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Frankfurt</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1621</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4758" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027025</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Kepler, Johannes, 1571-1630</text>
+      </Creator>
+      <Title>
+        <text>Mysterium Cosmographicum</text>
+      </Title>
+      <Publisher>
+        <text>Godfrey Tampach and Erasmus Kempfer</text>
+      </Publisher>
+      <Description>
+        <text>Kepler describes the alignment of the platonic solids in the solar system. The four illustrations depict flattened views from within the octahedron looking out. The horizontal line is the square bisecting the octahedron, and the other lines show the edges of the remaining solids. The third illustration from the top depicts an alignment in which the angles of the solids are aligned, an alignment which Kepler rejects. The fourth illustration depicts the alignment of the solids in Kepler's model.  </text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Frankfurt</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1621</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4757" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027024</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Grandami, Jacques, 1588-1672</text>
+      </Creator>
+      <Title>
+        <text>Nova demonstratio immobilitatis terrae petita ex virtvte magnetica</text>
+      </Title>
+      <Publisher>
+        <text>G. Griveav</text>
+      </Publisher>
+      <Description>
+        <text>Frontispiece of Nova demonstratio immobilitatis terrae petita ex virtvte magnetica</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Flexi</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1645</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4756" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027023</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Grandami, Jacques, 1588-1672</text>
+      </Creator>
+      <Title>
+        <text>Nova demonstratio immobilitatis terrae petita ex virtvte magnetica</text>
+      </Title>
+      <Publisher>
+        <text>G. Griveav</text>
+      </Publisher>
+      <Description>
+        <text>A fold-out illustration depicting astronomical instruments.</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Flexi</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1645</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4755" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027022</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Grandami, Jacques, 1588-1672</text>
+      </Creator>
+      <Title>
+        <text>Nova demonstratio immobilitatis terrae petita ex virtvte magnetica</text>
+      </Title>
+      <Publisher>
+        <text>G. Griveav</text>
+      </Publisher>
+      <Description>
+        <text>The cherubim in the top illustration experiment with magnets and metal objects, such as keys and rings. The cherubim in the bottom illustration experiment with magnets and knives. The two angels in the middle magnetize the knives they are holding, while the two angels on the outside use magnetized knives to attract nails. </text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Flexi</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1645</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4754" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027021</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Grandami, Jacques, 1588-1672</text>
+      </Creator>
+      <Title>
+        <text>Nova demonstratio immobilitatis terrae petita ex virtvte magnetica</text>
+      </Title>
+      <Publisher>
+        <text>G. Griveav</text>
+      </Publisher>
+      <Description>
+        <text>The cherubim on the left hang rings from magnets. The cherubim on the right hold compasses at different distances from a rod.</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Flexi</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1645</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4753" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027020</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Grandami, Jacques, 1588-1672</text>
+      </Creator>
+      <Title>
+        <text>Nova demonstratio immobilitatis terrae petita ex virtvte magnetica</text>
+      </Title>
+      <Publisher>
+        <text>G. Griveav</text>
+      </Publisher>
+      <Description>
+        <text>Cherubim experimenting with magnetic globes. </text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Flexi</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1645</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4752" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027019</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Dariot, Claude, 1533-1594</text>
+      </Creator>
+      <Title>
+        <text>A Briefe and most easie Introduction to the Astrologicall Judgement of the Starres</text>
+      </Title>
+      <Publisher>
+        <text>Thomas Purfoot</text>
+      </Publisher>
+      <Description>
+        <text>A blank astrological chart. Each of the twelve triangles corresponds to one of the signs of the zodiac. </text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1598</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4751" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027018</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Dariot, Claude, 1533-1594</text>
+      </Creator>
+      <Title>
+        <text>A Briefe and most easie Introduction to the Astrologicall Judgement of the Starres</text>
+      </Title>
+      <Publisher>
+        <text>Thomas Purfoot</text>
+      </Publisher>
+      <Description>
+        <text>A table illustrating the influence of the planets and the zodiac on maladies in specific parts of the body. The signs of the planets are listed in the first row, and the signs of the zodiac run down the first column. </text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1598</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4750" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027017</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Dariot, Claude, 1533-1594</text>
+      </Creator>
+      <Title>
+        <text>A Briefe and most easie Introduction to the Astrologicall Judgement of the Starres</text>
+      </Title>
+      <Publisher>
+        <text>Thomas Purfoot</text>
+      </Publisher>
+      <Description>
+        <text>First two pages a seven-page table listing "Natures and Complexions," maladies, and advice corresponding to the signs of the zodiac. Entries for Aries, Taurus, and Gemini are visible. </text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1598</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4749" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027016</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Dariot, Claude, 1533-1594</text>
+      </Creator>
+      <Title>
+        <text>A Briefe and most easie Introduction to the Astrologicall Judgement of the Starres</text>
+      </Title>
+      <Publisher>
+        <text>Thomas Purfoot</text>
+      </Publisher>
+      <Description>
+        <text>An anatomy, illustrating blood vessels in the feet, left hand, and right arm. </text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1598</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4748" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027015</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Cataneo, Girolamo, 16th cent.</text>
+      </Creator>
+      <Title>
+        <text>Opera Nuova di Fortificare, Offendere, et Diffendere</text>
+      </Title>
+      <Publisher>
+        <text>Gio: Battista Bozola</text>
+      </Publisher>
+      <Description>
+        <text>Title page of Opera Nuova di Fortificare, Offendere, et Difendere</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Brescia</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1564</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4747" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027014</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Cataneo, Girolamo, 16th cent.</text>
+      </Creator>
+      <Title>
+        <text>Opera Nuova di Fortificare, Offendere, et Diffendere</text>
+      </Title>
+      <Publisher>
+        <text>Gio: Battista Bozola</text>
+      </Publisher>
+      <Description>
+        <text>Another illustration of soldiers performing drills outside of a fortification</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Brescia</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1564</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4746" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027013</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Cataneo, Girolamo, 16th cent.</text>
+      </Creator>
+      <Title>
+        <text>Opera Nuova di Fortificare, Offendere, et Diffendere</text>
+      </Title>
+      <Publisher>
+        <text>Gio: Battista Bozola</text>
+      </Publisher>
+      <Description>
+        <text>An illustration of soldiers performing drills outside of a fortification</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Brescia</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1564</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4745" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027012</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Cataneo, Girolamo, 16th cent.</text>
+      </Creator>
+      <Title>
+        <text>Opera Nuova di Fortificare, Offendere, et Diffendere</text>
+      </Title>
+      <Publisher>
+        <text>Gio: Battista Bozola</text>
+      </Publisher>
+      <Description>
+        <text>An illustration of a fortification and soldiers</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Brescia</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1564</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4744" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027011</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Brahe, Tycho, 1546-1601</text>
+      </Creator>
+      <Title>
+        <text>Astronomiae Instauratae Progymnasmata</text>
+      </Title>
+      <Publisher>
+        <text>Godfrey Tampach</text>
+      </Publisher>
+      <Description>
+        <text>An illustration of Cassiopeia in reverse or as seen from without the celestial sphere. The super nova of 1572 (SN 1572) is depicted along the back of the throne. </text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Prague</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1610</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4743" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027010</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Brahe, Tycho, 1546-1601</text>
+      </Creator>
+      <Title>
+        <text>Astronomiae Instauratae Progymnasmata</text>
+      </Title>
+      <Publisher>
+        <text>Godfrey Tampach</text>
+      </Publisher>
+      <Description>
+        <text>The first page of a table detailing the positions of 777 stars. </text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Prague</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1610</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4742" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027009</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Blundeville, Thomas, 1522-1606</text>
+      </Creator>
+      <Title>
+        <text>Mr. Blundevil his Exercises</text>
+      </Title>
+      <Publisher>
+        <text>Benjamin Allen</text>
+      </Publisher>
+      <Description>
+        <text>Title page of the 7th edition of Mr. Blundevil His Exercises</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1636</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4741" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027008</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Blundeville, Thomas, 1522-1606</text>
+      </Creator>
+      <Title>
+        <text>Mr. Blundevil his Exercises</text>
+      </Title>
+      <Publisher>
+        <text>Benjamin Allen</text>
+      </Publisher>
+      <Description>
+        <text>Title page of Blundeville's treatise on Cosmography</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1636</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4740" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027007</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Blundeville, Thomas, 1522-1606 </text>
+      </Creator>
+      <Title>
+        <text>Mr. Blundevil his Exercises</text>
+      </Title>
+      <Publisher>
+        <text>Benjamin Allen</text>
+      </Publisher>
+      <Description>
+        <text>An advertisement for Robert Hartwell's teaching services.</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1636</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4739" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027006</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Blundeville, Thomas, 1522-1606</text>
+      </Creator>
+      <Title>
+        <text>Mr. Blundevil his Exercises</text>
+      </Title>
+      <Publisher>
+        <text>Benjamin Allen</text>
+      </Publisher>
+      <Description>
+        <text>An illustration of a mariner's quadrant, a device used to determine one's latitude at sea</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1636</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4738" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027005</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Blundeville, Thomas, 1522-1606</text>
+      </Creator>
+      <Title>
+        <text>Mr. Blundevil his Exercises</text>
+      </Title>
+      <Publisher>
+        <text>Benjamin Allen</text>
+      </Publisher>
+      <Description>
+        <text>A depiction of "an instrument which will shew at any houre of the night, how much the Loadstar is either above or beneath the Pole." This illustration is particularly interesting because a former owner made the instrument by stitching a paper disc and a paper needle to the page.</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1636</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4737" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027004</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Agricola, Georgius, 1494-1555</text>
+      </Creator>
+      <Title>
+        <text>De Re Metallica</text>
+      </Title>
+      <Publisher>
+        <text>Ludovici Regis</text>
+      </Publisher>
+      <Description>
+        <text>An illustration of two mine shafts. The man on the hill uses plumb lines and triangulation to determine subterranean distances. </text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Basle</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1621</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4736" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027003</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Agricola, Georgius, 1494-1555</text>
+      </Creator>
+      <Title>
+        <text>De Re Metallica</text>
+      </Title>
+      <Publisher>
+        <text>Ludovici Regis</text>
+      </Publisher>
+      <Description>
+        <text>An illustration of a mine ventilation system. The vane (H) orients the wooden vessel (A) so that the vent (C) faces the wind. The wind forces fresh air through a pipe (D) and into the mine. </text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Basle</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1621</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4735" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027002</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Agricola, Georgius, 1494-1555</text>
+      </Creator>
+      <Title>
+        <text>De Re Metallica</text>
+      </Title>
+      <Publisher>
+        <text>Ludovici Regis</text>
+      </Publisher>
+      <Description>
+        <text>A cross-sectional illustration of a mine. A turbine powers three subterranean piston pumps in succession to drain a flooded mine shaft.  </text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Basle</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1621</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="4734" public="1" featured="0">
+    <OmekaCollection>Political Ecologies in the Renaissance&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=politic_eco_110027001</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Agricola, Georgius, 1494-1555</text>
+      </Creator>
+      <Title>
+        <text>De Re Metallica</text>
+      </Title>
+      <Publisher>
+        <text>Ludovici Regis</text>
+      </Publisher>
+      <Description>
+        <text>A cross-sectional illustration of a mine. Gears and drive-shafts harness horse power to operate an underground ore lift. </text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Basle</text>
+      </PublicationPlace>
+      <KeyDate>
+        <text>1621</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>Reformatted Digital</text>
+      </DigitalOrigin>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+  </item>
+</itemContainer>
+
