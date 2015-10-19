@@ -1,0 +1,1811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--The name of each XML element representing an Omeka element or element set is
+based on the name of the element or element set in Omeka. For example:
+     The "Dublin Core" element set is represented by the DublinCore XML element
+     The "Form Genre" element in MODS is represented by the FormGenre XML element
+
+The following XML elements are based on internal Omeka data:
+     The OriginalFileLoadedIntoOmeka XML element contains the name/path of
+     of the file(s) loaded into Omeka for the given item.
+     The OmekaCollection XML element contains the name of the Omeka collection
+     containing the item, if the item belongs to an Omeka collection. Please note
+     that this element is different from the Collection element in MODS, which is
+     curator-populated.
+-->
+<itemContainer>
+  <item itemId="7674" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>don3.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/gutenberg/donatus</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Ars Minor, folio 12, lines 4-28 (fragment)</text>
+      </Title>
+      <Creator>
+        <text>Donatus, Aelius</text>
+      </Creator>
+      <Publisher>
+        <text>Gutenberg, Johann, 1397?-1468 </text>
+      </Publisher>
+      <Date>
+        <text>circa 1450</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id:1638364</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1450 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Mainz</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <ShelfLocation>
+        <text>Goff D316</text>
+      </ShelfLocation>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Gift of George A. Plimpton </text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7624" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Atf8.GIF</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/atf/history</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Typographic Library and Museum of the American Type Founders Company Bookplate</text>
+      </Title>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Creator>
+        <text>American Type Founders Company</text>
+      </Creator>
+      <Date>
+        <text>Between 1903 and 1933</text>
+      </Date>
+      <Description>
+        <text>American Type Founders Company Bookplate</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1903 1933</text>
+      </KeyDate>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <Collection>
+        <text>Typographic Library records</text>
+      </Collection>
+      <Notes>
+        <text>Dates inferred from founding date of 1903 on item and date of bankruptcy (1933) of the American Type Founders Company</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="7623" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>RB000019.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/geometry/pacioli</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Divina Proportione, unnumbered page</text>
+      </Title>
+      <Language>
+        <text>Italian</text>
+      </Language>
+      <Description>
+        <text>Page for the letter 'A' in an appendix to the book which shows each of the capital roman letters is broken down into its component parts.</text>
+      </Description>
+      <Creator>
+        <text>Pacioli, Luca, approximately 1445-1517</text>
+      </Creator>
+      <Publisher>
+        <text>A. Paganius Paganinus</text>
+      </Publisher>
+      <Date>
+        <text>1509</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id:469902</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1509</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Venetiis</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1509</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>BOOKART Z232.P14 1509 P11</text>
+      </ShelfLocation>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>American Type Founders Company Library</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7622" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>RB000020.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/geometry/tory</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Champ Fleury, Segond Livre, Feuil XXI recto</text>
+      </Title>
+      <Language>
+        <text>French</text>
+      </Language>
+      <Creator>
+        <text>Tory, Geoffroy, approximately 1480-approximately 1533 </text>
+      </Creator>
+      <Date>
+        <text>1529</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1529</text>
+      </KeyDate>
+      <PublicationDate>
+        <text>1529</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>American Type Founders Company Library</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7621" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>RB000005.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/geometry/durer</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Underweysung der Messung, unnumbered page</text>
+      </Title>
+      <Language>
+        <text>German</text>
+      </Language>
+      <Creator>
+        <text>Dürer, Albrecht, 1471-1528</text>
+      </Creator>
+      <Date>
+        <text>1525</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id:1952849</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1525</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Gedruckt zů Nüremberg</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1525</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>BOOKART NC251 .D93 1525 D93</text>
+      </ShelfLocation>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text> American Type Founders Company Library</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7620" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>pacioli2.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/geometry/types</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Divina Proportione, unnumbered page detail</text>
+      </Title>
+      <Language>
+        <text>Italian</text>
+      </Language>
+      <Subject>
+        <text>Page for the letter 'A' in an appendix to the book which shows each of the capital roman letters is broken down into its component parts.</text>
+      </Subject>
+      <Creator>
+        <text>Pacioli, Luca, approximately 1445-1517</text>
+      </Creator>
+      <Publisher>
+        <text>A. Paganius Paganinus</text>
+      </Publisher>
+      <Date>
+        <text>1509</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id:469902</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1509</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Venetiis</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1509</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>BOOKART Z232.P14 1509 P11</text>
+      </ShelfLocation>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text> American Type Founders Company Library</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7619" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>tory.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/geometry/types</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Champ Fleury, Segond Livre, Feuil XX verso detail</text>
+      </Title>
+      <Language>
+        <text>French</text>
+      </Language>
+      <Creator>
+        <text>Tory, Geoffroy, approximately 1480-approximately 1533 </text>
+      </Creator>
+      <Date>
+        <text>1529</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1529</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>1529</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text> American Type Founders Company Library</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7618" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>durer.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/geometry/types</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Underweysung der Messung, unnumbered page detail</text>
+      </Title>
+      <Language>
+        <text>German</text>
+      </Language>
+      <Creator>
+        <text>Dürer, Albrecht, 1471-1528</text>
+      </Creator>
+      <Date>
+        <text>1525</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id:1952849</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1525</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Gedruckt zů Nüremberg</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1525</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>BOOKART NC251 .D93 1525 D93</text>
+      </ShelfLocation>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text> American Type Founders Company Library</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7617" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>avemaria.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/roman/hail_mary</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Type Specimen Sheet, Hail Mary detail</text>
+      </Title>
+      <Language>
+        <text>Italian</text>
+      </Language>
+      <Creator>
+        <text>Arrighi, Ludovico degli</text>
+      </Creator>
+      <Publisher>
+        <text>Tolomeo Janiculo</text>
+      </Publisher>
+      <Date>
+        <text>1529</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id:452931</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1529</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Vicenza</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1529</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>BOOKART Z232.J25 1529 L96</text>
+      </ShelfLocation>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text> American Type Founders Company Library</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7616" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>opadre.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/roman/lords_prayer</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Type Specimen Sheet, Lord's Prayer detail</text>
+      </Title>
+      <Language>
+        <text>Italian</text>
+      </Language>
+      <Creator>
+        <text>Arrighi, Ludovico degli</text>
+      </Creator>
+      <Publisher>
+        <text>Tolomeo Janiculo</text>
+      </Publisher>
+      <Date>
+        <text>1529</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id:452931</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1529</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Vicenza</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1529</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>BOOKART Z232.J25 1529 L96</text>
+      </ShelfLocation>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text> American Type Founders Company Library</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7615" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>cax-sm.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/roman/textura_rotunda</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Book of fayttes of armes and of Chyualrye, unnumbered page detail</text>
+      </Title>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Publisher>
+        <text>William Caxton</text>
+      </Publisher>
+      <Date>
+        <text>14 July 1489</text>
+      </Date>
+      <Creator>
+        <text>Christine, de Pisan, approximately 1364-approximately 1431</text>
+        <text>Caxton, William, approximately 1422-1491 or 1492</text>
+      </Creator>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1489-07-14 </text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Westminster</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1489-07-14</text>
+      </PublicationDate>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Bequest of Stephen Whitney Phoenix</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7614" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>rot-sm.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/roman/textura_rotunda</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Unknown Text, unknown page detail</text>
+      </Title>
+      <Language>
+        <text>Latin</text>
+      </Language>
+      <Subject>
+        <text>Detail shows an example of the Rotunda hand</text>
+      </Subject>
+      <Date>
+        <text>Probably 12th to 15th Century</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1100 1499</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <Notes>
+        <text>Date inferred from the broadest usage time-frame of the Rotunda hand.</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="7613" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>bat-sm.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/roman/textura_rotunda</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Unknown Text, unknown page detail</text>
+      </Title>
+      <Language>
+        <text>French</text>
+      </Language>
+      <Description>
+        <text>Detail shows an example of the Burgundian bâtarde hand</text>
+      </Description>
+      <Date>
+        <text>Probably between 11th Century and 16 Century</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1000 1599</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <Notes>
+        <text>Date inferred from the broadest usage time-frame of the lettre bâtarde or lettre bourguignonne hand.</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="7612" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>goth-sm.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/roman/textura_rotunda</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Unknown Text, unknown page detail</text>
+      </Title>
+      <Language>
+        <text>Latin</text>
+      </Language>
+      <Subject>
+        <text>Detail shows an example of the Textura or Gothic hand</text>
+      </Subject>
+      <Date>
+        <text>Probably between 11th Century and 16 Century</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1000 1599</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <Notes>
+        <text>Date inferred from the broadest usage time-frame of the Gothic or Textura hand.</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="7611" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>batvcax.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/roman/batarde</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Bâtarde Handwriting and Roman Typeface Examples Composite Image</text>
+      </Title>
+      <Language>
+        <text>English</text>
+        <text>French</text>
+      </Language>
+      <Description>
+        <text>Burgundian bâtarde handwriting is on the left, Caxton's roman type is on the right</text>
+      </Description>
+      <Date>
+        <text>Probably between 11th Century and 16 Century for the document containing the Bâtarde handwriting</text>
+        <text>14 July 1489 for the text printed by Caxton</text>
+      </Date>
+      <Creator>
+        <text>Caxton, William, approximately 1422-1491 or 1492 </text>
+        <text>Christine, de Pisan, approximately 1364-approximately 1431</text>
+      </Creator>
+      <Source>
+        <text>Book of fayttes of armes and of Chyualrye / Christine, de Pisan, translated and printed by William Caxton</text>
+      </Source>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>inferred</text>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1000 1599</text>
+        <text>1489-07-14</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <Notes>
+        <text>Date inferred for the bâtarde hand sample from the broadest usage time-frame of the lettre bâtarde or lettre bourguignonne hand.</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="7609" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>RB000007.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/roman/arrighi</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Type Specimen Sheet</text>
+      </Title>
+      <Language>
+        <text>Italian</text>
+      </Language>
+      <Creator>
+        <text>Arrighi, Ludovico degli</text>
+      </Creator>
+      <Publisher>
+        <text>Tolomeo Janiculo</text>
+      </Publisher>
+      <Date>
+        <text>1529</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id:452931</text>
+      </Identifier>
+      <Description>
+        <text>Type Specimen Sheet. A rare specimen sheet showing type based on Arrighi's italic hand.</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1529</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Vicenza</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1529</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>BOOKART Z232.J25 1529 L96</text>
+      </ShelfLocation>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text> American Type Founders Company Library</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7608" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>RB000018.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/roman/catherine</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Epistole CCCLXVIII, unnumbered page</text>
+      </Title>
+      <Language>
+        <text>Latin</text>
+      </Language>
+      <Subject>
+        <text>Catherine, of Siena, Saint, 1347-1380</text>
+      </Subject>
+      <Creator>
+        <text>Catherine, of Siena, Saint, 1347-1380</text>
+      </Creator>
+      <Publisher>
+        <text>Aldus Manutius</text>
+      </Publisher>
+      <Date>
+        <text>1500</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1500</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Venice</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1500</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text> American Type Founders Company Library</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7607" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>RB000016.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/roman/eusebius</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>De evangelica praeparatione, unnumbered page</text>
+      </Title>
+      <Language>
+        <text>Latin</text>
+      </Language>
+      <Creator>
+        <text>Eusebius, of Caesarea, Bishop of Caesarea, approximately 260-approximately 340 </text>
+      </Creator>
+      <Publisher>
+        <text>Nicolaus Jenson</text>
+      </Publisher>
+      <Date>
+        <text>1470</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id:1079991</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1470</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Venice</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1470</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Goff E118</text>
+      </ShelfLocation>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text> American Type Founders Company Library</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7606" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>RB000017.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/roman/de_pisan</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Book of fayttes of armes and of Chyualrye, unnumbered page&#13;
+&#13;
+</text>
+      </Title>
+      <Creator>
+        <text>Christine, de Pisan, approximately 1364-approximately 1431</text>
+        <text>Caxton, William, approximately 1422-1491 or 1492</text>
+      </Creator>
+      <Publisher>
+        <text>William Caxton</text>
+      </Publisher>
+      <Date>
+        <text>14 July 1489</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1489-07-14 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Westminster</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <PublicationDate>
+        <text>1489-07-14</text>
+      </PublicationDate>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Bequest of Stephen Whitney Phoenix</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7605" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>RB000006.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/roman/canon_missae</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Canon Missae, unnumbered page</text>
+      </Title>
+      <Publisher>
+        <text>Johann Fust and Peter Schöffer</text>
+      </Publisher>
+      <Date>
+        <text>1458</text>
+      </Date>
+      <Language>
+        <text>Latin</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1458 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Mainz</text>
+      </PublicationPlace>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <PublicationDate>
+        <text>1458</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Purchased with the American Type Founders Company Library &amp; Museum, 1941</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7603" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>eusebius2.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/roman/type</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>De evangelica praeparatione, unnumbered page detail</text>
+      </Title>
+      <Language>
+        <text>Latin</text>
+      </Language>
+      <Description>
+        <text>The first type to be consciously designed according to typographical ideals.</text>
+      </Description>
+      <Creator>
+        <text>Eusebius, of Caesarea, Bishop of Caesarea, approximately 260-approximately 340 </text>
+      </Creator>
+      <Publisher>
+        <text>Nicolaus Jenson</text>
+      </Publisher>
+      <Date>
+        <text>1470</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id:1079991</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1470</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Venice</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1470</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Goff E118</text>
+      </ShelfLocation>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>American Type Founders Company Library</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7602" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>homer10.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/roman/type</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Homērou Ilias, volume 1, unknown page detail</text>
+      </Title>
+      <Language>
+        <text>Ancient Greek</text>
+      </Language>
+      <Description>
+        <text>A page from the Works of Homer.</text>
+      </Description>
+      <Creator>
+        <text>Homer</text>
+      </Creator>
+      <Publisher>
+        <text>In aedibus Aldi, et Andreae Asulani soceri</text>
+      </Publisher>
+      <Date>
+        <text>1517</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id:7820626</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1517</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Venetiis</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1517</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>PLIMPTON 880 1517 H37</text>
+      </ShelfLocation>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Gift of George A. Plimpton</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7601" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>arrighi2.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/roman/type</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Type Specimen Sheet, detail</text>
+      </Title>
+      <Language>
+        <text>Italian</text>
+      </Language>
+      <Description>
+        <text>Type Specimen Sheet. A rare specimen sheet showing type based on Arrighi's italic hand.</text>
+      </Description>
+      <Creator>
+        <text>Arrighi, Ludovico degli</text>
+      </Creator>
+      <Publisher>
+        <text>Tolomeo Janiculo</text>
+      </Publisher>
+      <Date>
+        <text>1529</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id:452931</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1529</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Vicenza</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1529</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>BOOKART Z232.J25 1529 L96</text>
+      </ShelfLocation>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text> American Type Founders Company Library</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7600" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>catherine1.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/roman/type</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Epistole CCCLXVIII, unnumbered page detail</text>
+      </Title>
+      <Language>
+        <text>Latin</text>
+      </Language>
+      <Subject>
+        <text>Catherine, of Siena, Saint, 1347-1380</text>
+      </Subject>
+      <Description>
+        <text>The first appearance of a printed italic letter form occurs in this book.</text>
+      </Description>
+      <Creator>
+        <text>Catherine, of Siena, Saint, 1347-1380</text>
+      </Creator>
+      <Publisher>
+        <text>Aldus Manutius</text>
+      </Publisher>
+      <Date>
+        <text>1500</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1500</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Venice</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1500</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text> American Type Founders Company Library</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7599" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>caxton.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/roman/type</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Book of fayttes of armes and of Chyualrye, unnumbered page detail</text>
+      </Title>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Creator>
+        <text>Christine, de Pisan, approximately 1364-approximately 1431</text>
+        <text>Caxton, William, approximately 1422-1491 or 1492</text>
+      </Creator>
+      <Publisher>
+        <text>William Caxton</text>
+      </Publisher>
+      <Date>
+        <text>14 July 1489</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1489-07-14</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Westminster</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1489-07-14</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Bequest of Stephen Whitney Phoenix</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7598" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>canon1.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/roman/type</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Canon Missae, unnumbered page detail</text>
+      </Title>
+      <Publisher>
+        <text>Johann Fust and Peter Schöffer</text>
+      </Publisher>
+      <Date>
+        <text>1458</text>
+      </Date>
+      <Language>
+        <text>Latin</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1458 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Mainz</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <PublicationDate>
+        <text>1458</text>
+      </PublicationDate>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Purchased with the American Type Founders Company Library &amp; Museum, 1941&#13;
+</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7597" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>gothgut2.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/gutenberg/textura</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Textura Handwriting and Gutenberg Typeface Examples Composite Image</text>
+      </Title>
+      <Description>
+        <text>Type face examples: Textura (or Gothic) handwriting detail on the left, Gutenberg's Bible detail on the right.</text>
+      </Description>
+      <Language>
+        <text>Latin</text>
+      </Language>
+      <Creator>
+        <text>Gutenberg, Johann, 1397?-1468</text>
+        <text>Schöffer, Peter, approximately 1425-approximately 1502 </text>
+      </Creator>
+      <Source>
+        <text>Biblia Latina, 42 lines. Ruth 1.1-4.22, detail (circa 1454-1455) / Gutenberg, Johann, 1397?-1468 ; Schöffer, Peter, approximately 1425-approximately 1502 </text>
+        <text>Unknown Text, unknown page detail (probably 11th-16th Century) / unknown creator</text>
+      </Source>
+      <Date>
+        <text>Probably between 11th Century and 16 Century for the Gothic or Textura sample</text>
+        <text>circa 1454-1455 for the Gutenberg Bible</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>inferred</text>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1000 1599</text>
+        <text>1454 1455</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <Notes>
+        <text>Date for the unknown manuscript was inferred from the broadest usage time-frame of the Gothic or Textura hand.</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="7595" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>RB000012.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/gutenberg/biblia_latina</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Biblia Latina, 42 lines, Ruth 1.1-4.22 fragment, unnumbered page</text>
+      </Title>
+      <Creator>
+        <text>Gutenberg, Johann, 1397?-1468&#13;
+</text>
+        <text> Schöffer, Peter, approximately 1425-approximately 1502 </text>
+      </Creator>
+      <Publisher>
+        <text>Printer of the 42-line Bible</text>
+      </Publisher>
+      <Date>
+        <text>circa 1454-1455</text>
+      </Date>
+      <Language>
+        <text>Latin</text>
+      </Language>
+      <Description>
+        <text>Translation of title: Bible. Latin. Vulgate. 1454</text>
+      </Description>
+      <Identifier>
+        <text>CLIO id:1623893</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1454 1455</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Mainz</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <PublicationDate>
+        <text>1454 1455</text>
+      </PublicationDate>
+      <ShelfLocation>
+        <text>Goff B526</text>
+      </ShelfLocation>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text> Mary Flagler Cary Charitable Trust </text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7594" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>ruth1.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/gutenberg/type</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Biblia Latina, 42 lines, Ruth 1.1-4.22 fragment, unnumbered page detail&#13;
+</text>
+      </Title>
+      <Creator>
+        <text>Gutenberg, Johann, 1397?-1468</text>
+        <text> Schöffer, Peter, approximately 1425-approximately 1502 </text>
+      </Creator>
+      <Publisher>
+        <text>Printer of the 42-line Bible</text>
+      </Publisher>
+      <Date>
+        <text>circa 1454-1455</text>
+      </Date>
+      <Language>
+        <text>Latin</text>
+      </Language>
+      <Description>
+        <text>Translation of title: Bible. Latin. Vulgate. 1454</text>
+      </Description>
+      <Identifier>
+        <text>CLIO id:1623893</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1454 1455</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Mainz</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <PublicationDate>
+        <text>1454 1455</text>
+      </PublicationDate>
+      <ShelfLocation>
+        <text>Goff B526</text>
+      </ShelfLocation>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text> Mary Flagler Cary Charitable Trust </text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7593" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>don1.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/gutenberg/type</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Ars Minor, folio 12, lines 4-28 (fragment), detail</text>
+      </Title>
+      <Creator>
+        <text>Donatus, Aelius</text>
+      </Creator>
+      <Publisher>
+        <text>Gutenberg, Johann, 1397?-1468 </text>
+      </Publisher>
+      <Date>
+        <text>circa 1450</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id:1638364</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1450 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Mainz</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <PublicationDate>
+        <text>1450</text>
+      </PublicationDate>
+      <ShelfLocation>
+        <text>Goff D316</text>
+      </ShelfLocation>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Gift of George A. Plimpton </text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7592" public="1" featured="0">
+    <OmekaCollection>Type to Print: The Book &amp; The Type Specimen Book</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>lec2.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/type_to_print/lecture/humanism</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Geometry of Humanism: Albrecht Dürer and the Roman Capital Letter Form</text>
+      </Title>
+      <Description>
+        <text>Announcement of a lecture by David Pankow at Butler Library, Columbia University</text>
+      </Description>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Pankow, David</text>
+      </Subject>
+      <Date>
+        <text>Tuesday at 6:00 pm, January 23, 2001</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2001-01-23</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+</itemContainer>
+
+
