@@ -1,0 +1,1805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--The name of each XML element representing an Omeka element or element set is
+based on the name of the element or element set in Omeka. For example:
+     The "Dublin Core" element set is represented by the DublinCore XML element
+     The "Form Genre" element in MODS is represented by the FormGenre XML element
+
+The following XML elements are based on internal Omeka data:
+     The OriginalFileLoadedIntoOmeka XML element contains the name/path of
+     of the file(s) loaded into Omeka for the given item.
+     The OmekaCollection XML element contains the name of the Omeka collection
+     containing the item, if the item belongs to an Omeka collection. Please note
+     that this element is different from the Collection element in MODS, which is
+     curator-populated.
+-->
+<itemContainer>
+  <item itemId="9315" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawings</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00047.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Ceiling, with wall molding]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00047</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor and graphite on paper ; 39.7 x 56.4 cm. (15 5/8 x 22 1/4 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Drawings &amp; Archives</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9314" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00046.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Design of birds, vines, and bird's nest] : [ornament drawing]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00046</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : ink on paper ; 25.5 x 21.7 cm. (10 1/8 x 8 1/2 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9313" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00045.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Wall decoration, possibly design for wallpaper]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00045</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : gouache on paper ; 27.7 x 30.2 cm. (10 7/8 x 11 7/8 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9312" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00044.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Design for three-arched wall behind altar(?)]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00044</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor with graphite on paper ; 41.0 x 52.5 cm. (16 1/8 x 20 5/8 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9311" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00043.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Three-panelled wall designs]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00043</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor and graphite on paper ; 30.5 x 53.0 cm. (12 x 20 7/8 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9310" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00042.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Ceiling design with corner medallions]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00042</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor and graphite on paper ; ca. 53.5 x 41.0 cm. (21 1/8 x 16 1/4 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9309" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00041.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Ceiling design]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00041</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor and graphite on paper ; 26.5 x 50.3 cm. (10 3/8 x 19 3/4 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9308" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00040.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Two-panel ceiling design]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00040</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor and graphite on paper ; 20.1 x 46.5 cm. (7 7/8 x 18 3/8 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9307" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00039.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Ceiling design, with medallions]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00039</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor and graphite on paper ; ca. 19.8 x 30.7 cm. (ca. 7 3/4 x 12 1/8 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9306" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00038.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Ceiling design]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00038</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor and graphite on paper ; 28.2 x 38.0 cm. (11 1/8 x 15 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9305" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00037.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Ceiling design] </text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00037</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor and graphite on paper ; 29.0 x 33.5 cm. (11 3/8 x 13 1/4 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9304" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00036.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Ceiling, with four oval medallions in corners]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00036</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor with ink on paper ; 23.7 x 37.4 cm. (9 3/8 x 14 3/4 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9303" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00035.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Oblong ceiling with side panel]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00035</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor with graphite on paper ; 20.5 x 47.0 cm. (8 1/8 x 18 1/2 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9302" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00034.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Three-panelled ceiling and wall]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00034</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor and graphite on paper ; 39.7 x 52.0 cm. (15 5/8 x 20 1/2 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9301" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00033.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Three-panelled decorated wall with one-half ceiling design]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00033</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor with ink on paper ; 50.8 x 37.7 cm. (20 x 14 7/8 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9300" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00032.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Ceiling design, and wall with two hanging portraits] </text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00032.</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor and graphite on paper ; 34.3 x 27.2 cm. (13 1/2 x 10 3/4 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9299" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00031.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Ceiling design, with molding and top of wall showing wallpaper design]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00031</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor with graphite ; 31.0 x 44.7 cm. (12 1/4 x 17 5/8 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9298" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00030.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Ceiling, with panelled wall]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00030</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor and graphite on paper ; 46.5 x 36.7 cm. (18 1/4 x 14 1/2 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9297" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00029.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Ceiling, with panelled wall]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00029</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor and graphite on paper ; 44.0 x 31.0 cm. (17 3/8 x 12 1/4 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9296" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00028.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Ceiling, with three panelled wall]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00028</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor and graphite on paper ; 54.0 x ca. 39.6 cm. (21 1/4 x ca. 15 5/8 in.)</text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9295" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00027.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Design of ceiling, with wall]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00027</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor and graphite on paper ; 30.7 x 48.7 cm. (12 1/8 x 19 1/4 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9294" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00026.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Ceiling design, with wall]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00026</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor and graphite on paper ; 45.7 x 29.8 cm. (18 x 11 3/4 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9293" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00025.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Ceiling design, with wall] </text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00025</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor and graphite on paper ; 37.6 x 30.7 cm. (14 7/8 x 12 1/8 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9292" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00024.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Ceiling design, with beginning of molding]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00024</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor and graphite on paper ; 26.7 x 40.1 cm. (10 1/2 x 15 3/4 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9291" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00023.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Ceiling design, with part of molding]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00023</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor and graphite on paper ; 30.3 x 31.6 cm. (11 7/8 x 12 1/2 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9290" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00022.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Ceiling design, with part of molding]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00022</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor with graphite on paper ; 24.4 x 32.0 cm. (9 5/8 x 12 5/8 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9289" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00021.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Ceiling with portrait medallions in corner, and part of molding]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00021</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor, with some graphite, on paper ; 29.8 x 32.9 cm. (11 3/4 x 12 7/8 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9288" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00020.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Ceiling and interior wall in elevation]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00020</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor with graphite on paper ; 48.6 x 37.3 cm. (19 1/8 x 14 5/8 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9287" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00019.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Two ceiling designs] </text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00019</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor with graphite on paper ; 39.3 x 47.0 cm. (15 1/2 x 18 1/2 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9286" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00018.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Ceiling, 3/4 delineated]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00018</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor and graphite on paper ; 32.4 x 37.3 cm. (12 7/8 x 14 6/8 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9285" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00017.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Elevation of wall and ceiling]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00017</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : graphite on paper ; 50.2 x 36.1 cm. (19 3/4 x 14 1/4 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9284" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00016.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Panel, for wall(?)]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00016</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor with graphite on paper ; 39.4 x 33.9 cm. (15 1/2 x 13 3/8 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9283" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00015.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Wall elevation and ceiling]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00015</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor with graphite on paper ; 48.4 x 37.1 cm. (19 1/8 x 14 5/8 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9282" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00014.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Wall elevation with two corners and niche with sculpture]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00014</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor with graphite and ink on paper ; 37.5 x 48.0 cm. (14 3/4 x 18 7/8 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9281" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00013.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Ceiling, with wall elevation and doorway]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00013</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor with graphite on paper ; 41.1 x 37.0 cm. (16 1/4 x 14 5/8 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9280" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00012.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Ceiling and wall elevation]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00012</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor with graphite and gold [paint?] on paper ; 46.6 x 36.2 cm. (18 3/8 x 14 1/4 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9279" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00011.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Ceiling, half delineated]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00011</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor with graphite, and ink on paper ; 21.5 x 22.8 (8 1/2 x 9 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>[after 1873]</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9278" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00010.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>[Two ceiling designs] </text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00010</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor with graphite on paper ; 38.3 x 55.7 cm. (15 1/8 x 22 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>[after 1859]</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9277" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00009.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>...enheim in Dresden in Germany; ceiling executed in bronze : [ceiling and wall elevation]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00009</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor and ink on paper ; ca. 55.6 x 39.7 cm. (ca. 21 7/8 x 15 5/8 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>[after 1859]</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp;amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9276" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00008.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Reception room [graphic] : [wall elevation] </text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00008</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor with graphite on paper ; 36.6 x 25.5 cm. (14 x 10 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>[after 1857]</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9275" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00007.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Parlor : [ceiling and molding] </text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00007</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor and graphite on paper ; 31.0 x 37.6 cm. (12 1/4 x 14 7/8 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>[after 1857]</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9274" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00006.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Mr. Young, Union Place[?] - front and back parlors : [two ceiling designs]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00006</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor with graphite on paper ; 17.8 x 30.3 cm. (7 x 11 7/8 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>[after 1855]</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9273" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00005.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Mr. Lovett, Union Square, [New York, N.Y.] : [ceiling]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00005</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : watercolor with graphite on paper ; 41.0 x 32.2 cm. (16 1/8 x 12 5/8 in.) </text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>[after 1855]</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Archives &amp; Drawings</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9272" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00004.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Metropolitan Hotel - Lady's parlor : [half ceiling and wall elevation]</text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873.</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00004 </text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : ink and watercolor on paper ; 38.9 x 30 cm. (15 3/8 x 7/8 in.)</text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>[after 1852]</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Drawings &amp; Archives</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9270" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00003.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Bar room Metropolitan Hotel : [ceiling] </text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873. </text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00003</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : graphite and watercolor wash ; 31.5 x 47.0 cm. (12 3/8 x 18 1/2 in.)</text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>[after 1852]</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Drawings &amp; Archives</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9268" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Library ceiling </text>
+      </Title>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873. </text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00002</text>
+      </Identifier>
+      <Description>
+        <text>1 drawing : ink on tracing paper ; 29.3 x 30.0 cm. (11 1/2 x 11 7/8 in.)</text>
+      </Description>
+      <Creator>
+        <text>Youngling, Henry</text>
+      </Creator>
+      <Date>
+        <text>undated</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Drawings &amp; Archives</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9267" public="0" featured="0">
+    <OmekaCollection>Henry Youngling architectural drawings, circa 1855-1873</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: architectural drawing</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYDA.1000.005.00001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Dining room : [wall elevation] </text>
+      </Title>
+      <Creator>
+        <text>Youngling, Henry.</text>
+      </Creator>
+      <Source>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Source>
+      <Identifier>
+        <text>NYDA.1000.005.00001</text>
+      </Identifier>
+      <Date>
+        <text>undated</text>
+      </Date>
+      <Description>
+        <text>1 drawing : watercolor wash and graphite on paper ; 24.2 x 30.4 cm. (9 1/2 x 11 7/8 in.)</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Avery Architectural &amp; Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Department of Drawings &amp; Archives</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Henry Youngling architectural drawings, circa 1855-1873</text>
+      </Collection>
+    </MODS>
+  </item>
+</itemContainer>
