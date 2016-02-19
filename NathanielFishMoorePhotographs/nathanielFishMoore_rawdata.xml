@@ -1,0 +1,2672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--The name of each XML element representing an Omeka element or element set is
+based on the name of the element or element set in Omeka. For example:
+     The "Dublin Core" element set is represented by the DublinCore XML element
+     The "Form Genre" element in MODS is represented by the FormGenre XML element
+
+The following XML elements are based on internal Omeka data:
+     The OriginalFileLoadedIntoOmeka XML element contains the name/path of
+     of the file(s) loaded into Omeka for the given item.
+     The OmekaCollection XML element contains the name of the Omeka collection
+     containing the item, if the item belongs to an Omeka collection. Please note
+     that this element is different from the Collection element in MODS, which is
+     curator-populated.
+-->
+<itemContainer>
+  <item itemId="9706" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350034.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Columbia College, Forty Park Place New York</text>
+      </Title>
+      <Date>
+        <text>1854-1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+      <Subject>
+        <text>Columbia College (Columbia University)</text>
+      </Subject>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1854 - 1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 28</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9705" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350017.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Pierre Toussaint</text>
+      </Title>
+      <Description>
+        <text>Illustration with short printed biography.</text>
+      </Description>
+      <Date>
+        <text>1965 June 10</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+      <Subject>
+        <text>Toussaint, Pierre, 1766-1853?</text>
+      </Subject>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1965-06-10</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 12</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9704" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350038.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Thomas, Milton Halsey, 1903-1977</text>
+      </Creator>
+      <Title>
+        <text>Letter from Columbiana Curator to Edward P. Chrystie</text>
+      </Title>
+      <Description>
+        <text>Letter about content and origin of photographs</text>
+      </Description>
+      <Date>
+        <text>1945 August 9</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1945-08-09</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 33</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9703" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350040.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Thomas, Milton Halsey, 1903-1977</text>
+      </Creator>
+      <Title>
+        <text>Letter from Edward P. Chrystie to Columbiana Curator. Page 2</text>
+      </Title>
+      <Description>
+        <text>Letter about content and origin of photographs</text>
+      </Description>
+      <Date>
+        <text>1945 August 2</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1945-08-02</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 33</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9702" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350039.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Thomas, Milton Halsey, 1903-1977</text>
+      </Creator>
+      <Title>
+        <text>Letter from Edward P. Chrystie to Columbiana Curator. Page 1</text>
+      </Title>
+      <Description>
+        <text>Letter about content and origin of photographs</text>
+      </Description>
+      <Date>
+        <text>1945 August 2</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1945-08-02</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 33</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9701" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350016.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Thomas, Milton Halsey, 1903-1977</text>
+      </Creator>
+      <Title>
+        <text>Letter from Milton Halsey Thomas  to William Hodges</text>
+      </Title>
+      <Description>
+        <text>Letter of thanks for gift of photograph collection</text>
+      </Description>
+      <Date>
+        <text>1944 October 2 (3)</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1944-10-02</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 12</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9700" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350015.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>McCarthy, Stephen A. (Stephen Anthony), 1908-1990</text>
+      </Creator>
+      <Title>
+        <text>Letter from Stephen McCarthy to William Hodges</text>
+      </Title>
+      <Description>
+        <text>Letter of thanks for gift of photoraph collection</text>
+      </Description>
+      <Date>
+        <text>1944 September 22</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1944-09-22</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 12</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9699" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350014.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Hodges, William</text>
+      </Creator>
+      <Title>
+        <text>Letter from William Hodges to Columbia College Librarian. Typed Copy</text>
+      </Title>
+      <Description>
+        <text>Typed trancription of letter regarding photographs supposedly taken by William Moore, later attributed to Nathaniel Fish Moore.</text>
+      </Description>
+      <Date>
+        <text>1944 August 17</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1944-08-17</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 12</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9698" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350013.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Hodges, William</text>
+      </Creator>
+      <Title>
+        <text>Letter from William Hodges to Columbia College Librarian. Envelope</text>
+      </Title>
+      <Description>
+        <text>Address from package containing photographs supposedly taken by William Moore, later attributed to Nathaniel Fish Moore.</text>
+      </Description>
+      <Date>
+        <text>1944 August 17</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1944-08-17</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 12</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9697" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350012.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Hodges, William</text>
+      </Creator>
+      <Title>
+        <text>Letter from William Hodges to Columbia College Librarian. Page 3</text>
+      </Title>
+      <Description>
+        <text>Letter regarding photographs supposedly taken by William Moore, later attributed to Nathaniel Fish Moore.</text>
+      </Description>
+      <Date>
+        <text>1944 August 17</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1944-08-17</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 12</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9696" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350011.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Hodges, William</text>
+      </Creator>
+      <Title>
+        <text>Letter from William Hodges to Columbia College Librarian. Page 2</text>
+      </Title>
+      <Description>
+        <text>Letter regarding photographs supposedly taken by William Moore, later attributed to Nathaniel Fish Moore.</text>
+      </Description>
+      <Date>
+        <text>1944 August 17</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1944-08-17</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 12</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9695" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350010.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Hodges, William</text>
+      </Creator>
+      <Title>
+        <text>Letter from William Hodges to Columbia College Librarian. Page 1</text>
+      </Title>
+      <Description>
+        <text>Letter regarding photographs supposedly taken by William Moore, later attributed to Nathaniel Fish Moore.</text>
+      </Description>
+      <Date>
+        <text>1944 August 17</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1944-08-17</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 12</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9694" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350041.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Clippings from Columbia Alumni News</text>
+      </Title>
+      <Date>
+        <text>1924 January 25</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+      <Subject>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Subject>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1924-01-25</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 33</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>clippings</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9693" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350018.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Pierre Toussaint: A Catholic Gentleman of Old New York,  1766-1853</text>
+      </Title>
+      <Description>
+        <text>Cover of small brochure about Pierre Toussaint.</text>
+      </Description>
+      <Date>
+        <text>1953</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+      <Subject>
+        <text>Toussaint, Pierre, 1766-1853?</text>
+      </Subject>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1953</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 12</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9692" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350003.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Nathaniel Fish Moore</text>
+      </Title>
+      <Description>
+        <text>Self-photograph; albumen print.</text>
+      </Description>
+      <Date>
+        <text>ca. 1860</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+      <Subject>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Subject>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1860</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 4</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9691" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350054.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Park Place Campus</text>
+      </Title>
+      <Date>
+        <text>1857</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+      <Subject>
+        <text>Columbia College (Columbia University)</text>
+      </Subject>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1857</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 2</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <Notes>
+        <text>salt print</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9690" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350053.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>House</text>
+      </Title>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 42</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <Notes>
+        <text>albumen print</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9689" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350052.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>House (Side View)</text>
+      </Title>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 41</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9688" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350051.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>View of City Housetops</text>
+      </Title>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 40</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9687" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350050.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Landscape with Cottage</text>
+      </Title>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 39</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9686" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350049.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>View from Woodlawn</text>
+      </Title>
+      <Description>
+        <text>with Gold Spring in Distance</text>
+      </Description>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 38</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9685" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350048.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>View from Woodlawn</text>
+      </Title>
+      <Description>
+        <text>with Gold Spring in Distance</text>
+      </Description>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 37</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9684" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350047.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Woodlawn Residence of William Moore</text>
+      </Title>
+      <Description>
+        <text>With note "Place where papa and I spent our honeymoon"</text>
+      </Description>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 36</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9683" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350046.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Laight and Hudson Streets, St. John's Park</text>
+      </Title>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 35</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9682" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350045.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Chapel and St. John's Park from the Hudson</text>
+      </Title>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 34</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9681" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350044.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Chelsea House</text>
+      </Title>
+      <Description>
+        <text>Home of President Moore and Clement Clarke Moore.</text>
+      </Description>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 33</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9680" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350043.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Chelsea House</text>
+      </Title>
+      <Description>
+        <text>Home of President Moore and Clement Clarke Moore.</text>
+      </Description>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 33</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9679" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350042.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Park</text>
+      </Title>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 33</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9678" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350037.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Chelsea House</text>
+      </Title>
+      <Description>
+        <text>Residence of Clement Clarke Moore, Greenwich, NYC</text>
+      </Description>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 32</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9677" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350036.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Chelsea House</text>
+      </Title>
+      <Description>
+        <text>Residence of Clement Clarke Moore, Greenwich, NYC</text>
+      </Description>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 31</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9676" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350035.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>De Rham House at 5th Ave. and 10th St. "Now Standing"</text>
+      </Title>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 30</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9675" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350032.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Four Men and Three Women on Porch</text>
+      </Title>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 26</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9674" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350031.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Two Women Seated on Porch Step with Man Standng</text>
+      </Title>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 25</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9673" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350030.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Two Women, Two Men by Screen</text>
+      </Title>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 24</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <Notes>
+        <text>by screen</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9672" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350029.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Seven People on Porch, Seated</text>
+      </Title>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 23</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9671" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350028.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Two Women and a Man by a Portrait</text>
+      </Title>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 22</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9670" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350027.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Elderly Woman Seated</text>
+      </Title>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 21</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9669" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350026.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Two Seated Woman and Man by Lake</text>
+      </Title>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 20</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9668" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350025.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Seated Man</text>
+      </Title>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 19</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9667" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350024.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Seven People on Porch</text>
+      </Title>
+      <Description>
+        <text>Copied salt print. Verso: [stamped] Columbia University Received 1944 September 14 Columbiana</text>
+      </Description>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 18</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9666" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350023.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Four Seated Women by Tree</text>
+      </Title>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 17</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9665" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350022.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Seated Woman with Child</text>
+      </Title>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 16</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9664" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350021.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Eight People on Porch</text>
+      </Title>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 15</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9663" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350020.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Four People and Baby on Porch</text>
+      </Title>
+      <Description>
+        <text>Glass negative salt print or coated salt print.</text>
+      </Description>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 14</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <Notes>
+        <text>glass negative salt print</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9662" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350019.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Group of Seven People on Porch</text>
+      </Title>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 13</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9661" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350008.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>William Moore</text>
+      </Title>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+      <Subject>
+        <text>Moore, William </text>
+      </Subject>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 10</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9660" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350007.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Clement Clarke Moore and Daughter</text>
+      </Title>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+      <Subject>
+        <text>Moore, Clement Clarke, 1779-1863</text>
+      </Subject>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 8</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9659" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350006.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Nathaniel Fish Moore</text>
+      </Title>
+      <Description>
+        <text>Glossy print</text>
+      </Description>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+      <Subject>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Subject>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 7</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9658" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350005.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Nathaniel F. Moore, LLD Eighth President of Columbia College 1842-1859</text>
+      </Title>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+      <Subject>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Subject>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 6</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9657" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350004.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Nathaniel Fish Moore</text>
+      </Title>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+      <Subject>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Subject>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 5</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9656" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Nathaniel Fish Moore, President of Columbia College</text>
+      </Title>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+      <Subject>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Subject>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 2</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9655" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Nathaniel Fish Moore Seated Reading</text>
+      </Title>
+      <Description>
+        <text>Received 1944 September 14 by Columbiana</text>
+      </Description>
+      <Date>
+        <text>ca. 1855</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+      <Subject>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Subject>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1855</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 1</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9654" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350009.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Pierre Toussaint</text>
+      </Title>
+      <Description>
+        <text>verso: The Moore Family's faithful old servant - a slave.</text>
+      </Description>
+      <Date>
+        <text>ca. 1852</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+      <Subject>
+        <text>Toussaint, Pierre, 1766-1853?</text>
+      </Subject>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1852</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 11</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9653" public="1" featured="0">
+    <OmekaCollection>Nathaniel Fish Moore Photographs</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/nathaniel_fish_moore/1501350033.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Moore, Nathaniel Fish, 1782-1872</text>
+      </Creator>
+      <Title>
+        <text>Columbia College, Forty Park Place New York</text>
+      </Title>
+      <Date>
+        <text>1845</text>
+      </Date>
+      <Identifier>
+        <text>CLIO_4080189</text>
+      </Identifier>
+      <Subject>
+        <text>Columbia College (Columbia University)</text>
+      </Subject>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1845</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nathaniel Fish Moore Photographs</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Folder 27</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+</itemContainer>
+
