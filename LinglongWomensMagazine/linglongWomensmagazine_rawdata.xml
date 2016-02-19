@@ -1,0 +1,1496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--The name of each XML element representing an Omeka element or element set is
+based on the name of the element or element set in Omeka. For example:
+     The "Dublin Core" element set is represented by the DublinCore XML element
+     The "Form Genre" element in MODS is represented by the FormGenre XML element
+
+The following XML elements are based on internal Omeka data:
+     The OriginalFileLoadedIntoOmeka XML element contains the name/path of
+     of the file(s) loaded into Omeka for the given item.
+     The OmekaCollection XML element contains the name of the Omeka collection
+     containing the item, if the item belongs to an Omeka collection. Please note
+     that this element is different from the Collection element in MODS, which is
+     curator-populated.
+-->
+<itemContainer>
+  <item itemId="9385" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1933_issue94_page632.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 3, issue 94 (1933), page 632</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+        <text>Li, Minghui</text>
+      </Subject>
+      <Description>
+        <text>Li Minghui taking photograph.</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1933</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1933</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9383" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1937_issue296_page2241.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 7, issue 296 (1937), page 2241</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+      </Subject>
+      <Description>
+        <text>Zhang Mali on the front cover. </text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1937</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1937</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9382" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1937_issue238_page1280.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 7 (1937), issue 283, page 1280</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+        <text>Harlow, Jean, 1911-1937</text>
+      </Subject>
+      <Description>
+        <text>The American movie start Jean Harlow.</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1937</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1937</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9380" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1936_issue230_page859.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 6 (1936), issue 230, page 859</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+        <text>Temple, Shirley, 1928-2014</text>
+      </Subject>
+      <Description>
+        <text>Shirley Temple</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1936</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1936</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9372" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1937_issue297_page2340.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 7, issue 297 (1937), page 2340</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+      </Subject>
+      <Description>
+        <text>Zhang Manli</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1937</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1937</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9368" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1936_issue237_page1401.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 6 (1936), issue 237, page 1401</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+        <text>Temple, Shirley, 1928-2014</text>
+      </Subject>
+      <Description>
+        <text>Front cover of an issue featuring Shirley Temple.</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1936</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1936</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9367" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1937_issue288_page1680.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 7 (1937), issue 288, page 1680</text>
+      </Title>
+      <Description>
+        <text>The French-born American actress Claudette Colbert. </text>
+      </Description>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+        <text>Colbert, Claudette</text>
+      </Subject>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1937</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1937</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9366" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1932_issue50_page2063.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 2, issue 50 (1932), page 2063</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+      </Subject>
+      <Description>
+        <text>Caption: Spring is the best season for dressing up. If an overcoat is too warm for going out to a park, you'd better take a short one along to put on casually over a qipao </text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1932</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1932</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9365" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1932_issue52_page61.gif</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 2 (1932), issue 52, page 61</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+        <text>Advertising--Toothpaste </text>
+      </Subject>
+      <Description>
+        <text>Advertisement for the German toothpaste Odol.</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1932</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1932</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9364" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1936_issue229_page819.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 6, issue 229 (1936), page 819</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+        <text>Zhang, Wen</text>
+      </Subject>
+      <Description>
+        <text>Miss Zhang Wen behind the camera.</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1936</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1936</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9363" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1936_issue258_page3182.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 6 (1936), issue 258, page. 3182</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+      </Subject>
+      <Description>
+        <text>A student from Jinling Women's University adjusts the knob on a radio.</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1936</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1936</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai </text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9362" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1933_issue81_page35.gif</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 3 (1933), issue 81, page. 35</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+        <text>Advertising, Magazine</text>
+        <text>Greyhound racing</text>
+      </Subject>
+      <Description>
+        <text>Advertisement for the Canidrome, a greyhound race track that opened in Shanghai's French Concession in 1928. The Canidrome was a regular advertiser in Ling long, publishing upcoming events to take place “no matter wind or rain.”</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1933</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1933</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai </text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9361" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1931_issue37_page1437.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 1, issue 37 (1931), page 1437</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+        <text>Advertising--Cameras </text>
+      </Subject>
+      <Description>
+        <text>Advertisement for the Agfa (German) camera shop on Sichuan Road. On the right is the Billy (bili 必利 ) roll film camera, introduced in 1928. The text notes that this “new style” is “inexpensive and good” quality. On the left is the Movex (moweikesi 摩維克斯)  movie camera for use at “home” or “traveling.” The shop also provided 24-hour film developing services.</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1931</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1931</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9360" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1936_issue230_page841.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 6, issue 230 (1936), page 841</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+        <text>Temple, Shirley, 1928-2014</text>
+      </Subject>
+      <Description>
+        <text>Front cover of an issue featuring Shirley Temple.</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1936</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1936</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9359" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1932_issue52_page50.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 2, issue 52 (1932), page 50</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+      </Subject>
+      <Description>
+        <text>Caption: “To succeed in becoming a photographer one must practice like this.”</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1932</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1932</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9358" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1932_issue66_page740.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 2, issue 66 (1932), page 740</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+      </Subject>
+      <Description>
+        <text>Caption: “New autumn fashion: The autumn winds have risen. Short sleeves are already out of fashion. Now the new style is the popular long sleeves and long skirt. As for material, you can still use patterned cotton. This style is both graceful and nice looking.”</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1932</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1932</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9357" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1935_issue177_page644.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 5, issue 177 (1935), page 644</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+        <text>Ruan, Lingyu, 1910-1935 </text>
+      </Subject>
+      <Description>
+        <text>Caption: “Ruan Lingyu autographing photographs for fans.” Ruan Lingyu was the diva of Shanghai silent cinema. She committed suicide in 1935.</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1935</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1935</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9355" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1933_issue99_page882.gif</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 3, issue 99 (1933), page 882&#13;
+&#13;
+&#13;
+</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+      </Subject>
+      <Description>
+        <text>Article by Shi Lili: The Modern Girl's Outward Appearance and Essence, pages 882-883</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1933</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1933</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9354" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1933_issue99_page883.gif</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 3, issue 99 (1933), page 883</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+      </Subject>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1933</text>
+      </Date>
+      <Description>
+        <text>Article by Shi Lili: The Modern Girl's Outward Appearance and Essence, pages 882-883</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1933</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9353" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1933_issue91_page450.gif</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 3, issue 91 (1933), page 450</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+        <text>Motion picture actors and actresses--China</text>
+      </Subject>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1933</text>
+      </Date>
+      <Description>
+        <text>Article titled: Nationally Produced Female Stars and Foreign Female Stars</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1933</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9352" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1934_issue135_page583.gif</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 4, issue 135 (1934), page 583</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+      </Subject>
+      <Description>
+        <text>Article by Miss Li Ying: Being a Contemporary Girl</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1934</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1934</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9351" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1931_issue30_page1138.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 1, issue 30 (1931), page 1138</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+      </Subject>
+      <Description>
+        <text>Article by Miss Liang Aibao: A Corner Dressing Table</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1931</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1931</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9350" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1931_issue30_page1097.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 1, issue 30 (1931), page 1097</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+      </Subject>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1931</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1931</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9349" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1933_issue119_page2162jpeg.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 3, issue 119 (1933), page 2162</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+      </Subject>
+      <Description>
+        <text>Caption: “Rural life: a country girl in front of thatched hut; women pull the boat together. This really is so-called male-female equality.</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu&#13;
+</text>
+      </Publisher>
+      <Date>
+        <text>1933</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1933</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9348" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1932_issue55_page215_.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 2, issue 55 (1932), page 215</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+      </Subject>
+      <Description>
+        <text>Caption: “Modern rooms: a bathroom, a small bedroom with makeup table.”</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1932</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1932</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9347" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1936_issue246_page2141.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 6, issue 246 (1936), page 2141</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+      </Subject>
+      <Description>
+        <text>Caption: “Decoration of a contemporary home; a parlor.”</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1936</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1936</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9346" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1932_issue55_page216-17_.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 2, issue 55 (1932), pages 216-217</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+        <text>Shanghai (China)</text>
+      </Subject>
+      <Description>
+        <text>Caption: “Beautiful photographs from the street.” These snapshots of women on the street appear to have been taken in Shanghai.</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1932</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1932</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9345" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1932_issue56_page263.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 2, issue 56 (1932), page 263</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+        <text>Friendship--China</text>
+      </Subject>
+      <Description>
+        <text>Caption: “From these few pictures you can see female sentiment. There is absolutely no way men can express this. These so-called good friends are inseparable. The unfortunate thing is that after marriage they suddenly become cold and indifferent.”</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1932</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1934</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9344" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1934_issue129_page225.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 4, issue 129 (1934), page 225</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+        <text>Hu, Die</text>
+      </Subject>
+      <Description>
+        <text>Caption: “Our empress of the cinema, Miss Hu Die.” &#13;
+Hu starred in the 1934 film Zi mei hua (Twin Sisters).</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1934</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1934</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9340" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1932_issue73_page1066a_.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 2, issue 73 (1932), page 1066a</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+        <text>Cooking--China</text>
+      </Subject>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1932</text>
+      </Date>
+      <Description>
+        <text>A Shanghai housewife attempts to cook dinner as her befuddled husband and mother-in-law look on. </text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1932</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9339" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1937_issue268_page1.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 7 issue 268 (1937), page 1</text>
+      </Title>
+      <Description>
+        <text>Xu Ling on the front cover</text>
+      </Description>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+        <text>Smoking--China</text>
+        <text>Xu, Ling</text>
+      </Subject>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1937</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1937</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="9338" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1935_issue168_page109.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 5 issue 168 (1935), page 109</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+        <text>Automobiles</text>
+      </Subject>
+      <Description>
+        <text>Most photographs of women in Ling long were taken outdoors. Posing with an automobile was a favored stance.</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1935</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1935</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9337" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1936_issue243_page1881.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 6, issue 243 (1936), page 1881</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+        <text>Swimming</text>
+      </Subject>
+      <Description>
+        <text>Front cover of a special issue on swimming.</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1936</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1936</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9336" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1934_issue138_page832.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 4, issue 138 (1934), page 832</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+      </Subject>
+      <Description>
+        <text>Back cover of Ling long with the title "Movies" and an unusual Chinese transliteration mu wei 幕味 (screen flavor), instead of the common term for movie, dian ying (electric shadow).</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1934</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1934</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9335" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1931_issue1_page36_.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 1, issue 1 (1931), page 36</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+        <text>Brent, Evelyn, 1899-1975</text>
+        <text>Brook, Clive, 1887-1974</text>
+      </Subject>
+      <Description>
+        <text>Movie stars Evelyn Brent and Clive Brook</text>
+      </Description>
+      <Date>
+        <text>1931</text>
+      </Date>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1931</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9334" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1936_issue249_page2361.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 6, issue 249 (1936), page 2361</text>
+      </Title>
+      <Description>
+        <text>Actress Liang Sai Zhen on the cover of Ling long magazine</text>
+      </Description>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+        <text>Liang, Sai Zhen</text>
+      </Subject>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1936</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1936</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+    </MODS>
+  </item>
+  <item itemId="9333" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>cutex.gif</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 3 (1933), issue 108, page. 1523</text>
+      </Title>
+      <Description>
+        <text>Advertisement for Cutex</text>
+      </Description>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+        <text>Advertising, Magazine</text>
+      </Subject>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1933</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1933</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai </text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+  <item itemId="9332" public="1" featured="0">
+    <OmekaCollection>Ling long Women's Magazine</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>001002.24.jpeg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ling long. Vol. 1, issue 1 (1931), page 1</text>
+      </Title>
+      <Subject>
+        <text>Women--China--Periodicals</text>
+        <text>Zhou, Shuheng</text>
+      </Subject>
+      <Description>
+        <text>Shanghai socialite Zhou Shuheng on the front cover of Ling long magazine</text>
+      </Description>
+      <Publisher>
+        <text>Hua shang san he gong si chu ban bu</text>
+      </Publisher>
+      <Date>
+        <text>1931</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1931</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Shanghai</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>C.V. Starr East Asian Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+  </item>
+</itemContainer>
+
+
