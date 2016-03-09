@@ -1,0 +1,3456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--The name of each XML element representing an Omeka element or element set is
+based on the name of the element or element set in Omeka. For example:
+     The "Dublin Core" element set is represented by the DublinCore XML element
+     The "Form Genre" element in MODS is represented by the FormGenre XML element
+
+The following XML elements are based on internal Omeka data:
+     The OriginalFileLoadedIntoOmeka XML element contains the name/path of
+     of the file(s) loaded into Omeka for the given item.
+     The OmekaCollection XML element contains the name of the Omeka collection
+     containing the item, if the item belongs to an Omeka collection. Please note
+     that this element is different from the Collection element in MODS, which is
+     curator-populated.
+-->
+<itemContainer>
+  <item itemId="3927" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Upright Ostrich--Blurred Address.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Upright Ostrich, Vol. 2 Number 6, unnumbered page 1, page 16</text>
+      </Title>
+      <Creator>
+        <text>Order of the Upright Ostrich</text>
+        <text>Goot</text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Description>
+        <text>Illustrations by "Goot"</text>
+      </Description>
+      <Publisher>
+        <text>Order of the Upright Ostrich</text>
+      </Publisher>
+      <Date>
+        <text>June-July 1983</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1983-06</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Fort Lauderdale (Fla.)</text>
+      </PublicationPlace>
+      <PlaceofOrigin>
+        <text>Fort Lauderdale (Fla.)</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 413, Folder "Florida-1971"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1983-06 1983-07</text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="3926" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Do You Feel Torn--Blurred Address.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Freedom Today advertising mailing , front fold</text>
+      </Title>
+      <Creator>
+        <text>Freedom Fellowship Church</text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Description>
+        <text>From front fold of newsletter: 'Do you feel torn between what you'd like to do and what you feel you have to do?'</text>
+      </Description>
+      <Publisher>
+        <text>Freedom Fellowship Church</text>
+      </Publisher>
+      <Date>
+        <text>11 October 1975</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1975-10-11</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Phoenix (Ariz.)</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1975</text>
+      </PublicationDate>
+      <PlaceofOrigin>
+        <text>Phoenix (Ariz.) </text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 410, Folder: "Arizona"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1975 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="3024" public="0" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>group_research_100028056a.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Human Events, Volume 23, Number 2 (rescaled)</text>
+      </Title>
+      <Creator>
+        <text>Human Events, Inc.</text>
+      </Creator>
+      <Source>
+        <text>Columbia University, Rare Book and Manuscript Library</text>
+        <text>Group Research, Inc. Records, Box 485, Folder: "Attacks--W.Mc. File"</text>
+      </Source>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1964-01-11 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="3023" public="0" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>group_research_100028067a.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Unified Concerned Citizens of America Bulletin</text>
+      </Title>
+      <Creator>
+        <text>Unified Concerned Citizens of America</text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Publisher>
+        <text>Unified Concerned Citizens of America</text>
+      </Publisher>
+      <Date>
+        <text>October 26, 27 and 28, 1971</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1971-10-26 1971-10-28</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Charlotte (N.C.)</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1971</text>
+      </PublicationDate>
+      <PlaceofOrigin>
+        <text>Charlotte (N.C.)</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 420, Folder "North Carolina"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1971 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2860" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028066</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Building Balanced Children, front cover</text>
+      </Title>
+      <Creator>
+        <text>Skousen, W. Cleon (Willard Cleon), 1913-2006</text>
+        <text>Roberts, H. Armstrong</text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Description>
+        <text>Cover photograph taken by H. Armstrong Roberts</text>
+      </Description>
+      <Publisher>
+        <text>Key Records</text>
+      </Publisher>
+      <Date>
+        <text>1961</text>
+      </Date>
+      <Identifier>
+        <text>Key LP-770</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1961</text>
+      </KeyDate>
+      <PlaceofOrigin>
+        <text>Pheonix (Ariz.)</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>record covers</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 508</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records, </text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1961 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2859" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028065</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>"Fortify Our Freedom", front cover</text>
+      </Title>
+      <Creator>
+        <text>Storer Broadcasting Company</text>
+        <text>Hoover, J. Edgar (John Edgar), 1895-1972</text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Date>
+        <text>1965</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1965</text>
+      </KeyDate>
+      <FormGenre>
+        <text>record covers</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 508</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1965 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2858" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028064</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Disarmament and the Phoenix Papers, front cover</text>
+      </Title>
+      <Creator>
+        <text>Hargis, Billy James, 1925- </text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Description>
+        <text>Album cover lists label as 'Christian Crusade Recordings'</text>
+      </Description>
+      <Publisher>
+        <text>Christian Crusade</text>
+      </Publisher>
+      <Date>
+        <text>circa 1966</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1966</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Tulsa (Okla.)</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>record covers</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 507</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1966 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2857" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028063</text>
+      <text>group_research_100028064.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Disarmament and the Phoenix Papers, front cover and close up of image on front cover</text>
+      </Title>
+      <Creator>
+        <text>Hargis, Billy James, 1925- </text>
+      </Creator>
+      <Date>
+        <text>circa 1966</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Description>
+        <text>Close up of front cover focuses on the image of an American Bald Eagle symbol/illustration.</text>
+        <text>Album cover lists label as 'Christian Crusade Recordings'</text>
+      </Description>
+      <Publisher>
+        <text>Christian Crusade</text>
+      </Publisher>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Columbia University, Rare Book and Manuscript Library</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1966</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Tulsa (Okla.)</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>sound recordings</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 507</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="2856" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028062</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>"The Marxist Minstrels", back cover</text>
+      </Title>
+      <Creator>
+        <text>Noebel, David A. </text>
+      </Creator>
+      <Date>
+        <text>circa 1968</text>
+      </Date>
+      <Description>
+        <text>This LP consists of David A. Noebel’s spoken ruminations on the theme of his 1966 book, Rhythm, Riots and Revolution.</text>
+        <text>Recording label listed as 'Christian Crusade Recordings'</text>
+      </Description>
+      <Publisher>
+        <text>Christian Crusade</text>
+      </Publisher>
+      <Relation>
+        <text>Rhythm, riots, and revolution / by David A. Noebel</text>
+      </Relation>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1968</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Tulsa (Okla.)</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>record covers</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Columbia University, Rare Book and Manuscript Library</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Box 507</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="2855" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028061</text>
+      <text>group_research_100028062.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>"The Marxist Minstrels", front cover and back cover</text>
+      </Title>
+      <Creator>
+        <text>Noebel, David A. </text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Description>
+        <text>This LP consists of David A. Noebel’s spoken ruminations on the theme of his 1966 book, Rhythm, Riots and Revolution.</text>
+        <text>Recording label listed as 'Christian Crusade Recordings'</text>
+      </Description>
+      <Publisher>
+        <text>Christian Crusade</text>
+      </Publisher>
+      <Date>
+        <text>circa 1968</text>
+      </Date>
+      <Relation>
+        <text>Rhythm, riots, and revolution / by David A. Noebel</text>
+      </Relation>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1968</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Tulsa (Okla.)</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>record covers</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 507</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records </text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1968 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2854" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028060</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Illuminati, Volume 3, front cover</text>
+      </Title>
+      <Creator>
+        <text>Cinema Educational Guild</text>
+        <text>Fagan, Myron C. (Myron Coureval), 1887-1972</text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Council on Foreign Relations</text>
+      </Subject>
+      <Description>
+        <text>From front cover: 'The Council on Foreign Relations Expose by Myron Fagan'</text>
+      </Description>
+      <Publisher>
+        <text>Cinema Educational Guild</text>
+      </Publisher>
+      <Date>
+        <text>1967</text>
+      </Date>
+      <Relation>
+        <text>Council on Foreign Relations Expose / Myron Fagan</text>
+      </Relation>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1967</text>
+      </KeyDate>
+      <FormGenre>
+        <text>record covers</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 507</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1967 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2853" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028059</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>For God and Country, front cover</text>
+      </Title>
+      <Creator>
+        <text>Christian Crusade</text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Publisher>
+        <text>Christian Crusade</text>
+      </Publisher>
+      <Date>
+        <text>1961</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1961</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Tulsa (Okla.)</text>
+      </PublicationPlace>
+      <FormGenre>
+        <text>record covers</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 510</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1961 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2852" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028058</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>"The Great Pretense"</text>
+      </Title>
+      <Creator>
+        <text>The John Birch Society Filmstrip Productions</text>
+      </Creator>
+      <Source>
+        <text>Columbia University, Rare Book and Manuscript Library</text>
+        <text>Group Research Printed Materials, [Publications issued by or related to the John Birch Society]</text>
+      </Source>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1969 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2851" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028057</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Business End of Government, front cover</text>
+      </Title>
+      <Creator>
+        <text>Smoot, Dan</text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Publisher>
+        <text>Western Islands Publishers</text>
+      </Publisher>
+      <Date>
+        <text>1973</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 6276296</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>Exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1973</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Boston (Mass.)</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1973</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 89</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Collection also listed as: 'Group Research Printed Materials'</text>
+      </Notes>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1973 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2850" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028056</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Human Events, Volume 23, Number 2</text>
+      </Title>
+      <Creator>
+        <text>Human Events, Inc.</text>
+      </Creator>
+      <Source>
+        <text>Columbia University, Rare Book and Manuscript Library</text>
+        <text>Group Research, Inc. Records, Box 485, Folder: "Attacks--W.Mc. File"</text>
+      </Source>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1964-01-11 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2849" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028055</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Group Research Report, Vol. 1, No. 1, page 1</text>
+      </Title>
+      <Creator>
+        <text>Group Research, Inc.</text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Publisher>
+        <text>Group Research, Inc.</text>
+      </Publisher>
+      <Date>
+        <text>September 19, 1962</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1962-09-19</text>
+      </KeyDate>
+      <PlaceofOrigin>
+        <text>Washington (D.C.)</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 425, Folder: "I-1"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1962-09-19 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2848" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028054</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>"Wallace"</text>
+      </Title>
+      <Source>
+        <text>Columbia University, Rare Book and Manuscript Library</text>
+        <text>Group Research, Inc. Records, Box 506, Folder: "Q-Z"</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2847" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028053</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Those Missiles Are Still in Cuba, front</text>
+      </Title>
+      <Date>
+        <text>circa 1962</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Cuban Missile Crisis, 1962</text>
+      </Subject>
+      <Description>
+        <text>bumper sticker</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1962</text>
+      </KeyDate>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 506, Folder: "Q-Z"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="2846" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028052</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>I'm Not Fond'a Hanoi Jane, front</text>
+      </Title>
+      <Creator>
+        <text>Russo, Gaetano Guy</text>
+      </Creator>
+      <Date>
+        <text>circa 1987</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Fonda, Jane, 1937- </text>
+      </Subject>
+      <Description>
+        <text>bumper sticker</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1987</text>
+      </KeyDate>
+      <PlaceofOrigin>
+        <text>Waterbury (Conn.) </text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 506, Folder: "H-P"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="2845" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028051</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Eye bumper sticker, front</text>
+      </Title>
+      <Description>
+        <text>bumper sticker</text>
+      </Description>
+      <Date>
+        <text>between 1955 and 1996</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1955 1996</text>
+      </KeyDate>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 506, Folder: "A-G"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+      <Notes>
+        <text>Date based on the earliest and latest dates of the Group Research, Inc. records collection.</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="2844" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028050</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>"Eschew Obfuscation"</text>
+      </Title>
+      <Creator>
+        <text>Joe Ecclesine; The Wry Idea Co.</text>
+      </Creator>
+      <Source>
+        <text>Columbia University, Rare Book and Manuscript Library</text>
+        <text>Group Research, Inc. Records, Box 506, Folder: "A-G"</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2843" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028049</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>China Has Gun Control, front</text>
+      </Title>
+      <Creator>
+        <text>Gun Owners of America</text>
+      </Creator>
+      <Date>
+        <text>circa 1989</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Description>
+        <text>bumper sticker</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1989</text>
+      </KeyDate>
+      <PlaceofOrigin>
+        <text>Springfield (Va.)</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 506, Folder: "A-G"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="2842" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028048</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Great Society: Fake-Hokum-Parity, front</text>
+      </Title>
+      <Date>
+        <text>circa the 1960's</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Description>
+        <text>bumper sticker</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1960 1969</text>
+      </KeyDate>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 506, Folder: "A-G"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="2841" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028047</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Go to College: Learn to Riot, front</text>
+      </Title>
+      <Date>
+        <text>circa the 1960's</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Description>
+        <text>bumper sticker</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1960 1969</text>
+      </KeyDate>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 506, Folder: "A-G"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="2840" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028046</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Christian Crusade litter bag, front</text>
+      </Title>
+      <Creator>
+        <text>Christian Crusade</text>
+        <text>Hargis, Billy James, 1925- </text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Description>
+        <text>The message of on the front of the bag reads: “As you deposit your trash / in this handy litter bag, remember . . . / as this trash would deface / the countryside, / godless communism would permanently / deface America— / annihilate Christianity— / and enslave your children.”</text>
+      </Description>
+      <Date>
+        <text>Between 1955 and 1996</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1955 1996</text>
+      </KeyDate>
+      <PlaceofOrigin>
+        <text>Tulsa (Okla.)</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 485, Folder: "Christian Crusade Calendars"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+      <Notes>
+        <text>Date based on the earliest and latest dates of the Group Research, Inc. records collection.</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="2839" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028045</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Jews, front</text>
+      </Title>
+      <Creator>
+        <text>Caffey</text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Description>
+        <text>The handwritten note from a Group Research, Inc., staff member in the upper right corner reads: "4-12-78 Put on car windshields in Georgetown".</text>
+      </Description>
+      <Publisher>
+        <text>Liberty Bell Publications</text>
+      </Publisher>
+      <Date>
+        <text>1978</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1978</text>
+      </KeyDate>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 424, Folder: "West Virginia"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1978 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2838" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028044</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Campaign advertisement for George Macatee (back)</text>
+      </Title>
+      <Source>
+        <text>Columbia University, Rare Book and Manuscript Library</text>
+        <text>Group Research, Inc. Records, Box 423, Folder: "Texas-1961-62"</text>
+      </Source>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1962 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2837" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028043</text>
+      <text>group_research_100028044.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Conservative Government Certificate, front and back</text>
+      </Title>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Macatee, George</text>
+      </Subject>
+      <Description>
+        <text>Campaign advertisement for George Macatee</text>
+      </Description>
+      <Date>
+        <text>November 6, 1962</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1962-11-06</text>
+      </KeyDate>
+      <PlaceofOrigin>
+        <text>Texas, United States</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 423, Folder: "Texas-1961-62"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1962 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2836" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028042</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>The Man Who Beat Hoffa (detail--pages 4-5)</text>
+      </Title>
+      <Creator>
+        <text>Des Barry Campaign Committee</text>
+      </Creator>
+      <Source>
+        <text>Columbia University, Rare Book and Manuscript Library</text>
+        <text>Group Research, Inc. Records, Box 423, Folder: "Texas-1961-62"</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2835" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028041</text>
+      <text>group_research_100028042.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Man Who Beat Hoffa, front cover, 2 unnumbered pages</text>
+      </Title>
+      <Creator>
+        <text>Des Barry Campaign Committee</text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Barry, Des</text>
+        <text>Poole, Joe</text>
+      </Subject>
+      <Publisher>
+        <text>Des Barry Campaign Committee</text>
+      </Publisher>
+      <Date>
+        <text>1962</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1962</text>
+      </KeyDate>
+      <PlaceofOrigin>
+        <text>Texas, United States</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 423, Folder: "Texas-1961-62"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1962 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2834" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028040</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Elect Dick Morgan Captain of Conservatives</text>
+      </Title>
+      <Date>
+        <text>circa 1961-1962</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Morgan, Dick</text>
+      </Subject>
+      <Description>
+        <text>paper hat</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1961 1962</text>
+      </KeyDate>
+      <PlaceofOrigin>
+        <text>Texas, United States</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 423, Folder: "Texas-1961-62"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="2833" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028039</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>We're Fed Up! Catholics Crucifying Nixon, front cover</text>
+      </Title>
+      <Creator>
+        <text>Roden, Ben L. </text>
+        <text>Roden, George</text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Nixon, Richard M. (Richard Milhous), 1913-1994</text>
+      </Subject>
+      <Date>
+        <text>May 1974</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1974-05</text>
+      </KeyDate>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 422, Folder: "Texas-1970"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1974-05 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2832" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028038</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Citizens for Constitutional Rights Newsletter, front cover</text>
+      </Title>
+      <Creator>
+        <text>Citizens for Constitutional Rights Committee</text>
+      </Creator>
+      <Date>
+        <text>circa 1974</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Board of Governors of the Federal Reserve System (U.S.)</text>
+      </Subject>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1974</text>
+      </KeyDate>
+      <PlaceofOrigin>
+        <text>North Canton (Ohio)</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 421, Folder: "Ohio"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="2831" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028037</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Get With It, front</text>
+      </Title>
+      <Creator>
+        <text>Citizens for Constitutional Rights Committee</text>
+      </Creator>
+      <Date>
+        <text>circa 1974</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1974</text>
+      </KeyDate>
+      <PlaceofOrigin>
+        <text>North Canton (Ohio)</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 421, Folder: "Ohio"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="2830" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028036</text>
+      <text>100028067.JPG</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Unified Concerned Citizens of America Bulletin (first page)</text>
+      </Title>
+      <Creator>
+        <text>Unified Concerned Citizens of America</text>
+      </Creator>
+      <Source>
+        <text>Columbia University, Rare Book and Manuscript Library</text>
+        <text>Group Research, Inc. Records, Box 420, Folder: "North Carolina"</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>ex</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>nnc-rb</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1971 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2829" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028035</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Man's Belief in God is Personal</text>
+      </Title>
+      <Creator>
+        <text>American Economic Foundation</text>
+      </Creator>
+      <Source>
+        <text>Note by Bread Alone / Fred G. Clark</text>
+      </Source>
+      <Date>
+        <text>circa 1940s-1950s</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Publisher>
+        <text>American Economic Foundation</text>
+      </Publisher>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1940 1959</text>
+      </KeyDate>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 420, Folder: "North Carolina"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="2828" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028034</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Strange Origin of the UN Flag</text>
+      </Title>
+      <Creator>
+        <text>Network of Patriotic Letter Writers (Organization) </text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>United Nations</text>
+      </Subject>
+      <Date>
+        <text>March 1965</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1965-03</text>
+      </KeyDate>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 420, Folder: "North Carolina"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1965-03 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2827" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028033</text>
+      <text>group_research_100028032.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>United Nations: The Modern Trojan Horse, front page and detail of front page illustration</text>
+      </Title>
+      <Creator>
+        <text>Network of Patriotic Letter Writers (Organization)</text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>United Nations</text>
+      </Subject>
+      <Date>
+        <text>March 1965</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1965-03</text>
+      </KeyDate>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 420, Folder: "North Carolina"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1965-03 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2826" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028032</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>"United Nations: The Modern Trojan Horse" (full)</text>
+      </Title>
+      <Creator>
+        <text>The Network of Patriotic Letter Writers</text>
+      </Creator>
+      <Source>
+        <text>Columbia University, Rare Book and Manuscript Library</text>
+        <text>Group Research, Inc. Records, Box 420, Folder: "North Carolina"</text>
+      </Source>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1965-03 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2825" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028031</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Choose Ye Your Drink and Future, front</text>
+      </Title>
+      <Creator>
+        <text>DuMont Distributors</text>
+      </Creator>
+      <Date>
+        <text>circa 1964-1965</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text> Johnson, Lyndon B. (Lyndon Baines), 1908-1973</text>
+        <text>Goldwater, Barry M. (Barry Morris), 1909-1998</text>
+      </Subject>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1964 1965</text>
+      </KeyDate>
+      <PlaceofOrigin>
+        <text>Chicago (Ill.)</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 417, Folder: "Michigan--News Clips"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="2824" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028030</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Treason Cycle, front</text>
+      </Title>
+      <Creator>
+        <text>Peil. N. G.</text>
+        <text>Delmarva to Restore American Independence Now Committee</text>
+      </Creator>
+      <Date>
+        <text>circa 1960s</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Vietnam War, 1961-1975</text>
+      </Subject>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1960 1969</text>
+      </KeyDate>
+      <PlaceofOrigin>
+        <text>Salisbury (Md.)</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 416, Folder: "Maryland"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="2823" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028029</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Trial of Freedom, front cover</text>
+      </Title>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Publisher>
+        <text>Idaho Savings and Loan Association</text>
+      </Publisher>
+      <Date>
+        <text>1962</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1962</text>
+      </KeyDate>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 414, Folder: "Idaho"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1962 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2822" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028028</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>"Yes! Idaho needs another change!"</text>
+      </Title>
+      <Creator>
+        <text>The American Party of Idaho</text>
+      </Creator>
+      <Source>
+        <text>Columbia University, Rare Book and Manuscript Library</text>
+        <text>Group Research, Inc. Records, Box 414, Folder: "Idaho"</text>
+      </Source>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1974 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2821" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028027</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>There is No Progress without the Faith, Confidence and Risk Capital of the Investor, front cover</text>
+      </Title>
+      <Creator>
+        <text>Investors in America, Inc.</text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Date>
+        <text>November 1970</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1970-11</text>
+      </KeyDate>
+      <PublicationPlace>
+        <text>Saint Petersburg (Fla.)</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1970-11</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 414, Folder: "Florida"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1970-11 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2820" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028026</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>The Upright Ostrich, Volume 2, Number 6. (Original)</text>
+      </Title>
+      <Creator>
+        <text>The Order of the Upright Ostrich</text>
+      </Creator>
+      <Source>
+        <text>Columbia University, Rare Book and Manuscript Library</text>
+        <text>Group Research, Inc. Records, Box 413, Folder: "Florida-1971"</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>ex</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>nnc-rb</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1983-06 1983-07</text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2819" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028025</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Tower of Babble</text>
+      </Title>
+      <Source>
+        <text>National Constitution Newspaper, Winter 1973</text>
+      </Source>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>United Nations</text>
+      </Subject>
+      <Date>
+        <text>Winter 1973</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1973-12</text>
+      </KeyDate>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 412, Folder: "Colorado-1971"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1973 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2818" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028024</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Now Your Town Can Have a 'Professional Riot!', front</text>
+      </Title>
+      <Creator>
+        <text>Alert Americans Association</text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Date>
+        <text>1965</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1965</text>
+      </KeyDate>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 411, Folder: "California-1965"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1965 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2817" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028023</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Greatest Power On Earth Is An Idea Whose Time Has Come, front</text>
+      </Title>
+      <Creator>
+        <text>National Socialist League (U.S.)</text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Date>
+        <text>May 1975</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1975-05</text>
+      </KeyDate>
+      <PlaceofOrigin>
+        <text>Los Angeles (Calif.)</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 411, Folder: "California-1969"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1975 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2816" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028022</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Personal Christianity masthead</text>
+      </Title>
+      <Creator>
+        <text>C.S. Lovett; Personal Christianity Chapel.</text>
+      </Creator>
+      <Source>
+        <text>Columbia University, Rare Book and Manuscript Library</text>
+        <text>Group Research, Inc. Records, Box 411, Folder: "California-1969"</text>
+      </Source>
+      <Date>
+        <text>circa 1960</text>
+      </Date>
+    </DublinCore>
+  </item>
+  <item itemId="2815" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028021</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Personal Christianity, Volume 15, Number 7,  first page</text>
+      </Title>
+      <Creator>
+        <text>Lovett, C. S. (Cummings Samuel), 1917-</text>
+        <text>Personal Christianity Chapel</text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Date>
+        <text>July 1975</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1975-07</text>
+      </KeyDate>
+      <PlaceofOrigin>
+        <text>Baldwin Park (Calif.)</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 411, Folder: "California-1969"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1975-07 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2814" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028020</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>"Do you feel torn. . . ?" (Original)</text>
+      </Title>
+      <Creator>
+        <text>Freedom Fellowship</text>
+      </Creator>
+      <Source>
+        <text>Columbia University, Rare Book and Manuscript Library</text>
+        <text>Group Research, Inc. Records, Box 410, Folder: "Arizona"</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>ex</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>nnc-rb</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1975 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2813" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028019</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Fight Communism, multiple fronts</text>
+      </Title>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Description>
+        <text>sheet of poster stamps</text>
+      </Description>
+      <Date>
+        <text>between 1955 and 1996</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1955 1996</text>
+      </KeyDate>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 407, Folder: "Right-Wing, Miscellaneous"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+      <Notes>
+        <text>Date based on the earliest and latest dates of the Group Research, Inc. records collection.</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="2812" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028018</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Story of Ten Little Free Workers, front</text>
+      </Title>
+      <Date>
+        <text>circa 1950s-1960s</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1950 1969</text>
+      </KeyDate>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 407, Folder: "Right-Wing, Miscellaneous"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="2811" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028017</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Church League of America presents Ronald Reagan on The Welfare State, front</text>
+      </Title>
+      <Creator>
+        <text>Church League of America</text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Reagan, Ronald</text>
+      </Subject>
+      <Date>
+        <text>1960s?</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1960 1969</text>
+      </KeyDate>
+      <PlaceofOrigin>
+        <text>Wheaton (Ill.)</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 403, Folder: "Reagan, Ronald - General"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="2810" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028016</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Dump Lindsay, multiple fronts</text>
+      </Title>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Lindsay, John V. (John Vliet)</text>
+      </Subject>
+      <Description>
+        <text>sheet of poster stamps</text>
+      </Description>
+      <Date>
+        <text>1968</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1968</text>
+      </KeyDate>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 403, Folder: "Reagan, Ronald--Material from Reagan Headquarters, GOP National Convention, 1968"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1968 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2809" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028015</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Should Americans Be Compelled To Join Labor Unions?, front</text>
+      </Title>
+      <Creator>
+        <text>National Right to Work Committee (U.S.) </text>
+      </Creator>
+      <Date>
+        <text>circa 1971</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1971</text>
+      </KeyDate>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 390, Folder: "National Right to Work Committee - Pamphlets"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="2808" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028014</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Wanted for Impeachment: Earl Warren, front</text>
+      </Title>
+      <Creator>
+        <text>American Nationalist (Organization)</text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Warren, Earl, 1891-1974</text>
+      </Subject>
+      <Publisher>
+        <text>American Nationalist (Organization)</text>
+      </Publisher>
+      <Date>
+        <text>between 1953 and 1969</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1953 1969</text>
+      </KeyDate>
+      <PlaceofOrigin>
+        <text>Inglewood (Calif.)</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 379, Folder: "Kamp, Joseph P. (II)"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+      <Notes>
+        <text>Date based on the earliest and latest dates of the Earl Warren's career as Chief Justice of the United States.</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="2807" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028013</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>The Heartbeat of the Americanist Cause (interior page)</text>
+      </Title>
+      <Creator>
+        <text>The John Birch Society</text>
+      </Creator>
+      <Source>
+        <text>Columbia University, Rare Book and Manuscript Library</text>
+        <text>Group Research, Inc. Records, Box 379, Folder: "JBS--Publications, &amp; Recommended Reading Lists"</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="2806" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028012</text>
+      <text>group_research_100028013.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Heartbeat of the Americanist Cause, front cover and inside back cover</text>
+      </Title>
+      <Creator>
+        <text>John Birch Society</text>
+      </Creator>
+      <Date>
+        <text>circa 1960s</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1960 1969</text>
+      </KeyDate>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 379, Folder: "JBS--Publications, &amp; Recommended Reading Lists"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="2805" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028011</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Had Enough? Of the Student Radicals. . ., unnumbered page</text>
+      </Title>
+      <Creator>
+        <text>Stop-NSA Committee of the Young Americans for Freedom</text>
+      </Creator>
+      <Date>
+        <text>circa 1968</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>United States National Student Association</text>
+        <text>Students for a Democratic Society (U.S.)</text>
+      </Subject>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1968</text>
+      </KeyDate>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 343, Folder: "Young Americans for Freedom - Stop-NSA"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="2804" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028010</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Personal Newsletter, page 2</text>
+      </Title>
+      <Creator>
+        <text>National States Rights Party (U.S.) </text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Description>
+        <text>At bottom of page: 'Vote Right - Vote White - Vote States Rights'</text>
+      </Description>
+      <Publisher>
+        <text>National States Rights Party (U.S.)</text>
+      </Publisher>
+      <Date>
+        <text>February 1964</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1964-02</text>
+      </KeyDate>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 247, Folder: "National States Rights Party - Newsletters"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1964-02 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2803" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028009</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>DEATH! to the Traitors, front</text>
+      </Title>
+      <Creator>
+        <text>Sam Adams Committee of Public Safety</text>
+      </Creator>
+      <Date>
+        <text>circa 1970</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Publisher>
+        <text>Sam Adams Committee of Public Safety</text>
+      </Publisher>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1970</text>
+      </KeyDate>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 246, Folder: "National States Rights Party--Misc. materials distributed"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="2802" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028008</text>
+      <text>group_research_100028007.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Liberator National Newsletter, Volume 1, Number 1, front page and detail of illustration on front page</text>
+      </Title>
+      <Creator>
+        <text>Men's Rights Assoc.</text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Publisher>
+        <text>Men's Rights Assoc.</text>
+      </Publisher>
+      <Date>
+        <text>September 1975</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1975-09</text>
+      </KeyDate>
+      <PublicationDate>
+        <text>1975-09</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 218, Folder: "Men's Rights Association"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1975-09 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2801" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028007</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>The Liberator, Volume 1, Number 1 (full)</text>
+      </Title>
+      <Creator>
+        <text>Men's Rights Association</text>
+      </Creator>
+      <Source>
+        <text>Columbia University, Rare Book and Manuscript Library</text>
+        <text>Group Research, Inc. Records, Box 218, Folder: "Men's Rights Association"</text>
+      </Source>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <TemporalCoverage>
+        <text>1975-09 </text>
+      </TemporalCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2800" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028006</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>What Kind of a Country Are You Leaving Me?, front cover</text>
+      </Title>
+      <Creator>
+        <text>Mel-Belle Enterprises</text>
+      </Creator>
+      <Date>
+        <text>circa October 1967</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Publisher>
+        <text>Mel-Belle Enterprises</text>
+      </Publisher>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1967-10</text>
+      </KeyDate>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 218, Folder: "Mel-Belle Enterprises"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="2799" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028005</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>3 Good Reasons to Read MediaWatch, front</text>
+      </Title>
+      <Creator>
+        <text>Media Research Center</text>
+        <text>Payne, H.</text>
+      </Creator>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Description>
+        <text>Illustration by 'H. Payne'</text>
+      </Description>
+      <Date>
+        <text>circa 1988-1999</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1988 1999</text>
+      </KeyDate>
+      <PlaceofOrigin>
+        <text>Alexandria (Va.)</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 218, Folder: "Media Research Center"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="2798" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028004</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Famous Quotations: Theodore G. Bilbo, front</text>
+      </Title>
+      <Creator>
+        <text>Citizens’ Councils of America</text>
+      </Creator>
+      <Date>
+        <text>circa 1955-1970s</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Description>
+        <text>Includes a quote by Theodore G. Bilbo</text>
+      </Description>
+      <Relation>
+        <text>Take Your Choice: Separation or Mongrelization / Theodore G. Bilbo</text>
+      </Relation>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1955 1979</text>
+      </KeyDate>
+      <PlaceofOrigin>
+        <text>Greenwood (Miss.)</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 76, Folder: "Citizens' Councils--Their Material"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="2797" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028003</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Crime: Don't Let it Happen!</text>
+      </Title>
+      <Creator>
+        <text>Citizens' Councils of America</text>
+      </Creator>
+      <Date>
+        <text>circa June 1972</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Publisher>
+        <text>Citizen's Councils of America</text>
+      </Publisher>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1972-06</text>
+      </KeyDate>
+      <PlaceofOrigin>
+        <text>Jackson (Miss.)</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 76, Folder: "Citizens' Councils--Their Material"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="2796" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028002</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Worst Horror on Earth, front</text>
+      </Title>
+      <Creator>
+        <text>Citizens' Councils of America</text>
+        <text>Citizens' Council of Dallas County, Inc.</text>
+      </Creator>
+      <Date>
+        <text>circa 1969</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1969</text>
+      </KeyDate>
+      <PlaceofOrigin>
+        <text>Dallas (Tex.)</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 76, Folder: "Citizens' Councils--Their Material"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="2795" public="1" featured="0">
+    <OmekaCollection>Choosing Sides: Right Wing Icons in the Group Research Records</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=group_research_100028001</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>AIM Speakers Bureau, unfolded interior</text>
+      </Title>
+      <Creator>
+        <text>Allied Educational Foundation Speakers Bureau</text>
+        <text>Accuracy in Media, inc.</text>
+      </Creator>
+      <Date>
+        <text>circa 1990</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Baron, Murray</text>
+        <text>Wiley, Charles</text>
+        <text>Goulden, Joseph</text>
+        <text>Kincaid, Cliff</text>
+        <text>Droge, Dolf</text>
+        <text>Yoh, Bernard</text>
+        <text>Irvine, Reed</text>
+      </Subject>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1990</text>
+      </KeyDate>
+      <PlaceofOrigin>
+        <text>Washington (D.C.)</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>Box 1, Folder: "Accuracy in Media, 1986--"</text>
+      </ShelfLocation>
+      <Collection>
+        <text>Group Research, Inc. records</text>
+      </Collection>
+    </MODS>
+  </item>
+</itemContainer>
+
+
