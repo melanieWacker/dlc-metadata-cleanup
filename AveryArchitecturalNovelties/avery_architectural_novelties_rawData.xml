@@ -1,0 +1,4496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--The name of each XML element representing an Omeka element or element set is
+based on the name of the element or element set in Omeka. For example:
+     The "Dublin Core" element set is represented by the DublinCore XML element
+     The "Form Genre" element in MODS is represented by the FormGenre XML element
+
+The following XML elements are based on internal Omeka data:
+     The OriginalFileLoadedIntoOmeka XML element contains the name/path of
+     of the file(s) loaded into Omeka for the given item.
+     The OmekaCollection XML element contains the name of the Omeka collection
+     containing the item, if the item belongs to an Omeka collection. Please note
+     that this element is different from the Collection element in MODS, which is
+     curator-populated.
+-->
+<itemContainer>
+  <item itemId="6677" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: Images 3 x 4 cm on mount 5 x 10 cm in box 6 x 18 x 13 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/AA9200B4Stl63_09.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/stalinallee/stalinallee</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Stalinallee</text>
+      </Title>
+      <Description>
+        <text>10 stereograph views of the Stalinallee, accompanied by one viewer.</text>
+      </Description>
+      <Creator>
+        <text>Row-Optik Rathenow</text>
+      </Creator>
+      <Publisher>
+        <text>VEB Rathenower Optische Werke</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 6978489</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1953</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Rathenow</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1953?</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>10 transparencies and one plastic viewer.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA9200 B4 St163</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: AA9200B4Stl63_09.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6676" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: Images 3 x 4 cm on mount 5 x 10 cm in box 6 x 18 x 13 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/AA9200B4Stl63_08.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/stalinallee/stalinallee</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Stalinallee</text>
+      </Title>
+      <Description>
+        <text>10 stereograph views of the Stalinallee, accompanied by one viewer.</text>
+      </Description>
+      <Creator>
+        <text>Row-Optik Rathenow</text>
+      </Creator>
+      <Publisher>
+        <text>VEB Rathenower Optische Werke</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 6978489</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1953</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Rathenow</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1953?</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>10 transparencies and one plastic viewer.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA9200 B4 St163</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: AA9200B4Stl63_08.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6675" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: Images 3 x 4 cm on mount 5 x 10 cm in box 6 x 18 x 13 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/AA9200B4Stl63_07.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/stalinallee/stalinallee</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Stalinallee</text>
+      </Title>
+      <Description>
+        <text>10 stereograph views of the Stalinallee, accompanied by one viewer.</text>
+      </Description>
+      <Creator>
+        <text>Row-Optik Rathenow</text>
+      </Creator>
+      <Publisher>
+        <text>VEB Rathenower Optische Werke</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 6978489</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1953</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Rathenow</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1953?</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>10 transparencies and one plastic viewer.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA9200 B4 St163</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: AA9200B4Stl63_07.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6674" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: Images 3 x 4 cm on mount 5 x 10 cm in box 6 x 18 x 13 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/AA9200B4Stl63_06.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/stalinallee/stalinallee</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Stalinallee</text>
+      </Title>
+      <Description>
+        <text>10 stereograph views of the Stalinallee, accompanied by one viewer.</text>
+      </Description>
+      <Creator>
+        <text>Row-Optik Rathenow</text>
+      </Creator>
+      <Publisher>
+        <text>VEB Rathenower Optische Werke</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 6978489</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1953</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Rathenow</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1953?</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>10 transparencies and one plastic viewer.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA9200 B4 St163</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: AA9200B4Stl63_06.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6673" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: Images 3 x 4 cm on mount 5 x 10 cm in box 6 x 18 x 13 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/AA9200B4Stl63_05.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/stalinallee/stalinallee</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Stalinallee</text>
+      </Title>
+      <Description>
+        <text>10 stereograph views of the Stalinallee, accompanied by one viewer.</text>
+      </Description>
+      <Creator>
+        <text>Row-Optik Rathenow</text>
+      </Creator>
+      <Publisher>
+        <text>VEB Rathenower Optische Werke</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 6978489</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1953</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Rathenow</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1953?</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>10 transparencies and one plastic viewer.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA9200 B4 St163</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: AA9200B4Stl63_05.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6672" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: Images 3 x 4 cm on mount 5 x 10 cm in box 6 x 18 x 13 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/AA9200B4Stl63_04.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/stalinallee/stalinallee</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Stalinallee</text>
+      </Title>
+      <Description>
+        <text>10 stereograph views of the Stalinallee, accompanied by one viewer.</text>
+      </Description>
+      <Creator>
+        <text>Row-Optik Rathenow</text>
+      </Creator>
+      <Publisher>
+        <text>VEB Rathenower Optische Werke</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 6978489</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1953</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Rathenow</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1953?</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>10 transparencies and one plastic viewer.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA9200 B4 St163</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: AA9200B4Stl63_04.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6671" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: Images 3 x 4 cm on mount 5 x 10 cm in box 6 x 18 x 13 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/AA9200B4Stl63_03.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/stalinallee/stalinallee</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Stalinallee</text>
+      </Title>
+      <Description>
+        <text>10 stereograph views of the Stalinallee, accompanied by one viewer.</text>
+      </Description>
+      <Creator>
+        <text>Row-Optik Rathenow</text>
+      </Creator>
+      <Publisher>
+        <text>VEB Rathenower Optische Werke</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 6978489</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1953</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Rathenow</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1953?</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>10 transparencies and one plastic viewer.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA9200 B4 St163</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: AA9200B4Stl63_03.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6670" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: Images 3 x 4 cm on mount 5 x 10 cm in box 6 x 18 x 13 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/AA9200B4Stl63_02.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/stalinallee/stalinallee</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Stalinallee</text>
+      </Title>
+      <Description>
+        <text>10 stereograph views of the Stalinallee, accompanied by one viewer.</text>
+      </Description>
+      <Creator>
+        <text>Row-Optik Rathenow</text>
+      </Creator>
+      <Publisher>
+        <text>VEB Rathenower Optische Werke</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 6978489</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1953</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Rathenow</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1953?</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>10 transparencies and one plastic viewer.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA9200 B4 St163</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: AA9200B4Stl63_02.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6669" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: Images 3 x 4 cm on mount 5 x 10 cm in box 6 x 18 x 13 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/AA9200B4Stl63_01.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/stalinallee/stalinallee</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Stalinallee</text>
+      </Title>
+      <Description>
+        <text>10 stereograph views of the Stalinallee, accompanied by one viewer.</text>
+      </Description>
+      <Creator>
+        <text>Row-Optik Rathenow</text>
+      </Creator>
+      <Publisher>
+        <text>VEB Rathenower Optische Werke</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 6978489</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1953</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Rathenow</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1953?</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>10 transparencies and one plastic viewer.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA9200 B4 St163</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: AA9200B4Stl63_01.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6668" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: Images 3 x 4 cm on mount 5 x 10 cm in box 6 x 18 x 13 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/AA9200B4Stl63_00.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/stalinallee/stalinallee</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Stalinallee</text>
+      </Title>
+      <Description>
+        <text>10 stereograph views of the Stalinallee, accompanied by one viewer.</text>
+      </Description>
+      <Creator>
+        <text>Row-Optik Rathenow</text>
+      </Creator>
+      <Publisher>
+        <text>VEB Rathenower Optische Werke</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 6978489</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1953</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Rathenow</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1953?</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>10 transparencies and one plastic viewer.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA9200 B4 St163</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: AA9200B4Stl63_00.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6667" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: Images 3 x 4 cm on mount 5 x 10 cm in box 6 x 18 x 13 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178012.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/stalinallee/stalinallee</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Stalinallee</text>
+      </Title>
+      <Description>
+        <text>10 stereograph views of the Stalinallee, accompanied by one viewer.</text>
+      </Description>
+      <Creator>
+        <text>Row-Optik Rathenow</text>
+      </Creator>
+      <Publisher>
+        <text>VEB Rathenower Optische Werke</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 6978489</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1953</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Rathenow</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1953?</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>10 transparencies and one plastic viewer.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA9200 B4 St163</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178012.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6666" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: Images 3 x 4 cm on mount 5 x 10 cm in box 6 x 18 x 13 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178011.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/stalinallee/stalinallee</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Stalinallee</text>
+      </Title>
+      <Description>
+        <text>10 stereograph views of the Stalinallee, accompanied by one viewer.</text>
+      </Description>
+      <Creator>
+        <text>Row-Optik Rathenow</text>
+      </Creator>
+      <Publisher>
+        <text>VEB Rathenower Optische Werke</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 6978489</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1953</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Rathenow</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1953?</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>10 transparencies and one plastic viewer.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA9200 B4 St163</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178011.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6665" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 11 x 14 x 1 cm (closed), expanding to 75 cm (open)</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178066.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/tunnelbooks/areaorama</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Areaorama : a view in the Regents Park. View of side of peep show showing how it is constructed</text>
+      </Title>
+      <Description>
+        <text>A telescopic peep show comprised of 8 hand-coloured, cut-out engravings on cardboard panels, connected top and bottom by lighter paper (folded accordian style), with a peephole on the first panel.</text>
+      </Description>
+      <Creator>
+        <text>Fuller, S. (Samuel)</text>
+        <text>Fuller, J. (Joseph)</text>
+      </Creator>
+      <Publisher>
+        <text>Fuller, S. (Samuel) and J. (Joseph)</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 8644322</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1824-05-04</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London (34 Rathbone Place)</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>May 1, 1824</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+        <text>peepshows</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>In slipcase, as issued.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA9065 L8 Ar31 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178066.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6664" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 11 x 14 x 1 cm (closed), expanding to 75 cm (open)</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178065.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/tunnelbooks/areaorama</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Areaorama : a view in the Regents Park. View through peep show </text>
+      </Title>
+      <Description>
+        <text>A telescopic peep show comprised of 8 hand-coloured, cut-out engravings on cardboard panels, connected top and bottom by lighter paper (folded accordian style), with a peephole on the first panel.</text>
+      </Description>
+      <Creator>
+        <text>Fuller, S. (Samuel)</text>
+        <text>Fuller, J. (Joseph)</text>
+      </Creator>
+      <Publisher>
+        <text>Fuller, S. (Samuel) and J. (Joseph)</text>
+      </Publisher>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 8644322</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1824-05-03 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London (34 Rathbone Place)</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>May 1, 1824</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+        <text>peepshows</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>In slipcase, as issued.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA9065 L8 Ar31 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178065.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6663" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 11 x 14 x 1 cm (closed), expanding to 75 cm (open)</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178064.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/tunnelbooks/areaorama</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Areaorama : a view in the Regents Park. View of case with peep show next to it, closed</text>
+      </Title>
+      <Description>
+        <text>A telescopic peep show comprised of 8 hand-coloured, cut-out engravings on cardboard panels, connected top and bottom by lighter paper (folded accordian style), with a peephole on the first panel.</text>
+      </Description>
+      <Creator>
+        <text>Fuller, S. (Samuel)</text>
+        <text>Fuller, J. (Joseph)</text>
+      </Creator>
+      <Publisher>
+        <text>Fuller, S. (Samuel) and J. (Joseph)</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 8644322</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1824-05-02</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London (34 Rathbone Place)</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>May 1, 1824</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+        <text>peepshows</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>In slipcase, as issued.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA9065 L8 Ar31 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178064.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6662" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 11 x 14 x 1 cm (closed), expanding to 75 cm (open)</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178063.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/tunnelbooks/areaorama</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Areaorama : a view in the Regents Park. View of case closed</text>
+      </Title>
+      <Description>
+        <text>A telescopic peep show comprised of 8 hand-coloured, cut-out engravings on cardboard panels, connected top and bottom by lighter paper (folded accordian style), with a peephole on the first panel.</text>
+      </Description>
+      <Creator>
+        <text>Fuller, S. (Samuel)</text>
+        <text>Fuller, J. (Joseph)</text>
+      </Creator>
+      <Publisher>
+        <text>Fuller, S. (Samuel) and J. (Joseph)</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 8644322</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1824-05-01</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London (34 Rathbone Place)</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>May 1, 1824</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+        <text>peepshows</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>In slipcase, as issued.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA9065 L8 Ar31 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178063.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6661" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 1 v. ([6)] leaves) : col. ill. ; 13 x 18 cm + 1 notebook ([18] p. : ill. ; 11 cm)</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178062.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/tunnelbooks/paris</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Paris. Detail of expanded peep show from the side</text>
+      </Title>
+      <Description>
+        <text>A tunnel book, or peep show, that is part of an ongoing series of artists' books referencing old travel guidebooks and maps. This view of Paris is from the top floor of the Institut de Monde Arabe. The images were painted on pages from Les Guides Bleus published in 1952.</text>
+      </Description>
+      <Creator>
+        <text>Davidson, Laura</text>
+      </Creator>
+      <Publisher>
+        <text>Laura Davidson</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 8644340</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2006</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Boston</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>2006</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+        <text>peepshows</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Images were painted directly on guidebook pages, then offset printed and accordian bound on sides by hand. Number 397 from an edition of 500. Issued in an envelope, with a hand-painted "stamp" of Paris pasted onto the upper right corner.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA1045 D28</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178062.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6660" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 1 v. ([6)] leaves) : col. ill. ; 13 x 18 cm + 1 notebook ([18] p. : ill. ; 11 cm)</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178061.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/tunnelbooks/paris</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Paris. View through peep show open</text>
+      </Title>
+      <Description>
+        <text>A tunnel book, or peep show, that is part of an ongoing series of artists' books referencing old travel guidebooks and maps. This view of Paris is from the top floor of the Institut de Monde Arabe. The images were painted on pages from Les Guides Bleus published in 1952.</text>
+      </Description>
+      <Creator>
+        <text>Davidson, Laura</text>
+      </Creator>
+      <Publisher>
+        <text>Laura Davidson</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 8644340</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2006</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Boston</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>2006</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+        <text>peepshows</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Images were painted directly on guidebook pages, then offset printed and accordian bound on sides by hand. Number 397 from an edition of 500. Issued in an envelope, with a hand-painted "stamp" of Paris pasted onto the upper right corner.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA1045 D28</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178061.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6659" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 1 v. ([6)] leaves) : col. ill. ; 13 x 18 cm + 1 notebook ([18] p. : ill. ; 11 cm)</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178060.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/tunnelbooks/paris</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Paris. View of peep show closed</text>
+      </Title>
+      <Description>
+        <text>A tunnel book, or peep show, that is part of an ongoing series of artists' books referencing old travel guidebooks and maps. This view of Paris is from the top floor of the Institut de Monde Arabe. The images were painted on pages from Les Guides Bleus published in 1952.</text>
+      </Description>
+      <Creator>
+        <text>Davidson, Laura</text>
+      </Creator>
+      <Publisher>
+        <text>Laura Davidson</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 8644340</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2006</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Boston</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>2006</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+        <text>peepshows</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Images were painted directly on guidebook pages, then offset printed and accordian bound on sides by hand. Number 397 from an edition of 500. Issued in an envelope, with a hand-painted "stamp" of Paris pasted onto the upper right corner.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA1045 D28</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178060.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6658" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 1 tunnel book (6 panels) : col. ill., map ; 14 x 18 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178059.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/tunnelbooks/venice</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Venice : Piazza San Marco. Detail of expanded peep show from the side</text>
+      </Title>
+      <Description>
+        <text>A tunnel book, or peep show, that is part of an ongoing series of artists' books referencing old travel guidebooks and maps. </text>
+      </Description>
+      <Creator>
+        <text>Davidson, Laura</text>
+      </Creator>
+      <Publisher>
+        <text>Laura Davidson</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 8644341</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2010</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Boston</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>2010</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+        <text>peepshows</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Five layers of cut-out illustrations, offset printed and accordion bound on sides by hand. Number 71 from an edition of 500. Issued in an envelope, with a hand-painted "stamp" of Venice pasted onto the upper right corner.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA1116 V5 D28</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178059.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6657" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 1 tunnel book (6 panels) : col. ill., map ; 14 x 18 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178058.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/tunnelbooks/venice</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Venice : Piazza San Marco.  View through peep show open</text>
+      </Title>
+      <Description>
+        <text>A tunnel book, or peep show, that is part of an ongoing series of artists' books referencing old travel guidebooks and maps. </text>
+      </Description>
+      <Creator>
+        <text>Davidson, Laura</text>
+      </Creator>
+      <Publisher>
+        <text>Laura Davidson</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 8644341</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2010</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Boston</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>2010</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+        <text>peepshows</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Five layers of cut-out illustrations, offset printed and accordion bound on sides by hand. Number 71 from an edition of 500. Issued in an envelope, with a hand-painted "stamp" of Venice pasted onto the upper right corner.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA1116 V5 D28</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178058.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6656" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 1 tunnel book (6 panels) : col. ill., map ; 14 x 18 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178057.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/tunnelbooks/venice</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Venice : Piazza San Marco. View of peep show closed</text>
+      </Title>
+      <Description>
+        <text>A tunnel book, or peep show, that is part of an ongoing series of artists' books referencing old travel guidebooks and maps. </text>
+      </Description>
+      <Creator>
+        <text>Davidson, Laura</text>
+      </Creator>
+      <Publisher>
+        <text>Laura Davidson</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 8644341</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2010</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Boston</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>2010</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+        <text>peepshows</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Five layers of cut-out illustrations, offset printed and accordion bound on sides by hand. Number 71 from an edition of 500. Issued in an envelope, with a hand-painted "stamp" of Venice pasted onto the upper right corner.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA1116 V5 D28</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178057.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6655" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 17 x 18 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178056.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/tunnelbooks/lanestelescopic</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Lane's telescopic view of the interior of the Great Industrial Exhibition. View of peep show open from side</text>
+      </Title>
+      <Description>
+        <text>A peep show comprised of cutout prints on board, attached to cloth at the sides, folded accordion style; extended it presents a telescopic view.</text>
+        <text>Front panel has imprint: Printed by C. Moody, 257 High Holborn; signed in the stone: T.J. Rawlins del.</text>
+      </Description>
+      <Creator>
+        <text>Rawlins, Thomas J.</text>
+      </Creator>
+      <Publisher>
+        <text>C. Lane</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 7779289</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1851</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London, 46 Stanhope St, Hampstead Rd.</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1851</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>prints</text>
+        <text>peepshows</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>10 lithograph prints. Issued in slipcase.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA6750 L8 L24</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178056.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6654" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 17 x 18 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178055.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/tunnelbooks/lanestelescopic</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Lane's telescopic view of the interior of the Great Industrial Exhibition. View through open peep show</text>
+      </Title>
+      <Description>
+        <text>A peep show comprised of cutout prints on board, attached to cloth at the sides, folded accordion style; extended it presents a telescopic view.</text>
+        <text>Front panel has imprint: Printed by C. Moody, 257 High Holborn; signed in the stone: T.J. Rawlins del.</text>
+      </Description>
+      <Creator>
+        <text>Rawlins, Thomas J.</text>
+      </Creator>
+      <Publisher>
+        <text>C. Lane</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 7779289</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1851</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London, 46 Stanhope St, Hampstead Rd.</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1851</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>prints</text>
+        <text>peepshows</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>10 lithograph prints. Issued in slipcase.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA6750 L8 L24</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178055.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6653" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 17 x 18 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178054.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/tunnelbooks/lanestelescopic</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Lane's telescopic view of the interior of the Great Industrial Exhibition. View of peep show out of case</text>
+      </Title>
+      <Description>
+        <text>A peep show comprised of cutout prints on board, attached to cloth at the sides, folded accordion style; extended it presents a telescopic view.</text>
+        <text>Front panel has imprint: Printed by C. Moody, 257 High Holborn; signed in the stone: T.J. Rawlins del.</text>
+      </Description>
+      <Creator>
+        <text>Rawlins, Thomas J.</text>
+      </Creator>
+      <Publisher>
+        <text>C. Lane</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 7779289</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1851</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London, 46 Stanhope St, Hampstead Rd.</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1851</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>prints</text>
+        <text>peepshows</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>10 lithograph prints. Issued in slipcase.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA6750 L8 L24</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178054.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6652" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 17 x 18 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178053.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/tunnelbooks/lanestelescopic</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Lane's telescopic view of the interior of the Great Industrial Exhibition. Detail into peep show showing the towers in the center in perspective</text>
+      </Title>
+      <Description>
+        <text>A peep show comprised of cutout prints on board, attached to cloth at the sides, folded accordion style; extended it presents a telescopic view.</text>
+        <text>Front panel has imprint: Printed by C. Moody, 257 High Holborn; signed in the stone: T.J. Rawlins del.</text>
+      </Description>
+      <Creator>
+        <text>Rawlins, Thomas J.</text>
+      </Creator>
+      <Publisher>
+        <text>C. Lane</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 7779289</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1851</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London, 46 Stanhope St, Hampstead Rd.</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1851</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>prints</text>
+        <text>peepshows</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>10 lithograph prints. Issued in slipcase.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA6750 L8 L24</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178053.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6651" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 17 x 18 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178052.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/tunnelbooks/lanestelescopic</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Lane's telescopic view of the interior of the Great Industrial Exhibition. View of peep show closed in case</text>
+      </Title>
+      <Description>
+        <text>A peep show comprised of cutout prints on board, attached to cloth at the sides, folded accordion style; extended it presents a telescopic view.</text>
+        <text>Front panel has imprint: Printed by C. Moody, 257 High Holborn; signed in the stone: T.J. Rawlins del.</text>
+      </Description>
+      <Creator>
+        <text>Rawlins, Thomas J.</text>
+      </Creator>
+      <Publisher>
+        <text>C. Lane</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 7779289</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1851</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London, 46 Stanhope St, Hampstead Rd.</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1851</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>prints</text>
+        <text>peepshows</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>10 lithograph prints. Issued in slipcase.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA6750 L8 L24</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178052.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6650" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 7 x 9-8 x 11 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178051.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/dancecard/dancecard</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Ball der Architekten 24. Jan. 98.  Clasp</text>
+      </Title>
+      <Description>
+        <text>Dance card to an architectural ball, comprised of three and a half folded postcards with title "Nachrichten vom Ball des Architekten", a single decorated card with the title. </text>
+        <text>Image on one postcard signed Alois Ludwig.</text>
+      </Description>
+      <Creator>
+        <text>Ludwig, Alois, 1872-1972</text>
+      </Creator>
+      <Identifier>
+        <text>CLIO id: 9096235</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1898</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Vienna</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1898</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+        <text>dance cards</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Cards are housed in a brass wire form to which a wine colored ribbon is attached. Attached to the ribbon is a brass hook.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA635 B208 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178051.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6649" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 7 x 9-8 x 11 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178050.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/dancecard/dancecard</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Ball der Architekten 24. Jan. 98.  Back of card, showing building</text>
+      </Title>
+      <Description>
+        <text>Dance card to an architectural ball, comprised of three and a half folded postcards with title "Nachrichten vom Ball des Architekten", a single decorated card with the title. </text>
+        <text>Image on one postcard signed Alois Ludwig.</text>
+      </Description>
+      <Creator>
+        <text>Ludwig, Alois, 1872-1971</text>
+      </Creator>
+      <Identifier>
+        <text>CLIO id: 9096235</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1898</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Vienna</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1898</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+        <text>dance cards</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Cards are housed in a brass wire form to which a wine colored ribbon is attached. Attached to the ribbon is a brass hook.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA635 B208 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178050.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6648" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 7 x 9-8 x 11 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178049.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/dancecard/dancecard</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Ball der Architekten 24. Jan. 98.  View of cards taken out of holder</text>
+      </Title>
+      <Description>
+        <text>Dance card to an architectural ball, comprised of three and a half folded postcards with title "Nachrichten vom Ball des Architekten", a single decorated card with the title. </text>
+        <text>Image on one postcard signed Alois Ludwig.</text>
+      </Description>
+      <Creator>
+        <text>Ludwig, Alois, 1872-1970</text>
+      </Creator>
+      <Identifier>
+        <text>CLIO id: 9096235</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1898</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Vienna</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1898</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+        <text>dance cards</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Cards are housed in a brass wire form to which a wine colored ribbon is attached. Attached to the ribbon is a brass hook.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA635 B208 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178049.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6647" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 7 x 9-8 x 11 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178048.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/dancecard/dancecard</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Ball der Architekten 24. Jan. 98.  View of front card</text>
+      </Title>
+      <Description>
+        <text>Dance card to an architectural ball, comprised of three and a half folded postcards with title "Nachrichten vom Ball des Architekten", a single decorated card with the title. </text>
+        <text>Image on one postcard signed Alois Ludwig.</text>
+      </Description>
+      <Creator>
+        <text>Ludwig, Alois, 1872-1969</text>
+      </Creator>
+      <Identifier>
+        <text>CLIO id: 9096235</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1898</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Vienna</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1898</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+        <text>dance cards</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Cards are housed in a brass wire form to which a wine colored ribbon is attached. Attached to the ribbon is a brass hook.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA635 B208 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178048.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6646" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 9 x 40 cm., in case 5 x 11 x 41 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178047.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/arch/arch</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Arch. Detail of cutouts in pages</text>
+      </Title>
+      <Description>
+        <text>Book consists of double sided, accordion-folded sections sewn together in pairs; illustrated with pop-ups and papercuts and is letterpress printed.</text>
+        <text>Paper architects: Jenny Karin Morrill; Ali Standish; Alycia Lang; Jennifer Wineke; Mandesha Marcus; Catherine Wang; Kathryn Hunt; Ilse Wogau; Jennifer Cohen, Winnie Ding.</text>
+      </Description>
+      <Creator>
+        <text>Scripps College. Press.</text>
+        <text>Maryatt, Kitty</text>
+      </Creator>
+      <Publisher>
+        <text>Scripps College Press</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 7779957</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2010</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Claremont, CA</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>2010</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+        <text>artists' books</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>"This book was built by ten women paper architects. Their tools were knives and bone folders, and four Vandercook printing presses. They blended three typefaces ...: Garamond, Ehrhardt, and Fournier."--Colophon. In a clear acrylic slipcase as issued. Edition limited to 109 copies, signed by the artists.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA650 Ar2437</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178047.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6645" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 9 x 40 cm., in case 5 x 11 x 41 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178046.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/arch/arch</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Arch. Detail of pages with one typeface</text>
+      </Title>
+      <Description>
+        <text>Book consists of double sided, accordion-folded sections sewn together in pairs; illustrated with pop-ups and papercuts and is letterpress printed.</text>
+        <text>Paper architects: Jenny Karin Morrill; Ali Standish; Alycia Lang; Jennifer Wineke; Mandesha Marcus; Catherine Wang; Kathryn Hunt; Ilse Wogau; Jennifer Cohen, Winnie Ding.</text>
+      </Description>
+      <Creator>
+        <text>Scripps College. Press.</text>
+        <text>Maryatt, Kitty</text>
+      </Creator>
+      <Publisher>
+        <text>Scripps College Press</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 7779957</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2010</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Claremont, CA</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>2010</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+        <text>artists' books</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>"This book was built by ten women paper architects. Their tools were knives and bone folders, and four Vandercook printing presses. They blended three typefaces ...: Garamond, Ehrhardt, and Fournier."--Colophon. In a clear acrylic slipcase as issued. Edition limited to 109 copies, signed by the artists.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA650 Ar2437</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178046.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6644" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 9 x 40 cm., in case 5 x 11 x 41 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178045.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/arch/arch</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Arch. View of book extended out</text>
+      </Title>
+      <Description>
+        <text>Book consists of double sided, accordion-folded sections sewn together in pairs; illustrated with pop-ups and papercuts and is letterpress printed.</text>
+        <text>Paper architects: Jenny Karin Morrill; Ali Standish; Alycia Lang; Jennifer Wineke; Mandesha Marcus; Catherine Wang; Kathryn Hunt; Ilse Wogau; Jennifer Cohen, Winnie Ding.</text>
+      </Description>
+      <Creator>
+        <text>Scripps College. Press.</text>
+        <text>Maryatt, Kitty</text>
+      </Creator>
+      <Publisher>
+        <text>Scripps College Press</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 7779957</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2010</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Claremont, CA</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>2010</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+        <text>artists' books</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>"This book was built by ten women paper architects. Their tools were knives and bone folders, and four Vandercook printing presses. They blended three typefaces ...: Garamond, Ehrhardt, and Fournier."--Colophon. In a clear acrylic slipcase as issued. Edition limited to 109 copies, signed by the artists.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA650 Ar2437</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178045.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6643" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 9 x 40 cm., in case 5 x 11 x 41 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178044.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/arch/arch</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Arch. View of book in case</text>
+      </Title>
+      <Description>
+        <text>Book consists of double sided, accordion-folded sections sewn together in pairs; illustrated with pop-ups and papercuts and is letterpress printed.</text>
+        <text>Paper architects: Jenny Karin Morrill; Ali Standish; Alycia Lang; Jennifer Wineke; Mandesha Marcus; Catherine Wang; Kathryn Hunt; Ilse Wogau; Jennifer Cohen, Winnie Ding.</text>
+      </Description>
+      <Creator>
+        <text>Scripps College. Press.</text>
+        <text>Maryatt, Kitty</text>
+      </Creator>
+      <Publisher>
+        <text>Scripps College Press</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 7779957</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2010</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Claremont, CA</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>2010</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+        <text>artists' books</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>"This book was built by ten women paper architects. Their tools were knives and bone folders, and four Vandercook printing presses. They blended three typefaces ...: Garamond, Ehrhardt, and Fournier."--Colophon. In a clear acrylic slipcase as issued. Edition limited to 109 copies, signed by the artists.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA650 Ar2437</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178044.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6642" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 21 x 27 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178043.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/anaglyphes/fontainebleau</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Fontainebleau en relief par les anaglyphes. Cover of book with glasses next to it</text>
+      </Title>
+      <Description>
+        <text>Views in the album can be seen in relief by using the accompanying two-colour eye-glass inserted in the inside front cover.</text>
+      </Description>
+      <Publisher>
+        <text>Les Editions en Anaglyphes (Kauffmann)</text>
+      </Publisher>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 9116815</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1937 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Paris</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1937</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+        <text>3-D books</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Book includes 3-D glasses</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA535 F7 F738</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178043.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6641" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 21 x 27 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178042.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/anaglyphes/fontainebleau</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Fontainebleau en relief par les anaglyphes. View of book open</text>
+      </Title>
+      <Description>
+        <text>Views in the album can be seen in relief by using the accompanying two-colour eye-glass inserted in the inside front cover.</text>
+      </Description>
+      <Publisher>
+        <text>Les Editions en Anaglyphes (Kauffmann)</text>
+      </Publisher>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 9116815</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1937 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Paris</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1937</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+        <text>3-D books</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Book includes 3-D glasses</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA535 F7 F738</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178042.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6640" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 21 x 27 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178041.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/anaglyphes/istanbul</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Fontainebleau en relief par les anaglyphes. Image shown through glasses</text>
+      </Title>
+      <Description>
+        <text>Views in the album can be seen in relief by using the accompanying two-colour eye-glass inserted in the inside front cover.</text>
+      </Description>
+      <Publisher>
+        <text>Les Editions en Anaglyphes (Kauffmann)</text>
+      </Publisher>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 9116815</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1937 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Paris</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1937</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+        <text>3-D books</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Book includes 3-D glasses</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA535 F7 F738</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178041.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6639" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 21 x 27 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178040.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/anaglyphes/istanbul</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Istanbul : kabartma fotograflarla. Cover of book with glasses next to it</text>
+      </Title>
+      <Description>
+        <text>Views of Museum of Ayasophia, Cistern of Philoxenius, Aqueducto of Valance, Mosque of Sultan Ahmet (Blue Mosque), Fountain of Ahmet III, University Gate, Mosque of Süleymaniye, Mosque of Beyazit, Old Seraglio: Pavilion of Bagdat, Old Seraglio: Pavilion of Revan, Mosque of Yenicami, Interior View of the Mosque of Süleymaniye, the Courtyard of the Mosque of Beyazıt, the Palace of Dolmabahçe, the Tower of the Bosphorus, Independence Street (İstiklâl Cad.), Eyüb and the Golden Horn</text>
+      </Description>
+      <Publisher>
+        <text>Saray Kitabevi</text>
+        <text>Les E?ditions en Anaglyphes </text>
+      </Publisher>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 9116762</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1900 1999</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Istanbul</text>
+        <text>Paris</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>19--</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+        <text>3-D books</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Views in the album can be seen in relief by using the accompanying two-colour eye-glass inserted in the inside front cover</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA1365 Is76</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178040.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6638" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 21 x 27 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178039.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/anaglyphes/istanbul</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Istanbul : kabartma fotograflarla. View of book open</text>
+      </Title>
+      <Description>
+        <text>Views of Museum of Ayasophia, Cistern of Philoxenius, Aqueducto of Valance, Mosque of Sultan Ahmet (Blue Mosque), Fountain of Ahmet III, University Gate, Mosque of Süleymaniye, Mosque of Beyazit, Old Seraglio: Pavilion of Bagdat, Old Seraglio: Pavilion of Revan, Mosque of Yenicami, Interior View of the Mosque of Süleymaniye, the Courtyard of the Mosque of Beyazıt, the Palace of Dolmabahçe, the Tower of the Bosphorus, Independence Street (İstiklâl Cad.), Eyüb and the Golden Horn</text>
+      </Description>
+      <Publisher>
+        <text>Saray Kitabevi</text>
+        <text>Les E?ditions en Anaglyphes </text>
+      </Publisher>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 9116762</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1900 1999</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Istanbul</text>
+        <text>Paris</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>19--</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+        <text>3-D books</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Views in the album can be seen in relief by using the accompanying two-colour eye-glass inserted in the inside front cover</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA1365 Is76</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178039.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6637" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 21 x 27 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178038.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/anaglyphes/fontainebleau</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Istanbul : kabartma fotograflarla. Image shown through glasses</text>
+      </Title>
+      <Description>
+        <text>Views of Museum of Ayasophia, Cistern of Philoxenius, Aqueducto of Valance, Mosque of Sultan Ahmet (Blue Mosque), Fountain of Ahmet III, University Gate, Mosque of Süleymaniye, Mosque of Beyazit, Old Seraglio: Pavilion of Bagdat, Old Seraglio: Pavilion of Revan, Mosque of Yenicami, Interior View of the Mosque of Süleymaniye, the Courtyard of the Mosque of Beyazıt, the Palace of Dolmabahçe, the Tower of the Bosphorus, Independence Street (İstiklâl Cad.), Eyüb and the Golden Horn</text>
+      </Description>
+      <Publisher>
+        <text>Saray Kitabevi</text>
+        <text>Les E?ditions en Anaglyphes </text>
+      </Publisher>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 9116762</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1900 </text>
+        <text>1999 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Istanbul</text>
+        <text>Paris</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>19--</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+        <text>3-D books</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Views in the album can be seen in relief by using the accompanying two-colour eye-glass inserted in the inside front cover</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA1365 Is76</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178038.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6636" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 9 x 6 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178037.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/decksofcards/playarchitecture</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Play architecture. View with cards fanned out</text>
+      </Title>
+      <Description>
+        <text>Deck of cards containing portraits of twentieth-century architects and buildings</text>
+      </Description>
+      <Creator>
+        <text>Rakennustieto Oy (Helsinki, Finland)</text>
+      </Creator>
+      <Publisher>
+        <text>Rakennustieto</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 5494709</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1990</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Helsinki</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>c. 1990</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>playing cards</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Standard 54-card deck, plus one title card in a plastic box; the theme of the pack is twentieth century architecture, the four suites: [diamonds] pre-modernism, [spades] modernism, [hearts] post-modernism, [clubs] de-structuralism</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA650 P698 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178037.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6635" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 9 x 6 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178036.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/decksofcards/playarchitecture</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Play architecture. View with cards fanned out</text>
+      </Title>
+      <Description>
+        <text>Deck of cards containing portraits of twentieth-century architects and buildings</text>
+      </Description>
+      <Creator>
+        <text>Rakennustieto Oy (Helsinki, Finland)</text>
+      </Creator>
+      <Publisher>
+        <text>Rakennustieto</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 5494709</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1990</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Helsinki</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>c. 1990</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>playing cards</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Standard 54-card deck, plus one title card in a plastic box; the theme of the pack is twentieth century architecture, the four suites: [diamonds] pre-modernism, [spades] modernism, [hearts] post-modernism, [clubs] de-structuralism</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA650 P698 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178036.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6634" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 9 x 6 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178035.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/decksofcards/playarchitecture</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Play architecture. Reverse of title card (rules)</text>
+      </Title>
+      <Description>
+        <text>Deck of cards containing portraits of twentieth-century architects and buildings</text>
+      </Description>
+      <Creator>
+        <text>Rakennustieto Oy (Helsinki, Finland)</text>
+      </Creator>
+      <Publisher>
+        <text>Rakennustieto</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 5494709</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1990</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Helsinki</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>c. 1990</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>playing cards</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Standard 54-card deck, plus one title card in a plastic box; the theme of the pack is twentieth century architecture, the four suites: [diamonds] pre-modernism, [spades] modernism, [hearts] post-modernism, [clubs] de-structuralism</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA650 P698 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178035.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6633" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 9 x 6 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178034.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/decksofcards/playarchitecture</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Play architecture. Image of cards in case with title card on top</text>
+      </Title>
+      <Description>
+        <text>Deck of cards containing portraits of twentieth-century architects and buildings</text>
+      </Description>
+      <Creator>
+        <text>Rakennustieto Oy (Helsinki, Finland)</text>
+      </Creator>
+      <Publisher>
+        <text>Rakennustieto</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 5494709</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1990</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Helsinki</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>c. 1990</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>playing cards</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Standard 54-card deck, plus one title card in a plastic box; the theme of the pack is twentieth century architecture, the four suites: [diamonds] pre-modernism, [spades] modernism, [hearts] post-modernism, [clubs] de-structuralism</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA650 P698 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178034.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6632" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 1-1/2" length of nutshell</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178033.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/stlouisinanutshell/stlouisinanutshell</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>St. Louis Exposition in a Nutshell. Detail of an interior foldout including an architect's name</text>
+      </Title>
+      <Description>
+        <text>Nutshell case containing photographic views of the Louisiana Purchase Exposition held in St. Louis in 1904</text>
+      </Description>
+      <Creator>
+        <text>Nutshell Novelty Company</text>
+      </Creator>
+      <Publisher>
+        <text>Nutshell Novelty Company</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 600865</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1904</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Chicago, IL</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>c1904</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Photographs of the exposition mounted on accordion-style paper, enclosed in a nutshell case with a red, white, and blue string tie</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA6750 Sa2 1904 N8</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178033.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6631" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 1-1/2" length of nutshell</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178032.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/stlouisinanutshell/stlouisinanutshell</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>St. Louis Exposition in a Nutshell. Open nutshell showing opening of photographs inside</text>
+      </Title>
+      <Description>
+        <text>Nutshell case containing photographic views of the Louisiana Purchase Exposition held in St. Louis in 1904</text>
+      </Description>
+      <Creator>
+        <text>Nutshell Novelty Company</text>
+      </Creator>
+      <Publisher>
+        <text>Nutshell Novelty Company</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 600865</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1904</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Chicago, IL</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>c1904</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Photographs of the exposition mounted on accordion-style paper, enclosed in a nutshell case with a red, white, and blue string tie</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA6750 Sa2 1904 N8</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178032.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6630" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 1-1/2" length of nutshell</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178031.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/stlouisinanutshell/stlouisinanutshell</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>St. Louis Exposition in a Nutshell. Closed nutshell</text>
+      </Title>
+      <Description>
+        <text>Nutshell case containing photographic views of the Louisiana Purchase Exposition held in St. Louis in 1904</text>
+      </Description>
+      <Creator>
+        <text>Nutshell Novelty Company</text>
+      </Creator>
+      <Publisher>
+        <text>Nutshell Novelty Company</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 600865</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1904</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Chicago, IL</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>c1904</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Photographs of the exposition mounted on accordion-style paper, enclosed in a nutshell case with a red, white, and blue string tie</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA6750 Sa2 1904 N8</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178031.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6629" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 2" diameter for case</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178030.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/buildingsofnyc/buildingsofnyc</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Buildings in New York. Case open showing photographs on accordion folds within</text>
+      </Title>
+      <Description>
+        <text>Comprises twelve round albumen print photos, mounted accordion-style on one folded strip of paper. Housed in and attached to a covered round thermoplastic case (2" in diameter).</text>
+      </Description>
+      <Creator>
+        <text>Boston Diatite Company</text>
+      </Creator>
+      <Publisher>
+        <text>Boston Diatite Company</text>
+      </Publisher>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 573808</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1870 1876</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Boston, MA</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>between 1870 and 1877</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Albumen photographs of St. George's Church, Tabernacle Church, Academy of Design, Union Square, Grand Hotel, Grand Opera House, Academy of Music, Residence of A.T. Stewart, City Hall, Everett House, Union League House, St. Luke's Hospital.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA735 N4 1870 B65 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178030.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6628" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 2" diameter for case</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178029.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/buildingsofnyc/buildingsofnyc</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Buildings in New York. Case cover, closed</text>
+      </Title>
+      <Description>
+        <text>Comprises twelve round albumen print photos, mounted accordion-style on one folded strip of paper. Housed in and attached to a covered round thermoplastic case (2" in diameter).</text>
+      </Description>
+      <Creator>
+        <text>Boston Diatite Company</text>
+      </Creator>
+      <Publisher>
+        <text>Boston Diatite Company</text>
+      </Publisher>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 573808</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1870 1876</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Boston, MA</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>between 1870 and 1876</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Albumen photographs of St. George's Church, Tabernacle Church, Academy of Design, Union Square, Grand Hotel, Grand Opera House, Academy of Music, Residence of A.T. Stewart, City Hall, Everett House, Union League House, St. Luke's Hospital.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA735 N4 1870 B65 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178029.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6627" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 29 x 40 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178028.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/sherwinwilliams/sherwinwilliams</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Sherwin-Williams paints for exterior and interior use on structures, vehicles, etc., etc... Close-up of several dissembled puzzle pieces</text>
+      </Title>
+      <Description>
+        <text>Double-sided jigsaw puzzle with an advertisement for Sherwin-Williams paints on one side and Clemens' map of the United States on the other</text>
+      </Description>
+      <Creator>
+        <text>Sherwin-Williams Company</text>
+        <text>Clemens, E. J. </text>
+      </Creator>
+      <Publisher>
+        <text>Sherwin-Williams Company; E.J. Clemens</text>
+      </Publisher>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 6444583</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1887 1893</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Clayville, NY</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>between 1887 and 1895</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Jigsaw puzzle with 49 pieces, paper glued on wood</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AT6050 SH58 1887 F</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178028.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6626" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 29 x 40 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178027.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/sherwinwilliams/sherwinwilliams</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Sherwin-Williams paints for exterior and interior use on structures, vehicles, etc., etc... Whole puzzle with all pieces completed, United States map side up</text>
+      </Title>
+      <Description>
+        <text>Double-sided jigsaw puzzle with an advertisement for Sherwin-Williams paints on one side and Clemens' map of the United States on the other</text>
+      </Description>
+      <Creator>
+        <text>Sherwin-Williams Company</text>
+        <text>Clemens, E. J. </text>
+      </Creator>
+      <Publisher>
+        <text>Sherwin-Williams Company; E.J. Clemens</text>
+      </Publisher>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 6444583</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1887 1893</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Clayville, NY</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>between 1887 and 1894</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Jigsaw puzzle with 49 pieces, paper glued on wood</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AT6050 SH58 1887 F</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178027.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6625" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 29 x 40 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178026.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/sherwinwilliams/sherwinwilliams</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Sherwin-Williams paints for exterior and interior use on structures, vehicles, etc., etc... Whole puzzle with all pieces completed, Sherwin-Williams advertisement side up</text>
+      </Title>
+      <Description>
+        <text>Double-sided jigsaw puzzle with an advertisement for Sherwin-Williams paints on one side and Clemens' map of the United States on the other</text>
+      </Description>
+      <Creator>
+        <text>Sherwin-Williams Company</text>
+        <text>Clemens, E. J. </text>
+      </Creator>
+      <Publisher>
+        <text>Sherwin-Williams Company; E.J. Clemens</text>
+      </Publisher>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 6444583</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1887 1893</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Clayville, NY</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>between 1887 and 1893</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Jigsaw puzzle with 49 pieces, paper glued on wood</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AT6050 SH58 1887 F</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178026.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6624" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 7 x 11 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178025.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/decksofcards/windsorcastle</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Views of the interior and exterior of Windsor Castle : forming a supplemental volume to the Mansions of England. View with cards fanned out</text>
+      </Title>
+      <Description>
+        <text>Interior and exterior views of Windsor castle, forming a supplement to Joseph Nash's Mansions of England</text>
+      </Description>
+      <Creator>
+        <text>Nash, Joseph, 1809-1880</text>
+      </Creator>
+      <Publisher>
+        <text>McLean</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 8554732</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1852</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1852</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Red leather case containing 25 photoprints</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA447 W6 N2533 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178025.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6623" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 7 x 11 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178024.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/decksofcards/windsorcastle</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Views of the interior and exterior of Windsor Castle : forming a supplemental volume to the Mansions of England. Front of leather case, open, with cards arranged next to it in a stack</text>
+      </Title>
+      <Description>
+        <text>Interior and exterior views of Windsor castle, forming a supplement to Joseph Nash's Mansions of England</text>
+      </Description>
+      <Creator>
+        <text>Nash, Joseph, 1809-1879</text>
+      </Creator>
+      <Publisher>
+        <text>McLean</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 8554732</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1852</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1852</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Red leather case containing 25 photoprints</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA447 W6 N2533 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178024.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6622" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 7 x 11 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178023.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/decksofcards/windsorcastle</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Views of the interior and exterior of Windsor Castle : forming a supplemental volume to the Mansions of England. Front of leather case, closed</text>
+      </Title>
+      <Description>
+        <text>Interior and exterior views of Windsor castle, forming a supplement to Joseph Nash's Mansions of England</text>
+      </Description>
+      <Creator>
+        <text>Nash, Joseph, 1809-1878</text>
+      </Creator>
+      <Publisher>
+        <text>McLean</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 8554732</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1852</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1852</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Red leather case containing 25 photoprints</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA447 W6 N2533 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178023.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6621" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: [84] p. (incl. cover) illus. 25 cm. and case (16 rolls of illus.) 28 cm.</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178022.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/documenta/documenta</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Documenta; the Paolo Soleri retrospective. View of case closed</text>
+      </Title>
+      <Description>
+        <text>Catalog of an exhibition held at the Corcoran Gallery of Art, February 20-April 5, 1970</text>
+      </Description>
+      <Creator>
+        <text>Wall, Donald</text>
+      </Creator>
+      <Publisher>
+        <text>Corcoran Gallery of Art</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 348807</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1970</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Washington, D.C.</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1970</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Case and sixteen rolls of illustrations</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA685 So43 W1533</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178022.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6620" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: [84] p. (incl. cover) illus. 25 cm. and case (16 rolls of illus.) 28 cm.</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178021.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/documenta/documenta</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Documenta; the Paolo Soleri retrospective. View of case open</text>
+      </Title>
+      <Description>
+        <text>Catalog of an exhibition held at the Corcoran Gallery of Art, February 20-April 5, 1970</text>
+      </Description>
+      <Creator>
+        <text>Wall, Donald</text>
+      </Creator>
+      <Publisher>
+        <text>Corcoran Gallery of Art</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 348807</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1970</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Washington, D.C.</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1970</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Case and sixteen rolls of illustrations</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA685 So43 W1533</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178021.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6619" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: [84] p. (incl. cover) illus. 25 cm. and case (16 rolls of illus.) 28 cm.</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178020.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/documenta/documenta</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Documenta; the Paolo Soleri retrospective. Unrolled illustration with case</text>
+      </Title>
+      <Description>
+        <text>Catalog of an exhibition held at the Corcoran Gallery of Art, February 20-April 5, 1970</text>
+      </Description>
+      <Creator>
+        <text>Wall, Donald</text>
+      </Creator>
+      <Publisher>
+        <text>Corcoran Gallery of Art</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 348807</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1970</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Washington, D.C.</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1970</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Case and sixteen rolls of illustrations</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA685 So43 W1533</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178020.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6618" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: [84] p. (incl. cover) illus. 25 cm. and case (16 rolls of illus.) 28 cm.</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178019.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/documenta/documenta</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Documenta; the Paolo Soleri retrospective. Unrolled illustration with case</text>
+      </Title>
+      <Description>
+        <text>Catalog of an exhibition held at the Corcoran Gallery of Art, February 20-April 5, 1970</text>
+      </Description>
+      <Creator>
+        <text>Wall, Donald</text>
+      </Creator>
+      <Publisher>
+        <text>Corcoran Gallery of Art</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 348807</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1970</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Washington, D.C.</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1970</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Case and sixteen rolls of illustrations</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA685 So43 W1533</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178019.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6617" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 11 x 18 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178018.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/masonictemple/masonictemple</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Masonic Temple New York City . Close-up of three cards</text>
+      </Title>
+      <Description>
+        <text>Stereographs of the Masonic Temple located on the northeast corner of 23rd Street and 6th Avenue. The building was designed by N. Le Brun, its cornerstone laid on June 8th, 1870. The building was dedicated on June 2nd 1875. </text>
+      </Description>
+      <Creator>
+        <text>E. &amp; H.T. Anthony (Firm)</text>
+      </Creator>
+      <Publisher>
+        <text>E. and H.T. Anthony &amp; Co.</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 6030281</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1875</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>ca. 1875?</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>26 photographic prints on stereo cards</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA735 N4 ZM383 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178018.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6616" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 11 x 18 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178017.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/masonictemple/masonictemple</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Masonic Temple New York City . View of case, open with cards fanned out </text>
+      </Title>
+      <Description>
+        <text>Stereographs of the Masonic Temple located on the northeast corner of 23rd Street and 6th Avenue. The building was designed by N. Le Brun, its cornerstone laid on June 8th, 1870. The building was dedicated on June 2nd 1875. </text>
+      </Description>
+      <Creator>
+        <text>E. &amp; H.T. Anthony (Firm)</text>
+      </Creator>
+      <Publisher>
+        <text>E. and H.T. Anthony &amp; Co.</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 6030281</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1875</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>ca. 1875?</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>26 photographic prints on stereo cards</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA735 N4 ZM383 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178017.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6615" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 11 x 18 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178016.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Masonic Temple New York City . View of case, closed</text>
+      </Title>
+      <Description>
+        <text>Stereographs of the Masonic Temple located on the northeast corner of 23rd Street and 6th Avenue. The building was designed by N. Le Brun, its cornerstone laid on June 8th, 1870. The building was dedicated on June 2nd 1875. </text>
+      </Description>
+      <Creator>
+        <text>E. &amp; H.T. Anthony (Firm)</text>
+      </Creator>
+      <Publisher>
+        <text>E. and H.T. Anthony &amp; Co.</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 6030281</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1875</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>ca. 1875?</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>26 photographic prints on stereo cards</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA735 N4 ZM383 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178016.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6614" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: Images 4 cm diameter, on mount 11 x 19 x 19 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178015.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/souvenirs/staugustine</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Saint Augustine, Florida. View of novelty from side</text>
+      </Title>
+      <Description>
+        <text>Novelty format with lithographic illustrations</text>
+      </Description>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 7703177</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1880 1890</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Saint Augustine, Florida?</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>Between 1880 and 1890</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Sixteen lithographic images are mounted in a structure which resembles a lotus flower or a standing rib roast. Each image is mounted on blue board with gold decoration, eight images in the upper half facing inward, eight in the lower half facing outward. In the center of the upper half is a color image of (local?) flora.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA735 Sa18 Sa18 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178015.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6613" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: Images 4 cm diameter, on mount 11 x 19 x 19 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178014.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/souvenirs/staugustine</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Saint Augustine, Florida. View of novelty from side</text>
+      </Title>
+      <Description>
+        <text>Novelty format with lithographic illustrations</text>
+      </Description>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 7703177</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1880 1890</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Saint Augustine, Florida?</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>Between 1880 and 1890</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Sixteen lithographic images are mounted in a structure which resembles a lotus flower or a standing rib roast. Each image is mounted on blue board with gold decoration, eight images in the upper half facing inward, eight in the lower half facing outward. In the center of the upper half is a color image of (local?) flora.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA735 Sa18 Sa18 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178014.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6612" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: Images 4 cm diameter, on mount 11 x 19 x 19 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178013.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/souvenirs/staugustine</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Saint Augustine, Florida. View of novelty from top</text>
+      </Title>
+      <Description>
+        <text>Novelty format with lithographic illustrations</text>
+      </Description>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 7703177</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1880 1890</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Saint Augustine, Florida?</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>Between 1880 and 1890</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Sixteen lithographic images are mounted in a structure which resembles a lotus flower or a standing rib roast. Each image is mounted on blue board with gold decoration, eight images in the upper half facing inward, eight in the lower half facing outward. In the center of the upper half is a color image of (local?) flora.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA735 Sa18 Sa18 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178013.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6611" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: Illustrations 9 x 7 cm, in case 7 x 10 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178010.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/decksofcards/goodluck</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Souvenir of New York. Detail of one card</text>
+      </Title>
+      <Description>
+        <text>Deck of playing cards with photographs of buildings in New York City</text>
+      </Description>
+      <Creator>
+        <text>Loeffler, A. (August J.)</text>
+      </Creator>
+      <Identifier>
+        <text>CLIO id: 9065448</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1911</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York?</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>ca. 1911</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>playing cards</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Leather case containing 52 playing cards with photographic views.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA735 N4 So893 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178010.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6610" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: Illustrations 9 x 7 cm, in case 7 x 10 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178009.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/decksofcards/goodluck</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Souvenir of New York. View of five or six cards fanned out</text>
+      </Title>
+      <Description>
+        <text>Deck of playing cards with photographs of buildings in New York City</text>
+      </Description>
+      <Creator>
+        <text>Loeffler, A. (August J.)</text>
+      </Creator>
+      <Identifier>
+        <text>CLIO id: 9065448</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1911</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York?</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>ca. 1911</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>playing cards</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Leather case containing 52 playing cards with photographic views.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA735 N4 So893 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178009.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6609" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: Illustrations 9 x 7 cm, in case 7 x 10 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178008.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/decksofcards/goodluck</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Souvenir of New York. View of case with "Good Luck" cover</text>
+      </Title>
+      <Description>
+        <text>Deck of playing cards with photographs of buildings in New York City</text>
+      </Description>
+      <Creator>
+        <text>Loeffler, A. (August J.)</text>
+      </Creator>
+      <Identifier>
+        <text>CLIO id: 9065448</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1911</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York?</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>ca. 1911</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>playing cards</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>Leather case containing 52 playing cards with photographic views.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA735 N4 So893 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178008.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6608" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 26 cm circumference, folded to 13 x 8 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178007.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/souvenirs/washington</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Washington, D.C. : novelty format with lithographic illustrations. Detail of one of the building images</text>
+      </Title>
+      <Description>
+        <text>Paper fold-out novelty with lithographic illustrations of Washington, D.C.</text>
+      </Description>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 9065372</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1880 1890</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Washington, D.C.</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>Between 1880 and 1890?</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>The novelty of this piece is its form, unfolded it looks like a doily; folded it looks like a folded fan. Comprises 28 images of buildings and other sites in Washington D.C.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA735 W2 W285 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178007.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6607" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 26 cm circumference, folded to 13 x 8 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178006.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/souvenirs/washington</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Washington, D.C. : novelty format with lithographic illustrations. View of paper folded with flower on top</text>
+      </Title>
+      <Description>
+        <text>Paper fold-out novelty with lithographic illustrations of Washington, D.C.</text>
+      </Description>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 9065372</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1880 1890</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Washington, D.C.</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>Between 1880 and 1890?</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>The novelty of this piece is its form, unfolded it looks like a doily; folded it looks like a folded fan. Comprises 28 images of buildings and other sites in Washington D.C.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA735 W2 W285 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178006.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6606" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 26 cm circumference, folded to 13 x 8 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178005.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/souvenirs/washington</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Washington, D.C. : novelty format with lithographic illustrations. View of paper unfolded</text>
+      </Title>
+      <Description>
+        <text>Paper fold-out novelty with lithographic illustrations of Washington, D.C.</text>
+      </Description>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 9065372</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1880 1890</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Washington, D.C.</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>Between 1880 and 1890?</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>The novelty of this piece is its form, unfolded it looks like a doily; folded it looks like a folded fan. Comprises 28 images of buildings and other sites in Washington D.C.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA735 W2 W285 S</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178005.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="6605" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 16 leaves; each illustration 24 x 16 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178004.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/modelvillage/modelvillage</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Model village for sand table and project work. Dutch Colonial house</text>
+      </Title>
+      <Description>
+        <text>Unmade paper model in sheet form showing a model village. Each object is intended to be colored, cut out and mounted.</text>
+      </Description>
+      <Creator>
+        <text>Ross, Penny</text>
+      </Creator>
+      <Publisher>
+        <text>Ideal School Supply Co.</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 9046277</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1924</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Chicago, IL</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1924</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>One sheet of instructions, one sheet depicting a car, one sheet depicting accessories including a flag, a fountain and traffic signals, three sheets depicting people, and ten sheets depicting buildings including: a Studio, a Post Office, the Police and Fire Station, the Drugs Store, the Grocery Shop, a Hotel, a Church, a two Houses and a Bandstand.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA9105 R73</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178004.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6604" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 16 leaves; each illustration 24 x 16 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178003.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/modelvillage/modelvillage</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Model village for sand table and project work. Grocery store, general store</text>
+      </Title>
+      <Description>
+        <text>Unmade paper model in sheet form showing a model village. Each object is intended to be colored, cut out and mounted.</text>
+      </Description>
+      <Creator>
+        <text>Ross, Penny</text>
+      </Creator>
+      <Publisher>
+        <text>Ideal School Supply Co.</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 9046277</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1924</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Chicago, IL</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1924</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>One sheet of instructions, one sheet depicting a car, one sheet depicting accessories including a flag, a fountain and traffic signals, three sheets depicting people, and ten sheets depicting buildings including: a Studio, a Post Office, the Police and Fire Station, the Drugs Store, the Grocery Shop, a Hotel, a Church, a two Houses and a Bandstand.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA9105 R73</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178003.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6603" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 16 leaves; each illustration 24 x 16 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/modelvillage/modelvillage</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Model village for sand table and project work. View of police and fire station card</text>
+      </Title>
+      <Description>
+        <text>Unmade paper model in sheet form showing a model village. Each object is intended to be colored, cut out and mounted.</text>
+      </Description>
+      <Creator>
+        <text>Ross, Penny</text>
+      </Creator>
+      <Publisher>
+        <text>Ideal School Supply Co.</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 9046277</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1924</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Chicago, IL</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1924</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>One sheet of instructions, one sheet depicting a car, one sheet depicting accessories including a flag, a fountain and traffic signals, three sheets depicting people, and ten sheets depicting buildings including: a Studio, a Post Office, the Police and Fire Station, the Drugs Store, the Grocery Shop, a Hotel, a Church, a two Houses and a Bandstand.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA9105 R73</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178002.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="6602" public="1" featured="0">
+    <OmekaCollection>Avery’s Architectural Novelties</OmekaCollection>
+    <ItemType>Still Image<text>Physical Dimensions: 16 leaves; each illustration 24 x 16 cm</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.lampdev.columbia.edu/o/arch/110178001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.cul.columbia.edu/exhibits/show/novelties/modelvillage/modelvillage</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Model village for sand table and project work. View of cover</text>
+      </Title>
+      <Description>
+        <text>Unmade paper model in sheet form showing a model village. Each object is intended to be colored, cut out and mounted.</text>
+      </Description>
+      <Creator>
+        <text>Ross, Penny</text>
+      </Creator>
+      <Publisher>
+        <text>Ideal School Supply Co.</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO id: 9046277</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1924</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Chicago, IL</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1924</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <PhysicalDescription>
+        <text>One sheet of instructions, one sheet depicting a car, one sheet depicting accessories including a flag, a fountain and traffic signals, three sheets depicting people, and ten sheets depicting buildings including: a Studio, a Post Office, the Police and Fire Station, the Drugs Store, the Grocery Shop, a Hotel, a Church, a two Houses and a Bandstand.</text>
+      </PhysicalDescription>
+      <RepositoryName>
+        <text>Avery Architectural and Fine Arts Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Avery Classics Collection</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>AA9105 R73</text>
+      </ShelfLocation>
+      <Notes>
+        <text>original filename: 110178001.tif</text>
+      </Notes>
+    </MODS>
+  </item>
+</itemContainer>
+
+
