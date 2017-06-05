@@ -7,7 +7,7 @@ This GitHub page will be used to store data, XSLT, and comments/issues found as 
 
 Omeka -> MODS workflow and documents:
 -----------------------------------------------------------
-Current Workflow (last updated July 2014):
+Current Workflow (last updated June 2017):
 * Digital Projects Librarian prioritizes exhibitions for remediation based on current needs and notifies metadata staff.
 * Metadata staff download the bibliographic/descriptive metadata in bulk for each Omeka Collection.
 * Metadata staff upload the metadata into OpenRefine for remediation following guidelines discussed in Workflow Meeting Notes.
