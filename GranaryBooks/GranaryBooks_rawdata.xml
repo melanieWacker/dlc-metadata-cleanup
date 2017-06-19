@@ -1,0 +1,3902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--The name of each XML element representing an Omeka element or element set is
+based on the name of the element or element set in Omeka. For example:
+     The "Dublin Core" element set is represented by the DublinCore XML element
+     The "Form Genre" element in MODS is represented by the FormGenre XML element
+
+The following XML elements are based on internal Omeka data:
+     The OriginalFileLoadedIntoOmeka XML element contains the name/path of
+     of the file(s) loaded into Omeka for the given item.
+     The OmekaCollection XML element contains the name of the Omeka collection
+     containing the item, if the item belongs to an Omeka collection. Please note
+     that this element is different from the Collection element in MODS, which is
+     curator-populated.
+-->
+<itemContainer>
+  <item itemId="9146" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500073.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Clay, Steven, 1951-</text>
+      </Creator>
+      <Title>
+        <text>Secret Location on the Lower East Side. Page 55 pulled out</text>
+      </Title>
+      <Date>
+        <text>1998</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_2144559</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1998</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 1998 C57</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>23 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9145" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500072.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Clay, Steven, 1951-</text>
+      </Creator>
+      <Title>
+        <text>Secret Location on the Lower East Side. Cover</text>
+      </Title>
+      <Date>
+        <text>1998</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_2144559</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1998</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 1998 C57</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>23 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9144" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500071.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Blake, William, 1757-1827</text>
+      </Creator>
+      <Title>
+        <text>Marriage of Heaven and Hell: a reading and study. Spread: "The giants who formed this world"</text>
+      </Title>
+      <Date>
+        <text>1993</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_1481348</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1993</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232 .H425 1993 B58</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>33 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9143" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500070.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Blake, William, 1757-1827</text>
+      </Creator>
+      <Title>
+        <text>Marriage of Heaven and Hell: a reading and study. Title page</text>
+      </Title>
+      <Date>
+        <text>1993</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_1481348</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1993</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232 .H425 1993 B58</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>33 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9142" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500069.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Blake, William, 1757-1827</text>
+      </Creator>
+      <Title>
+        <text>Marriage of Heaven and Hell: a reading and study. Cover</text>
+      </Title>
+      <Date>
+        <text>1993</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_1481348</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1993</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232 .H425 1993 B58</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>33 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9141" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500068.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Saroyan, Aram</text>
+      </Creator>
+      <Title>
+        <text>Beatles. Back cover</text>
+      </Title>
+      <Date>
+        <text>2000</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_2812360</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2000</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART NC139.Sa7 2000 Sa7</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>8 x 11 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9140" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500067.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Saroyan, Aram</text>
+      </Creator>
+      <Title>
+        <text>Beatles. Spread five: Colophon</text>
+      </Title>
+      <Date>
+        <text>2000</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_2812360</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2000</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART NC139.Sa7 2000 Sa7</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>8 x 11 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9139" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500066.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Saroyan, Aram</text>
+      </Creator>
+      <Title>
+        <text>Beatles. Spread four: "Ringo Starr"</text>
+      </Title>
+      <Date>
+        <text>2000</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_2812360</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2000</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART NC139.Sa7 2000 Sa7</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>8 x 11 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9138" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500065.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Saroyan, Aram</text>
+      </Creator>
+      <Title>
+        <text>Beatles. Spread three: "George Harrison"</text>
+      </Title>
+      <Date>
+        <text>2000</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_2812360</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2000</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART NC139.Sa7 2000 Sa7</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>8 x 11 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9137" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500064.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Saroyan, Aram</text>
+      </Creator>
+      <Title>
+        <text>Beatles. Spread two: "Paul McCartney"</text>
+      </Title>
+      <Date>
+        <text>2000</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_2812360</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2000</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART NC139.Sa7 2000 Sa7</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>8 x 11 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9136" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500063.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Saroyan, Aram</text>
+      </Creator>
+      <Title>
+        <text>Beatles. Spread one: "John Lennon"</text>
+      </Title>
+      <Date>
+        <text>2000</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_2812360</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2000</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART NC139.Sa7 2000 Sa7</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>8 x 11 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9135" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500062.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Saroyan, Aram</text>
+      </Creator>
+      <Title>
+        <text>Beatles. Front cover</text>
+      </Title>
+      <Date>
+        <text>2000</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_2812360</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2000</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART NC139.Sa7 2000 Sa7</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>8 x 11 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9134" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500061.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Ashbery, John, 1927-</text>
+        <text>Winkfield, Trevor</text>
+      </Creator>
+      <Title>
+        <text>Faster than Birds Can Fly. First spread of poem</text>
+      </Title>
+      <Date>
+        <text>2009</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_7525740</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2009</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2009 A74</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>29 x 33 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9133" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500060.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Ashbery, John, 1927-</text>
+        <text>Winkfield, Trevor</text>
+      </Creator>
+      <Title>
+        <text>Faster than Birds Can Fly. Cover</text>
+      </Title>
+      <Date>
+        <text>2009</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_7525740</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2009</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2009 A74</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>29 x 33 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9132" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500059.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Drucker, Johanna, 1952-</text>
+      </Creator>
+      <Title>
+        <text>Word Made Flesh. Page 39: "Playing over the bare"</text>
+      </Title>
+      <Date>
+        <text>1996</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_1906264</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1996</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>PS3554.R68 W6 1996g</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>28 x 33 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9131" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500058.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Drucker, Johanna, 1952-</text>
+      </Creator>
+      <Title>
+        <text>Word Made Flesh. "The tongue it lay"</text>
+      </Title>
+      <Date>
+        <text>1996</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_1906264</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1996</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>PS3554.R68 W6 1996g</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>28 x 33 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9130" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500057.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>McVarish, Emily</text>
+      </Creator>
+      <Title>
+        <text>Flicker. Spread: "E E T A H"</text>
+      </Title>
+      <Date>
+        <text>2005</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_10899175</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2005</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Z232.G76 2005 M25</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>26 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9129" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500056.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>McVarish, Emily</text>
+      </Creator>
+      <Title>
+        <text>Flicker. "Last words" spread</text>
+      </Title>
+      <Date>
+        <text>2005</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_10899175</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2005</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Z232.G76 2005 M25</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>26 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9128" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500055.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Drucker, Johanna, 1952-</text>
+      </Creator>
+      <Title>
+        <text>Stochastic Poetics. Spread six before colophon "separate noise"</text>
+      </Title>
+      <Date>
+        <text>2012</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_10098968</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2012</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2012 D78</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>32 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9127" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500054.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Drucker, Johanna, 1952-</text>
+      </Creator>
+      <Title>
+        <text>Stochastic Poetics. Cover</text>
+      </Title>
+      <Date>
+        <text>2012</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_10098968</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2012</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2012 D78</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>32 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9126" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500053.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Vicun_a, Cecilia</text>
+      </Creator>
+      <Title>
+        <text>Chanccani Quipu. Piece unfolded</text>
+      </Title>
+      <Date>
+        <text>2012</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_9160481</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2012</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2012 V53</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>47 x 47 cm. + 1 booklet ([4] p., [1] fold. leaf of plates ; 36 cm.)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9125" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500052.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Vicun_a, Cecilia</text>
+      </Creator>
+      <Title>
+        <text>Chanccani Quipu. Piece folded up</text>
+      </Title>
+      <Date>
+        <text>2012</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_9160481</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2012</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2012 V53</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>47 x 47 cm. + 1 booklet ([4] p., [1] fold. leaf of plates ; 36 cm.)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9124" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500051.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Vicun_a, Cecilia</text>
+      </Creator>
+      <Title>
+        <text>Chanccani Quipu. Closed box</text>
+      </Title>
+      <Date>
+        <text>2012</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_9160481</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2012</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2012 V53</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>47 x 47 cm. + 1 booklet ([4] p., [1] fold. leaf of plates ; 36 cm.)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9123" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500050.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Celan, Paul</text>
+        <text>Joris, Pierre</text>
+      </Creator>
+      <Title>
+        <text>Four Poems. Poem 3: Unfolded</text>
+      </Title>
+      <Date>
+        <text>1999</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_3031343</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1999</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 1999 C33</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>23 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9122" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500049.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Celan, Paul</text>
+        <text>Joris, Pierre</text>
+      </Creator>
+      <Title>
+        <text>Four Poems. All four covers in box</text>
+      </Title>
+      <Date>
+        <text>1999</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_3031343</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1999</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 1999 C33</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>23 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9121" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500048.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Wodening, Jane, 1936-</text>
+      </Creator>
+      <Title>
+        <text>What the Ambulance Driver Said. Whole text (book folded out)</text>
+      </Title>
+      <Date>
+        <text>1998</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_8703123</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1998</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 1998 W81</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>15 x 25 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9120" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500047.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Wodening, Jane, 1936-</text>
+      </Creator>
+      <Title>
+        <text>What the Ambulance Driver Said. Cover, book folded up</text>
+      </Title>
+      <Date>
+        <text>1998</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_8703123</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1998</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 1998 W81</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>15 x 25 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9119" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500046.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Knowles, Alison, 1933-</text>
+      </Creator>
+      <Title>
+        <text>Time Samples. Spread from "on the previous day an all red salad"</text>
+      </Title>
+      <Date>
+        <text>2006</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_9042524</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2006</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2006 K76</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>17 cm in box 20 x 21 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9118" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500045.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Knowles, Alison, 1933-</text>
+      </Creator>
+      <Title>
+        <text>Time Samples. Cover</text>
+      </Title>
+      <Date>
+        <text>2006</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_9042524</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2006</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2006 K76</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>17 cm in box 20 x 21 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9117" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500044.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Spector, Buzz</text>
+      </Creator>
+      <Title>
+        <text>Passage. Shot from side showing perspective of the book</text>
+      </Title>
+      <Date>
+        <text>1994</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_10477154</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1994</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 1994 S74</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>22 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9116" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500043.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Spector, Buzz</text>
+      </Creator>
+      <Title>
+        <text>Passage. Last page (showing full text)</text>
+      </Title>
+      <Date>
+        <text>1994</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_10477154</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1994</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 1994 S74</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>22 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9115" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500042.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Spector, Buzz</text>
+      </Creator>
+      <Title>
+        <text>Passage. Book open to first page</text>
+      </Title>
+      <Date>
+        <text>1994</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_10477154</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1994</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 1994 S74</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>22 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9114" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500041.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Rothenberg, Jerome, 1931-</text>
+        <text>Bee, Susan</text>
+      </Creator>
+      <Title>
+        <text>Burning Babe and other Poems. Spread marked "3 variations and coda"</text>
+      </Title>
+      <Date>
+        <text>2005</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_8703148</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2005</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2005 R74</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>31 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9113" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500040.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Rothenberg, Jerome, 1931-</text>
+        <text>Bee, Susan</text>
+      </Creator>
+      <Title>
+        <text>Burning Babe and other Poems. Title page</text>
+      </Title>
+      <Date>
+        <text>2005</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_8703148</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2005</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2005 R74</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>31 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9112" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500039.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Rothenberg, Jerome, 1931-</text>
+        <text>Bee, Susan</text>
+      </Creator>
+      <Title>
+        <text>Burning Babe and other Poems. Cover</text>
+      </Title>
+      <Date>
+        <text>2005</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_8703148</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2005</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2005 R74</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>31 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9111" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500038.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Perelman, Bob</text>
+        <text>Shaw, Francie</text>
+      </Creator>
+      <Title>
+        <text>Playing Bodies. Spread numbered 16</text>
+      </Title>
+      <Date>
+        <text>2004</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_4813225</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2004</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2004 P41</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>19 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9110" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500037.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Perelman, Bob</text>
+        <text>Shaw, Francie</text>
+      </Creator>
+      <Title>
+        <text>Playing Bodies. Spread numbered 9</text>
+      </Title>
+      <Date>
+        <text>2004</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_4813225</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2004</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2004 P41</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>19 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9109" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500036.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Perelman, Bob</text>
+        <text>Shaw, Francie</text>
+      </Creator>
+      <Title>
+        <text>Playing Bodies. Spread numbered 21</text>
+      </Title>
+      <Date>
+        <text>2004</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_4813225</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2004</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2004 P41</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>19 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9108" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500035.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Perelman, Bob</text>
+        <text>Shaw, Francie</text>
+      </Creator>
+      <Title>
+        <text>Playing Bodies. Cover</text>
+      </Title>
+      <Date>
+        <text>2004</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_4813225</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2004</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2004 P41</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>19 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9107" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500034.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Bissett, Bill, 1939-</text>
+      </Creator>
+      <Title>
+        <text>Lunaria. Spread titled "va lava ava lettus et us"</text>
+      </Title>
+      <Date>
+        <text>2001</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_8703142</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2001</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2001 B54</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>28 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9106" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500033.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Bissett, Bill, 1939-</text>
+      </Creator>
+      <Title>
+        <text>Lunaria. Title page</text>
+      </Title>
+      <Date>
+        <text>2001</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_8703142</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2001</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2001 B54</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>28 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9105" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500032.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Bissett, Bill, 1939-</text>
+      </Creator>
+      <Title>
+        <text>Lunaria. Cover (in box)</text>
+      </Title>
+      <Date>
+        <text>2001</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_8703142</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2001</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2001 B54</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>28 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9104" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500031.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Grooms, Mimi Gross</text>
+      </Creator>
+      <Title>
+        <text>Proofs (18 of 27) </text>
+      </Title>
+      <Description>
+        <text>Original cover drawing for Some of these Daze</text>
+      </Description>
+      <Date>
+        <text>circa 2005</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2004 - 2005</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Granary Books records</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 78 Series 127 Folder entitled "Proofs (18 of 27) </text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>illustrations</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <Notes>
+        <text>Date inferred from publication schedule</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9103" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500030.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Grooms, Mimi Gross</text>
+        <text>Bernstein, Charles, 1950-</text>
+      </Creator>
+      <Title>
+        <text>Some of these Daze. Spread: "I may be paranoid"</text>
+      </Title>
+      <Date>
+        <text>2005</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_6897488</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2005</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2005 G89</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>27 x 28 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9102" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500029.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Grooms, Mimi Gross</text>
+        <text>Bernstein, Charles, 1950-</text>
+      </Creator>
+      <Title>
+        <text>Some of these Daze. Cover</text>
+      </Title>
+      <Date>
+        <text>2005</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_6897488</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2005</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2005 G89</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>27 x 28 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9101" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500028.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Welish, Marjorie, 1944-</text>
+      </Creator>
+      <Title>
+        <text>Oaths? Questions?. Spread that reads "Shattering the map of Manhattan"</text>
+      </Title>
+      <Date>
+        <text>2009</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_7525738</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2009</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 1994 W45</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>30 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9100" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500027.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Welish, Marjorie, 1944-</text>
+      </Creator>
+      <Title>
+        <text>Oaths? Questions?. Spread reads "matrix enfolds pattern"</text>
+      </Title>
+      <Date>
+        <text>2009</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_7525738</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2009</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 1994 W45</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>30 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9099" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500026.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Welish, Marjorie, 1944-</text>
+      </Creator>
+      <Title>
+        <text>Oaths? Questions?. Cover</text>
+      </Title>
+      <Date>
+        <text>2009</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_7525738</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2009</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 1994 W45</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>30 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9098" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500025.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Scalapino, Leslie</text>
+        <text>Smith, Kiki, 1954-</text>
+      </Creator>
+      <Title>
+        <text>Animal is in the World like Water in Water. Spread that begins "a day is only light ivory by only rosy black"</text>
+      </Title>
+      <Date>
+        <text>2010</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_7632029</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2010</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2010 Sc42</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>40 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9097" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500024.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Scalapino, Leslie</text>
+        <text>Smith, Kiki, 1954-</text>
+      </Creator>
+      <Title>
+        <text>Animal is in the World like Water in Water. Spread that begins, "Capacity of speaking</text>
+      </Title>
+      <Date>
+        <text>2010</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_7632029</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2010</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2010 Sc42</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>40 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9096" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500023.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Scalapino, Leslie</text>
+        <text>Smith, Kiki, 1954-</text>
+      </Creator>
+      <Title>
+        <text>Animal is in the World like Water in Water. Title page and page that begins, "but the girl," and page that begins "a man's reordering" - if possible, include pages in between</text>
+      </Title>
+      <Date>
+        <text>2010</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_7632029</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2010</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2010 Sc42</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>40 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9095" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500022.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Spicer, Jack</text>
+      </Creator>
+      <Title>
+        <text>Rabbits do not know what they are. </text>
+      </Title>
+      <Date>
+        <text>1986</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_8703119</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1986</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <FormGenre>
+        <text>prints</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9094" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500021.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Fahrner, Barbara</text>
+        <text>Gallo, Philip</text>
+      </Creator>
+      <Title>
+        <text>Nods. Spread: "If we drop beauty what have we got"</text>
+      </Title>
+      <Date>
+        <text>1990</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_10477149</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1990</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 1990 F34</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>34</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9093" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500020.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Fahrner, Barbara</text>
+        <text>Gallo, Philip</text>
+      </Creator>
+      <Title>
+        <text>Nods. Title page</text>
+      </Title>
+      <Date>
+        <text>1990</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_10477149</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1990</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 1990 F34</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>34</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9092" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500019.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Fahrner, Barbara</text>
+        <text>Gallo, Philip</text>
+      </Creator>
+      <Title>
+        <text>Nods. Cover (with binding)</text>
+      </Title>
+      <Date>
+        <text>1990</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_10477149</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1990</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 1990 F34</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>34</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9091" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500018.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Hejinian, Lyn</text>
+        <text>Clark, Emilie</text>
+      </Creator>
+      <Title>
+        <text>Lake. Poem: Spread 2 (also include poem spread 1)</text>
+      </Title>
+      <Date>
+        <text>2004</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_9042505</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2004</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2004 H36</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>21 x 21 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9090" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500017.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Hejinian, Lyn</text>
+        <text>Clark, Emilie</text>
+      </Creator>
+      <Title>
+        <text>Lake. Poem: Spread 1</text>
+      </Title>
+      <Date>
+        <text>2004</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_9042505</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2004</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2004 H36</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>21 x 21 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9089" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500016.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Hejinian, Lyn</text>
+        <text>Clark, Emilie</text>
+      </Creator>
+      <Title>
+        <text>Lake. Cover</text>
+      </Title>
+      <Date>
+        <text>2004</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_9042505</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2004</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2004 H36</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>21 x 21 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9088" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500015.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Knowles, Alison, 1933-</text>
+      </Creator>
+      <Title>
+        <text>Footnotes. Spread with note numbered 22</text>
+      </Title>
+      <Date>
+        <text>2000</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_2756460</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2000</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2000 K76</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>26 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9087" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500014.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Knowles, Alison, 1933-</text>
+      </Creator>
+      <Title>
+        <text>Footnotes. Spread with note numbered 16</text>
+      </Title>
+      <Date>
+        <text>2000</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_2756460</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2000</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2000 K76</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>26 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9086" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500013.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Knowles, Alison, 1933-</text>
+      </Creator>
+      <Title>
+        <text>Footnotes. Insert front side</text>
+      </Title>
+      <Date>
+        <text>2000</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_2756460</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2000</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2000 K76</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>26 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9085" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500012.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Knowles, Alison, 1933-</text>
+      </Creator>
+      <Title>
+        <text>Footnotes. Cover</text>
+      </Title>
+      <Date>
+        <text>2000</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_2756460</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2000</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2000 K76</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>26 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9084" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500011.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Bervin, Jen</text>
+        <text>Werner, Marta L., 1964-</text>
+      </Creator>
+      <Title>
+        <text>Gorgeous Nothings. Poem A821: Back</text>
+      </Title>
+      <Date>
+        <text>2012</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_9368855</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2012</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2012 B47</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>39 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9083" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500010.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Bervin, Jen</text>
+        <text>Werner, Marta L., 1964-</text>
+      </Creator>
+      <Title>
+        <text>Gorgeous Nothings. Poem A821: Front</text>
+      </Title>
+      <Date>
+        <text>2012</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_9368855</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2012</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2012 B47</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>39 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9082" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500009.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Bervin, Jen</text>
+        <text>Werner, Marta L., 1964-</text>
+      </Creator>
+      <Title>
+        <text>Gorgeous Nothings. Overview sheet verso</text>
+      </Title>
+      <Date>
+        <text>2012</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_9368855</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2012</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2012 B47</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>39 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9081" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500008.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Bervin, Jen</text>
+        <text>Werner, Marta L., 1964-</text>
+      </Creator>
+      <Title>
+        <text>Gorgeous Nothings. Overview sheet recto</text>
+      </Title>
+      <Date>
+        <text>2012</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_9368855</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2012</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2012 B47</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>39 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9080" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500007.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Bervin, Jen</text>
+        <text>Werner, Marta L., 1964-</text>
+      </Creator>
+      <Title>
+        <text>Gorgeous Nothings. Box cover</text>
+      </Title>
+      <Date>
+        <text>2012</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_9368855</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2012</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2012 B47</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>39 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9079" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500006.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Rower, Holton</text>
+      </Creator>
+      <Title>
+        <text>Non. Colophon</text>
+      </Title>
+      <Date>
+        <text>1995</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_10866514</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1995</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <PhysicalDescription>
+        <text>40 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9078" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500005.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Rower, Holton</text>
+      </Creator>
+      <Title>
+        <text>Non. Sand spread with fluorescent paint</text>
+      </Title>
+      <Date>
+        <text>1995</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_10866514</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1995</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <PhysicalDescription>
+        <text>40 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9077" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500004.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Rower, Holton</text>
+      </Creator>
+      <Title>
+        <text>Non. Title page</text>
+      </Title>
+      <Date>
+        <text>1995</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_10866514</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1995</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <PhysicalDescription>
+        <text>40 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9076" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500003.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Rower, Holton</text>
+      </Creator>
+      <Title>
+        <text>Non. Cover</text>
+      </Title>
+      <Date>
+        <text>1995</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_10866514</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1995</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <PhysicalDescription>
+        <text>40 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9075" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Bervin, Jen</text>
+      </Creator>
+      <Title>
+        <text>Dickinson Composites. Fabric sample 2</text>
+      </Title>
+      <Date>
+        <text>2010</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_8010472</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2010</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2010 B46</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>31 x 30 x 4 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="9074" public="1" featured="0">
+    <OmekaCollection>Granary Books</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/granary_140250/1402500001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Bervin, Jen</text>
+      </Creator>
+      <Title>
+        <text>Dickinson Composites. Fabric sample 1</text>
+      </Title>
+      <Date>
+        <text>2010</text>
+      </Date>
+      <Publisher>
+        <text>Granary Books</text>
+      </Publisher>
+      <Identifier>
+        <text>CLIO_8010472</text>
+      </Identifier>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2010</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>BOOKART Z232.G76 2010 B46</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>31 x 30 x 4 cm.</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+</itemContainer>
+
+

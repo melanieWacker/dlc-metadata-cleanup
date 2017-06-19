@@ -1,0 +1,4293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--The name of each XML element representing an Omeka element or element set is
+based on the name of the element or element set in Omeka. For example:
+     The "Dublin Core" element set is represented by the DublinCore XML element
+     The "Form Genre" element in MODS is represented by the FormGenre XML element
+
+The following XML elements are based on internal Omeka data:
+     The OriginalFileLoadedIntoOmeka XML element contains the name/path of
+     of the file(s) loaded into Omeka for the given item.
+     The OmekaCollection XML element contains the name of the Omeka collection
+     containing the item, if the item belongs to an Omeka collection. Please note
+     that this element is different from the Collection element in MODS, which is
+     curator-populated.
+-->
+<itemContainer>
+  <item itemId="5403" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_ga06_013_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <ShelfLocation>
+        <text>Box 24</text>
+        <text>Gumby's Autobiography: Number 6</text>
+      </ShelfLocation>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Gumby's Autobiography in Scrapbooks: Number 6, p. [9]</text>
+      </Title>
+      <Description>
+        <text>recto page, featuring a photograph captioned "Gumby at Columbia University 1949" and a copy of the Columbia Library World in a sleeve</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="5402" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_ga06_012_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <ShelfLocation>
+        <text>Box 24</text>
+        <text>Gumby's Autobiography: Number 6</text>
+      </ShelfLocation>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Gumby's Autobiography in Scrapbooks: Number 6, p. [8]</text>
+      </Title>
+      <Description>
+        <text>verso page, featuring a clipping from Caricature entitled "Gumby's Scrapbooks: Valuable Gift to Columbia"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="5401" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_ga05_058_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <ShelfLocation>
+        <text>Box 23</text>
+        <text>Gumby's Autobiography: Number 5</text>
+      </ShelfLocation>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Gumby's Autobiography in Scrapbooks: Number 5, p. [54]</text>
+      </Title>
+      <Description>
+        <text>verso page, featuring a photograph of Gumby (holding glasses and pipe) and the handwritten caption "In The Revella Hotel Gumby 1950"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="5400" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_ga04_021_001_002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <ShelfLocation>
+        <text>Box 22</text>
+        <text>Gumby's Autobiography: Number 4</text>
+      </ShelfLocation>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Gumby's Autobiography in Scrapbooks: Number 4, p. [17] [open]</text>
+      </Title>
+      <Description>
+        <text>recto with flap open features an assortment of photographs, with clipping that reads "Two Swell Pals to Have Around"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="5399" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_ga04_021_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <ShelfLocation>
+        <text>Box 22</text>
+        <text>Gumby's Autobiography: Number 4</text>
+      </ShelfLocation>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Gumby's Autobiography in Scrapbooks: Number 4, p. [17] [closed]</text>
+      </Title>
+      <Description>
+        <text>recto page with flap closed featuring a photograph and clipped poem titled "The Friend Who Just Stands By"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="5398" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_ga04_020_001_002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <ShelfLocation>
+        <text>Box 22</text>
+        <text>Gumby's Autobiography: Number 4</text>
+      </ShelfLocation>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Gumby's Autobiography in Scrapbooks: Number 4, p. [16] [open]</text>
+      </Title>
+      <Description>
+        <text>verso with flap open features a mix of photographs and signatures, as well as clipping at top that says "memories that are hard to forget"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="5397" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_ga04_020_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <ShelfLocation>
+        <text>Box 22</text>
+        <text>Gumby's Autobiography: Number 4</text>
+      </ShelfLocation>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Gumby's Autobiography in Scrapbooks: Number 4, p. [16] [closed]</text>
+      </Title>
+      <Description>
+        <text>verso page with closed flap featuring "They're All Glamorous" clipping</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="5396" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_ga03_049_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <ShelfLocation>
+        <text>Box 21</text>
+        <text>Gumby's Autobiography: Number 3</text>
+      </ShelfLocation>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Gumby's Autobiography in Scrapbooks: Number 3, p. [45]</text>
+      </Title>
+      <Description>
+        <text>recto page, with clippings that read: "Gumby's Book Studio: The Negro 'Renaissance'"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="5395" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0149_115_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <ShelfLocation>
+        <text>Box 19</text>
+        <text>Scrapbook 149</text>
+      </ShelfLocation>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>James Stewart, pt. 2, p. [113]</text>
+      </Title>
+      <Description>
+        <text>recto page, featuring a collage of ticket stubs in various colors</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="5394" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0145_021_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Odd, Strange and Curious, p. [19]</text>
+      </Title>
+      <Description>
+        <text>recto page, featuring engravings of the Herald Building, the New Casino, and the Metropolitan Opera House, as well as three clippings about New York history</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 170</text>
+        <text>Scrapbook 145</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5393" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0144_100_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Poetry, p. [98]</text>
+      </Title>
+      <Description>
+        <text>verso page, featuring clippings of poetry (including "A Night Thought," "The Gain," "The Three Hills," etc.)</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 169</text>
+        <text>Scrapbook 144</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5392" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0139_013_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Miscellaneous, p. [11]</text>
+      </Title>
+      <Description>
+        <text>recto page, featuring a line drawing of a nude with earring made of triangles, signed "Bruce"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 168</text>
+        <text>Scrapbook 139</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5391" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0136_025_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Williams and Walker, p. [23]</text>
+      </Title>
+      <Description>
+        <text>recto page, featuring sheet music titled "Song Libretto of Williams &amp; Walker's New Musical Comedy Creation: Bandanna Land"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 165</text>
+        <text>Scrapbook 136</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5390" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0136_024_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Williams and Walker, p. [22]</text>
+      </Title>
+      <Description>
+        <text>verso page, featuring a number of clippings (upper left is photograph captioned "Williams and Walker, in 'Bandanna Land,'"; clipping on sleeve headlined "Williams and Walker at the Folly Theatre,") as well as a program (tucked in sleeve) for the Majestic Theatre'</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 165</text>
+        <text>Scrapbook 136</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5389" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0134_005_001_002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Leigh Whipper, p. [3]</text>
+      </Title>
+      <Description>
+        <text>same as previous</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 163</text>
+        <text>Scrapbook 134</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5388" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0134_005_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Leigh Whipper, p. [3]</text>
+      </Title>
+      <Description>
+        <text>recto page, featuring a mounted program with a drawing of a banjo player on the cover (with two children looking at him)</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 163</text>
+        <text>Scrapbook 134</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5387" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0128_045_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Thurman, Wallace, Jean Toomer and Claude McKay, p. [43]</text>
+      </Title>
+      <Description>
+        <text>recto page, featuring a typed poem with handwritten title "For Wally Thurman"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 157</text>
+        <text>Scrapbook 128</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5386" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0127_035_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>They Broke Through Discrimination, p. [33]</text>
+      </Title>
+      <Description>
+        <text>recto page featuring four clippings under the heading "Your History," one each regarding "Rice Porter," "Marcos Lopez," "Marian Anderson," and "Hiram S. Thomas"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 156</text>
+        <text>Scrapbook 127</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5385" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0127_034_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>They Broke Through Discrimination, p. [32]</text>
+      </Title>
+      <Description>
+        <text>verso page featuring three clippings, one each regarding "Mabed Ibn Oubad," "W.E.B. Du Bois," and "William H. Lewis"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 156</text>
+        <text>Scrapbook 127</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5384" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0120_058_003_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Social Equality, pt. 3, p. [56] [item 3]</text>
+      </Title>
+      <Description>
+        <text>same as previous</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 149</text>
+        <text>Scrapbook 120</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5383" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0120_058_002_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Social Equality, pt. 3, p. [56] [item 2]</text>
+      </Title>
+      <Description>
+        <text>same as previous</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 149</text>
+        <text>Scrapbook 120</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5382" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0120_058_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Social Equality, pt. 3, p. [56] [item 1]</text>
+      </Title>
+      <Description>
+        <text>verso page, featuring three letters/press releases from the NAACP (the top one is dated November 16, 9125)</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 149</text>
+        <text>Scrapbook 120</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5381" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0119_027_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Social Equality, pt. 2, p. [25]</text>
+      </Title>
+      <Description>
+        <text>recto page, featuring a single clipping with headline: "Father Knickerbocker Honors Quartermaster"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 148</text>
+        <text>Scrapbook 119</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5380" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0119_026_001_002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Social Equality, pt. 2, p. [24]</text>
+      </Title>
+      <Description>
+        <text>verso page, featuring a foldout labelled "Poem to Licorish" on outside, with "Ballad of the Golden Hands of Lionel Licorish" on the inside</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 148</text>
+        <text>Scrapbook 119</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5379" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0117_073_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>William Shakespeare, p. [71]</text>
+      </Title>
+      <Description>
+        <text>recto page, featuring a handbill for "The Negro Theatre presents Shakespeare's 'Macbeth'" (hand-drawn with a mask in the upper-lefthand corner)</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 146</text>
+        <text>Scrapbook 117</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5378" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0116_043_001_002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>J.A. Rogers, p. [41]</text>
+      </Title>
+      <Description>
+        <text>recto page, featuring a sleeve with a booklet entitled "100 Amazing Facts About the Negro"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 145</text>
+        <text>Scrapbook 116</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5377" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0116_042_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>J.A. Rogers, p. [40]</text>
+      </Title>
+      <Description>
+        <text>verso page, featuring two clippings: the first reads "Ruminations," the second is called "Your History" and has a large portrait of Portia White</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 145</text>
+        <text>Scrapbook 116</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5376" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0112_083_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Paul Robeson, p. [81]</text>
+      </Title>
+      <Description>
+        <text>recto page, featuring several clippings (top right says: "Robeson Gets Praise"), as well as two black record labels that read "Victor"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 141</text>
+        <text>Scrapbook 112</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5375" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0109_061_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Porgy, p. [59]</text>
+      </Title>
+      <Description>
+        <text>recto page, featuring: a clipping at the top from the New York Herald Tribune, Sunday, May 27, 1928; two sleeves, one with a booklet that says "Porgy," the other says "Republic Theatre"; the sleeves have two ticket stubs and a clipping mounted on them</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 138</text>
+        <text>Scrapbook 109</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5374" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0097_045_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Negro in Stamps, p. 21 [recto]</text>
+      </Title>
+      <Description>
+        <text>recto page, featuring a handwritten "21" in bottom right corner and a printed caption at top that reads "Haiti," as well as an engraving of Touissaint L'ouverture and four stamps bearing a similar engraving (two stamps of 5 centimes each; two stamps of 2 centimes each)</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 126</text>
+        <text>Scrapbook 97</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5373" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0092_009_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Negro in Drama, pt. 2, p. [7]</text>
+      </Title>
+      <Description>
+        <text>recto page, featuring five clippings of reviews of "In Abraham's Bosom," including one with title "Play of Negro Spiritual Goes on View in 'Village'"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 121</text>
+        <text>Scrapbook 92</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5372" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0092_008_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Negro in Drama, pt. 2, p. [6]</text>
+      </Title>
+      <Description>
+        <text>verso page featuring a photograph of staged whipping, with caption "In Braham's Bosom: Julius Bledsoe &amp; H. Ben Smith"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 121</text>
+        <text>Scrapbook 92</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5371" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0089_038_001_003.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Negro in Bondage, p. [22 verso] [open: right]</text>
+      </Title>
+      <Description>
+        <text>right-hand side of verso page with flap open (in other words, the back of the flap); features 8 clippings related to slaves, including two from the Aurora, one titled "Cash in Market," and another titled "Trust Sale"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 118</text>
+        <text>Scrapbook 89</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5370" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0089_038_001_002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Negro in Bondage, p. [22 verso] [open: left]</text>
+      </Title>
+      <Description>
+        <text>left-hand side of verso page with flap open; includes a color postcard ("Washington's Mansion, Mount Vernon, Va."), a clipping ("Washington's Slaves") and a sleeve with a transparent cutout that reveals another clipping ("Marcus.")</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 118</text>
+        <text>Scrapbook 89</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5369" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0089_038_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Negro in Bondage, p. [22 verso] [closed]</text>
+      </Title>
+      <Description>
+        <text>verso page with flap closed; features 7 clippings (top right reads: "Washington City. Thursday, September 15, 1831"; top left reads: "Chambersburg. Tuesday Morning, April 6, 1830")</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 118</text>
+        <text>Scrapbook 89</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5368" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0088_013_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Negro in Baseball, p. [11]</text>
+      </Title>
+      <Description>
+        <text>recto page featuring a collage of baseball images: a ticket stub, a clipping about the National Association of Colored Baseball Clubs, a photograph of a player, and a couple of advertisements for games</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 117</text>
+        <text>Scrapbook 88</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5367" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0087_042_001_003.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>The Negro in Africa, pt. 2, p. [55 verso] [open]</text>
+      </Title>
+      <Description>
+        <text>verso page with two overlapping flaps--top flap features two engravings ("Camma Man and Woman" and "Ndiayai, King of the Cannibals"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 116</text>
+        <text>Scrapbook 87</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5366" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0082_008_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Negro Fighters, pt. 1, p. [6]</text>
+      </Title>
+      <Description>
+        <text>verso page, featuring a color engraving with the caption "Molineux" (boxer wearing gold pants and blue shoes)</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 111</text>
+        <text>Scrapbook 82</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5365" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0081_057_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Negro Entertainers, p. [55]</text>
+      </Title>
+      <Description>
+        <text>recto page, featuring the sheet music for the Club Alabam' Fantasies, 5th edition in 'Le Narcisse Noir'</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 110</text>
+        <text>Scrapbook 81</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5364" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0081_056_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Negro Entertainers, p. [54]</text>
+      </Title>
+      <Description>
+        <text>verso page, featuring a flyer for "The week-end's greatest treat. . .Club Alabam's Sunday Night Revue!," as well as three ads for the Club Alabam clipped from newspapers</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 110</text>
+        <text>Scrapbook 81</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5363" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0081_039_002_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Negro Entertainers, p. [37]</text>
+      </Title>
+      <Description>
+        <text>recto page, featuring a clipping that reads "About Things Theatrical" above a sleeve with the 1928 edition of "The Official Theatrical World of Colored Artists" guide</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 110</text>
+        <text>Scrapbook 81</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5362" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0081_010_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Negro Entertainers, p. [8]</text>
+      </Title>
+      <Description>
+        <text>verso page, featuring a handbill that says "Buffalo Gals" at the top, with an engraving of five women performers</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 110</text>
+        <text>Scrapbook 81</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5361" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0080_067_001_002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Negro Columnists, pt. 1, p. [65] [alternate view]</text>
+      </Title>
+      <Description>
+        <text>same as previous</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 108</text>
+        <text>Scrapbook 80</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5360" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0080_067_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Negro Columnists, pt. 1, p. [65]</text>
+      </Title>
+      <Description>
+        <text>recto page featuring 8 clipped articles, including "To the Negro Race--Greetings," "A Tempest in a Beer Mug," etc.</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 108</text>
+        <text>Scrapbook 80</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5359" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0074_049_001_002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Negro as Soldier, pt. 1, p. [22 recto] [open]</text>
+      </Title>
+      <Description>
+        <text>recto page with flap open; poster titled "The Civil War in the United States" with six etched scenes</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 103</text>
+        <text>Scrapbook 74</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5358" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0074_049_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Negro as Soldier, pt. 1, p. [22 recto] [closed]</text>
+      </Title>
+      <Description>
+        <text>recto page with flap closed; mounted on closed flap is a newspaper clipping titled "Called to the Colors!" and an additional clipping with numerous portrait photographs and the caption "Men Who Faced Death. . ."</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 103</text>
+        <text>Scrapbook 74</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5357" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0074_048_001_002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Negro as Soldier, pt. 1, p. [21 verso] [open]</text>
+      </Title>
+      <Description>
+        <text>verso page with flap open; color lithograph titled "United States Soldiers at Camp 'William Penn' Philadelphia, Pa."</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 103</text>
+        <text>Scrapbook 74</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5356" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0074_048_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Negro as Soldier, pt. 1, p. [21 verso] [closed]</text>
+      </Title>
+      <Description>
+        <text>verso page with flap closed; mounted on closed flap is a clipping from the New-York Times, dated November 29, 1862</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 103</text>
+        <text>Scrapbook 74</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5355" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0071_057_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>NAACP, pt. 1, p. [55]</text>
+      </Title>
+      <Description>
+        <text>recto page, featuring a Time magazine cover from January 24, 1938</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 100</text>
+        <text>Scrapbook 71</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5354" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0071_056_001_002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>NAACP, pt. 1, p. [54] [alternate view]</text>
+      </Title>
+      <Description>
+        <text>same as previous</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 100</text>
+        <text>Scrapbook 71</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5353" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0071_056_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>NAACP, pt. 1, p. [54]</text>
+      </Title>
+      <Description>
+        <text>verso page, featuring 4 items, including a booklet titled "Constitutionality of a Federal Antilynching Law"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 100</text>
+        <text>Scrapbook 71</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5352" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0065_085_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Lynchings and Race Riots, pt. 2, p. [83]</text>
+      </Title>
+      <Description>
+        <text>recto page, featuring 6 clippings about lynching, including "The Fate of the Lyncher," "Old Man Lynch," and "My Lynching Country"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 93</text>
+        <text>Scrapbook 65</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5351" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0058_052_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Joe Louis, pt. 4, p. [50]</text>
+      </Title>
+      <Description>
+        <text>verso page, features the program from the June 22, 1938 "Worlds Heavyweight Championship" bout between Joe Louis and Max Scmeling, along with several clippings</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 86</text>
+        <text>Scrapbook 58</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5350" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0053_058_002_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Little Theaters, pt. 1, p. [56] [item 2]</text>
+      </Title>
+      <Description>
+        <text>same as previous</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 81</text>
+        <text>Scrapbook 53</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5349" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0053_058_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Little Theaters, pt. 1, p. [56] [item 1]</text>
+      </Title>
+      <Description>
+        <text>verso page, features a yellow program from the American Negro Theatre attached on top of a single-sheet flyer that reads "You must visit. . ." at the top</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 81</text>
+        <text>Scrapbook 53</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5348" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0052_033_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Libraries, p. [31]</text>
+      </Title>
+      <Description>
+        <text>recto page features a sleeve that has several Bulletins of the New York Public Library in it, with a card for the 135th Street branch of the NYPL mounted on top of it</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 80</text>
+        <text>Scrapbook 52</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5347" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0052_032_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Libraries, p. [30]</text>
+      </Title>
+      <Description>
+        <text>verso page, featuring a calling card from Arhur A. Schomburg, a pamphlet titled "Placido: A Cuban Martyr," 2 clippings, and 2 notices from the New York Public Library</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 80</text>
+        <text>Scrapbook 52</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5346" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0050_077_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Jack Johnson, p. [75]</text>
+      </Title>
+      <Description>
+        <text>recto features handwritten: "My day at Hammersteins to see Jack Johnson" at top, along with a ticket, a door check, and a sleeve with a program for Hammerstein's ballroom</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 78</text>
+        <text>Scrapbook 50</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5345" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0050_076_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Jack Johnson, p. [74]</text>
+      </Title>
+      <Description>
+        <text>verso page features a matted photograph of shirtless boxer, signed "Jack Johnson"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 78</text>
+        <text>Scrapbook 50</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5344" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0049_019_001_002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Jewish-Prophet-Atheism, p. [17] [open]</text>
+      </Title>
+      <Description>
+        <text>same as previous</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 77</text>
+        <text>Scrapbook 49</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5343" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0049_019_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Jewish-Prophet-Atheism, p. [17]</text>
+      </Title>
+      <Description>
+        <text>recto page features a clipping  titled "Negro Rabbi Held on Theft Charge, sheet music for "Shine On, Eternal Light," and two other items</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 77</text>
+        <text>Scrapbook 49</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5342" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0049_018_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Jewish-Prophet-Atheism, p. [16]</text>
+      </Title>
+      <Description>
+        <text>verso page features a ticket and flyer for a " concert and dance" given by the Beth B'Nai Abraham congregation on January 8, 1925</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 77</text>
+        <text>Scrapbook 49</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5341" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0044_014_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Morris Hunter, p. [12]</text>
+      </Title>
+      <Description>
+        <text>verso page features 3 photographs of man in turban</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 72</text>
+        <text>Scrapbook 44</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5340" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0041_059_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Langston Hughes, p. [57]</text>
+      </Title>
+      <Description>
+        <text>recto page features a photograph inscribed "Sincerely is so commonplace--Langston"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 71</text>
+        <text>Scrapbook 41</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5339" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0041_058_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Langston Hughes, p. [56]</text>
+      </Title>
+      <Description>
+        <text>verso page, featuring a variety of clippings authored by Langston Hughes, including "Simple and Me," "Passing," and "Shame on You"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 71</text>
+        <text>Scrapbook 41</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5338" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0038_151_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <ShelfLocation>
+        <text>Box 15</text>
+        <text>Scrapbook 38</text>
+      </ShelfLocation>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Gumby Book Studio: Guest Book, p. 75 [recto]</text>
+      </Title>
+      <Description>
+        <text>recto page, featuring handwritten "75" in upper right corner, as well as signatures from Countee Cullen and "Bruce," with a drawing of Christ on the cross on the upper right</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="5337" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0038_131_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <ShelfLocation>
+        <text>Box 15</text>
+        <text>Scrapbook 38</text>
+      </ShelfLocation>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Gumby Book Studio: Guest Book, p. 64 [recto]</text>
+      </Title>
+      <Description>
+        <text>recto page, featuring handwritten "64" at top right corner, as well as "Mr. Hendrix party is on their way to Hot Shots" written at top of page</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="5336" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0038_130_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <ShelfLocation>
+        <text>Box 15</text>
+        <text>Scrapbook 38</text>
+      </ShelfLocation>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Gumby Book Studio: Guest Book, p. 63 [verso]</text>
+      </Title>
+      <Description>
+        <text>verso page, featuring an inscription from Maxwell Bodenheim at the top that begins "When you mix black and white. . ."</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="5335" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0036_061_001_002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <ShelfLocation>
+        <text>Box 66</text>
+        <text>Scrapbook 36</text>
+      </ShelfLocation>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Gumby's Book Studio, pt. 2, p. 52 [open]</text>
+      </Title>
+      <Description>
+        <text>with flap open: large-format poster that reads "The Arts Ball: 'Alexander Gumby Benefit'" at top</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="5334" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0036_061_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <ShelfLocation>
+        <text>Box 66</text>
+        <text>Scrapbook 36</text>
+      </ShelfLocation>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Gumby's Book Studio, pt. 2, p. 52 [closed]</text>
+      </Title>
+      <Description>
+        <text>with flap closed: "52" handwritten in upper right corner; page features 2 handwritten cards and a small printed flyer that reads "The Art Committee Presents The Arts Ball" at top</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="5333" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0035_023_001_002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <ShelfLocation>
+        <text>Box 65</text>
+        <text>Scrapbook 35</text>
+      </ShelfLocation>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Gumby's Book Studio, pt. 1, p. 13 [open]</text>
+      </Title>
+      <Description>
+        <text>"13" handwritten on upper right corner of closed flap; with flap open, there is a large ink drawing of Gumby's bookplate (reads: "L.S. Alexadner Gumby" and "Ex Libris"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+    </DublinCore>
+  </item>
+  <item itemId="5332" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0034_039_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Greenwich Village, p. 37</text>
+      </Title>
+      <Description>
+        <text>"037" stamped in upper right corner; page features a chalk portrait signed "Hendrix--Sept 13 1930"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 64</text>
+        <text>Scrapbook 34</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5331" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0034_038_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Greenwich Village, p. 36</text>
+      </Title>
+      <Description>
+        <text>"036" stamped in upper left corner; features photograph inscribed "Here's looking at you--Gumby! Nicholas Pisarro"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 64</text>
+        <text>Scrapbook 34</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5330" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0032_043_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Marcus Garvey, p. 41</text>
+      </Title>
+      <Description>
+        <text>"041" stamped in upper right corner; features mounted sheet music for "West Indies Blues"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 62</text>
+        <text>Scrapbook 32</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5329" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0032_042_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Marcus Garvey, p. 40</text>
+      </Title>
+      <Description>
+        <text>"040" stamped in upper left corner; page features clipping titled "6,000 Negroes Hear Plea for Republic" and a program titled "Meeting and Demonstration; Madison Square Garden, Sunday March 16, 1924"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 62</text>
+        <text>Scrapbook 32</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5328" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0028_029_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ethiopia, pt. 1, p. 24</text>
+      </Title>
+      <Description>
+        <text>"24" handwritten in upper right corner; photograph of woman, caption reads: "Lady in Waiting. . ."</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 58</text>
+        <text>Scrapbook 28</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5327" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0028_028_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Ethiopia, pt. 1, p. 23</text>
+      </Title>
+      <Description>
+        <text>"23" handwritten in upper left corner; features a photograph of a woman with parasol held over her; caption reads: "Princess Tafari. . ."</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 58</text>
+        <text>Scrapbook 28</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5326" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0026_019_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Laurence Dunbar, p. 17</text>
+      </Title>
+      <Description>
+        <text>"017" stamped in upper right corner; page features sheet music for "Evah Dahkey Is a King"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 56</text>
+        <text>Scrapbook 26</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5325" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0026_018_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Laurence Dunbar, p. 16</text>
+      </Title>
+      <Description>
+        <text>"016" stamped in upper left corner; page features poem "Darkie's Rainy Day"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 56</text>
+        <text>Scrapbook 26</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5324" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0025_025_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>W.E.B. Du Bois, p. 19</text>
+      </Title>
+      <Description>
+        <text>"019" stamped in upper right corner; page features a single flyer with text: "Announcement Extraordinary; Opening Session of the Fourth Pan-African Congress"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 55</text>
+        <text>Scrapbook 25</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5323" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0024_071_001_002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Frederick Douglass, p. 35 [open]</text>
+      </Title>
+      <Description>
+        <text>previous page, but with flap open to reveal 1 full-page engraved portrait of Douglass, 1 postcard with a painting of Douglass, and a Douglass autograph card dated "1877"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 54</text>
+        <text>Scrapbook 24</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5322" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0024_071_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Frederick Douglass, p. 35 [closed]</text>
+      </Title>
+      <Description>
+        <text>"35" handwritten in upper right; closed flap features a clipping dated "April 21, 1877"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 54</text>
+        <text>Scrapbook 24</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5321" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0024_070_001_002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Frederick Douglass, p. 34 [open]</text>
+      </Title>
+      <Description>
+        <text>previous page, but with flap open to reveal six portraits of Douglass (some are etchings, 1 is a photograph)</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 54</text>
+        <text>Scrapbook 24</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5320" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0024_070_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Douglass, Frederick, p. 34 [closed]</text>
+      </Title>
+      <Description>
+        <text>"34" handwritten in upper-right; closed flap features an oval-shaped photograph of "Hon. Frederick Douglass" above a short clipped biography of Douglass</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 54</text>
+        <text>Scrapbook 24</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5319" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0011_041_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Book Reviews, pt. 2, p. 33</text>
+      </Title>
+      <Description>
+        <text>"033" stamped in upper left; page features 2 clippings and a typescript letter written on "The Association for the Study of Negroe Life and History, Incorporated" letterhead</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 41</text>
+        <text>Scrapbook 11</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5318" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0011_040_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Book Reviews, pt. 2, p. 32</text>
+      </Title>
+      <Description>
+        <text>"032" stamped in upper left; page features 3 clippings, one titled "When Literacy Was a Crime"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 41</text>
+        <text>Scrapbook 11</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5317" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0008_059_001_002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Josephine Baker, p. [57]</text>
+      </Title>
+      <Description>
+        <text>recto page, featuring a program for "La Revue des Folies Bergere" (it has a blue and gold cover with an onionskin wrapper)</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 38</text>
+        <text>Scrapbook 8</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5316" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0007_057_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Art, Negro, p. 55</text>
+      </Title>
+      <Description>
+        <text>"055" stamped in upper right; page features mounted poster with text: "Art Exhibition given by the Art Student's Club"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 37</text>
+        <text>Scrapbook 7</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5315" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0003_047_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Amalgamation of Races, pt. 2, p. 45</text>
+      </Title>
+      <Description>
+        <text>"045" stamped in upper right; page features 2 clippings and a yellow wrapper for "NiggerHair Tobacco" package</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 33</text>
+        <text>Scrapbook 3</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="5314" public="1" featured="0">
+    <OmekaCollection>"The Unwritten History":  Alexander Gumby's African America&#13;
+</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://www.columbia.edu/cgi-bin/cul/dev/dlo2?obj=rbml_gumby_0003_046_001_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Amalgamation of Races, pt. 2, p. 44</text>
+      </Title>
+      <Description>
+        <text>"044" stamped in upper right; page features 6 clippings, including one titled "The Right Name"</text>
+      </Description>
+      <Creator>
+        <text>Gumby, L.S. Alexander, 1885-1961</text>
+      </Creator>
+      <Source>
+        <text>Alexander Gumby Collection of Negroiana, [ca. 1800]-1981</text>
+      </Source>
+      <Language>
+        <text>eng</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1910 1952</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>scrapbooks</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CMI Box 33</text>
+        <text>Scrapbook 3</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+</itemContainer>
+
+

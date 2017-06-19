@@ -1,0 +1,1208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--The name of each XML element representing an Omeka element or element set is
+based on the name of the element or element set in Omeka. For example:
+     The "Dublin Core" element set is represented by the DublinCore XML element
+     The "Form Genre" element in MODS is represented by the FormGenre XML element
+
+The following XML elements are based on internal Omeka data:
+     The OriginalFileLoadedIntoOmeka XML element contains the name/path of
+     of the file(s) loaded into Omeka for the given item.
+     The OmekaCollection XML element contains the name of the Omeka collection
+     containing the item, if the item belongs to an Omeka collection. Please note
+     that this element is different from the Collection element in MODS, which is
+     curator-populated.
+-->
+<itemContainer>
+  <item itemId="9711" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>14.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Fight for 15 march in Greenville, SC at the Republican Debate</text>
+      </Title>
+      <Creator>
+        <text>Timothy Wotring</text>
+      </Creator>
+      <Date>
+        <text>2016-02-13</text>
+      </Date>
+      <Description>
+        <text>Fight for 15 with Larry Cox, co-director of the Kairos Center, and Timothy Wotring, a Union Theological Seminary student. </text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9710" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>13.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Timothy Wotring at the Fight for 15 March</text>
+      </Title>
+      <Creator>
+        <text>Timothy Wotring</text>
+      </Creator>
+      <Date>
+        <text>2016-02-13</text>
+      </Date>
+      <Description>
+        <text>Timothy Wotring at the Fight for 15 March in Greenville, SC against the Republican Debate. </text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9709" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>7.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Moral Mondays March in front of the NC State Capitol </text>
+      </Title>
+      <Creator>
+        <text>Timothy Wotring</text>
+      </Creator>
+      <Date>
+        <text>2016-02-13</text>
+      </Date>
+      <Description>
+        <text>Moral Mondays March in Raleigh, NC</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9708" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>5.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Moral Mondays March</text>
+      </Title>
+      <Creator>
+        <text>Timothy Wotring</text>
+      </Creator>
+      <Date>
+        <text>2016-02-13</text>
+      </Date>
+      <Description>
+        <text>Moral Mondays March in Raleigh, NC</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9707" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>2.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Larry Cox and Julio Torres</text>
+      </Title>
+      <Creator>
+        <text>Timothy Wotring</text>
+      </Creator>
+      <Date>
+        <text>2016-02-13</text>
+      </Date>
+      <Description>
+        <text>Larry Cox and Julio Torres hold the Karios banner at the Moral Mondays Protest.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9331" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>betty_peoplesresurrectionmarch_Easter 2015_1.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>People's Resurrection March</text>
+      </Title>
+      <Creator>
+        <text>Betty Bolden (photographer)</text>
+      </Creator>
+      <Date>
+        <text>2015-04-05</text>
+      </Date>
+      <Description>
+        <text>Photograph from the People's Resurrection March led by Daniel Ismael Aguilar (pictured here with megaphone). This was part of the Holy Week of Resistance movement: http://www.holyweekofresistance.net/vision/</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9329" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Document</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>PPC Booklet March 2015.pdf</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Call for a Poor People's Campaign for Today Organizing Pamphlet</text>
+      </Title>
+      <Creator>
+        <text>Kairos Center, designed by Colleen Wessel-McCoy</text>
+      </Creator>
+      <Date>
+        <text>2015-3</text>
+      </Date>
+      <Description>
+        <text>Booklet outlining call for and possibility of a new Poor People's Campaign for Today created by the Kairos Center for Religions, Rights and Social Justice together with other community leaders and organizations.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9328" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>gulf.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Praying for the end of the eviction of Hurricane Katrina survivors</text>
+      </Title>
+      <Creator>
+        <text>Jose Vasquez</text>
+      </Creator>
+      <Date>
+        <text>2014-11</text>
+      </Date>
+      <Description>
+        <text>The Kairos Center and leaders from Safe Harbor, a housing development built for Katrina survivors, pray together with a delegation from the Poor People’s Campaign from across the US. They were delivering a letter to city hall demanding an end to evictions after rents at Safe Harbor were tripled. Photo by Jose Vasquez.&#13;
+</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9327" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Gulf 2.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Union staff and alumni learn how devastation continues years after the BP oil spill</text>
+      </Title>
+      <Creator>
+        <text>Jose Vasquez</text>
+      </Creator>
+      <Date>
+        <text>2014-11</text>
+      </Date>
+      <Description>
+        <text>Union's Poverty Scholar in Residence Willie Baptist (center right) listens as Vietnam veteran and oysterman Byron Encalade (center) and two fisherman in Point A’La Hache, Louisiana describe how their livelihoods have been devastated by the BP oil spill during a fact finding delegation to the Gulf coast as part of the call for a new Poor People's Campaign. Photo by Jose Vasquez.&#13;
+</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9326" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Band.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>House band at the launch of the Kairos Center</text>
+      </Title>
+      <Creator>
+        <text>Jose Vasquez</text>
+      </Creator>
+      <Date>
+        <text>2013-11</text>
+      </Date>
+      <Description>
+        <text>House band of Union alumni, staff and community leaders in James Chapel at the launch of the Kairos Center for Religions, Rights and Social Justice. Photo by Jose Vasquez.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9325" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Barber 2.png</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Rev. Dr. William Barber, II at Kairos Center Launch</text>
+      </Title>
+      <Creator>
+        <text>Jose Vasquez</text>
+      </Creator>
+      <Date>
+        <text>20013-11</text>
+      </Date>
+      <Description>
+        <text>NC NAACP's Rev. Dr. William Barber, II delivers keynote sermon in James Chapel at the launch of the Kairos Center for Religions, Rights and Social Justice. Photo by Jose Vasquez.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9324" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Albany.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Moral Day of Action in Albany, NY</text>
+      </Title>
+      <Creator>
+        <text>Kairos Center Staff</text>
+      </Creator>
+      <Date>
+        <text>2014-8-28</text>
+      </Date>
+      <Description>
+        <text>The Kairos Center for Religions, Rights, and Social Justice and Poverty Initiative at Union Theological Seminary traveled with students, alumni, staff and community and religious leaders (including Picture the Homeless) to the Moral Day of Action at the New York State Capitol in conjunction with the Moral Week of Action in the South and Beyond spearheaded by the Forward Together and Moral Mondays Movement and the North Carolina NAACP. </text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9321" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>P1020182crop.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Kairos Center Directors Arrested with Walmart Workers Outside Alice Walton's Mansion</text>
+      </Title>
+      <Creator>
+        <text>Colleen Wessel-McCoy</text>
+      </Creator>
+      <Date>
+        <text>2014-10-16</text>
+      </Date>
+      <Description>
+        <text>Union's Kairos Center Co-directors Larry Cox and Rev. Dr. Liz Theoharis block traffic just before arrest in the OUR-Walmart action for fair wages and hours outside Alice Walton's New York mansion. </text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9320" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Religions for the Earth March Sept 2014.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Kairos Center participants in the 2014 Climate March</text>
+      </Title>
+      <Creator>
+        <text>Kairos Center</text>
+      </Creator>
+      <Date>
+        <text>2014-9-21</text>
+      </Date>
+      <Description>
+        <text>Students, staff and children from Union's Kairos Center join the Climate March alongside President Serene Jones. </text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9319" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>DSC_0688.JPG</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Kairos Center's Rev. Dr. Liz Theoharis (2004, 2014) and her son Luke at the 2015 Moral March in Raleigh, NC</text>
+      </Title>
+      <Creator>
+        <text>Colleen Wessel-McCoy</text>
+      </Creator>
+      <Date>
+        <text>2015-2-14</text>
+      </Date>
+      <Description>
+        <text>Kairos Center Co-director Rev. Dr. Liz Theoharis, course instructor of the 2015 January immersion course traveling to Raleigh, NC to learn from the NC NAACP and the Historic Thousands on Jones Street March. This was the Poverty Initiative's thirteenth immersion course. </text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9318" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>DSC_0729.JPG</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Kairos Center delegation in the 2015 Moral March in Raleigh, NC</text>
+      </Title>
+      <Creator>
+        <text>Colleen Wessel-McCoy</text>
+      </Creator>
+      <Date>
+        <text>2015-2-14</text>
+      </Date>
+      <Description>
+        <text>Delegation of 60 students, alumni, community and religious leaders traveling with the Kairos Center's January immersion course (CS205) to the Historic Thousands on Jones Street March in Raleigh, NC.  </text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9317" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>DSC_0710.JPG</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Union Children in the Moral March in Raleigh, NC</text>
+      </Title>
+      <Creator>
+        <text>Colleen Wessel-McCoy</text>
+      </Creator>
+      <Date>
+        <text>2015-2-14</text>
+      </Date>
+      <Description>
+        <text>Children of Union students and alumni take part in the Historic Thousands on Jones Street March in Raleigh, NC, traveling with 60 students and community leaders as part of the delegation from Union's Kairos Center for Religions, Rights and Social Justice and it's Poverty Initiative. </text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9316" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Document</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Selma-program-booklet.pdf</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Program, Community Hearing on Poverty: A Renewal of Rev. Dr. King's Poor People's Campaign</text>
+      </Title>
+      <Creator>
+        <text>Kairos Center at UTS and Colleen Wessel-McCoy</text>
+      </Creator>
+      <Date>
+        <text>2015-3-6</text>
+      </Date>
+      <Description>
+        <text>Program from the Community Hearing on Poverty during the 50th anniversary of the Edmund Pettus Bridge crossing in Selma, Alabama, convened by the Kairos Center for Religions Rights and Social Justice at Union Theological Seminary.&#13;
+&#13;
+(Also available as sequential pages rather than booklet print.)</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9266" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>NYC Climate March_Heidi Thorsen.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Union Students at the People's Climate March</text>
+      </Title>
+      <Creator>
+        <text>Photographer Unknown, Heidi Thorsen contributor</text>
+      </Creator>
+      <Date>
+        <text>2014-09-21</text>
+      </Date>
+      <Description>
+        <text>Left to right: Ross Jesmont, Benjamin VanDyne, Kate Newell, Heidi Thorsen, Roisin McMillan, unknown.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9262" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1489190_10101397691691443_5660696928733976971_n.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>#BlackMindsMatter</text>
+      </Title>
+      <Creator>
+        <text>Shamika Goddard</text>
+      </Creator>
+      <Date>
+        <text>2014-12-8</text>
+      </Date>
+      <Description>
+        <text>This image was taken during the #StudyingWhileBlack demonstrations at Columbia University</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9259" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Moving Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Protest Speech in Union Square.mp4</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Protest Speech</text>
+      </Title>
+      <Creator>
+        <text>Shamika Goddard</text>
+      </Creator>
+      <Date>
+        <text>2014-12-1</text>
+      </Date>
+      <Description>
+        <text>Protest Speech in Union Square.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9258" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Moving Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>No Justice No Peace No Racist Police.mp4</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>No Justice No Peace, No Racist Police</text>
+      </Title>
+      <Creator>
+        <text>Shamika Goddard</text>
+      </Creator>
+      <Date>
+        <text>2014-12-1</text>
+      </Date>
+      <Description>
+        <text>Protest chant </text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9257" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Moving Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Hey Hey Ho Ho These Racist Cops Have Got to Go.mp4</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Hey Hey Ho Ho These Racist Cops have Got to Go</text>
+      </Title>
+      <Creator>
+        <text>Shamika Goddard</text>
+      </Creator>
+      <Date>
+        <text>2014-12-1</text>
+      </Date>
+      <Description>
+        <text>One of the many protest chants.  This one includes horns!  </text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9256" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Moving Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Collective Speech before moving as a group.mp4</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Collective Speech Before Moving</text>
+      </Title>
+      <Creator>
+        <text>Shamika Goddard</text>
+      </Creator>
+      <Date>
+        <text>2014-12-1</text>
+      </Date>
+      <Description>
+        <text>One of the protest organizers prepared the group in Union Square to move by having us repeat the message he gave us in short phrases so that everyone could hear.  It was a tactic used in many demonstrations so that everyone could hear and was also listening.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9255" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Moving Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Black Lives, Matter.mp4</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Black Lives, Matter</text>
+      </Title>
+      <Creator>
+        <text>Shamika Goddard</text>
+      </Creator>
+      <Date>
+        <text>2014-12-1</text>
+      </Date>
+      <Description>
+        <text>Protest chant while in Union Square</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9253" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Moving Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Turn it up don't turn it down we're doing this for Mike Brown.mp4</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Turn It Up Don't Turn It Down, We're Doing This for Mike Brown</text>
+      </Title>
+      <Creator>
+        <text>Shamika Goddard</text>
+      </Creator>
+      <Date>
+        <text>2014-12-1</text>
+      </Date>
+      <Description>
+        <text>Protest chant at Union Square</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9251" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Document</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>nlgnyc.org_wp-content_uploads_2011_10_NLGNYC_WhattoExpectDAT.pdf</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>IF YOU GOT A DESK APPEARANCE TICKET (DAT):</text>
+      </Title>
+      <Creator>
+        <text>National Lawyers Guild – New York City Chapter (NLG-NYC)</text>
+      </Creator>
+      <Description>
+        <text>WHAT TO EXPECT AT YOUR FIRST COURT APPEARANCE</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9249" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Document</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>www.midnightspecial.net_files_shootingthewounded-activist.pdf</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Shooting the Wounded</text>
+      </Title>
+      <Creator>
+        <text>Midnight Special Law Collective</text>
+      </Creator>
+      <Description>
+        <text>How to document your injuries for lawsuits and the media</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9248" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Document</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>MutantJailSupportGuide.pdf</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Mutant Jail Support Guide NYC</text>
+      </Title>
+      <Creator>
+        <text>Mutant Legal</text>
+      </Creator>
+      <Date>
+        <text>2015</text>
+      </Date>
+      <Description>
+        <text>Information and specific details of what to and not to do when encountering jail situations including resources, phone numbers, and websites.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9247" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Document</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>The Dissident's Survival Guide- A Field Manual to Encounters with Law Enforcement, Corporate Security, and Other Hazards.pdf</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>The Dissident's Survival Guide: A Field Manual to Encounters with Law Enforcement, Corporate Security, and Other Hazards</text>
+      </Title>
+      <Creator>
+        <text>Document used during #JailSupport training in conjunction with Columbia Law School</text>
+      </Creator>
+      <Date>
+        <text>December 11th</text>
+      </Date>
+      <Description>
+        <text>A thorough discussion on the multitude of ways to protect oneselves during protests as well as explanations of tactics found in corporate and penile systems.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9245" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>11011260_10101186325570953_2840038282612868703_n.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Reflection, Hands Up Don't Shoot</text>
+      </Title>
+      <Creator>
+        <text>Wesley Morris,photographer</text>
+      </Creator>
+      <Date>
+        <text>2014-10-13</text>
+      </Date>
+      <Description>
+        <text>UTS Ferguson Trip, Reflection from a skyscaper</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9244" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>11038738_10101186324228643_8099337636266914122_n.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Chapel Service to honor Ferguson</text>
+      </Title>
+      <Creator>
+        <text>Wesley Morris, in Photo</text>
+      </Creator>
+      <Date>
+        <text>Date Forth COming</text>
+      </Date>
+      <Description>
+        <text>Union Theological Service Chapel Service in James Chapel, to Honor Ferguson and Black Lives Matter</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9243" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>10922424_10101186326025043_8677448242860671047_n.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Flyer at Ferguson</text>
+      </Title>
+      <Creator>
+        <text>Wesley Morris,photographer </text>
+      </Creator>
+      <Date>
+        <text>2014-10-13</text>
+      </Date>
+      <Description>
+        <text>UTS Ferguson Trip</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9242" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>11041753_10101186322522063_7536281690543814894_n.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Police Line in the Rain</text>
+      </Title>
+      <Creator>
+        <text>Wesley Morris,photographer</text>
+      </Creator>
+      <Date>
+        <text>2014-10-13</text>
+      </Date>
+      <Description>
+        <text>UTS Ferguson Trip</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9241" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>10172611_10101186325501093_2764947060767312467_n.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Police line in Occupied St. Louis</text>
+      </Title>
+      <Creator>
+        <text>Wesley Morris,photographer</text>
+      </Creator>
+      <Date>
+        <text> 2014-10-13</text>
+      </Date>
+      <Description>
+        <text>UTS Ferguson Trip  Occupied St. Louis University</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9240" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1510887_10101186324213673_768978277508026650_n.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Night Time in Ferguson</text>
+      </Title>
+      <Creator>
+        <text>Wesley Morris,photographer</text>
+      </Creator>
+      <Date>
+        <text>2014-10-13</text>
+      </Date>
+      <Description>
+        <text>UTS Ferguson Trip  Occupied St. Louis University</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9238" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>IMG_8951.JPG</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Assata Taught Me</text>
+      </Title>
+      <Creator>
+        <text>Candace Simpson</text>
+      </Creator>
+      <Date>
+        <text>2015-12-13</text>
+      </Date>
+      <Description>
+        <text>Wesley Morris, Ashley Ellis, Candace Simpson and Keshia Pendigrast marching in the Millions March protest in hoodies that support the Millennial Activists United organization.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9235" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1506539_10101186323739623_6026950306296039635_n.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Cross in Ferguson</text>
+      </Title>
+      <Creator>
+        <text>Wesley Morris, photographer</text>
+      </Creator>
+      <Date>
+        <text>2014-10-13</text>
+      </Date>
+      <Description>
+        <text>UTS Ferguson Trip</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9233" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>OccupySign.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>We Occupy</text>
+      </Title>
+      <Creator>
+        <text>Brigette C. Kamsler</text>
+      </Creator>
+      <Date>
+        <text>2011-10-22</text>
+      </Date>
+      <Description>
+        <text>Cell phone picture taken on October 22, 2011 in Zuccotti Park of the sign "We Occupy."</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9232" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Occupy_2.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Occupy Wall Street in Zuccotti Park</text>
+      </Title>
+      <Creator>
+        <text>Brigette C. Kamsler</text>
+      </Creator>
+      <Date>
+        <text>2011-10-22</text>
+      </Date>
+      <Description>
+        <text>Cell phone picture taken on October 22, 2011 in Zuccotti Park of Occupy Wall Street.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9231" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Moral Monday.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Moral Mondays in Raleigh,  North Carolina </text>
+      </Title>
+      <Creator>
+        <text>Timothy Wotring</text>
+      </Creator>
+      <Date>
+        <text>2015-02-14</text>
+      </Date>
+      <Description>
+        <text>Moral Mondays in Raleigh,  North Carolina </text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9230" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Occupy_1.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Occupy Wall Street in Zuccotti Park</text>
+      </Title>
+      <Creator>
+        <text>Brigette C. Kamsler</text>
+      </Creator>
+      <Date>
+        <text>2011-10-22</text>
+      </Date>
+      <Description>
+        <text>Cell phone picture taken on October 22, 2011 in Zuccotti Park of Occupy Wall Street.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9229" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Timothy living wages.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Timothy Wotring at the Moral Mondays Rally. </text>
+      </Title>
+      <Creator>
+        <text>Timothy Wotring</text>
+      </Creator>
+      <Date>
+        <text>2015-02-14</text>
+      </Date>
+      <Description>
+        <text>Timothy Wotring at the Moral Mondays Rally. </text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9228" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Kristen Guest photo.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>LoveInAction</text>
+      </Title>
+      <Creator>
+        <text>Matthea, photographer; contributed by Kristen Guest</text>
+      </Creator>
+      <Date>
+        <text>2014-12-13</text>
+      </Date>
+      <Description>
+        <text>Union Theological Seminary's #LoveInAction banner in Millions March to Washington Square Park, NYC.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9227" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>CallE_LoveInAction_LoveHub_12082014_1.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Protest Schedule</text>
+      </Title>
+      <Creator>
+        <text>Elizabeth Call, photographer</text>
+      </Creator>
+      <Date>
+        <text>2014-12-08</text>
+      </Date>
+      <Description>
+        <text>Daily protest plan during NYC protests in December 2014.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9226" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>CallE_LoveInAction_LoveHub_12082014_10.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>"Welcome to this Space"</text>
+      </Title>
+      <Creator>
+        <text>Elizabeth Call, photographer</text>
+      </Creator>
+      <Date>
+        <text>2014-12-08</text>
+      </Date>
+      <Description>
+        <text>"The Hub," student protest headquarters in Union Theological Seminary, signage.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9225" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>CallE_LoveInAction_LoveHub_12082014_13.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Memorial</text>
+      </Title>
+      <Creator>
+        <text>Elizabeth Call, photographer</text>
+      </Creator>
+      <Date>
+        <text>2014-12-08</text>
+      </Date>
+      <Description>
+        <text>Memorial put up in "The Hub" (AD30), student protest headquarters, in Union Theological Seminary.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9223" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>CallE_LoveInAction_LoveHub_12082014_17.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>"Ferguson is Everywhere! Justice for Michael Brown and Eric Garner/Police Brutality and Murder MUST STOP!/www.revcom.us"</text>
+      </Title>
+      <Creator>
+        <text>Elizabeth Call, photographer</text>
+      </Creator>
+      <Date>
+        <text>2014-12-08</text>
+      </Date>
+      <Description>
+        <text>Poster from NYC protests</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9222" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>CallE_LoveInAction_LoveHub_12082014_12.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>"I can't Breathe"</text>
+      </Title>
+      <Creator>
+        <text>Elizabeth Call, photographer</text>
+      </Creator>
+      <Date>
+        <text>2014-12-08</text>
+      </Date>
+      <Description>
+        <text>Sign created and used for NYC protests</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9221" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Betty photo 3.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Millions March</text>
+      </Title>
+      <Creator>
+        <text>Betty Bolden, photographer</text>
+      </Creator>
+      <Date>
+        <text>2014-12-13</text>
+      </Date>
+      <Description>
+        <text>Union Theological Seminary students and community gathering in front of Union to head down to the Millions March in Washington Square Park.  Union alums Anne R. Elliott and Teresa Delgado pictured.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9220" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Betty photo 2.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Millions March</text>
+      </Title>
+      <Creator>
+        <text>Betty Bolden, photographer</text>
+      </Creator>
+      <Date>
+        <text>2014-12-13</text>
+      </Date>
+      <Description>
+        <text>Union Theological Seminary students and community gathering in front of Union to head down to the Millions March in Washington Square Park.  Candace Simpson is pictured in this image.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9219" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Betty photo 1.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Millions March </text>
+      </Title>
+      <Creator>
+        <text>Betty Bolden, photographer</text>
+      </Creator>
+      <Date>
+        <text>2014-12-13</text>
+      </Date>
+      <Description>
+        <text>Union Theological Seminary students and community gathering in front of Union to head down to the Millions March in Washington Square Park.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9176" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>CallE_LoveInAction_LoveHub_12082014_15.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>"Black Lives Matter"</text>
+      </Title>
+      <Creator>
+        <text>Elizabeth Call, photographer</text>
+      </Creator>
+      <Date>
+        <text>2014-12-08</text>
+      </Date>
+      <Description>
+        <text>Protest poster made in "The Hub," students protest headquarters at Union Theological Seminary.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9175" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>CallE_LoveInAction_LoveHub_12082014_3.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>The Hub</text>
+      </Title>
+      <Creator>
+        <text>Elizabeth Call, photographer</text>
+      </Creator>
+      <Date>
+        <text>2014-12-08</text>
+      </Date>
+      <Description>
+        <text>Image taken of "The Hub," students protest headquarters at Union Theological Seminary.</text>
+      </Description>
+    </DublinCore>
+  </item>
+  <item itemId="9174" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>CallE_LoveInAction_LoveHub_12082014_11.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>"Trust Your Struggle"</text>
+      </Title>
+      <Date>
+        <text>2014-12-08</text>
+      </Date>
+      <Description>
+        <text>Sign used for NYC protests.</text>
+      </Description>
+      <Creator>
+        <text>Elizabeth Call, photographer</text>
+      </Creator>
+    </DublinCore>
+  </item>
+  <item itemId="9173" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>CallE_LoveInAction_LoveHub_12082014_2.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Love Hub sign</text>
+      </Title>
+      <Creator>
+        <text>Elizabeth Call, photographer</text>
+      </Creator>
+      <Date>
+        <text>2014-12-08</text>
+      </Date>
+    </DublinCore>
+  </item>
+  <item itemId="9171" public="1" featured="0">
+    <OmekaCollection>Love in Action</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>20150214_100541.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>UTS @ Moral March</text>
+      </Title>
+      <Creator>
+        <text>Julio Torres</text>
+      </Creator>
+      <Date>
+        <text>2015-02-14</text>
+      </Date>
+      <Description>
+        <text>Kairos Center and Poverty Initiative ran a class, CS 205, and we went to Raleigh, North Carolina to march with the Moral Movement. This is run by the NAACP and coordinated by Rev. Dr. William Barber. This was a great saturday morning with a few students holding the banner. Some took the class for credits, others just for the experience and to show solidarity and be activists</text>
+      </Description>
+    </DublinCore>
+  </item>
+</itemContainer>
