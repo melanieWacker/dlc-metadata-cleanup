@@ -1,0 +1,4030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--The name of each XML element representing an Omeka element or element set is
+based on the name of the element or element set in Omeka. For example:
+     The "Dublin Core" element set is represented by the DublinCore XML element
+     The "Form Genre" element in MODS is represented by the FormGenre XML element
+
+The following XML elements are based on internal Omeka data:
+     The OriginalFileLoadedIntoOmeka XML element contains the name/path of
+     of the file(s) loaded into Omeka for the given item.
+     The OmekaCollection XML element contains the name of the Omeka collection
+     containing the item, if the item belongs to an Omeka collection. Please note
+     that this element is different from the Collection element in MODS, which is
+     curator-populated.
+-->
+<itemContainer>
+  <item itemId="11418" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200050.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/peasants</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200050</text>
+        <text>Author and Imprint from VD 16</text>
+        <text>Signatures: A-B⁴</text>
+        <text>Woodcut on title page</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1524</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1883</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[16] pages (last [2] pages blank) ; 19 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>[Nürnberg]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Peringer, Diepold</text>
+        <text>Höltzel, Hieronymus, active 1500-1525</text>
+      </Creator>
+      <Title>
+        <text>Eyn Sermon geprediget vom Pawren zů Werdt, bey Nürmberg, am Sontag vor Fassnacht, vo[n] dem freyen willen des Mennschen; Title page recto</text>
+        <text>A Sermon Preached by the Peasant from Wöhrd-by-Nuremberg, on the Sunday Before Carnival about the Free Will of Man</text>
+      </Title>
+      <Description>
+        <text>"The peasant from Wöhrd-by-Nuremberg" was an appellation for the author of this sermon, an itinerant radical preacher at the time of German Peasants’ War. Its theme of the religious value of the layperson indicates how one of Luther’s defining emphases resonated with, and was used to energize, the uprisings that Luther would soon after denounce.</text>
+      </Description>
+      <Date>
+        <text>[1524]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>Hieronymus Höltzel</text>
+      </Publisher>
+      <Identifier>
+        <text>4528346</text>
+      </Identifier>
+      <Subject>
+        <text>Free will and determinism</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11417" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200049.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/peasants</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200049</text>
+        <text>Imprint from Benzing</text>
+        <text>Signatures: A-B⁴ C² D⁴</text>
+        <text>Title within ornamental woodcut border</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1525</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1163</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[28] pages ; 21 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>[Erfurt]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+      </Creator>
+      <Title>
+        <text>Eyn Sendebrieff von dem harten buchlin widder die bawren / Martinus Luther. Wittemberg. M.D.XXV; Title page recto</text>
+        <text>An Open Letter on the Harsh Book Against the Peasants</text>
+      </Title>
+      <Description>
+        <text>In this work, published after his controversial Against the Murderous, Thieving Hordes of Peasants and after the peak of the uprisings, Luther does not retract his attacks levelled there, which many of his allies and supporters had decried, though he accuses the landlords of being too extreme in their violent response to the uprisings. </text>
+      </Description>
+      <Date>
+        <text>M.D.XXV. [1525]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>[Melchior Sachse]</text>
+      </Publisher>
+      <Identifier>
+        <text>4527575</text>
+      </Identifier>
+      <Subject>
+        <text>Peasants' War (1524-1525)</text>
+        <text>Germany</text>
+        <text>Church history</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11416" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200048.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/peasants</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200048</text>
+        <text>Signatures: A⁴, B², C⁴; [A] unsigned, A1b, C4b blank</text>
+        <text>Woodcut title page border by the workshop of Lucas Cranach. Cf. Hollstein VI, Cranach workshop, 30; Luther, J. 43</text>
+        <text>Printer from Benzing</text>
+        <text>Luther, M. Werke. Kritische gesammtausgabe. v.15, p.205, A</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1524</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1143</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[20] pages ; 18 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Wittemberg [i.e., Wittenberg]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+        <text>Frederick III, Elector of Saxony, 1463-1525</text>
+        <text>Cranach, Lucas, 1472-1553</text>
+      </Creator>
+      <Title>
+        <text>Eyn brieff an die Fürsten zu Sachsen von dem auffrurischen geyst / Martinus Luther. ; Wittemberg. 1524; Title page recto</text>
+        <text>A Letter to the Princes of Saxony, Concerning the Revolutionary Spirit</text>
+      </Title>
+      <Description>
+        <text>Thomas Müntzer was among the "radicals" initially sympathetic to some of Luther’s teachings, but he and Luther became bitter opponents. Müntzer remained an important figure and his image appeared on the 5 Mark bill of the German Democratic Republic. In this letter, Luther urged the rulers of their region to suppress Müntzer and his popular movement.</text>
+      </Description>
+      <Date>
+        <text>1524</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>[Lukas Cranach und Christian Doring]</text>
+      </Publisher>
+      <Identifier>
+        <text>4527557</text>
+      </Identifier>
+      <Subject>
+        <text>Münzer, Thomas, approximately 1490-1525</text>
+        <text>Frederick III, Elector of Saxony, 1463-1525</text>
+        <text>Johann, der Beständige, Elector of Saxony, 1468-1532</text>
+        <text>Holy Spirit</text>
+        <text>Reformation</text>
+        <text>Peasants' War (1524-1525)</text>
+        <text>Peasant uprisings</text>
+        <text>Allstedt (Germany)</text>
+        <text>Wittenberg (Germany)--Imprints (Lucas Cranach; Christian Döring)</text>
+        <text>Saxony (Germany)</text>
+        <text>History</text>
+        <text>Church History</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11415" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200047.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/peasants</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200047</text>
+        <text>Imprint from VD 16</text>
+        <text>Signatures: A⁴</text>
+        <text>Caption for woodcut on title page: "Ich bin ein Pawr von menschlicher artt. Gott gibt sein gnad wo es ym behagtt</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1524</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1601</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[8] pages ; 19 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>[Zwickau]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Peringer, Diepold</text>
+      </Creator>
+      <Title>
+        <text>Des Christlichen Pawren getrewen radt : Wie die Christglaubig seel ein gesprech mit dem menschlichen fleysch teglich halten vnd betrachten sol; Title page recto</text>
+        <text>Faithful Advice of a Christian Peasant: How the Faithful Christian Soul Should Hold and Consider a Daily Dialogue with the Human Flesh </text>
+      </Title>
+      <Description>
+        <text>Published in Zwickau, a hotbed of the radical appropriation of his ideas that Luther came to disdain. The caption for the woodcut reads: "In human terms I am a peasant. God gives his grace where he thinks fit." Diepold Peringer, author of this item the work adjacent, claimed that he could neither read nor write and learned by the direct inspiration of God. He was in fact an educated former member of a religious order, but appealed to the idealized image of the simple layperson led by the Spirit.</text>
+      </Description>
+      <Date>
+        <text>[1524]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>Johann Schönsperger</text>
+      </Publisher>
+      <Identifier>
+        <text>4528112</text>
+      </Identifier>
+      <Subject>
+        <text>Peasants--Religious aspects--Christianity</text>
+        <text>Lay preaching</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11414" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200046.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/judaism</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200046</text>
+        <text>Excerpts from Luther's Von den Juden und Ihren Lügen (edition of 1613) and from his Vom Schem Hamphoras (edition of 1617) with reproductions of the original title-pages</text>
+        <text>"Bearbeitet, eingeleitet und mit erläuternden zusätzen aus dem gesamtgebiet der Judenfrange verschen von E.V. von Rudolf [pseud.]</text>
+        <text>Editor's name is pseudonym for Rudolf von Elmayer-Vestenbrugg, b. 1881</text>
+        <text>Includes index</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1940</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Butler 6th Fl. East</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>DS141 .L775</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>151 pages : illustrations, port., facsims ; 22 cm</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>München</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+        <text>Rudolf, E. V. von</text>
+        <text>Elmayer-Vestenbrugg, Rudolf von, 1881-</text>
+        <text>Luther, Martin, 1483-1546. Vom Schem Hamphoras. Selections</text>
+      </Creator>
+      <Title>
+        <text>Dr. Martin Luther: Wider die Jüden, vierhundert Jahre deutschen Ringens gegen jüdische Fremdherrschaft, von E.V. von Rudolf [pseud.]; Title page recto</text>
+        <text>Dr. Martin Luther: Four Hundred Years of German Struggle Against Jewish Alien Domination</text>
+      </Title>
+      <Description>
+        <text>On the Jews and Their Lies became a core text for subsequent anti-semitism. Excerpts from this work and from his Of the Unknowable Name and the Generations of Christ were reprinted in the Nazi era and were used at Nazi rallies. One historian has recently argued that his use by the Nazis makes Luther "the most fateful figure in German history." </text>
+      </Description>
+      <Date>
+        <text>[1940]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>Deutscher volksverlag</text>
+      </Publisher>
+      <Identifier>
+        <text>1818762</text>
+      </Identifier>
+      <Subject>
+        <text>Luther, Martin, 1483-1546</text>
+        <text>Judaism</text>
+        <text>Christianity and antisemitism</text>
+        <text>Judaism (Christian theology)</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11413" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200045.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/judaism</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200045</text>
+        <text>Imprint from title page and colophon which reads: "Gedruckt zu Wittemberg durch Hans Lufft. 1546."</text>
+        <text>Sermons on Matthew VIII, 23-27; Luke II, 22-32; Matthew XIII, 24-30; and Matthew XI, 25-30, with the texts</text>
+        <text>Edited by Johann Aurifaber</text>
+        <text>Signatures: A-S⁴</text>
+        <text>Title within engraved architectural woodcut border; initials throughtout</text>
+        <text>"Eine Vermanung wider die Iuden": leaves S1r-S3r</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1546</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1245</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[144] pages ; 20 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Wittemberg [i.e., Wittenberg]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+        <text>Aurifaber, Johann, 1519-1575</text>
+      </Creator>
+      <Title>
+        <text>Vier Predigten des Ehrwirdigen herrn D. Martini Luthers, zu Eisleben vor seinem abschied aus diesem leben gethan; Title page recto</text>
+        <text>Four Sermons of the Venerable Lord Dr. Martin Luther, in Eisleben Before his Parting from this Life.</text>
+      </Title>
+      <Description>
+        <text>Contains Luther’s "warning to the Jews" of harshest persecution if they did not convert to Christianity.</text>
+      </Description>
+      <Date>
+        <text>1546</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>Hans Lufft</text>
+      </Publisher>
+      <Identifier>
+        <text>4527698</text>
+      </Identifier>
+      <Subject>
+        <text>Bible. Matthew, VIII, 23-27</text>
+        <text>Bible. Matthew, XI, 25-30</text>
+        <text>Bible. Matthew, XIII, 24-30</text>
+        <text>Bible. Luke, II, 22-32</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11412" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200044.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/judaism</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200044</text>
+        <text>Name of printer and place of publication from colophon</text>
+        <text>Signatures: A-Z⁴ a-i⁴</text>
+        <text>Title within architectural and historiated woodcut border</text>
+        <text>front board of binding</text>
+      </Notes>
+      <KeyDate>
+        <text>1543</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Union Rare</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>GT2 1543vb</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[256] pages ; 18 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Gedruckt zu Wittemberg</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+      </Creator>
+      <Title>
+        <text>Von den Jüden vnd jren Lügen / D.M. Luth; Front board of binding</text>
+        <text>On the Jews and Their Lies</text>
+      </Title>
+      <Date>
+        <text>1543</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>Durch Hans Lufft</text>
+      </Publisher>
+      <Identifier>
+        <text>7160879</text>
+      </Identifier>
+      <Subject>
+        <text>Judaism</text>
+        <text>Jews</text>
+        <text>Antisemitism</text>
+        <text>Germany</text>
+        <text>History</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11411" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200043.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/judaism</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200043</text>
+        <text>The first printing of Luther's early treatise, "That Jesus Christ was born a Jew", in which he denies the charges made against him that he did not believe in the Virgin Birth, but rather that Jesus was a naturally born child of Joseph and Mary.  In this tract, Luther confesses that he believes that Jesus was born a Jew of the Virgin Mary.  He also hopes that his teaching will bring more Jews to convert to Christianity.  In his view, the teaching and practice of many who came before him, as well as of his opponents, was the chief cause that most Jews did not convert.  Confronted with what had been traditional teaching before him, he says, to be a true Christian one would almost have had to become a Jew, and any sincerely believing and practicing Jew would as soon have become a pig as a Christian</text>
+        <text>Signatures: A-C⁴, D², E⁴</text>
+        <text>Title within wood-engraved architectural border</text>
+        <text>Initial</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1523</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1141</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[36] pages ; 20 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Wittemberg</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+        <text>Cranach, Lucas, 1472-1553</text>
+        <text>Döring, Christian, -1533</text>
+      </Creator>
+      <Title>
+        <text>Das Ihesus Christus eyn geborner Iude sey / Doctor Martinus Luther. Vuittemberg. M.D.xxiij; Title page recto</text>
+        <text>That Jesus Christ Was Born a Jew</text>
+      </Title>
+      <Date>
+        <text>MDxxiij [1523]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>[Lukas Cranach u. Christian Döring]</text>
+      </Publisher>
+      <Identifier>
+        <text>4527556</text>
+      </Identifier>
+      <Subject>
+        <text>Jesus Christ</text>
+        <text>Christology</text>
+        <text>Interfaith relations</text>
+        <text>Christianity</text>
+        <text>Judaism</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11410" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200042.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/theology/freedom</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200042</text>
+        <text>Publisher statement from Benzing</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1520</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Union Rare Pamphlets</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>GT2 1520fc</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[24] pages ; 22 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Vuittembergae</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+        <text>Cranach, Lucas, 1472-1553</text>
+      </Creator>
+      <Title>
+        <text>Von der Freyheyt eynisz Christen Menschen / Martinus Luther; Title page recto</text>
+        <text>On the Freedom of the Christian</text>
+      </Title>
+      <Date>
+        <text>1520</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>[Johann Rhau-Grunenberg]</text>
+      </Publisher>
+      <Identifier>
+        <text>4551080</text>
+      </Identifier>
+      <Subject>
+        <text>Liberty--Religious aspects</text>
+        <text>Justification (Christian theology)</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11409" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200041.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/theology/freedom</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200041</text>
+        <text>Title within woodcut border; manuscript marginalia</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1520</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Union Rare</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>GT2 1520fb</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>31 pages (quarto) ; 21 cm</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Wittenberg</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+      </Creator>
+      <Title>
+        <text>Von der freyheyt eynes Christen menschen / Martinus Luther. Czu Vuittenbergk Im XX iar; Title page recto</text>
+        <text>On the Freedom of the Christian</text>
+      </Title>
+      <Description>
+        <text>Arguably Luther’s best-known work, it was reprinted no less that eighteen times in its first few years. It is a searching treatment of key theological and ethical issues such as freedom and grace, and religious quandaries such as: if a person is "justified" or "saved" by grace apart from any works he or she might do, what is the point of living a moral life? Luther’s language is often paradoxical, as for example in its famous opening line: "A Christian is the most free lord of all, and subject to none; a Christian is the most dutiful servant of all, and subject to everyone." and: "Here is the truly Christian life, here is faith really working by love, when a man applies himself with joy and love to the works of that freest servitude in which he serves others voluntarily and for nothing, himself abundantly satisfied in the fullness and riches of his own faith." One historian has recently summarized a key message of this work in contemporary, colloquial terms: Luther "told a sound psychological truth: Relationships of love are not played by rules."</text>
+      </Description>
+      <Date>
+        <text>1520</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>[Melchior Lotter d.J.]</text>
+      </Publisher>
+      <Identifier>
+        <text>4551079</text>
+      </Identifier>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11408" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/ldpd_7821252_002_00000513.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/theology/iliad</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:ldpd_7821252_002_00000513</text>
+        <text>Imprint from colophon, v. [2]</text>
+        <text>Signatures: v. 1: 1-7⁸ A-2L⁸ 2M⁶; v. 2: a-z⁸ A-H⁸ I⁴</text>
+        <text>Last leaf of v. [1] blank</text>
+        <text>Vol. 1: [56], 277, [1] leaves ; Vol. 2: 251, [1] leaves</text>
+        <text>Aldine device on t.p. and verso of final leaf of each vol; capital spaces with guide letters</text>
+        <text>The second Aldine edition. Each vol. has a distinct pagination. The life of Homer is on 56 unpaged leaves</text>
+        <text>Includes register</text>
+        <text>Rare Book copy: Pagination: v.1. 177, [1] leaves ; v.2. 251, [1] leaves, [56] leaves</text>
+        <text>Rare Book copy: Signatures: v. 1. A-2L8, M4; v. 2 a-z8, A-H8, I4, 1-7</text>
+        <text>Rare Book copy: Volume 1, copy 1: Worm hole in first two leaves with slight loss of text</text>
+        <text>Rare Book copy: Volume 2: Signature p either misbound or misprinted as 113, 116, 115, 114, 117, 110 [sic], 119, 118</text>
+        <text>Rare Book copy: Volume 2: Trimmed with slight loss of annotations in margins</text>
+        <text>Rare Book copy 1: Inscribed by Philipp Melanchthon to Martin Luther. Extensively annotated throughout, in more than one hand, probably including Philipp Melanchthon. The notes seem to be lecture notes, either Melanchthon's preparatory notes or by students</text>
+        <text>Rare Book copy 1: Bound in alum-tawed pigskin decorated in blind with tools and rolls. Remnants of 2 clasps on fore-edge</text>
+      </Notes>
+      <KeyDate>
+        <text>1517</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Butler 6th Fl. East</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>880 1517 H37</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>2 volumes ; 17 cm (octavo)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Venetiis</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Homer</text>
+        <text>Torresanus, Andreas (De Asula), 1451-1529</text>
+        <text>Manuzio, Aldo, 1449 or 1450-1515</text>
+        <text>Melanchthon, Philipp, 1497-1560</text>
+        <text>Luther, Martin, 1483-1546</text>
+        <text>Torresani, family of printers</text>
+        <text>Homer. Iliad</text>
+        <text>Homer. Odyssey</text>
+        <text>Manuzio (Firm)</text>
+      </Creator>
+      <Title>
+        <text>Homērou Ilias ; [Odysseia ; Batrachomyomachia ; Hymnoi 1b] = Homeri Ilias ; [Vlyssea ; Batrachomyomachia ; Hymni XXXII]; File 3</text>
+      </Title>
+      <Date>
+        <text>mense Iunio 1517</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>In aedibus Aldi, et Andreae Asulani soceri</text>
+      </Publisher>
+      <Identifier>
+        <text>7820626</text>
+      </Identifier>
+      <Subject>
+        <text>Manuzio family</text>
+      </Subject>
+      <Language>
+        <text>Ancient Greek</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11407" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/ldpd_7821252_003_00000009.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/theology/iliad</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:ldpd_7821252_003_00000009</text>
+        <text>Imprint from colophon, v. [2]</text>
+        <text>Signatures: v. 1: 1-7⁸ A-2L⁸ 2M⁶; v. 2: a-z⁸ A-H⁸ I⁴</text>
+        <text>Last leaf of v. [1] blank</text>
+        <text>Vol. 1: [56], 277, [1] leaves ; Vol. 2: 251, [1] leaves</text>
+        <text>Aldine device on t.p. and verso of final leaf of each vol; capital spaces with guide letters</text>
+        <text>The second Aldine edition. Each vol. has a distinct pagination. The life of Homer is on 56 unpaged leaves</text>
+        <text>Includes register</text>
+        <text>Rare Book copy: Pagination: v.1. 177, [1] leaves ; v.2. 251, [1] leaves, [56] leaves</text>
+        <text>Rare Book copy: Signatures: v. 1. A-2L8, M4; v. 2 a-z8, A-H8, I4, 1-7</text>
+        <text>Rare Book copy: Volume 1, copy 1: Worm hole in first two leaves with slight loss of text</text>
+        <text>Rare Book copy: Volume 2: Signature p either misbound or misprinted as 113, 116, 115, 114, 117, 110 [sic], 119, 118</text>
+        <text>Rare Book copy: Volume 2: Trimmed with slight loss of annotations in margins</text>
+        <text>Rare Book copy 1: Inscribed by Philipp Melanchthon to Martin Luther. Extensively annotated throughout, in more than one hand, probably including Philipp Melanchthon. The notes seem to be lecture notes, either Melanchthon's preparatory notes or by students</text>
+        <text>Rare Book copy 1: Bound in alum-tawed pigskin decorated in blind with tools and rolls. Remnants of 2 clasps on fore-edge</text>
+      </Notes>
+      <KeyDate>
+        <text>1517</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Butler 6th Fl. East</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>880 1517 H37</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>2 volumes ; 17 cm (octavo)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Venetiis</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Homer</text>
+        <text>Torresanus, Andreas (De Asula), 1451-1529</text>
+        <text>Manuzio, Aldo, 1449 or 1450-1515</text>
+        <text>Melanchthon, Philipp, 1497-1560</text>
+        <text>Luther, Martin, 1483-1546</text>
+        <text>Torresani, family of printers</text>
+        <text>Homer. Iliad</text>
+        <text>Homer. Odyssey</text>
+        <text>Manuzio (Firm)</text>
+      </Creator>
+      <Title>
+        <text>Homērou Ilias ; [Odysseia ; Batrachomyomachia ; Hymnoi 1b] = Homeri Ilias ; [Vlyssea ; Batrachomyomachia ; Hymni XXXII]; File 2</text>
+      </Title>
+      <Date>
+        <text>mense Iunio 1517</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>In aedibus Aldi, et Andreae Asulani soceri</text>
+      </Publisher>
+      <Identifier>
+        <text>7820626</text>
+      </Identifier>
+      <Subject>
+        <text>Manuzio family</text>
+      </Subject>
+      <Language>
+        <text>Ancient Greek</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11406" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/ldpd_7821252_002_00000009.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/theology/iliad</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:ldpd_7821252_002_00000009</text>
+        <text>Imprint from colophon, v. [2]</text>
+        <text>Signatures: v. 1: 1-7⁸ A-2L⁸ 2M⁶; v. 2: a-z⁸ A-H⁸ I⁴</text>
+        <text>Last leaf of v. [1] blank</text>
+        <text>Vol. 1: [56], 277, [1] leaves ; Vol. 2: 251, [1] leaves</text>
+        <text>Aldine device on t.p. and verso of final leaf of each vol; capital spaces with guide letters</text>
+        <text>The second Aldine edition. Each vol. has a distinct pagination. The life of Homer is on 56 unpaged leaves</text>
+        <text>Includes register</text>
+        <text>Rare Book copy: Pagination: v.1. 177, [1] leaves ; v.2. 251, [1] leaves, [56] leaves</text>
+        <text>Rare Book copy: Signatures: v. 1. A-2L8, M4; v. 2 a-z8, A-H8, I4, 1-7</text>
+        <text>Rare Book copy: Volume 1, copy 1: Worm hole in first two leaves with slight loss of text</text>
+        <text>Rare Book copy: Volume 2: Signature p either misbound or misprinted as 113, 116, 115, 114, 117, 110 [sic], 119, 118</text>
+        <text>Rare Book copy: Volume 2: Trimmed with slight loss of annotations in margins</text>
+        <text>Rare Book copy 1: Inscribed by Philipp Melanchthon to Martin Luther. Extensively annotated throughout, in more than one hand, probably including Philipp Melanchthon. The notes seem to be lecture notes, either Melanchthon's preparatory notes or by students</text>
+        <text>Rare Book copy 1: Bound in alum-tawed pigskin decorated in blind with tools and rolls. Remnants of 2 clasps on fore-edge</text>
+      </Notes>
+      <KeyDate>
+        <text>1517</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Butler 6th Fl. East</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>880 1517 H37</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>2 volumes ; 17 cm (octavo)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Venetiis</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Homer</text>
+        <text>Torresanus, Andreas (De Asula), 1451-1529</text>
+        <text>Manuzio, Aldo, 1449 or 1450-1515</text>
+        <text>Melanchthon, Philipp, 1497-1560</text>
+        <text>Luther, Martin, 1483-1546</text>
+        <text>Torresani, family of printers</text>
+        <text>Homer. Iliad</text>
+        <text>Homer. Odyssey</text>
+        <text>Manuzio (Firm)</text>
+      </Creator>
+      <Title>
+        <text>Homērou Ilias ; [Odysseia ; Batrachomyomachia ; Hymnoi 1b] = Homeri Ilias ; [Vlyssea ; Batrachomyomachia ; Hymni XXXII]; File 1</text>
+      </Title>
+      <Date>
+        <text>mense Iunio 1517</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>In aedibus Aldi, et Andreae Asulani soceri</text>
+      </Publisher>
+      <Identifier>
+        <text>7820626</text>
+      </Identifier>
+      <Subject>
+        <text>Manuzio family</text>
+      </Subject>
+      <Language>
+        <text>Ancient Greek</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11405" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200039.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/theology/sacraments</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200039</text>
+        <text>Woodcut on title page</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1520</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Union Rare</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>GT2 1520ss</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>22 pages (quarto) ; cm</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+        <text>prints</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Hat lassen drucken tzu Leyptzick [i.e. Leipzig</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+      </Creator>
+      <Title>
+        <text>Eyn Sermõ von dẽ hochwirdigen Sacramẽt, des hyeligen waren Leychnamss Chrsiti. und võ den Bruderschafften / D.M.L.A; Title page recto</text>
+        <text>Blessed Sacrament of the Holy and True Body of Christ, and the Brotherhoods, 1519</text>
+      </Title>
+      <Description>
+        <text>The woodcut illustration depicts the seven sacraments: baptism, confirmation, eucharist (holy communion), penance, marriage, priestly ordination, anointing of the sick.</text>
+      </Description>
+      <Date>
+        <text>Im Tausent funffhunderten vnd ym tzwentzigsten iare. 1520]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>Ualentinus Schuman. i.e. Valentin Schumann</text>
+      </Publisher>
+      <Identifier>
+        <text>4551082</text>
+      </Identifier>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11404" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200038.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/theology/captivity</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200038</text>
+        <text>Title page with woodcut border by Hans Cranach</text>
+        <text>Initial</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1520-10-06</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Union Rare Pamphlets</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>GT2 1520cb</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[87] pages ; 21 cm</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Vuittembergae [i.e. Wittenberg</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+      </Creator>
+      <Title>
+        <text>De captivitate babylonica ecclesiae / praeludium Martini Lutheri; Title page recto</text>
+        <text>On the Babylonian Captivity of the Church</text>
+      </Title>
+      <Description>
+        <text>Unlike his Open Letter to the Christian Nobility, this more theologically nuanced work is composed in Latin (though there were German editions) and addressed to a specialist audience in a more measured tone. Citing the Bible as evidence, Luther argues that the number of sacraments should be reduced from seven to three (and finally to two), thereby removing major pillars upon which the structure of the medieval way of life had been erected. In particular, he attacks the Church’s doctrine, which drew on Aristotelian categories, of the "transubstantiation" of bread and wine at Communion, instead insisting that "the Holy Spirit is greater than Aristotle." The work articulates ideas that would come to define many Protestant traditions, but also prove to be sources of ongoing division among them. </text>
+      </Description>
+      <Date>
+        <text>6. Oktober, 1520]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>Melchior Lotter d.j.</text>
+      </Publisher>
+      <Identifier>
+        <text>4583009</text>
+      </Identifier>
+      <Subject>
+        <text>Catholic Church</text>
+        <text>Controversial literature--Protestant authors</text>
+      </Subject>
+      <Language>
+        <text>Latin</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11403" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200037.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/theology/nobility</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200037</text>
+        <text>At end: Zů Wittenberg. Im Jar. M.D.XX. Durch jn selbs gemeret vnd corrigiert</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1520</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Union Rare</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>GT2 1520anf</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[82] pages ; 20 cm</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Vuittenberg</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+      </Creator>
+      <Title>
+        <text>An den Cristlichen Adel deütscher Nation : von des Christlichen stands besserũg / D. Martinus Luther; Title page recto</text>
+        <text>Open Letter to the Christian Nobility of the German Nation Concerning the Reform of Christian Society </text>
+      </Title>
+      <Date>
+        <text>[1520]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>[Druck von Renatus Beck, Strassburg</text>
+      </Publisher>
+      <Identifier>
+        <text>4573077</text>
+      </Identifier>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11402" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200036.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/theology/authority</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200036</text>
+        <text>Date of imprint on page [34]</text>
+        <text>Signatures: A-C[superscript 4], D[superscript 5]</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1520</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Union Rare Pamphlets</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>GT2 1520e</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[34] pages ; 19 cm</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Vuittembergae</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+      </Creator>
+      <Title>
+        <text>Epistola Lutheriana ad Leonem decimum summum pontificem  Tractatus de libertate Christiana; Title page recto</text>
+        <text>Letter of Martin Luther to Leo X, Supreme Pontiff: A Tract on Christian Liberty</text>
+      </Title>
+      <Description>
+        <text>In this preface to his key work On the Freedom of the Christian, Luther appeals directly to the Pope in his own defense and to address the failures of the Church. Luther is variously obsequious and brash in making his case:"Among those monstrous evils of this age with which I have now for three years been waging war, I am sometimes compelled to look to you and to call you to mind, most blessed father Leo. In truth, since you alone are everywhere considered as being the cause of my engaging in war, I cannot at any time fail to remember you; and although I have been compelled by the causeless raging of your impious flatterers against me to appeal from your seat to a future council...yet I have never been so alienated in feeling from your Blessedness as not to have sought with all my might, in diligent prayer and crying to God, all the best gifts for you and for your see. But those who have hitherto endeavored to terrify me with the majesty of your name and authority, I have begun quite to despise and triumph over."</text>
+      </Description>
+      <Date>
+        <text>[1520]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>[Johann Grünenberg</text>
+      </Publisher>
+      <Identifier>
+        <text>4585559</text>
+      </Identifier>
+      <Language>
+        <text>Latin</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11401" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200035.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/theology/nobility</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200035</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1520</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Union Rare Pamphlets</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>GT2 1520anb</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[99] pages ; 20 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>[Wittenberg]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+        <text>Lotter, Melchior, approximately 1490-</text>
+      </Creator>
+      <Title>
+        <text>An den Christlichen Adel deutscher Nation : von des Christlichen standes besserung / D. Martinus Luther. ..; Title page recto</text>
+        <text>Open Letter to the Christian Nobility of the German Nation Concerning the Reform of Christian Society </text>
+      </Title>
+      <Description>
+        <text>Luther here argues in German for a full-scale overhaul of the Church, and that the secular powers of emperor and nobility had the authority and the responsibility to act in the face of a corrupted Church, whose members he dismissively referred to as "Romanists." He called for the end of major swathes of the medieval Church’s structure, including its elaborate calendar of feasts and saints days, and its vast industry of relics and pilgrimages. Among his demands was the abolition of clerical celibacy, arguing that to prohibit marriage was as futile as to "forbid eating, drinking, the natural movement of the bowels or growing fat." Though addressed primarily to non-ecclesiastical elites – whose support and protection were perhaps the main reason he survived through this period – the work uses populist rhetoric against the hierarchy of Church structures and teaching. It was reprinted at least fourteen times within just a few years.  "Therefore…those who are now called ‘spiritual’ – priests, bishops, or popes – are neither different from other Christians, nor superior to them…."  "...there is no true, basic difference between laymen and priests, princes and bishops, between religious and secular, except for the sake of office and work, but not for the sake of status….they all of the spiritual estate, all are truly priests, bishops, and popes."  "...it may well happen that the pope and his followers are wicked men and not true Christians, not taught of God, not having true understanding. On the other hand, an ordinary man may have true understanding; why then should we not follow him?"</text>
+      </Description>
+      <Date>
+        <text>[1520]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>Melchior Lotter d.J.</text>
+      </Publisher>
+      <Identifier>
+        <text>4551076</text>
+      </Identifier>
+      <Subject>
+        <text>Church and state--Catholic Church</text>
+        <text>Church and state</text>
+        <text>Germany</text>
+        <text>Holy Roman Empire</text>
+        <text>History</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11400" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200034.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/theology</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200034</text>
+        <text>Author hypothetically identified as Johannes de Francfordia. Cf. Lexikon für Theologie und Kirche. 2d ed., v. 10, column 62</text>
+        <text>"Vorrhede" signed: Doctor Martinus Luther</text>
+        <text>Imprint from colophon; date in colophon: Nach Christ gepurt tausent funffhundert vnd zwentzigsten JAR. Am abent Sancti Michaelis</text>
+        <text>Signatures: A-H⁴ I⁶</text>
+        <text>Image on title page, woodcut of the resurrection of Adam</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1520</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1951</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[76] pages ; 22 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Gedruckt zu Wittenbergk</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Franckforter</text>
+        <text>Luther, Martin, 1483-1546. Vorrede zu der vollständigen Ausgabe der Theologia Deutsch</text>
+        <text>Rhau-Grunenberg, Johann, active 1508-1525</text>
+      </Creator>
+      <Title>
+        <text>Eyn Deutsch Theologia das is Eyn edles Büchleyn, von rechtem vorstandt, was Adam vnd Christus sey, vnd wie Adam yn vns sterben, vn[d] Christ ersteen sall; Title page recto</text>
+        <text>A German Theology, That is a Noble Booklet, That Rightly Understands What Adam and Christ Are, and How Adam Should Die and Christ Should Arise in Us</text>
+      </Title>
+      <Description>
+        <text>Luther edited and wrote the preface to the Theologia Germanica. This anonymous 14th century mystical work enjoined union with God and self-renunciation and was a favorite of Luther’s. In addition to its theology, the fact that it was written in German energized Luther’s view that vernacular language could be a suitable medium for the transcendent. From the preface: "...I will have every one warned who reads this little book, that he should not take offence, to his own hurt, at its bad German, or its crabbed and uncouth words. For this noble book, though it be poor and rude in words, is so much the richer and more precious in knowledge and divine wisdom…Let as many as will, read this little book, and then say whether theology is a new or an old thing among us; for this book is not new. But if they say as before, that we are but German theologians, we will not deny it. I thank God, that I have heard and found my God in the German tongue, as neither I nor they have yet found Him in the Latin, Greek, or Hebrew tongue. God grant that this book may be spread abroad, then we shall find that the German theologians are without doubt the best theologians."</text>
+      </Description>
+      <Date>
+        <text>[1520]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>durch Joha[n]nem Grünenb</text>
+      </Publisher>
+      <Identifier>
+        <text>4528401</text>
+      </Identifier>
+      <Subject>
+        <text>Christian life--Middle Ages</text>
+        <text>Mysticism</text>
+        <text>Germany</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11399" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200033.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/flug/flug3</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200033</text>
+        <text>Printer from colophon which reads: "Gedruckt zu Wittemberg, durch Nickel Schirlentz. M.D.XXviij."</text>
+        <text>Signatures: A-M⁴</text>
+        <text>"Vorrhede" by Martin Luther</text>
+        <text>Title within woodcut border</text>
+        <text>Compare with 03-B1229 (VD 16, M 2604; Benzing, 2498; Gatch, D272) and 03-B1877 (VD 16, M 2603; Benzing, 2496; Gatch, D2039) and 03-B1878 (VD 16, M 2597; Benzing, 2488; Gatch, D2038)</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1528</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1876</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[96] pages (last [2] pages blank) ; 20 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Vuittemberg</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Melanchthon, Philipp, 1497-1560</text>
+        <text>Luther, Martin, 1483-1546</text>
+        <text>Schirlentz, Nickel</text>
+      </Creator>
+      <Title>
+        <text>Vnterricht der Visitatorn an die Pfarhern ym Kurfurstenthum zu Sachssen; Title page recto</text>
+      </Title>
+      <Description>
+        <text>This book represents the first attempt to organize the Reformation within a given territory. These are the "Saxon Visitation Articles", intended to guide the Saxon government representatives charged with bringing order, and raising the level of Christian education, within church and school -- is this in the CLIO record? Not sure of the source YES FROM CLIO SEE https://clio.columbia.edu/catalog/4528357</text>
+      </Description>
+      <Date>
+        <text>1528</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>Nickel Schirlentz</text>
+      </Publisher>
+      <Identifier>
+        <text>4528357</text>
+      </Identifier>
+      <Subject>
+        <text>Lutheran Church--Doctrines</text>
+        <text>Lutheran Church--Education</text>
+        <text>Visitations, Ecclesiastical</text>
+        <text>Saxony (Germany)</text>
+        <text>History</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11398" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200032.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/flug/flug3</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200032</text>
+        <text>Name of printer from colophon which reads: "Gedruckt zu Wittemberg durch Nickel Schirlentz im Jar M D XXXII"</text>
+        <text>Signatures: A-F⁴ (-F4)</text>
+        <text>Title within historiated woodcut border</text>
+        <text>Compare with 03-B1553 (Benzing, 3030; VD 16, L 7580; Gatch, D812)</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1532</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1201</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[48] pages (last leaf blank) ; 18 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Wittemberg</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+      </Creator>
+      <Title>
+        <text>Zwo Predigt vber der Leiche des Kürfursten Hertzog Iohans zu Sachssen / D. Mart. Luthers; Title page recto</text>
+      </Title>
+      <Date>
+        <text>1532</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>Nickel Schirlentz</text>
+      </Publisher>
+      <Identifier>
+        <text>4527649</text>
+      </Identifier>
+      <Subject>
+        <text>Johann, der Beständige, Elector of Saxony, 1468-1532</text>
+        <text>Lutheran Church</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11397" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200031.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/flug/flug3</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200031</text>
+        <text>Printer from colophon which reads: "Gedruckt zu Wittemberg durch Hans Lufft. M.D.XXXIII."</text>
+        <text>Signatures: A-F⁴</text>
+        <text>Title within historiated woodcut border</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1523</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1203</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[48] pages ; 19 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Wittemberg [i.e., Wittenberg]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+        <text>Johann Friedrich I, Kurfürst von Sachsen, 1503-1554</text>
+      </Creator>
+      <Title>
+        <text>Eine Predigt Vom verloren Schaf, Luce. xv. / D. Mart. Luth. zu Wittemberg for dem Churfürsten zu Sachsten Herzog Johans fridrich rx. Gepredict; Title page recto</text>
+        <text>A Sermon on the Lost Sheep, Luke 15</text>
+      </Title>
+      <Date>
+        <text>M.D.XXXIII. [1523]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>Hans Lufft</text>
+      </Publisher>
+      <Identifier>
+        <text>4527647</text>
+      </Identifier>
+      <Subject>
+        <text>Bible. Luke, XV, 1-10</text>
+        <text>Lost sheep (Parable)</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11396" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200030.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/flug/flug3</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200030</text>
+        <text>Title within ornamental border</text>
+        <text>Printer from colophon: "Gedrückt zu Wittemberg durch Georgen Rhaw. 1533."</text>
+        <text>Signatures: A-K⁴; A3 signed A5, I2 signed H2</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1533</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1204</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[80] pages ; 19 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Wittemberg [i.e., Wittenberg]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+        <text>Rhaw, Georg, 1488-1548</text>
+      </Creator>
+      <Title>
+        <text>Das Sechste Capitel der Epistel Pauli an de Epheser : Von der Christen harnisch vnd woffen / gepredigt durch D. Mart. Luther; Title page recto</text>
+        <text>The Sixth Chapter of Paul’s Epistle to the Ephesians, On the Christian Armor and Weapons</text>
+      </Title>
+      <Date>
+        <text>M.D.XXXIII. [1533]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>Georgen Rhaw</text>
+      </Publisher>
+      <Identifier>
+        <text>4527646</text>
+      </Identifier>
+      <Subject>
+        <text>Bible. Ephesians, VI</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11395" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200029.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/flug/flug3</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200029</text>
+        <text>Imprint from colophon which reads "Gedruck tzu Leypsick durch Ualentin Schuman anno. M.D.xix."</text>
+        <text>Signatures: A-E⁶</text>
+        <text>Woodcuts on recto and verso of title page</text>
+        <text>Compare with 03-B1423 (VD 16, L 4058; Benzing, 274; Gatch, D667) and 03-B1863 (VD 16, L 4046; Benzing, 262; Gatch, D2013)</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1519</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1166</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[60] pages ; 21 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Leypsick [i.e., Leipzig]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+      </Creator>
+      <Title>
+        <text>Auslegu[n]g deutsch des Vater vnser fuer die einfeltigen Leyen Doctoris Martini Luther Augustiner tzu Wittenbergk; Title page recto</text>
+        <text>An Exposition of the Lord‘s Prayer for Simple Laymen</text>
+      </Title>
+      <Date>
+        <text>M.D.xix. [1519]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>Ualentin Schuman</text>
+      </Publisher>
+      <Identifier>
+        <text>4527572</text>
+      </Identifier>
+      <Subject>
+        <text>Lord's prayer</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11394" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200028.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/flug/flug3</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200028</text>
+        <text>Prelim. signed: Martinus Luder .</text>
+        <text>Imprint from colophon</text>
+        <text>Signatures: A-B⁶ C⁴ D-E⁶ F⁴ G-H⁶ (H6 blank)</text>
+        <text>Woodcut illustration on title page of David kneeling in prayer, playing a harp on the ground below and God looking down from the clouds above</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1519</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1147</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[88] leaves : illustrations (woodcut) ; 21 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Gedruckt tzu Leyptzk [i.e., Leipzig]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+      </Creator>
+      <Title>
+        <text>Die Sieben buszpsalm mit deutscher auszlegung nach dem schrifftlichen synne tzu Christi vnd gottes gnaden, neben seyns selben. ware erkentniss. grundlich gerichtet; Title page recto</text>
+        <text>The Seven Penitential Psalms with German Expositions Following the Written Sense to the Grace of Christ and God</text>
+      </Title>
+      <Date>
+        <text>Nach Christ geburt Tausent funffhundert vnd ym newtzehenden yare. [1519]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>durch den vorsichtigen man Jacobum Thanner</text>
+      </Publisher>
+      <Identifier>
+        <text>4527579</text>
+      </Identifier>
+      <Subject>
+        <text>Penitential Psalms</text>
+        <text>Bible. Psalms</text>
+        <text>Penance</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11393" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200027.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/flug/flug2</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200027</text>
+        <text>Text in German includes Luther's translation of Psalm 37 (Vulgate Psalm 36). Cf. Luther, Works, 1883, vol. 8, p. 209</text>
+        <text>Imprint from colophon</text>
+        <text>Colophon: Gedruckt tzu Wittembergk Montag nach Laurentij 1521</text>
+        <text>LC call numbers: BR304.R44 no. 73; BS1450 37th</text>
+        <text>Signatures: A-D⁴</text>
+        <text>Title within illustrated woodcut border, alternative form of number 5 used in t.p. date</text>
+        <text>Woodcut illustration on title page verso of Mary wearing crown, facing left, holding the child Jesus, differs from that in LCCN 2001554663</text>
+        <text>Compare with 03-B1935 (VD 16, L 5872)</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1521</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1129</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[32] pages : illustrations (woodcut) ; 19 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>[Wittenberg]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+      </Creator>
+      <Title>
+        <text>Der sechs vn[d] dreyssigist Psalm Dauid : eynen Christlichen Menschen tzu leren vn[d] trösten widder die Mütterey der böszenn vnnd freueln Gleyszner / Martinus Luther; Title page recto</text>
+        <text>The 36th Psalm of David, to Teach a Christian and Console Them Against the Wantonness of Evil and Haughty Hypocrites</text>
+      </Title>
+      <Date>
+        <text>1521</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>[Johann Rhau-Grunenberg]</text>
+      </Publisher>
+      <Identifier>
+        <text>4527553</text>
+      </Identifier>
+      <Subject>
+        <text>Bible. Psalms, XXXVII</text>
+        <text>Reformation</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+        <text>Latin</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11392" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200026.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/flug/flug2</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200026</text>
+        <text>Name of printer from colophon which reads: "Gedruckt zu Wittemberg durh Hans Lufft"</text>
+        <text>Signatures: A-C⁴ D²</text>
+        <text>Title within historiated and architectural woodcut border</text>
+        <text>Compare with 03-B1531 (Benzing, 2428; VD 16, L 5513; Gatch, D761)</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1527</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1164</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[28] pages ; 20 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Wittemberg [i.e., Wittenberg]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+      </Creator>
+      <Title>
+        <text>Ob man furdemster ben fliehen muge / Marti. Luther; Title page recto</text>
+        <text>Whether One May Flee from a Deadly Plague</text>
+      </Title>
+      <Date>
+        <text>M.D.XXVII. [1527]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>Hans Lufft</text>
+      </Publisher>
+      <Identifier>
+        <text>4527574</text>
+      </Identifier>
+      <Subject>
+        <text>Christian ethics</text>
+        <text>Death--Religious aspects--Christianity</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11391" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200025.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/flug/flug2</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200025</text>
+        <text>Signature: A⁴</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1523</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1121</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[7] pages ; 20 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Zwickaw :Jörg Gastel</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+      </Creator>
+      <Title>
+        <text>Eyn Sermon von dem newen gebornen Kindelein Ihesu gepredigt auft den Christag nach mit tag / Martinus Luther; Title page recto</text>
+        <text>A Sermon on the New Born Child, Jesus, Preached on Christmas Afternoon</text>
+      </Title>
+      <Date>
+        <text>1523</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Identifier>
+        <text>4527529</text>
+      </Identifier>
+      <Subject>
+        <text>Jesus Christ</text>
+        <text>Reformation</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11390" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200024.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/flug/flug2</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200024</text>
+        <text>Signatures: A-B⁴</text>
+        <text>Title within woodcut border</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1523</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1135</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[16] pages (last [2] pages blank) ; 18 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Wyttem. [i.e., Wittenberg]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+      </Creator>
+      <Title>
+        <text>Eyn Sermon vber das Euangelium Johan. 4. : es war eyn Konigischer des Son lag kranck zu Capernaum etc / Martinus Luther. DMXXiij. Wyttem; Title page recto</text>
+        <text>Sermon on Gospel of John 4, the Royal Official’s Son at Capernaum</text>
+      </Title>
+      <Date>
+        <text>DMXXiij [i.e., MDXXiij, 1523]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>[Hans Lufft]</text>
+      </Publisher>
+      <Identifier>
+        <text>4527543</text>
+      </Identifier>
+      <Subject>
+        <text>Bible. John, IV</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11389" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200023.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/flug/flug2</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200023</text>
+        <text>Publisher statement from Benzing</text>
+        <text>Signatures: A-C⁴ [-C4] (Last three pages blank)</text>
+        <text>Title within historiated woodcut border attributed to school of Lucas Cranach d.Ä. Cf. Cranach im Detail: Buchschmuck Lucas Cranachs des Älteren und seiner Werkstatt, 1994, page 54</text>
+        <text>LC call number: BR332.S4 P4</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1523</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1132</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[24] pages (the last [3] pages blank) ; 19 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Uuittemberg [i.e., Wittenberg]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+        <text>Cranach, Lucas, 1472-1553</text>
+      </Creator>
+      <Title>
+        <text>Eyn Sermon auff den Pfingstag / Mart. Luther; Title page recto</text>
+        <text>A Sermon on Pentecost</text>
+      </Title>
+      <Date>
+        <text>M.D.XXiij [1523]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>[Nickel Schirlentz]</text>
+      </Publisher>
+      <Identifier>
+        <text>4527554</text>
+      </Identifier>
+      <Subject>
+        <text>Bible. John, XIV, 23-29</text>
+        <text>Holy Spirit</text>
+        <text>Pentecost season</text>
+        <text>Wittenberg (Germany)--Imprints (Nickel Schirlentz)</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11388" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200022.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/flug/flug2</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200022</text>
+        <text>Compare with 03-B1134 (VD 16, L 6075; Benzing, 1434; Gatch, D109) and 3-B1400 (VD 16, L 6068; Benzing, 1432; Gatch, D632) and 03-B1932 (Benzing, 1439; VD 16, L 6076)</text>
+        <text>Printer from Benzing</text>
+        <text>Signatures: A-B⁴</text>
+        <text>Ornamental t.p. border; initials</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1523</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1134</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[16] pages ; 20 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Uuittemberg [i.e., Wittenberg]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+      </Creator>
+      <Title>
+        <text>Eyn Sermon von dem vnrechten Mammon Luce. xvi. / Doctor Martinus Luther; Title page recto</text>
+        <text>A Sermon on Unjust Wealth, Luke 16</text>
+      </Title>
+      <Date>
+        <text>M.D.xxiij [1523]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>[Melchior Lotther d.J.]</text>
+      </Publisher>
+      <Identifier>
+        <text>4527544</text>
+      </Identifier>
+      <Subject>
+        <text>Bible. Luke, XVI</text>
+        <text>Surplus (Economics)</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11387" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200021.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/flug/flug1</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200021</text>
+        <text>Luther, personally, prepared this sermon for the press during the Lenten season of 1519. The subject is the contemplation of the sufferings of Christ</text>
+        <text>Signatures: A⁶; [A] unsigned; A1b, A6b blank</text>
+        <text>Title vignette (Crucifixion with Open Tomb)</text>
+        <text>Imprint from Benzing</text>
+        <text>Variant: Wittenberg, rather than Wittemberg--Benzing-Claus</text>
+        <text>The wood-engraving (on t.p.) has the monogram of H. Schäufelein, according to WA</text>
+        <text>Compare with 03-B1225 (VD 16, L 6516; Benzing, 319; Gatch, D270) and 03-B1401 (VD 16, L 6512; Benzing, 317; Gatch, D640) and 03-B1411 (VD 16, L 6513; Benzing, 314; Gatch, D641)</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1519</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1146</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[12] pages ; 21 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>[Augsburg]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+        <text>Schäufelein, Hans, approximately 1480-approximately 1539</text>
+        <text>Otmar, Silvan, -1540</text>
+      </Creator>
+      <Title>
+        <text>Ain Sermon von der betrachtung des hailigen leidens Christi / Doctor Martini Luthers Augustiner zü Wittenberg; Title page recto</text>
+        <text>A Sermon Contemplating the Salvific Suffering of Christ</text>
+      </Title>
+      <Date>
+        <text>[1519]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>Silvan Otmar</text>
+      </Publisher>
+      <Identifier>
+        <text>4527559</text>
+      </Identifier>
+      <Subject>
+        <text>Passion of Jesus Christ</text>
+        <text>Bible. Gospels</text>
+        <text>Passion narratives (Gospels)</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11386" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200020.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/flug/flug1</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200020</text>
+        <text>Imprint from colophon which reads: "Gedruckt zu wittemberg durch Joh. weis M.D.XXXVIII."</text>
+        <text>Signatures: A-F⁴</text>
+        <text>Title within historiated woodcut border</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1538</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1221</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[48] pages ; 19 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Wittemberg [i.e., Wittenberg]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+        <text>Luther, Martin, 1483-1546. Schmalkaldischen Artikel</text>
+      </Creator>
+      <Title>
+        <text>Die drey Symbola, oder, Bekentnis des glaubens Christi jnn der kirchen eintrechtiglich gebraucht / Mart. Luther D. Wittemberg M.D.XXXVI; Title page recto</text>
+        <text>A Letter to Hans von Rechenberg of Freistadt from Martin Luther, 1522, On the Question of Whether or Not God May or Will Save Those Who Die Without Faith</text>
+      </Title>
+      <Date>
+        <text>M.D.XXXVIII [1538]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>Johannes Weis</text>
+      </Publisher>
+      <Identifier>
+        <text>4527642</text>
+      </Identifier>
+      <Subject>
+        <text>Luther, Martin, 1483-1546. Schmalkaldischen Artikel</text>
+        <text>Jesus Christ</text>
+        <text>Christology</text>
+        <text>Nicene Creed</text>
+        <text>Lutheran Church--Creeds</text>
+        <text>Lutheran Church--Doctrines</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11385" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200019.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/flug/flug1</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200019</text>
+        <text>Imprint from Benzing</text>
+        <text>Signatures: A⁴ (A1b and A4b blank)</text>
+        <text>Woodcut illustration on cover</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1523</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1149</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[8] pages ; 21 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>[Erfurt]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+      </Creator>
+      <Title>
+        <text>Eyn Sendbriff Mar. Luthers vber die frage : Ob Ob auch yemant on glauben verstorben selig werden muge. An Er Banszen von rechenberg zur freystadt. Wittemberg. Anno.M.D.XXiij; Title page recto</text>
+        <text>The Three Symbols, or, Confessions of the Christian Faith Profitably Used in the Church</text>
+      </Title>
+      <Date>
+        <text>M.D.XXiij [1523]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>[Wolfgang Stürmer]</text>
+      </Publisher>
+      <Identifier>
+        <text>4527577</text>
+      </Identifier>
+      <Subject>
+        <text>Salvation</text>
+        <text>Salvation outside the church</text>
+        <text>Death--Religious aspects--Christianity</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11384" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200018.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/flug/flug1</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200018</text>
+        <text>Signatures: A⁴, B⁴</text>
+        <text>Title within woodcut border</text>
+        <text>Compare with 03-B1487 (Benzing, 1453; VD 16, L 5483; Gatch, D706)</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1522</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1128</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[14] pages (last [2] pages blank) ; 19 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>[Erfurt]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+      </Creator>
+      <Title>
+        <text>Ein merklicher Sermon von der Geburt Marie, der muter Gottes : wie sy, vnd dye heiligen sollen geehrt werden, von einem itzlichē, cristenmenschen. / D. Mar. Luther. Anno Mdxxij; Title page recto</text>
+        <text>A Notable Sermon on the Birth of Mary, the Mother of God, How She and the Saints Ought to be Honored by Every Christian</text>
+      </Title>
+      <Date>
+        <text>MDxxij [1522]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>[Wolfgang Stürmer]</text>
+      </Publisher>
+      <Identifier>
+        <text>4527548</text>
+      </Identifier>
+      <Subject>
+        <text>Mary, Blessed Virgin, Saint</text>
+        <text>Saints--Cult</text>
+        <text>Germany</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11383" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200017.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/flug/flug1</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200017</text>
+        <text>Title vignette by Hans Schäufelein</text>
+        <text>Signature: a⁴⁺², b⁴ [last page blank]</text>
+        <text>Compare with 03-B1413 (VD 16, L 6483; Benzing, 436; Gatch, D643)</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1519</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1120</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[19] pages ; 20 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>[Augsburg]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+      </Creator>
+      <Title>
+        <text>Ain Sermon von der Beraitung zum sterben / Doctor Martini Luthers; Title page recto</text>
+        <text>A Sermon on Preparing to Die</text>
+      </Title>
+      <Date>
+        <text>[1519]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>Silvan Otmar</text>
+      </Publisher>
+      <Identifier>
+        <text>4527530</text>
+      </Identifier>
+      <Subject>
+        <text>Death</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11382" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200016.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/flug/flug1</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200016</text>
+        <text>Signatures: A-B⁴ (pamphlet miscollated; marginalia added in A to correct reading)</text>
+        <text>Title within woodcut ornamental border, illustrating the parable</text>
+        <text>Compare with 03-B1 (Benzing, 1770; VD 16, L 6350; Gatch, D733) and 03-B1933 (Benzing, 1763; VD 16, L 6353)</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1523</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1140</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[16] pages ; 20 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>[Bamberg]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+      </Creator>
+      <Title>
+        <text>Ein Sermon Doctor Martini Lutthers : auf das Euangelion Jo. x. : von dem gutten hyrten. Durch yn vberlesen; Title page recto</text>
+        <text>A Sermon by Doctor Martin Luther on the Gospel of John Chapter 10, on the Good Shepherd, Read Over by Him</text>
+      </Title>
+      <Date>
+        <text>MDxxiii [1523]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>[Georg Erlinger]</text>
+      </Publisher>
+      <Identifier>
+        <text>4527542</text>
+      </Identifier>
+      <Subject>
+        <text>Bible. John, X</text>
+        <text>Lost sheep (Parable)</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11381" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200015.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/indulgences</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200015</text>
+        <text>Ms. written in Rome in 1519</text>
+        <text>Richly illuminated</text>
+        <text>Script: littera documentaria pontificalis</text>
+        <text>Possibly originally part of Documentary manuscript collection (UTS Ms. 37)</text>
+      </Notes>
+      <KeyDate>
+        <text>1519</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Manuscripts</text>
+      </Subrepository>
+      <Collection>
+        <text>Van Ess Collection (Burke Library, Union Theological Seminary)</text>
+        <text>Manuscript Collection (Burke Library, Union Theological Seminary)</text>
+      </Collection>
+      <ShelfLocation>
+        <text>67</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>1 leaf : vellum ; 581 x 830 mm</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>[Rome]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Catholic Church. Collegium Cardinalium</text>
+        <text>Ess, Leander van, 1772-1847</text>
+        <text>Couvent d'Unterlinden (Colmar, France)</text>
+      </Creator>
+      <Title>
+        <text>[Letter of Indulgence from 12 Cardinals, to the Dominican Nuns of Unterlinde, Colmar]</text>
+      </Title>
+      <Description>
+        <text>A manuscript collective indulgence, written on vellum in the chancery hand used in Rome, granted to the nuns and giving them permission to display a famed painting of the Virgin Mary. Remission of the temporal consequences for sin could be obtained by visiting and viewing the painting on several feast days, including the Beheading of John the Baptist, St. Catherine, and St. Anne the Mother of Mary, all of whose images are portrayed around the border. This document itself would also have been on display on the feast days to announce the indulgence. This is a somewhat atypical example, and illustrates the variety of forms an indulgence might take. This item, along with several others in this exhibit, is part of the Burke Library’s Leander van Ess Collection, acquired in 1838 as the core library at the founding of Union Theological Seminary and which continues to be celebrated resource for the history of the book.</text>
+      </Description>
+      <Date>
+        <text>[14 May 1519]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Identifier>
+        <text>4586757</text>
+      </Identifier>
+      <Subject>
+        <text>Couvent d'Unterlinden (Colmar, France)</text>
+        <text>Indulgences</text>
+      </Subject>
+      <Language>
+        <text>Latin</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>This item was part of over 13,000 items purchased in 1838 from Leander van Ess as the core of then-fledgling Union Theological Seminary's library</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="11380" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200014.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/bible/psalms</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200014</text>
+        <text>Imprint from colophon which reads: "Gedruck zu Wittemberg durch Hans Weis Anno ..."</text>
+        <text>Signatures: A-H⁴</text>
+        <text>Title within historiated and architectural woodcut border</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1530</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1175</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[64] pages ; 19 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Wittemberg [i.e., Wittenberg]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+      </Creator>
+      <Title>
+        <text>Der Hundert vnd eilffte Psalm ausgelegt / durch D. Martin Luther. Wittemberg. M.D.XXX; Title page recto</text>
+        <text>The One Hundred and Eleventh Psalm Interpreted by Dr. Martin Luther</text>
+      </Title>
+      <Description>
+        <text>Luther studied the Hebrew Psalms – 150 poetic texts of devotion, praise, and lament – intensively from 1513-15 and he returned to them throughout his life.</text>
+      </Description>
+      <Date>
+        <text>M.D.XXX. [1530]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>Hans Weis</text>
+      </Publisher>
+      <Identifier>
+        <text>4527566</text>
+      </Identifier>
+      <Subject>
+        <text>Bible. Psalms, CXI</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11379" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200013.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/bible/galatians</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200013</text>
+        <text>Imprint from Benzing</text>
+        <text>Signatures: A⁶ B⁴ C⁶ D⁴ E⁶ F⁴ G⁶ H⁴ I⁶ K⁴ L⁶ M⁴ N⁶ O⁴ P-Q⁶ (-Q6)</text>
+        <text>Woodcut t.p. border attributed to Lucas Cranach. Cf. Pflugk-Harttung 36</text>
+        <text>Title page in red and black</text>
+        <text>Compare with 03-B1936 (Benzing, 426; VD 16, B 5077)</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1519</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1864</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[164] pages ; 20 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>[Leipzig]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+        <text>Lotter, Michael, approximately 1499-approximately 1556</text>
+      </Creator>
+      <Title>
+        <text>In epistolam Pavli ad Galatas, F. Martini Lvtheri Avgvstiniani, commentarivs; Title page recto</text>
+        <text>The Epistle of Paul to the Galatians: a Commentary by M. Luther, Augustinian</text>
+      </Title>
+      <Description>
+        <text>Luther famously preferred some portions of the Bible to others. Among his favored sections were the New Testament epistles of St. Paul, whose teachings on "justification by faith" were a central, organizing theme for Luther’s theology and the lens through which he interpreted the whole Bible. Rather than something earned by good behavior or holy exertions, St. Paul wrote of salvation as an unwarranted gift from God that could only be gratefully received through faith. St. Paul’s letter contains extensive argument about the tension between "law" (which Luther interpreted to mean anything undertaken in an attempt achieve favor or standing with God on one’s own) and "faith" (trust in God’s unearned promise to save despite the impossibility of anyone deserving it).</text>
+      </Description>
+      <Date>
+        <text>[1519]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>Melchior Lotter</text>
+      </Publisher>
+      <Identifier>
+        <text>4528323</text>
+      </Identifier>
+      <Subject>
+        <text>Bible. Galatians</text>
+      </Subject>
+      <Language>
+        <text>Latin</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11378" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200012.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/bible/prophets</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200012</text>
+        <text>1st edition of Luther's translation of the Prophets</text>
+        <text>front board of binding</text>
+      </Notes>
+      <KeyDate>
+        <text>1532</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Union Rare Folio</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>CB74 1532</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[6], 124, 63 leaves ; 30 cm</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Gedruckt zu Wittemberg</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Bible. Old Testament. German. Luther. 1532</text>
+      </Creator>
+      <Title>
+        <text>Die Propheten alle Deudsch / D. Mart. Luth; Front board of binding</text>
+        <text>The Prophets in German</text>
+      </Title>
+      <Description>
+        <text>The first edition of Luther's translation of the Hebrew Prophets. An edition of the entire Hebrew Bible would appear two years later.</text>
+      </Description>
+      <Date>
+        <text>1532</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>Durch Hans Lufft</text>
+      </Publisher>
+      <Identifier>
+        <text>4571821</text>
+      </Identifier>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11377" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200011.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/bible</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200011</text>
+        <text>Colophon: Gedruckt zu wittemberg Melchior vnd Michel Lotther gebruder M.D.XXIIII</text>
+        <text>Title within ornamental border by Georg Lemberger; the 21 woodcut illustrations (all in the Revelation of St. John) are ascribed to the workshop of Lucas Cranach the elder, perhaps after rough sketches by Cranach himself. Cf. the description in Luther's Werke (Kritische Gesamtausgabe), Die deutsche Bibel, 2. Bd., p.[266], no. *7, &amp; p.203</text>
+        <text>The 3d Wittenberg folio edition of Luther's translation</text>
+        <text>verso, illustration</text>
+      </Notes>
+      <KeyDate>
+        <text>1524</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Union Rare Folio</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>CB77 1524</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>ccxv numb. : illustrations ; 30 cm (folio)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+        <text>prints</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Wittemberg</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Bible. New Testament. German. Luther. 1524</text>
+        <text>Lemberger, Georg, 1495?-1540?</text>
+        <text>Cranach, Lucas, 1472-1553</text>
+        <text>Luther, Martin, 1483-1546</text>
+      </Creator>
+      <Title>
+        <text>Das Newe Testament deutzsch; Woodcut from Apocalypse from title page verso</text>
+        <text>German New Testament</text>
+      </Title>
+      <Description>
+        <text>The third Wittenberg folio edition of Luther's translation. Woodcut illustrations of the Apocalypse of St. John, from the workshop of Lucas Cranach the Elder, depict the defeat of the satanic dragon at the conclusion of that visionary work. The Apocalypse was a favored subject of artists. In Luther’s day, speculation about the end of days and a vivid sense of the "porous" nature of the cosmos – its openness to otherworldly powers of good and evil – were commonplace. Luther himself spoke often of the Devil, sometimes mockingly, as a regular player in the drama of his daily life and struggles.</text>
+      </Description>
+      <Date>
+        <text>[1524]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>publisher not identified</text>
+      </Publisher>
+      <Identifier>
+        <text>4549104</text>
+      </Identifier>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11376" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200010.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200010</text>
+        <text>Colophon: Gedruckt zu wittemberg Melchior vnd Michel Lotther gebruder M.D.XXIIII</text>
+        <text>Title within ornamental border by Georg Lemberger; the 21 woodcut illustrations (all in the Revelation of St. John) are ascribed to the workshop of Lucas Cranach the elder, perhaps after rough sketches by Cranach himself. Cf. the description in Luther's Werke (Kritische Gesamtausgabe), Die deutsche Bibel, 2. Bd., p.[266], no. *7, &amp; p.203</text>
+        <text>The 3d Wittenberg folio edition of Luther's translation</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1524</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Union Rare Folio</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>CB77 1524</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>ccxv numb. : illustrations ; 30 cm (folio)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Wittemberg</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Bible. New Testament. German. Luther. 1524</text>
+        <text>Lemberger, Georg, 1495?-1540?</text>
+        <text>Cranach, Lucas, 1472-1553</text>
+        <text>Luther, Martin, 1483-1546</text>
+      </Creator>
+      <Title>
+        <text>Das Newe Testament deutzsch; Title page recto</text>
+        <text>German New Testament</text>
+      </Title>
+      <Description>
+        <text>The third Wittenberg folio edition of Luther's translation. Woodcut illustrations of the Apocalypse of St. John, from the workshop of Lucas Cranach the Elder, depict the defeat of the satanic dragon at the conclusion of that visionary work. The Apocalypse was a favored subject of artists. In Luther’s day, speculation about the end of days and a vivid sense of the "porous" nature of the cosmos – its openness to otherworldly powers of good and evil – were commonplace. Luther himself spoke often of the Devil, sometimes mockingly, as a regular player in the drama of his daily life and struggles.</text>
+      </Description>
+      <Date>
+        <text>[1524]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>publisher not identified</text>
+      </Publisher>
+      <Identifier>
+        <text>4549104</text>
+      </Identifier>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11375" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200009.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/bible/ot1</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200009</text>
+        <text>Imprint derived from colophon, sig. e4r</text>
+        <text>Sine nota</text>
+        <text>First edition of Luther's translation of the Pentateuch</text>
+        <text>recto, illustration</text>
+      </Notes>
+      <KeyDate>
+        <text>1523</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Union Rare</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>CB74 1523</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>xii, xiiii-clv : illustrations ; 30 cm (folio)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+        <text>prints</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Gedruckt zu Wittemperg</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Bible. Pentateuch. German. Luther. 1523</text>
+        <text>Luther, Martin, 1483-1546</text>
+      </Creator>
+      <Title>
+        <text>Das Allte Testament deutsch / M. Luther ..; [Title page recto with woodcut image of a scene from the story of Noah and the flood?</text>
+        <text>Geman Old Testament</text>
+      </Title>
+      <Description>
+        <text>The first edition of Luther’s translation of the Torah – the first five books of the Hebrew Bible, also known as the Pentateuch – showing a woodcut image of a scene from the story of Noah and the flood.</text>
+      </Description>
+      <Date>
+        <text>1523</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>Melchior vnd Michel Lotther ...</text>
+      </Publisher>
+      <Identifier>
+        <text>4549111</text>
+      </Identifier>
+      <Language>
+        <text>German</text>
+        <text>Hebrew</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11374" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200008b.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/bible/nt1</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200008b</text>
+        <text>Folios [cii] and [lxxix] blank</text>
+        <text>The Luther version</text>
+        <text>Few woodcuts at head of chapters</text>
+        <text>Sine nota</text>
+        <text>opening</text>
+      </Notes>
+      <KeyDate>
+        <text>1523</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Union Rare Folio</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>CB77 1523</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[4], 101, 1 blank, [5], 78 leaves : illustrations ; 32 cm (folio)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+        <text>manuscripts</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>[Strassburg]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Bible. New Testament. German. Luther. 1523</text>
+        <text>Luther, Martin, 1483-1546</text>
+      </Creator>
+      <Title>
+        <text>Ihesus  Das New Testament teütsch; Marginal manicule 2, Romans 7:4</text>
+        <text>German New Testament</text>
+      </Title>
+      <Description>
+        <text>First appearing in September 1522 (the so-called "September Testament"), Luther’s New Testament was reprinted more than 50 times over the next four years. The two marginal manicules in this 1523 edition point to key passages in St. Paul’s "Epistle to the Romans" central to Luther’s pre-1517 study and to his ongoing theological program:  "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord." (6:23)  "And in the same way, my friends, you have died to the law through the body of Christ, so that you may belong to one another, to him who has been raised from the dead in order that we may bear fruit for God." (7:4)</text>
+      </Description>
+      <Date>
+        <text>[1523]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>Johann Schott</text>
+      </Publisher>
+      <Identifier>
+        <text>4549103</text>
+      </Identifier>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11373" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200008a.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/bible/nt1</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200008a</text>
+        <text>Folios [cii] and [lxxix] blank</text>
+        <text>The Luther version</text>
+        <text>Few woodcuts at head of chapters</text>
+        <text>Sine nota</text>
+        <text>opening</text>
+      </Notes>
+      <KeyDate>
+        <text>1523</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Union Rare Folio</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>CB77 1523</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[4], 101, 1 blank, [5], 78 leaves : illustrations ; 32 cm (folio)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+        <text>manuscripts</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>[Strassburg]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Bible. New Testament. German. Luther. 1523</text>
+        <text>Luther, Martin, 1483-1546</text>
+      </Creator>
+      <Title>
+        <text>Ihesus  Das New Testament teütsch; Marginal manicule 1, Romans 6:23</text>
+        <text>German New Testament</text>
+      </Title>
+      <Description>
+        <text>First appearing in September 1522 (the so-called "September Testament"), Luther’s New Testament was reprinted more than 50 times over the next four years. The two marginal manicules in this 1523 edition point to key passages in St. Paul’s "Epistle to the Romans" central to Luther’s pre-1517 study and to his ongoing theological program:  "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord." (6:23)  "And in the same way, my friends, you have died to the law through the body of Christ, so that you may belong to one another, to him who has been raised from the dead in order that we may bear fruit for God." (7:4)</text>
+      </Description>
+      <Date>
+        <text>[1523]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>Johann Schott</text>
+      </Publisher>
+      <Identifier>
+        <text>4549103</text>
+      </Identifier>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11372" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200007.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/indulgences/mary</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200007</text>
+        <text>Colophon: Getruckt zů Strassburg von Mathis hüpfuff do man zalt .xv hundert vnd iiij. Jar</text>
+        <text>Song to Mary, for singing or reading which an indulgence of 40 days is granted</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1504</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Union Rare</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>UG56 Z48 1504</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[15] pages : 1 illustrations ; 14 x 11 cm</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>[Strassburg]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Zeitz (Bishopric)</text>
+      </Creator>
+      <Title>
+        <text>Der Bischoff von Zeitz hat geben .xl. tag ablass allen denen die diss lyed mit andacht singen oder lesen : Maria zart mit xxj. gesetzen : [woodcut]; Title page recto</text>
+        <text>The Bishop of Zeitz Has Granted 40 Days Indulgence to All Those Who Sing or Read This Song with Devotion: Tender Mary with Twenty-one Verses</text>
+      </Title>
+      <Description>
+        <text>This short pamphlet contains a song to the Blessed Virgin Mary, the singing or reading of which obtains an indulgence of 40 days. Indulgences were very popular with printers, as they were typically quite short texts and could be set up and sold in large numbers with minimal production costs.</text>
+      </Description>
+      <Date>
+        <text>[1504]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>Matthias Hupfuff</text>
+      </Publisher>
+      <Identifier>
+        <text>4578315</text>
+      </Identifier>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11371" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200006.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/indulgences/leipzig</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200006</text>
+        <text>Text in Latin includes both Emser's and Luther's works on the Leipzig Disputation</text>
+        <text>Woodcut of coat of arms of H. Emser on title page</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1519</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Union Rare Pamphlets</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>LH34 1519</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[30] pages ; 21 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>[Augsburg]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Emser, Hieronymus, 1478-1527</text>
+        <text>Luther, Martin, 1483-1546. Ad aegocerotem Lutheri additio</text>
+      </Creator>
+      <Title>
+        <text>De disputatione lipsicensi quantum ad Boemos obiter deflexa est Epistola / Hieronymi Emser. Ad Aegocerotem / Lutheri additio; Title page recto</text>
+        <text>On the Leipzig Disputation, an Epistle Which Turns on the Issue of the Bohemians [=Hussites]</text>
+      </Title>
+      <Description>
+        <text>Emser was one of Luther’s antagonists in this period and he referred to him as "Goat Emser." This work summarizes the debate that occurred in Leipzig between Luther and his opponents. Chief among these was Johann Eck, one of the leading intellects of the day who, in the course of the debate got Luther to admit (partial) support for the Bohemian theologian Jan Hus, who had notoriously been condemned as a heretic despite receiving a safe-conduct from the emperor, and was executed at Constance in 1415. The event, during which Luther asserted that "scripture alone" (sola scriptura) rather than the Roman Church or the Pope, was the supreme authority for Christians, marked a turning point in Luther’s relation to the Church of which he was then, still, a member. Soon after, the papal bull Exsurge Domine was issued, condemning Luther’s writings and setting the stage for his excommunication.</text>
+      </Description>
+      <Date>
+        <text>[1519]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>Silvan Otmar</text>
+      </Publisher>
+      <Identifier>
+        <text>4582893</text>
+      </Identifier>
+      <Subject>
+        <text>Catholic Church--Doctrines</text>
+        <text>Theology, Doctrinal</text>
+        <text>Leipzig Disputation (Germany : 1519)</text>
+        <text>Hussites</text>
+      </Subject>
+      <Language>
+        <text>Latin</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11370" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200005.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/indulgences/sermon-on-indulgences-and-grac</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200005</text>
+        <text>Imprint from VD 16; date from colophon</text>
+        <text>Signatures: [A]-B⁴ (-B4)</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1518</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>03-B1950</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[16] pages (last [2] pages blank) ; 21 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>[Nürnberg]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Luther, Martin, 1483-1546</text>
+        <text>Gutknecht, Jobst, -1542</text>
+      </Creator>
+      <Title>
+        <text>Ein freyheyt des Sermons Bebstlichen ablass vn[d] gnad belangend / Doctoris Martini Luther, wider die vorlegu[n]g So zu schmach sein vnd desselben Sermons erdichtet; Title page recto</text>
+        <text>Sermon on Indulgences and Grace</text>
+      </Title>
+      <Description>
+        <text>This very popular work, Luther’s first important publication in German, appeared in spring 1518 and further develops the arguments of the Ninety-five Theses concerning the inadequacies of the indulgence system. At this date there was just a single printer in Wittenberg who was underprepared for the huge market Luther’s writings generated. To meet the demand, many of Luther’s works were printed or re-printed in other cities with more developed printing industries such as Leipzig, Augsburg, Basel, and (as here) Nuremberg.  The sermon’s final passage captures the combative tone that would characterize some of Luther’s polemical works: "...some people reproach me as a heretic (for such a truth is quite injurious for their money boxes), I pay little heed to such babblings [and the only ones who do are] some muddled brains who have never sniffed a Bible, have never read the Christian teachers, have never understood their own teachers but rather are decaying in their riddled and fragmented opinions. For if they had understood them, they would know that they should defame no one without hearing and challenging him. Nonetheless, may God give them and us right understanding. Amen."</text>
+      </Description>
+      <Date>
+        <text>1518</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>[Jobst Gutknecht]</text>
+      </Publisher>
+      <Identifier>
+        <text>4528400</text>
+      </Identifier>
+      <Subject>
+        <text>Indulgences</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11369" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200004.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200004</text>
+        <text>Imprint from BM STC German, 1455-1600, p. 798</text>
+        <text>Edmond, J.P. has imprint Augsburg : Sylvan Otmar</text>
+        <text>Signatures: A⁶</text>
+        <text>Woodcut on title page depicting the selling of indulgences; initial</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1521</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>07-B002</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[12] pages ; 21 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+        <text>prints</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>[Augsburg]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Schwalb, Hans</text>
+      </Creator>
+      <Title>
+        <text>Beclagung aines Leyens genant Hanns Schwalb über vil missbreüch christliches Lebens : vnd darin[n] begriffen kürtzlich von Johannes Husssen [sic]; Title page recto</text>
+        <text>Lament of Lay Person Named Hans Schwalb Over Many Abuses of the Christian Life, and Therein is a Brief Explanation About Jan Hus
+</text>
+      </Title>
+      <Description>
+        <text>The woodcut depicts the selling of indulgences.</text>
+      </Description>
+      <Date>
+        <text>im Jar 1521</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>[Melchoir Ramminger]</text>
+      </Publisher>
+      <Identifier>
+        <text>6120388</text>
+      </Identifier>
+      <Subject>
+        <text>Hus, Jan, 1369?-1415</text>
+        <text>Luther, Martin, 1483-1546</text>
+        <text>Catholic Church</text>
+      </Subject>
+      <Language>
+        <text>German</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11368" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200003.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/indulgences/summary</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200003</text>
+        <text>Signatures: a¹²</text>
+        <text>Not paginated or foliated</text>
+        <text>"Datum Rome apud sanctum Petrum anno incarnationis dominice Millesimo quinge[n]tesimo tercio Non[as] Octob[ris], pontificatus nostri Anno Nono"--Foot of leaf [a12r])</text>
+        <text>Summary by papal legate Cardinal Raimond Pérault of bull Domini et Salvatoris, issued 5 Oct. 1500</text>
+        <text>"[Cardinal] Peraudi left Rome on his legatine mission on 26 October (1500) to announce the jubilee and crusading indulgences. He carried with him the crusading bull Domini et salvatoris (dated 5 October, 1500)."--K.M. Setton, The papacy and the Levant, 1204-1571 (Philadelphia: American Philosophical Society, 1978), v. 2, p. 531-532</text>
+        <text>Imprint from ISTC</text>
+        <text>Burke Library copy: Imperfect, leaf [a1] (blank?) wanting</text>
+        <text>Burke Library copy: Rubricated throughout. Some annotations</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1500 1503</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>questionable</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Van Ess 2</text>
+      </Subrepository>
+      <Collection>
+        <text>Van Ess Collection (Burke Library, Union Theological Seminary)</text>
+      </Collection>
+      <ShelfLocation>
+        <text>4</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[12] leaves ; 27 cm (folio)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>[Mainz]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Catholic Church. Pope (1492-1503 : Alexander VI)</text>
+        <text>Pérault, Raimond, 1435-1505</text>
+        <text>Schöffer, Peter, approximately 1425-approximately 1502</text>
+        <text>Catholic Church. Pope (1492-1503 : Alexander VI). Domini et salvatoris (5 Oct. 1500)</text>
+      </Creator>
+      <Title>
+        <text>Summaria declaratio bulle indulgentia[rum] sacratissima[rum]; Title page recto</text>
+        <text>Summary Declaration of a Bull of Indulgences Against the Turks</text>
+      </Title>
+      <Description>
+        <text>Printed by Gutenburg’s associate Peter Schöffer, possibly for one of the more successful indulgence sellers, Raymond Peraudi. The document enumerates a variety of indulgences available for those who would support a crusade against the Ottoman Empire, which at that point reached well into the Balkan Peninsula to the frontier of the Holy Roman Empire and Luther’s Germany.</text>
+      </Description>
+      <Date>
+        <text>[ca. 1500 to 1503]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>[Peter Schöffer]</text>
+      </Publisher>
+      <Identifier>
+        <text>4662747</text>
+      </Identifier>
+      <Subject>
+        <text>Bulls, Papal</text>
+        <text>Indulgences</text>
+        <text>Crusade bulls</text>
+      </Subject>
+      <Language>
+        <text>Latin</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11367" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/indulgences/celifodina</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200002</text>
+        <text>Ad lectorem/ Aethereas edes tibi cure est optime lector/ Scandere nos emito namq[uam] damus semitam."</text>
+        <text>Imprint from colophon</text>
+        <text>Author's name appears on leaf A3: "Frater Johannes De Paltz sacre theologie hu[m]ilis p[ro]fessor ordinis fratru[m] heremitarum s[an]cti Augustini Reuerentia debita[m]."</text>
+        <text>Signatures: A-V⁶ X⁴ Y⁶; Y6 blank</text>
+        <text>Woodcut (depicting the Crucifixion) on title page</text>
+        <text>Burke Library copy: Rubrication throughout, including on woodcut image of Christ on the cross. Binding includes metal clasps</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1502</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Tower</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>BT450 .P35 1502g</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[260] pages : illustrations (woodcut) ; 22 cm (quarto)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+        <text>prints</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Impressum Erphordie [Erfurt]</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Paltz, Johann von, -1511</text>
+        <text>Schenck, Wolfgang, active 1498-1507</text>
+      </Creator>
+      <Title>
+        <text>Celifodina; Title page recto</text>
+      </Title>
+      <Description>
+        <text>This work of pastoral guidance was written by Johann von Paltz (c. 1445 – 1511), an Augustinian friar and one of Luther’s superiors and (possibly) mentors. He wrote extensively about indulgences in a theologically correct way, but was loyal to the Church. The woodcut shows friars "digging" in the Scriptures for the hidden truths of the Christian faith.</text>
+      </Description>
+      <Date>
+        <text>anno MDII, tertia post Judica [1502]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>P[er] Wolffgangu[m] Schencken</text>
+      </Publisher>
+      <Identifier>
+        <text>5465079</text>
+      </Identifier>
+      <Subject>
+        <text>Crucifixion of Jesus Christ</text>
+        <text>Christian life--Catholic authors</text>
+      </Subject>
+      <Language>
+        <text>Latin</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11366" public="1" featured="0">
+    <OmekaCollection>Wild Boar in the Vinyard: Martin Luther at the Birth of the Modern World</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1900200001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/martin-luther/indulgences/privileges</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename:1900200001</text>
+        <text>Imprint from colophon which reads: "Impressum Liptzk per Cunradun Kachelosen Anno domini Millesimoquadringentesimo Nonagelimoquinto."</text>
+        <text>Signatures: A⁸ B-C⁶ (-A1)</text>
+        <text>Title page missing</text>
+        <text>Boxed in Van Ess Collection under "Franciscans; Privilegia ..."</text>
+        <text>recto, title page</text>
+      </Notes>
+      <KeyDate>
+        <text>1495</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Van Ess 1</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>91</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>[40] pages ; 21 cm (octavo)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Impressum Liptzk</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Kachelofen, Konrad, -1528 or 1529</text>
+      </Creator>
+      <Title>
+        <text>Priuilegia et indulgentia fratrum minoru[m] ordinis Sancti francisci; Title page recto</text>
+        <text>Privileges and Indulgences of the Franciscan Order </text>
+      </Title>
+      <Description>
+        <text>This document summarizes indulgences granted to members of the mendicant Order of St. Francis, the benefits of which might be conveyed to those who visited their churches.</text>
+      </Description>
+      <Date>
+        <text>[1495]</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Publisher>
+        <text>per Cunradun Kachelofen</text>
+      </Publisher>
+      <Identifier>
+        <text>4528469</text>
+      </Identifier>
+      <Subject>
+        <text>Franciscans</text>
+        <text>Indulgences (Canon law)</text>
+        <text>Privileges and immunities, Ecclesiastical</text>
+      </Subject>
+      <Language>
+        <text>Latin</text>
+      </Language>
+    </DublinCore>
+  </item>
+</itemContainer>
+
+
