@@ -1,0 +1,4225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--The name of each XML element representing an Omeka element or element set is
+based on the name of the element or element set in Omeka. For example:
+     The "Dublin Core" element set is represented by the DublinCore XML element
+     The "Form Genre" element in MODS is represented by the FormGenre XML element
+
+The following XML elements are based on internal Omeka data:
+     The OriginalFileLoadedIntoOmeka XML element contains the name/path of
+     of the file(s) loaded into Omeka for the given item.
+     The OmekaCollection XML element contains the name of the Omeka collection
+     containing the item, if the item belongs to an Omeka collection. Please note
+     that this element is different from the Collection element in MODS, which is
+     curator-populated.
+-->
+<itemContainer>
+  <item itemId="7853" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>burke_church_000.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/intro/ownership</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Church of South India is Born. Focus screen.</text>
+      </Title>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Language>
+        <text>eng</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948 </text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Notes>
+        <text>original filename: burke_church_000.tif</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>eng</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>rd</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7852" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_083.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating4</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 83: interior chapel, "That they all may be one"</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_083.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7851" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_082.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating4</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 82: family at worship</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_082.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7850" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_081.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating4</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 81: interior Dornakal</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_081.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7849" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_080.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating4</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 80: exterior Dornakal</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_080.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7848" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_079.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating4</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 79: bells in tower</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_079.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7847" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_078.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating4</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 78: congregation at Modak</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_078.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7846" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_077.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating4</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 77: bells ringing</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_077.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7845" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_076.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating3</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 76: Church Union consecration</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_076.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7844" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_075.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating3</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 75: consecration</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_075.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7843" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_074.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating3</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 74: Hooper preaching</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_074.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7842" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_073.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating3</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 73: precessional</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_073.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7841" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_072.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 72: Bishops-elect</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_072.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7840" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_071.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 71: commissioning Bishops</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_071.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7839" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_070.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 70: organ pipes</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_070.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7838" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_069.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 69: Bishop before altar</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_069.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7837" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_068.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 68: Dr. Kell at altar</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_068.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7836" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_067.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 67: Bishop Elliot at altar</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_067.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7835" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_066.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 66: processional</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_066.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7834" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_065.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 65: Anglican bishops</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_065.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7833" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_064.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 64: Bishop Mondol and Dean Pitt</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_064.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7832" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_063.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 63: St. George's Cathedral, September 27, 1947</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_063.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7831" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_062.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 62: entire chart</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_062.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7830" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_061.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 61: Church Union United Church branch</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_061.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7829" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_060.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 60: Church Union Anglican and Wesleyan branches</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_060.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7828" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_059.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 59: chart of all branches</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_059.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7827" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_058.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/inauguratingchurch/scenesinaugurating1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 58: Inaugurating the Church of South India</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_058.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7826" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_057.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/stepschurchunion/scenessteps2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 57: interior group, General Assembly, Tambaram, 1947</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_057.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7825" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_056.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/stepschurchunion/scenessteps2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 56: exterior group, General Assembly, Tambaram, 1947</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_056.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7824" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_055.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/stepschurchunion/scenessteps2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 55: conference at Tambaram</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_055.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7823" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_054.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/stepschurchunion/scenessteps2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 54: Reverend Peter and Reverend Popley</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_054.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7822" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_053.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/stepschurchunion/scenessteps2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 53: portrait, Bishop Azariah</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_053.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7821" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_052.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/stepschurchunion/scenessteps2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 52: beach at Tranquebar, Tranquebar 1919</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_052.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7820" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_051.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/stepschurchunion/scenessteps2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 51: interior church, Ranipet</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_051.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7819" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_050.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/stepschurchunion/scenessteps1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 50: exterior church, Ranipet</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_050.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7818" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_049.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/stepschurchunion/scenessteps1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 49: group of ministers</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_049.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7817" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_048.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/stepschurchunion/scenessteps1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 48: map of church areas</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_048.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7816" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_047.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/stepschurchunion/scenessteps1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 47: steps Toward Church Union</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_047.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7815" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_046.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/characterchristianity/scenescharacter2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 46: Church Union children</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_046.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7814" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_045.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/characterchristianity/scenescharacter2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 45: village gathering</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_045.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7813" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_044.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/characterchristianity/scenescharacter2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 44: Indian evangelist</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_044.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7812" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_043.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/characterchristianity/scenescharacter1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 43: service</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_043.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7811" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_042.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/characterchristianity/scenescharacter1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 42: Indian at devotions</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_042.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7810" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_041.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/characterchristianity/scenescharacter1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 41: Ashram, Vellore</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_041.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7809" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_040.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/characterchristianity/scenescharacter1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 40: shrine</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_040.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7808" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_039.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/characterchristianity/scenescharacter1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 39: Ashram, Kodaikanal</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_039.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7807" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_038.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/characterchristianity/scenescharacter1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 38: The character of Protestant Christianity in South India</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_038.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7806" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_037.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/firstprotestantmissionaries/scenesprotestantmiss2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 37: church yard Madura, a Congregational church yard</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_037.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7805" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_036.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/firstprotestantmissionaries/scenesprotestantmiss2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 36: portrait, the Scudder family</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_036.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7804" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_035.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/firstprotestantmissionaries/scenesprotestantmiss2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 35: exterior church, Old Scotch Kirk, Madras</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_035.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7803" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_034.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/firstprotestantmissionaries/scenesprotestantmiss2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 34: evangelists in village</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_034.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7802" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_033.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/firstprotestantmissionaries/scenesprotestantmiss2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 33: group at table, Early Wesleyan Evangelists</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_033.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7801" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_032.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/firstprotestantmissionaries/scenesprotestantmiss2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 32: memorial</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_032.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7800" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_031.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/firstprotestantmissionaries/scenesprotestantmiss2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 31: portrait, Schwartz of Tanjore, 1750</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_031.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7799" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_030.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/firstprotestantmissionaries/scenesprotestantmiss2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 30: exterior church, New Jerusalem Church, 1718</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_030.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7798" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_029.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/firstprotestantmissionaries/scenesprotestantmiss1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 29: Ziegenbalg, 1706</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_029.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7797" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_028.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/firstprotestantmissionaries/scenesprotestantmiss1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 28: Danish Fort at Tranquobar</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_028.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7796" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_027.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/firstprotestantmissionaries/scenesprotestantmiss1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 27: The first Protestant missionaries</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_027.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7795" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_026.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/christianityindia/sceneschristianityindia2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 26: plate</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_026.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7794" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_025.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/christianityindia/sceneschristianityindia2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 25: interior of church</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_025.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7793" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_024.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/christianityindia/sceneschristianityindia2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 24: church, St. Mary's, Madras, 1680</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_024.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7792" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_023.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/christianityindia/sceneschristianityindia2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 23: Fort St. George, Madras, 1640</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_023.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7791" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_022.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/christianityindia/sceneschristianityindia2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 22: station at Canton</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_022.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7790" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_021.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/christianityindia/sceneschristianityindia2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 21: East India House, British East India House 1618</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_021.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7789" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_020.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/christianityindia/sceneschristianityindia2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 20: ships at Malabar, Vasco da Gama 1496</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_020.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7788" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_019.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/christianityindia/sceneschristianityindia1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 19: Bishop Abraham</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_019.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7787" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_018.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/christianityindia/sceneschristianityindia1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 18: gateway to church</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_018.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7786" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_017.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/christianityindia/sceneschristianityindia1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 17: tablet on cave</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_017.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7785" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_016.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/christianityindia/sceneschristianityindia1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 16: cross at Travancore</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_016.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7784" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_015.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/christianityindia/sceneschristianityindia1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 15: palm shore, Travancore</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_015.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7783" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_014.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/christianityindia/sceneschristianityindia1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 14: map of South India</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_014.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7782" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_013.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/christianityindia/sceneschristianityindia1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 13: Christianity comes to India</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_013.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7781" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_012.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/miracle/scenesmiracle2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 12: group on steps</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_012.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7780" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_011.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/miracle/scenesmiracle2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 11: group at service</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_011.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7779" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_010.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/miracle/scenesmiracle2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 10: woman and nurse at crib</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_010.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7778" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_009.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/miracle/scenesmiracle2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 9: man and child</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_009.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7777" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_008.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/miracle/scenesmiracle2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 8: woman and child</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_008.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7776" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_007.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/miracle/scenesmiracle2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 7: woman</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_007.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7775" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_006.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/miracle/scenesmiracle2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 6: clergyman</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_006.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7774" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_005.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/miracle/scenesmiracle2</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 5: women standing at door</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_005.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7773" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_004.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/miracle/scenesmiracle1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 4: bishop praying</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_004.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7772" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_003.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/miracle/scenesmiracle1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 3: interior of Medak Cathedral</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_003.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7771" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/miracle/scenesmiracle1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 2: The greatest miracle since Pentecost</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_002.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="7770" public="1" featured="0">
+    <OmekaCollection>A Church is Born: Church of South India Inauguration</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>http://ldpd.cul.columbia.edu/a_church_is_born/burke_church_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/church/miracle/scenesmiracle1</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Foreign Missions Conference of North America. India Committee</text>
+      </Creator>
+      <Title>
+        <text>Church of South India is Born. Scene 1: A Church is Born Presented by the India Committee Foreign Missions Conference of North America</text>
+      </Title>
+      <Date>
+        <text>circa 1948</text>
+      </Date>
+      <Identifier>
+        <text>CLIO id: 4492556</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Burke Library at Union Theological Seminary, Columbia University</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Missionary Research Library Archives</text>
+      </Subrepository>
+      <Collection>
+        <text>Missionary Research Library 3: Church Is Born Records, Church of South India Inuaguration</text>
+      </Collection>
+      <FormGenre>
+        <text>filmstrips</text>
+      </FormGenre>
+      <Notes>
+        <text>original filename: burke_church_001.tif</text>
+      </Notes>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Originally part of the independent Missionary Research Library, these records were accessioned to the Burke Library archives with the closure of the MRL in 1976. The records were processed and preserved as part of a Henry Luce Foundation grant in 2013.</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+</itemContainer>
