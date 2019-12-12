@@ -1,0 +1,4554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--The name of each XML element representing an Omeka element or element set is
+based on the name of the element or element set in Omeka. For example:
+     The "Dublin Core" element set is represented by the DublinCore XML element
+     The "Form Genre" element in MODS is represented by the FormGenre XML element
+
+The following XML elements are based on internal Omeka data:
+     The OriginalFileLoadedIntoOmeka XML element contains the name/path of
+     of the file(s) loaded into Omeka for the given item.
+     The OmekaCollection XML element contains the name of the Omeka collection
+     containing the item, if the item belongs to an Omeka collection. Please note
+     that this element is different from the Collection element in MODS, which is
+     curator-populated.
+-->
+<itemContainer>
+  <item itemId="11533" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: Paper</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Vilner Troupe Cover.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/theatre</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>[Jubilee volume celebrating the 15th anniversary of the Vilner Trup]</text>
+      </Title>
+      <Subject>
+        <text>Yiddish, theatre</text>
+      </Subject>
+      <Creator>
+        <text>Brauner</text>
+      </Creator>
+      <Date>
+        <text>1931</text>
+      </Date>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Identifier>
+        <text>MS 1686, Yiddish Theatre Archive</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <PublicationPlace>
+        <text>Lodz</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1931</text>
+      </PublicationDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>MS 1686: Yiddish Theatre Collection</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>Reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Yiddish Theatre Collection</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="11532" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <ItemType>Document</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Zajkowski Flat 3.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/theatre/szajkowski</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Laynt bikher...bibliotek</text>
+      </Title>
+      <Subject>
+        <text>Libraries</text>
+      </Subject>
+      <Description>
+        <text>Poster for a library</text>
+      </Description>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Identifier>
+        <text>Zosa Szajkowski Collection, Oversize box</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1920s</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>Approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>France</text>
+      </PublicationPlace>
+      <PhysicalLocation>
+        <text>Rare Book and Manuscript Library</text>
+      </PhysicalLocation>
+      <RepositoryName>
+        <text>Bakhmeteff Archive</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Zosa Szajkowski collection</text>
+      </Subrepository>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="11531" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <ItemType>Document</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Zajkowski Flat 16.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/theatre/szajkowski</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Sigareten fur di militsionern in Shpanya</text>
+      </Title>
+      <Subject>
+        <text>Spanish Civil War</text>
+      </Subject>
+      <Description>
+        <text>Poster announcing the collection of cigarettes for the fighters in the Spanish Civil War</text>
+      </Description>
+      <Creator>
+        <text>Milke</text>
+      </Creator>
+      <Rights>
+        <text>Out of copyright</text>
+      </Rights>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Identifier>
+        <text>Oversize box, Zosa Szajkowski Collection</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <PlaceofOrigin>
+        <text>France</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>Poster</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Bakhmeteff Archive</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Zosa Szajkowski Collection, Oversize</text>
+      </ShelfLocation>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="11530" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <ItemType>Document</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>Zajkowski Flat 9.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/theatre/szajkowski</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Kontsert-Bal</text>
+      </Title>
+      <Subject>
+        <text>Theatre</text>
+      </Subject>
+      <Description>
+        <text>Poster advertising a performance to benefit children in Eastern Europe</text>
+      </Description>
+      <Date>
+        <text>1920s</text>
+      </Date>
+      <Rights>
+        <text>Out of Copyright</text>
+      </Rights>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Type>
+        <text>Poster</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <PlaceofOrigin>
+        <text>Paris</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>Poster</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library</text>
+      </RepositoryName>
+      <Subrepository>
+        <text>Bakhmeteff Archive</text>
+      </Subrepository>
+      <ShelfLocation>
+        <text>Zosa Szajkowski Collection, Flat Box, Item 9&#13;
+</text>
+      </ShelfLocation>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Zosa Szajkowski Collection</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="11529" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/General_66_002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/ritual/discursn</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Diskursn. First leaf of text</text>
+      </Title>
+      <Date>
+        <text>1797</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1797</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Rare Book &amp; Manuscript Library General Manuscript Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>General MS 066</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Public Access</text>
+      </Notes>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Amsterdam</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="11528" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/cul_vq83bk3kmb.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/lcaaj</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Blue Book (47236, #6)</text>
+      </Title>
+      <Date>
+        <text>1959-1972?</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1959-1972</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Language and Culture Archive of Ashkenazic Jewry</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 79</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>blue books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="11527" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/cul_r4xgxd25rh.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/lcaaj</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Answer sheet (47233: 082 010)</text>
+      </Title>
+      <Date>
+        <text>1959-1972?</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1959-1972</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Language and Culture Archive of Ashkenazic Jewry</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 79</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Single leaf</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>answer sheets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="11526" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/cul_vx0k6djjqn.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/lcaaj</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Printout (082010)</text>
+      </Title>
+      <Date>
+        <text>1959-1972?</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1959-1972</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Language and Culture Archive of Ashkenazic Jewry</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 191</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printouts</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="11525" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1800140001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/academic/pinski</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Student enrollment record for David Pinski</text>
+      </Title>
+      <Date>
+        <text>September 23, 1903</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Publisher>
+        <text>Columbia University</text>
+      </Publisher>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Pinski, David, 1872-1959</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1903-09-23</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Office of the Registrar Records</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 42, UA#0084</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Public Access</text>
+      </Notes>
+      <FormGenre>
+        <text>administrative records</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="11524" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/General_225_001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/theatre/goldfadn</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Goldfaden, Abraham, 1840-1908</text>
+      </Creator>
+      <Title>
+        <text>Der Katter ; Ikx, Mikx, Drikx, Por Porcelain Teller, Di Shveblach . First leaf of text 2</text>
+      </Title>
+      <Date>
+        <text>1879</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>9160969</text>
+      </Identifier>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1879</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Rare Book &amp; Manuscript Library General Manuscript Collection</text>
+        <text>Hebrew Manuscripts (Columbia University. Libraries)</text>
+      </Collection>
+      <ShelfLocation>
+        <text>MS General 225</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Public Access</text>
+      </Notes>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Russia</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Acquired from Kestenbaum and Co., 2011</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="11523" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/General_225_000B.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/theatre/goldfadn</ItemInContext>
+    <DublinCore>
+      <Creator>
+        <text>Goldfaden, Abraham, 1840-1908</text>
+      </Creator>
+      <Title>
+        <text>Der Katter ; Ikx, Mikx, Drikx, Por Porcelain Teller, Di Shveblach . First leaf of text 1</text>
+      </Title>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Rare Book &amp; Manuscript Library General Manuscript Collection</text>
+        <text>Hebrew Manuscripts (Columbia University. Libraries)</text>
+      </Collection>
+      <ShelfLocation>
+        <text>MS General 225</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Public Access</text>
+      </Notes>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Russia</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Acquired from Kestenbaum and Co., 2011</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="11522" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/ldpd_12981092_017_0006.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/academic/beginnings</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>A New-Old Language</text>
+      </Title>
+      <Description>
+        <text>Columbia College Today. Winter 1972. Vol. 1 No. 1, page 7</text>
+      </Description>
+      <Date>
+        <text>1972</text>
+      </Date>
+      <Rights>
+        <text>In Copyright - Educational Use Permitted</text>
+      </Rights>
+      <Publisher>
+        <text>Columbia University</text>
+      </Publisher>
+      <Identifier>
+        <text>3090238</text>
+      </Identifier>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Yiddish language--Study and teaching</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1972</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Box 235, Folder 21</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>clippings</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <Notes>
+        <text>All of the digitized editions of Columbia College Today from 1954-2016 are available on the Internet Archive: https://archive.org/search.php?query=creator%3A%22Columbia+College+%28Columbia+University%29.+Office+of+Alumni+Affairs+and+Development%22</text>
+      </Notes>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="11521" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/ldpd_12981092_017_0005.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/academic</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>A New-Old Language</text>
+      </Title>
+      <Description>
+        <text>Columbia College Today. Winter 1972. Vol. 1 No. 1, page 6</text>
+      </Description>
+      <Date>
+        <text>1972</text>
+      </Date>
+      <Rights>
+        <text>In Copyright - Educational Use Permitted</text>
+      </Rights>
+      <Publisher>
+        <text>Columbia University</text>
+      </Publisher>
+      <Identifier>
+        <text>3090238</text>
+      </Identifier>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Yiddish language--Study and teaching</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1972</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Box 235, Folder 21</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>clippings</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <Notes>
+        <text>All of the digitized editions of Columbia College Today from 1954-2016 are available on the Internet Archive: https://archive.org/search.php?query=creator%3A%22Columbia+College+%28Columbia+University%29.+Office+of+Alumni+Affairs+and+Development%22</text>
+      </Notes>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="11520" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/Atran2_edit.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/academic/beginnings</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>“Madame Yiddish and her Escort,” Morgn Zhournal . page 10</text>
+      </Title>
+      <Date>
+        <text>March 16, 1952</text>
+      </Date>
+      <Rights>
+        <text>Copyright Undetermined</text>
+      </Rights>
+      <Publisher>
+        <text>Morgn Zhournal</text>
+      </Publisher>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1952-03-16</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Non-Columbia Location</text>
+      </RepositoryName>
+      <FormGenre>
+        <text>clippings</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="11519" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/X893.2_M85_006.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/theatre/shoye</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Der hokhmut kumpt fur ein fahll : ein shoyshpil. First leaf of text</text>
+        <text>שויא שפיהל : מחזה לפורים ביידיש</text>
+      </Title>
+      <Date>
+        <text>1800-1900</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Subject>
+        <text>Purim</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1800-1900</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>X Manuscripts</text>
+        <text>Hebrew Manuscripts (Columbia University Libraries)</text>
+      </Collection>
+      <ShelfLocation>
+        <text>MS X893.2 M85</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Public Access</text>
+      </Notes>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Germany?</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="11517" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/General_238_006.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/early/dellareyna</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Mayse min rabi yosef della reyna. First leaf of text</text>
+        <text>מעשה מין רבי יוסף דלה ריינה [כ"י]</text>
+      </Title>
+      <Date>
+        <text>19th century</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>10278060</text>
+      </Identifier>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1800-1900</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Rare Book &amp; Manuscript Library General Manuscript Collection</text>
+        <text>Hebrew Manuscripts (Columbia University Libraries)</text>
+      </Collection>
+      <ShelfLocation>
+        <text>MS General 238 </text>
+      </ShelfLocation>
+      <Notes>
+        <text>Public Access</text>
+      </Notes>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="11516" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/ldpd_11728201_000_0002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/early</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Sefer Refu'os U-segulos. First leaf of text</text>
+      </Title>
+      <Date>
+        <text>15th century</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>11681503</text>
+      </Identifier>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1400-1500</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Rare Book &amp; Manuscript Library General Manuscript Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>General MS 262</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Public Access</text>
+      </Notes>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>N. Italy</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="11515" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/press/young</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0001.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1919-1922</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Art Young Drawings and Cartoons</text>
+      </Collection>
+      <PhysicalDescription>
+        <text>Flat</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>drawings</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Young, Art, 1866-1943</text>
+      </Creator>
+      <Title>
+        <text>Milking the Public</text>
+      </Title>
+      <Date>
+        <text>circa 1919-1922</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>12474310</text>
+      </Identifier>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11514" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/press/young</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0002.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1919-1922</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Art Young Drawings and Cartoons</text>
+      </Collection>
+      <PhysicalDescription>
+        <text>Flat</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>drawings</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Young, Art, 1866-1943</text>
+      </Creator>
+      <Title>
+        <text>Milking the Public. Closeup of label</text>
+      </Title>
+      <Date>
+        <text>circa 1919-1922</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>12474310</text>
+      </Identifier>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11513" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0003.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/press/young</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0003.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1919-1922</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Art Young Drawings and Cartoons</text>
+      </Collection>
+      <PhysicalDescription>
+        <text>Flat</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>drawings</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Young, Art, 1866-1943</text>
+      </Creator>
+      <Title>
+        <text>Milking the Public. Full-size backlit</text>
+      </Title>
+      <Date>
+        <text>circa 1919-1922</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>12474310</text>
+      </Identifier>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11512" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0004.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/early/mishle</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0004.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1581-1582</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>questionable</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Temple Emanuel Library of Hebrew and Rabbinical Literature</text>
+      </Collection>
+      <ShelfLocation>
+        <text>893.1BJ B82</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Cracow</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Mordekhai ben Yaʻaḳov, mi-Ṭoyplits</text>
+      </Creator>
+      <Title>
+        <text>Sefer Mishle. First leaf of text</text>
+        <text>Mishle: Oyz giligt oyf taytsh...un vil peshotim fun der gemara</text>
+      </Title>
+      <Description>
+        <text>Translation and commentary of Mishle w/Talmudic glosses</text>
+      </Description>
+      <Date>
+        <text>1581 or 1582</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Publisher>
+        <text>Yitshak ben Aharon</text>
+      </Publisher>
+      <Identifier>
+        <text>12801018</text>
+      </Identifier>
+      <Language>
+        <text>Hebrew</text>
+        <text>Yiddish</text>
+      </Language>
+      <Subject>
+        <text>Bible. Proverbs</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Donated to Columbia by Temple Emanu-el, 1892</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="11511" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0005.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/early/arthur</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0005.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1699</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B893.1 W12 </text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Königsberg</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Wagenseil, Johann Christoph, 1633-1705</text>
+      </Creator>
+      <Title>
+        <text>Jüdischer Geschicht-Roman, von dem grossen König Arturo in Engelland, und dem tapffern Helden Wieduwilt.. Leaf before 151</text>
+      </Title>
+      <Description>
+        <text>Aurthorian legends in Yiddish</text>
+      </Description>
+      <Date>
+        <text>1699</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>7476742</text>
+      </Identifier>
+      <Language>
+        <text>German</text>
+        <text> Yiddish</text>
+      </Language>
+      <Subject>
+        <text>Arthurian romances</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Library of Henry Livingston Thomas, 1905</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="11510" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0006.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/early/arthur</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0006.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1699</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B893.1 W12 </text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Königsberg</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Wagenseil, Johann Christoph, 1633-1705</text>
+      </Creator>
+      <Title>
+        <text>Jüdischer Geschicht-Roman, von dem grossen König Arturo in Engelland, und dem tapffern Helden Wieduwilt.. p.157</text>
+      </Title>
+      <Description>
+        <text>Aurthorian legends in Yiddish</text>
+      </Description>
+      <Date>
+        <text>1699</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>7476742</text>
+      </Identifier>
+      <Language>
+        <text>German</text>
+        <text> Yiddish</text>
+      </Language>
+      <Subject>
+        <text>Arthurian romances</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Library of Henry Livingston Thomas, 1905</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="11509" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0007.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/early/arthur</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0007.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1699</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B893.1 W12 </text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Königsberg</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Wagenseil, Johann Christoph, 1633-1705</text>
+      </Creator>
+      <Title>
+        <text>Jüdischer Geschicht-Roman, von dem grossen König Arturo in Engelland, und dem tapffern Helden Wieduwilt.. pp. 158-159 (spread)</text>
+      </Title>
+      <Description>
+        <text>Aurthorian legends in Yiddish</text>
+      </Description>
+      <Date>
+        <text>1699</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>7476742</text>
+      </Identifier>
+      <Language>
+        <text>German</text>
+        <text> Yiddish</text>
+      </Language>
+      <Subject>
+        <text>Arthurian romances</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Library of Henry Livingston Thomas, 1905</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="11508" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0008.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/early/arthur</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0008.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1699</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B893.1 W12 </text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Königsberg</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Wagenseil, Johann Christoph, 1633-1705</text>
+      </Creator>
+      <Title>
+        <text>Jüdischer Geschicht-Roman, von dem grossen König Arturo in Engelland, und dem tapffern Helden Wieduwilt.. pp. 160-161 (spread)</text>
+      </Title>
+      <Description>
+        <text>Aurthorian legends in Yiddish</text>
+      </Description>
+      <Date>
+        <text>1699</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>7476742</text>
+      </Identifier>
+      <Language>
+        <text>German</text>
+        <text> Yiddish</text>
+      </Language>
+      <Subject>
+        <text>Arthurian romances</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Library of Henry Livingston Thomas, 1905</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="11507" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0009.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/early/arthur</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0009.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1699</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B893.1 W12 </text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Königsberg</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Wagenseil, Johann Christoph, 1633-1705</text>
+      </Creator>
+      <Title>
+        <text>Jüdischer Geschicht-Roman, von dem grossen König Arturo in Engelland, und dem tapffern Helden Wieduwilt.. pp. 292-293 (spread)</text>
+      </Title>
+      <Description>
+        <text>Aurthorian legends in Yiddish</text>
+      </Description>
+      <Date>
+        <text>1699</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>7476742</text>
+      </Identifier>
+      <Language>
+        <text>German</text>
+        <text> Yiddish</text>
+      </Language>
+      <Subject>
+        <text>Arthurian romances</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Library of Henry Livingston Thomas, 1905</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="11506" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0010.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/early/athias</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0010.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1676-1679</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B893.1BJ C79</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Folio</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Amsterdam</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Torah, Neviʼim u-khetuvim. Page 2 of introduction</text>
+        <text>Ḥamishah ḥumshe Torah, Neviʼim, u-Khetuvim : bi-leshon Ashkenaz</text>
+      </Title>
+      <Description>
+        <text>First Bible all in Yiddish</text>
+      </Description>
+      <Date>
+        <text>1676-79</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>11378338</text>
+      </Identifier>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11505" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0011.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/early/athias</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0011.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1676-1679</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B893.1BJ C79</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Folio</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Amsterdam</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Torah, Neviʼim u-khetuvim. Page 1 of introduction</text>
+        <text>Ḥamishah ḥumshe Torah, Neviʼim, u-Khetuvim : bi-leshon Ashkenaz</text>
+      </Title>
+      <Description>
+        <text>First Bible all in Yiddish</text>
+      </Description>
+      <Date>
+        <text>1676-79</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>11378338</text>
+      </Identifier>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11504" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0012.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/early/athias</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0012.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1676-1679</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B893.1BJ C79</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Folio</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Amsterdam</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Torah, Neviʼim u-khetuvim. First leaf of main text (בראשית)</text>
+        <text>Ḥamishah ḥumshe Torah, Neviʼim, u-Khetuvim : bi-leshon Ashkenaz</text>
+      </Title>
+      <Description>
+        <text>First Bible all in Yiddish</text>
+      </Description>
+      <Date>
+        <text>1676-79</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>11378338</text>
+      </Identifier>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11503" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0013.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0013.tif</text>
+        <text>Public Access</text>
+        <text>Takanot Amsterdam ; With Yiddish explanation</text>
+      </Notes>
+      <KeyDate>
+        <text>1715</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Temple Emanuel Library of Hebrew and Rabbinical Literature</text>
+      </Collection>
+      <ShelfLocation>
+        <text>B893.17 L62</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Amsterdam</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Maʻaneh lashon : seder teḥinot taʻanit ʻal bet ʻalmin ʻal kol tsarah ... uve-tokho ... baḳashot le-vaṭel kol gezerot ḳashot. Title page</text>
+      </Title>
+      <Date>
+        <text>1715</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>11221127</text>
+      </Identifier>
+      <Language>
+        <text>Yiddish</text>
+        <text> Hebrew</text>
+      </Language>
+      <Subject>
+        <text>Jewish mourning customs</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11502" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0014.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/ritual/minhagim</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0014.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1590</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Temple Emanuel Library of Hebrew and Rabbinical Literature</text>
+      </Collection>
+      <ShelfLocation>
+        <text>B893.1 J54 </text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Venice</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Ginzburg, Simeon ben Judah</text>
+      </Creator>
+      <Title>
+        <text>Minhāgīm . Title page</text>
+      </Title>
+      <Date>
+        <text>1590</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>6117917</text>
+      </Identifier>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11501" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0015.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/ritual/minhagim</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0015.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1590</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Temple Emanuel Library of Hebrew and Rabbinical Literature</text>
+      </Collection>
+      <ShelfLocation>
+        <text>B893.1 J54 </text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Venice</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Ginzburg, Simeon ben Judah</text>
+      </Creator>
+      <Title>
+        <text>Minhāgīm . First leaf of text</text>
+      </Title>
+      <Date>
+        <text>1590</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>6117917</text>
+      </Identifier>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11500" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0016.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/academic/buxtorf</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0016.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1629</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>893.14 B98</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Basil</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Buxtorf, Johann, 1564-1629</text>
+      </Creator>
+      <Title>
+        <text>Johannis BuxtorfI thesaurus grammaticus linguae sanctae Hebraeae….Lectionis Hebraeo-Germanicae usus. 658-659 (spread)</text>
+      </Title>
+      <Date>
+        <text>1629</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Publisher>
+        <text>Ludovici Regis</text>
+      </Publisher>
+      <Identifier>
+        <text>3266334</text>
+      </Identifier>
+      <Language>
+        <text>Latin</text>
+      </Language>
+      <Subject>
+        <text>Hebrew language</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11499" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0017.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/academic/buxtorf</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0017.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1629</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>893.14 B98</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Basil</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Buxtorf, Johann, 1564-1629</text>
+      </Creator>
+      <Title>
+        <text>Johannis BuxtorfI thesaurus grammaticus linguae sanctae Hebraeae….Lectionis Hebraeo-Germanicae usus. 664-665 (spread)</text>
+      </Title>
+      <Date>
+        <text>1629</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Publisher>
+        <text>Ludovici Regis</text>
+      </Publisher>
+      <Identifier>
+        <text>3266334</text>
+      </Identifier>
+      <Language>
+        <text>Latin</text>
+      </Language>
+      <Subject>
+        <text>Hebrew language</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11498" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0018.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/academic/buxtorf</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0018.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1629</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>893.14 B98</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Basil</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Buxtorf, Johann, 1564-1629</text>
+      </Creator>
+      <Title>
+        <text>Johannis BuxtorfI thesaurus grammaticus linguae sanctae Hebraeae….Lectionis Hebraeo-Germanicae usus. 666-667 (spread)</text>
+      </Title>
+      <Date>
+        <text>1629</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Publisher>
+        <text>Ludovici Regis</text>
+      </Publisher>
+      <Identifier>
+        <text>3266334</text>
+      </Identifier>
+      <Language>
+        <text>Latin</text>
+      </Language>
+      <Subject>
+        <text>Hebrew language</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11497" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0019.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/academic/beginnings</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0019.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1958</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Central Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 672, Uriel Weinreich</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>8.5x11</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Conference on Yiddish Studies. recto</text>
+      </Title>
+      <Date>
+        <text>1958</text>
+      </Date>
+      <Rights>
+        <text>No Known Copyright</text>
+      </Rights>
+      <Identifier>
+        <text>4080177</text>
+      </Identifier>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11496" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0020.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0020.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1958</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Central Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 672, Uriel Weinreich</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>8.5x11</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Conference on Yiddish Studies. verso</text>
+      </Title>
+      <Date>
+        <text>1958</text>
+      </Date>
+      <Rights>
+        <text>No Known Copyright</text>
+      </Rights>
+      <Identifier>
+        <text>4080177</text>
+      </Identifier>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11495" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0021.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/press/gropper</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0021.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1945-1946</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Dennis Ryan Editorial Cartoon collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 17, Folder 7</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Flat</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>drawings</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Gropper, William, 1897-1977</text>
+      </Creator>
+      <Title>
+        <text>International Justice</text>
+      </Title>
+      <Date>
+        <text>1940s</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11494" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0022.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/ritual</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0022.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1828</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Rare Book &amp; Manuscript Library General Manuscript Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>MS General 286</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Paks</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Collection of tkhines. Title page</text>
+      </Title>
+      <Date>
+        <text>1828</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>13056477</text>
+      </Identifier>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Subject>
+        <text>Judaism</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Acquired from Sotheby's, December 2017</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="11493" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0023.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/ritual/tkhines</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0023.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1828</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Rare Book &amp; Manuscript Library General Manuscript Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>MS General 286</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Paks</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Collection of tkhines. Index</text>
+      </Title>
+      <Date>
+        <text>1828</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>13056477</text>
+      </Identifier>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Subject>
+        <text>Judaism</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Acquired from Sotheby's, December 2017</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="11492" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0024.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/ritual/tkhines</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0024.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1828</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Rare Book &amp; Manuscript Library General Manuscript Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>MS General 286</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Paks</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Collection of tkhines. l. 39r</text>
+      </Title>
+      <Date>
+        <text>1828</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>13056477</text>
+      </Identifier>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Subject>
+        <text>Judaism</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Acquired from Sotheby's, December 2017</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="11491" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0025.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/ritual/tkhines</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0025.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1828</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Rare Book &amp; Manuscript Library General Manuscript Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>MS General 286</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Paks</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Collection of tkhines. l. 25r</text>
+      </Title>
+      <Date>
+        <text>1828</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>13056477</text>
+      </Identifier>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Subject>
+        <text>Judaism</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Acquired from Sotheby's, December 2017</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="11490" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0026.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/academic/hannover</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0026.tif</text>
+        <text>Public Access</text>
+        <text>Hebrew-German-Italian-Latin (in Hebrew characters)</text>
+      </Notes>
+      <KeyDate>
+        <text>1660</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Temple Emanuel Library of Hebrew and Rabbinical Literature</text>
+      </Collection>
+      <ShelfLocation>
+        <text>PJ4831.H36 1660</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Prague</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Hannover, Nathan Nata, -1683</text>
+      </Creator>
+      <Title>
+        <text>Sēfer Safah Berurah ...</text>
+      </Title>
+      <Date>
+        <text>1660</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Publisher>
+        <text>Ya'akov Beck</text>
+      </Publisher>
+      <Identifier>
+        <text>3411250</text>
+      </Identifier>
+      <Language>
+        <text>Hebrew</text>
+        <text>German</text>
+        <text>Italian</text>
+        <text>Latin</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Donated to Columbia by Temple Emanu-el, 1892</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="11489" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0027.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/academic/hannover</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0027.tif</text>
+        <text>Public Access</text>
+        <text>Hebrew-German-Italian-Latin (in Hebrew characters)</text>
+      </Notes>
+      <KeyDate>
+        <text>1660</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Temple Emanuel Library of Hebrew and Rabbinical Literature</text>
+      </Collection>
+      <ShelfLocation>
+        <text>PJ4831.H36 1660</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Prague</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Hannover, Nathan Nata, -1683</text>
+      </Creator>
+      <Title>
+        <text>Sēfer Safah Berurah .... Title page</text>
+      </Title>
+      <Date>
+        <text>1660</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Publisher>
+        <text>Ya'akov Beck</text>
+      </Publisher>
+      <Identifier>
+        <text>3411250</text>
+      </Identifier>
+      <Language>
+        <text>Hebrew</text>
+        <text>German</text>
+        <text>Italian</text>
+        <text>Latin</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Donated to Columbia by Temple Emanu-el, 1892</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="11488" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0028.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/press</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0028.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1920-04-23</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>PN6231.J5 G74</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Folio</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Big Stick. April 23, 1920 (Constitution; Declaration of Independence; sad Uncle Sam)</text>
+      </Title>
+      <Date>
+        <text>April 23, 1920</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>12474087</text>
+      </Identifier>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11487" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0029.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/ritual/takanot</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0029.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1737</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>DS135.N4 T3 1736</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Amsterdam</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Israëlitische Gemeente (Ashkenazim) (Amsterdam, Netherlands)</text>
+      </Creator>
+      <Title>
+        <text>Taḳanot ha-ḳehila de-ḳahal ḳodesh Ashḳenazim asher be-Amshṭerdam. Title page</text>
+      </Title>
+      <Date>
+        <text>1737</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Publisher>
+        <text>Avraham ben Refaʼel 'Etias</text>
+      </Publisher>
+      <Identifier>
+        <text>2757887</text>
+      </Identifier>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Subject>
+        <text>Jews</text>
+        <text>Amsterdam (Netherlands)</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11486" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0030.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/ritual/takanot</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0030.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1737</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>DS135.N4 T3 1736</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Amsterdam</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Israëlitische Gemeente (Ashkenazim) (Amsterdam, Netherlands)</text>
+      </Creator>
+      <Title>
+        <text>Taḳanot ha-ḳehila de-ḳahal ḳodesh Ashḳenazim asher be-Amshṭerdam. Title page verso</text>
+      </Title>
+      <Date>
+        <text>1737</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Publisher>
+        <text>Avraham ben Refaʼel 'Etias</text>
+      </Publisher>
+      <Identifier>
+        <text>2757887</text>
+      </Identifier>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Subject>
+        <text>Jews</text>
+        <text>Amsterdam (Netherlands)</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11485" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0031.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/press/ladino</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0031.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1911</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>PC4813.2.L58 1911g</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Miniature</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Livro de embezar las lingwas Inglezah i Yudish. Closed, front of book</text>
+      </Title>
+      <Date>
+        <text>1911</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Publisher>
+        <text>Lah Ameriḳah</text>
+      </Publisher>
+      <Identifier>
+        <text>12759180</text>
+      </Identifier>
+      <Language>
+        <text>Ladino</text>
+        <text> Hebrew</text>
+        <text> Yiddish</text>
+        <text> English</text>
+      </Language>
+      <Subject>
+        <text>Ladino language</text>
+        <text>Yiddish language</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11484" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0032.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/press/ladino</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0032.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1911</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>PC4813.2.L58 1911g</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Miniature</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Livro de embezar las lingwas Inglezah i Yudish. La Imagracion</text>
+      </Title>
+      <Date>
+        <text>1911</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Publisher>
+        <text>Lah Ameriḳah</text>
+      </Publisher>
+      <Identifier>
+        <text>12759180</text>
+      </Identifier>
+      <Language>
+        <text>Ladino</text>
+        <text> Hebrew</text>
+        <text> Yiddish</text>
+        <text> English</text>
+      </Language>
+      <Subject>
+        <text>Ladino language</text>
+        <text>Yiddish language</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11483" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0033.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/press/ladino</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0033.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1911</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>PC4813.2.L58 1911g</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Miniature</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Livro de embezar las lingwas Inglezah i Yudish. Page 1</text>
+      </Title>
+      <Date>
+        <text>1911</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Publisher>
+        <text>Lah Ameriḳah</text>
+      </Publisher>
+      <Identifier>
+        <text>12759180</text>
+      </Identifier>
+      <Language>
+        <text>Ladino</text>
+        <text> Hebrew</text>
+        <text> Yiddish</text>
+        <text> English</text>
+      </Language>
+      <Subject>
+        <text>Ladino language</text>
+        <text>Yiddish language</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11482" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0034.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/press/ladino</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0034.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1911</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>PC4813.2.L58 1911g</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Miniature</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Livro de embezar las lingwas Inglezah i Yudish. Page 38-39</text>
+      </Title>
+      <Date>
+        <text>1911</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Publisher>
+        <text>Lah Ameriḳah</text>
+      </Publisher>
+      <Identifier>
+        <text>12759180</text>
+      </Identifier>
+      <Language>
+        <text>Ladino</text>
+        <text> Hebrew</text>
+        <text> Yiddish</text>
+        <text> English</text>
+      </Language>
+      <Subject>
+        <text>Ladino language</text>
+        <text>Yiddish language</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11481" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0035.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/press/ladino</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0035.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1911</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>PC4813.2.L58 1911g</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Miniature</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Livro de embezar las lingwas Inglezah i Yudish. Page 1</text>
+      </Title>
+      <Date>
+        <text>1911</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Publisher>
+        <text>Lah Ameriḳah</text>
+      </Publisher>
+      <Identifier>
+        <text>12759180</text>
+      </Identifier>
+      <Language>
+        <text>Ladino</text>
+        <text> Hebrew</text>
+        <text> Yiddish</text>
+        <text> English</text>
+      </Language>
+      <Subject>
+        <text>Ladino language</text>
+        <text>Yiddish language</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11480" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0036.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/academic/beginnings</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0036.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1970</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Box 242, Folder 11</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Field of Yiddish III</text>
+      </Title>
+      <Date>
+        <text>1970</text>
+      </Date>
+      <Rights>
+        <text>In Copyright - Educational Use Permitted</text>
+      </Rights>
+      <Identifier>
+        <text>3090238</text>
+      </Identifier>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11479" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0037.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0037.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1970</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Box 242, Folder 11</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Field of Yiddish III</text>
+      </Title>
+      <Date>
+        <text>1970</text>
+      </Date>
+      <Rights>
+        <text>In Copyright - Educational Use Permitted</text>
+      </Rights>
+      <Identifier>
+        <text>3090238</text>
+      </Identifier>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11478" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0038.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/lcaaj</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0038.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1962-09-26</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Language and Culture Archive of Ashkenazic Jewry</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 236, Folder 13</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Flat</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Wong, York to Weinreich, Uriel</text>
+      </Creator>
+      <Title>
+        <text>Center for computing letter</text>
+      </Title>
+      <Date>
+        <text>September 26, 1962</text>
+      </Date>
+      <Rights>
+        <text>No Known Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11477" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0039.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/lcaaj</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0039.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1968</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Language and Culture Archive of Ashkenazic Jewry</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 236, Folder 16</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Flat</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Ravid, Wita</text>
+      </Creator>
+      <Title>
+        <text>Computer cards</text>
+      </Title>
+      <Date>
+        <text>1968</text>
+      </Date>
+      <Rights>
+        <text>No Known Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11476" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0040.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0040.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1968</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Language and Culture Archive of Ashkenazic Jewry</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 236, Folder 16</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Flat</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Ravid, Wita</text>
+      </Creator>
+      <Title>
+        <text>Computer cards. Card 1</text>
+      </Title>
+      <Date>
+        <text>1968</text>
+      </Date>
+      <Rights>
+        <text>No Known Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11475" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0041.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0041.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1968</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Language and Culture Archive of Ashkenazic Jewry</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 236, Folder 16</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Flat</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Ravid, Wita</text>
+      </Creator>
+      <Title>
+        <text>Computer cards. Card 1 verso</text>
+      </Title>
+      <Date>
+        <text>1968</text>
+      </Date>
+      <Rights>
+        <text>No Known Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11474" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0042.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0042.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1968</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Language and Culture Archive of Ashkenazic Jewry</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 236, Folder 16</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Flat</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Ravid, Wita</text>
+      </Creator>
+      <Title>
+        <text>Computer cards. Card 2</text>
+      </Title>
+      <Date>
+        <text>1968</text>
+      </Date>
+      <Rights>
+        <text>No Known Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11473" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0043.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0043.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1968</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Language and Culture Archive of Ashkenazic Jewry</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 236, Folder 16</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Flat</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Ravid, Wita</text>
+      </Creator>
+      <Title>
+        <text>Computer cards. Card 2 verso</text>
+      </Title>
+      <Date>
+        <text>1968</text>
+      </Date>
+      <Rights>
+        <text>No Known Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11472" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0044.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0044.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1968</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Language and Culture Archive of Ashkenazic Jewry</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 236, Folder 16</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Flat</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Ravid, Wita</text>
+      </Creator>
+      <Title>
+        <text>Computer cards. Card 3</text>
+      </Title>
+      <Date>
+        <text>1968</text>
+      </Date>
+      <Rights>
+        <text>No Known Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11471" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0045.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0045.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1968</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Language and Culture Archive of Ashkenazic Jewry</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 236, Folder 16</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Flat</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Ravid, Wita</text>
+      </Creator>
+      <Title>
+        <text>Computer cards. Card 3 verso</text>
+      </Title>
+      <Date>
+        <text>1968</text>
+      </Date>
+      <Rights>
+        <text>No Known Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11470" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0046.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0046.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1968</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Language and Culture Archive of Ashkenazic Jewry</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 236, Folder 16</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Flat</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Ravid, Wita</text>
+      </Creator>
+      <Title>
+        <text>Computer cards. Card 4</text>
+      </Title>
+      <Date>
+        <text>1968</text>
+      </Date>
+      <Rights>
+        <text>No Known Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11469" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0047.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0047.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1968</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Language and Culture Archive of Ashkenazic Jewry</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 236, Folder 16</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Flat</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Ravid, Wita</text>
+      </Creator>
+      <Title>
+        <text>Computer cards. Card 4 verso</text>
+      </Title>
+      <Date>
+        <text>1968</text>
+      </Date>
+      <Rights>
+        <text>No Known Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11468" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0048.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/lcaaj</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0048.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1959-1972</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Language and Culture Archive of Ashkenazic Jewry</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 229b</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Flat (small)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Pictures of berries</text>
+      </Title>
+      <Date>
+        <text>1959-1972?</text>
+      </Date>
+      <Rights>
+        <text>In Copyright - Educational Use Permitted</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11467" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0049.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/lcaaj</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0049.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1959-1972</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Language and Culture Archive of Ashkenazic Jewry</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 229b, Folder 4</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Flat</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>kontrolirke (list of necesseray items for interview; Yiddish)</text>
+      </Title>
+      <Date>
+        <text>1959-1972?</text>
+      </Date>
+      <Rights>
+        <text>In Copyright - Educational Use Permitted</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11466" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0050.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/lcaaj</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0050.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1959-1972</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Language and Culture Archive of Ashkenazic Jewry</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 197</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Flat</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>maps</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>MAP: 082 010 (LIXT)</text>
+      </Title>
+      <Date>
+        <text>1959-1972?</text>
+      </Date>
+      <Rights>
+        <text>In Copyright - Educational Use Permitted</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11465" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0051.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/lcaaj</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0051.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1959-1972</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Language and Culture Archive of Ashkenazic Jewry</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 197</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Flat</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>maps</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>MAP: 082 010 (LIXT). First flap up</text>
+      </Title>
+      <Date>
+        <text>1959-1972?</text>
+      </Date>
+      <Rights>
+        <text>In Copyright - Educational Use Permitted</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11464" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0052.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/lcaaj</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0052.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1959-1972</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Language and Culture Archive of Ashkenazic Jewry</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 197</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Flat</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>maps</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>MAP: 082 010 (LIXT). Second flap up</text>
+      </Title>
+      <Date>
+        <text>1959-1972?</text>
+      </Date>
+      <Rights>
+        <text>In Copyright - Educational Use Permitted</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11463" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0053.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/lcaaj</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0053.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1959-1972</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Language and Culture Archive of Ashkenazic Jewry</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 229b</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Flat (small)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Fabric with enclosures</text>
+      </Title>
+      <Date>
+        <text>1959-1972?</text>
+      </Date>
+      <Rights>
+        <text>In Copyright - Educational Use Permitted</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11462" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0054.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/press/butler</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0054.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1918-02-16</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nicholas Murray Butler Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 13, Folder 4</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Flat</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>St. Louis</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Nicholas Murray Butler</text>
+      </Creator>
+      <Title>
+        <text>Ayn program fun oyfboyenden fartstrit. Title page</text>
+        <text>איין פראגראם פון אויפבויענדען פארטשריט</text>
+      </Title>
+      <Date>
+        <text>February 16, 1918</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11461" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0055.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/press/butler</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0055.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1918-02-16</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nicholas Murray Butler Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 13, Folder 4</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Flat</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>St. Louis</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Nicholas Murray Butler</text>
+      </Creator>
+      <Title>
+        <text>Ayn program fun oyfboyenden fartstrit. First leaf of text</text>
+        <text>איין פראגראם פון אויפבויענדען פארטשריט</text>
+      </Title>
+      <Date>
+        <text>February 16, 1918</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11460" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0056.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/academic/beginnings</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0056.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1952-02-11</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Wills and Agreements Records</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 1, Folder 1</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>8.5x11</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>legal documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Atran Agreement. Page 1</text>
+      </Title>
+      <Date>
+        <text>February 11, 1952</text>
+      </Date>
+      <Rights>
+        <text>No Known Copyright</text>
+      </Rights>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11459" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0057.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/academic/beginnings</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0057.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1952-02-11</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Wills and Agreements Records</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 1, Folder 1</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>8.5x11</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>legal documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Atran Agreement. Page 2</text>
+      </Title>
+      <Date>
+        <text>February 11, 1952</text>
+      </Date>
+      <Rights>
+        <text>No Known Copyright</text>
+      </Rights>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11458" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0058.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/early/igeret</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0058.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1797</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>X Manuscripts</text>
+        <text>Hebrew Manuscripts (Columbia University. Libraries)</text>
+      </Collection>
+      <ShelfLocation>
+        <text>X893 Z8 v.2 no.4</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Flat (small)</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Germany</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Igeret mishpaḥtit</text>
+      </Title>
+      <Date>
+        <text>1797</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>7844651</text>
+      </Identifier>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Subject>
+        <text>Hebrew letters</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Purchased from David Fraenkel, 1933-34</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="11457" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0059.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/ritual/hukehayim</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0059.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1813</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>X Manuscripts</text>
+      </Collection>
+      <ShelfLocation>
+        <text>X893 J559</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>France</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Weil, Yitsḥaḳ Aizeḳ ben Tsadoḳ</text>
+      </Creator>
+      <Title>
+        <text>La-kever Yuval. Second title page</text>
+        <text>לקבר יובל ... פון דער טהרה אויז ביז נאך זיינר קבורה</text>
+      </Title>
+      <Date>
+        <text>1813</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>7204151</text>
+      </Identifier>
+      <Language>
+        <text>Judeo-Alsatian</text>
+      </Language>
+      <Subject>
+        <text>Jewish funeral rites and ceremonies</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11456" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0060.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0060.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1600-1700</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>X Manuscripts</text>
+        <text>Hebrew Manuscripts (Columbia University. Libraries)</text>
+      </Collection>
+      <ShelfLocation>
+        <text>MS X893 Se36 </text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Germany?</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>[ʻAsʹiyat tsevaʻim]. 58a</text>
+      </Title>
+      <Date>
+        <text>17th century</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>7330148</text>
+      </Identifier>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Subject>
+        <text>Color in clothing</text>
+        <text>Color guides</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11455" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0061.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/early/---asiyat-tseva---im</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0061.tif</text>
+        <text>Public Access</text>
+      </Notes>
+      <KeyDate>
+        <text>1600-1700</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>X Manuscripts</text>
+        <text>Hebrew Manuscripts (Columbia University. Libraries)</text>
+      </Collection>
+      <ShelfLocation>
+        <text>MS X893 Se36 </text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Germany?</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>[ʻAsʹiyat tsevaʻim]. 85a</text>
+      </Title>
+      <Date>
+        <text>17th century</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Identifier>
+        <text>7330148</text>
+      </Identifier>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Subject>
+        <text>Color in clothing</text>
+        <text>Color guides</text>
+      </Subject>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11454" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0062.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/theatre/bergen</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0062.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1962</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Yiddish Theatre Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>MS #1686</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Wide</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Germany</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Bergen-Belsen Theatre Troupe</text>
+      </Title>
+      <Date>
+        <text>1962</text>
+      </Date>
+      <Rights>
+        <text>Copyright Undetermined</text>
+      </Rights>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11453" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0063.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/theatre/bergen</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0063.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1962</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Yiddish Theatre Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>MS #1686</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Wide</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Germany</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Bergen-Belsen Theatre Troupe</text>
+      </Title>
+      <Date>
+        <text>1962</text>
+      </Date>
+      <Rights>
+        <text>Copyright Undetermined</text>
+      </Rights>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="11452" public="1" featured="0">
+    <OmekaCollection>Yiddish at Columbia</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/rbml_yiddish_0064.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/yiddish-columbia/theatre/bergen</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>original filename: rbml_yiddish_0064.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1962</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Yiddish Theatre Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>MS #1686</text>
+      </ShelfLocation>
+      <PhysicalDescription>
+        <text>Wide</text>
+      </PhysicalDescription>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Germany</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Bergen-Belsen Theatre Troupe</text>
+      </Title>
+      <Date>
+        <text>1962</text>
+      </Date>
+      <Rights>
+        <text>Copyright Undetermined</text>
+      </Rights>
+      <Language>
+        <text>Yiddish</text>
+      </Language>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Acquired August 2016</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+</itemContainer>
