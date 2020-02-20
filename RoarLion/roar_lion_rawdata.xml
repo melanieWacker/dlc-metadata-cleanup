@@ -1,0 +1,4468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--The name of each XML element representing an Omeka element or element set is
+based on the name of the element or element set in Omeka. For example:
+     The "Dublin Core" element set is represented by the DublinCore XML element
+     The "Form Genre" element in MODS is represented by the FormGenre XML element
+
+The following XML elements are based on internal Omeka data:
+     The OriginalFileLoadedIntoOmeka XML element contains the name/path of
+     of the file(s) loaded into Omeka for the given item.
+     The OmekaCollection XML element contains the name of the Omeka collection
+     containing the item, if the item belongs to an Omeka collection. Please note
+     that this element is different from the Collection element in MODS, which is
+     curator-populated.
+-->
+<itemContainer>
+  <item itemId="12015" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/20160916ColumbiaFootball_0042.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/recent-days/bagnoli</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 20160916ColumbiaFootball_0042.jpg</text>
+      </Notes>
+      <KeyDate>
+        <text>2016</text>
+      </KeyDate>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>South Field Walk-through Practice</text>
+      </Title>
+      <Date>
+        <text>2016</text>
+      </Date>
+      <Rights>
+        <text>Permission to reproduce this image must be obtained from Columbia Athletics. Please contact the University Archives for contact information.</text>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="12014" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Moving Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/UA_miracleonmorningside_clip.mp4</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/glory-days/miracle</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: UA_miracleonmorningside_clip.mp4</text>
+        <text>Digitized film created with the generous support of the Columbia University Club Foundation</text>
+      </Notes>
+      <KeyDate>
+        <text>1947-10-25</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Intercollegiate Athletics and Physical Education Records</text>
+      </Collection>
+      <FormGenre>
+        <text>moving images</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Miracle on Morningside</text>
+      </Title>
+      <Date>
+        <text>October 25, 1947</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Moving Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="12013" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Moving Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/UA_rosebowl_clip.mp4</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/glory-days/rose-bowl</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: UA_rosebowl_clip.mp4</text>
+      </Notes>
+      <KeyDate>
+        <text>1934</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Intercollegiate Athletics and Physical Education Records</text>
+      </Collection>
+      <FormGenre>
+        <text>moving images</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Githens, W. French</text>
+        <text>Pathe News</text>
+      </Creator>
+      <Title>
+        <text>Rose Bowl Newsreel Footage</text>
+      </Title>
+      <Date>
+        <text>1934</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Moving Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="12012" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0043.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0043.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1922-10-14</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Intercollegiate Athletics and Physical Education Records</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 11</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>administrative records</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>List of Contestants of Performers and Substitutes for Varsity Football Game vs. Wesleyan</text>
+      </Title>
+      <Date>
+        <text>October 14, 1922</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="12011" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0013.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/early-days</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0013.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1883</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>OS Box 13</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Class of 1887 Freshman Football Team</text>
+      </Title>
+      <Date>
+        <text>1883</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="12010" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/football_poster_omeka.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>Original filename: football_poster_omeka.jpg</text>
+      </Notes>
+      <KeyDate>
+        <text>2019</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <FormGenre>
+        <text>posters</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Exhibition Poster</text>
+      </Title>
+      <Date>
+        <text>2019</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="12009" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4610_Cover_of_1962_football_program_against_Yale.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people/1960</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4610_Cover_of_1962_football_program_against_Yale.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1962-10-13</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 95</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Football Game Program</text>
+      </Title>
+      <Date>
+        <text>October 13, 1962</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="12008" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4608__Cover_of_1957_football_program_against_Brown.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people/coaches</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4608__Cover_of_1957_football_program_against_Brown.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1957-09-28</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 95</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Football Game Program</text>
+      </Title>
+      <Date>
+        <text>September 28, 1957</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="12007" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4601_Cover_of_1963_football_program_against_Penn.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/artwork</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4601_Cover_of_1963_football_program_against_Penn.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1963-11-16</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 95, folder 5</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Football Game Program</text>
+      </Title>
+      <Date>
+        <text>November 16, 1963</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="12006" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4598_Cover_of_the_1956_Homecoming_football_program_against_Yale.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people/coaches</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4598_Cover_of_the_1956_Homecoming_football_program_against_Yale.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1956-10-13</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 95, folder 1</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Football Game Program</text>
+      </Title>
+      <Date>
+        <text>October 13, 1956</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="12005" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/2223_JesterNov1935Cover.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/glory-days</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 2223_JesterNov1935Cover.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1935-11</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CP1 C723</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Jester Football Issue</text>
+      </Title>
+      <Date>
+        <text>November 1935</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Identifier>
+        <text>780480</text>
+      </Identifier>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="12004" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/2221_JesterNov1933Cover.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/artwork</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 2221_JesterNov1933Cover.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1933-11</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CP1 C723</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Reinhardt, A. D. F.</text>
+      </Creator>
+      <Title>
+        <text>Jester Football Issue</text>
+      </Title>
+      <Date>
+        <text>November 1933</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Identifier>
+        <text>780480</text>
+      </Identifier>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="12003" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0084.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/glory-days/rose-bowl</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0084.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1934-01-01</text>
+      </KeyDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Rose Bowl Football</text>
+      </Title>
+      <Date>
+        <text>January 1, 1934</text>
+      </Date>
+      <Rights>
+        <text>Permission to reproduce this image must be obtained from Columbia Athletics. Please contact the University Archives for contact information.</text>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="12002" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4673_JackKerouac.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people/1940/kerouac</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4673_JackKerouac.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1942</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Mladinov Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 1, folder 27</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Jack Kerouac</text>
+      </Title>
+      <Date>
+        <text>1942</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="12001" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4597_Cover_of_1950_football_program_against_Army.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people/1940</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4597_Cover_of_1950_football_program_against_Army.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1950-10-28</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 94, folder 6</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Football Game Program. Cover</text>
+      </Title>
+      <Date>
+        <text>October 28, 1950</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="12000" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4594_Cover_of_1948_Fall_Alumni_Reunion_football_program_against_Penn.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people/1940</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4594_Cover_of_1948_Fall_Alumni_Reunion_football_program_against_Penn.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1948-10-16</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 94, folder 4</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Football Game Program. Cover</text>
+      </Title>
+      <Date>
+        <text>October 16, 1948</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11999" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4595_Cover_of_1948_football_program_against_Cornell.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people/1940</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4595_Cover_of_1948_football_program_against_Cornell.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1948-10-30</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 94, folder 4</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Football Game Program. Cover</text>
+      </Title>
+      <Date>
+        <text>October 30, 1948</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11998" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4607_Cover_of_1962_football_program_against_Harvard.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/glory-days</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4607_Cover_of_1962_football_program_against_Harvard.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1962-10-20</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 427, folder 2</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Football Game Program. Cover</text>
+      </Title>
+      <Date>
+        <text>October 20, 1962</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11997" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4573__Jester_Cover_1931_October.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/artwork</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4573__Jester_Cover_1931_October.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1931-10</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CP1 C723</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Rabbitt</text>
+      </Creator>
+      <Title>
+        <text>Jester Football Issue. Cover</text>
+      </Title>
+      <Date>
+        <text>October 1931</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Identifier>
+        <text>780480</text>
+      </Identifier>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11996" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4582_Jester_Cover_1924_October.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/artwork</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4582_Jester_Cover_1924_October.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1924-10</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CP1 C723</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Holmgren</text>
+      </Creator>
+      <Title>
+        <text>Jester Football Issue. Cover</text>
+      </Title>
+      <Date>
+        <text>October 1924</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Identifier>
+        <text>780480</text>
+      </Identifier>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11995" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4578_Jester_Cover_1942_October.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/artwork</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4578_Jester_Cover_1942_October.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1942-10</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>CP1 C723</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Wyatt</text>
+      </Creator>
+      <Title>
+        <text>Jester Football Issue. Cover</text>
+      </Title>
+      <Date>
+        <text>October 1942</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Identifier>
+        <text>780480</text>
+      </Identifier>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11994" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4583__Football_Program_2004_October_2.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people/coaches</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4583__Football_Program_2004_October_2.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>2004-10-02</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 86, folder 5</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Football Game Program. Cover</text>
+      </Title>
+      <Date>
+        <text>October 2, 2004</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11993" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/0586_LionMascot.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/games/mascots</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 0586_LionMascot.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1920</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 200, folder 9</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Lion Mascot</text>
+      </Title>
+      <Date>
+        <text>1920</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11992" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4530_Columbia_Goat.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/games/mascots</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4530_Columbia_Goat.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1915-1922</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 200, folder 9</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>The Columbia Goat</text>
+      </Title>
+      <Date>
+        <text>circa 1910s-1920s</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11991" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/Reese__Johnathan2.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people/1960/reese</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: Reese__Johnathan2.jpg</text>
+      </Notes>
+      <KeyDate>
+        <text>2005</text>
+      </KeyDate>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Johnathan Reese</text>
+      </Title>
+      <Date>
+        <text>2005</text>
+      </Date>
+      <Rights>
+        <text>Permission to reproduce this image must be obtained from Columbia Athletics. Please contact the University Archives for contact information.</text>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11990" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4531_Witkowski_and_Flutie.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people/1960/witkowski</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4531_Witkowski_and_Flutie.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1984</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box OS 13</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>John Witkowski and Doug Flutie</text>
+      </Title>
+      <Date>
+        <text>1984</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11989" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/Ray_Tellier_sideline.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people/coaches/tellier</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: Ray_Tellier_sideline.jpg</text>
+      </Notes>
+      <KeyDate>
+        <text>2006</text>
+      </KeyDate>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Football Coach Ray Tellier</text>
+      </Title>
+      <Date>
+        <text>2006</text>
+      </Date>
+      <Rights>
+        <text>Permission to reproduce this image must be obtained from Columbia Athletics. Please contact the University Archives for contact information.</text>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11988" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4507_Swiacki__Bill.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people/1940/swiacki</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4507_Swiacki__Bill.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1947</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Office of Public Affairs Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Series II: Negatives, Box 18</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>negatives</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Bill Swiacki</text>
+      </Title>
+      <Date>
+        <text>1947</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11987" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4504_Kaliades__Paul.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people/1960/kaliades</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4504_Kaliades__Paul.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1971</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Office of Public Affairs Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Series II: Negatives, Box 19</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>negatives</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Paul Kaliades</text>
+      </Title>
+      <Date>
+        <text>1971</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11986" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4510_Barabas__Al.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people/1920/barabas</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4510_Barabas__Al.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1933</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Intercollegiate Athletics and Physical Education Records</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 1 of negatives</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>negatives</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Al Barabas</text>
+      </Title>
+      <Date>
+        <text>1933</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11985" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1578_Governali_PaulThrowingFootball.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people/1940/governali</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 1578_Governali_PaulThrowingFootball.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1942</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 48</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Mladinov, John, 1921-1993</text>
+      </Creator>
+      <Title>
+        <text>Paul Governali</text>
+      </Title>
+      <Date>
+        <text>1942</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11984" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/2529_Donelli_Aldo.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people/coaches/donelli</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 2529_Donelli_Aldo.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1945</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 32</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Coach Aldo T. "Buff" Donelli</text>
+      </Title>
+      <Date>
+        <text>1945</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11983" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1187_CheerleadingMenJumping.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/games/cheerleaders</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 1187_CheerleadingMenJumping.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1947</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 140, folder 32</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Lacy, Phil</text>
+        <text>Columbia Camera Club</text>
+      </Creator>
+      <Title>
+        <text>Cheerleaders</text>
+      </Title>
+      <Date>
+        <text>1947</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11982" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4528_Freddie_Sez_Homecoming.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/games/homecoming</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4528_Freddie_Sez_Homecoming.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>2004-10-02</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 205, folder 16</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Barroso, Eileen</text>
+      </Creator>
+      <Title>
+        <text>Freddy "Sez" Schuman at Homecoming</text>
+      </Title>
+      <Date>
+        <text>October 2, 2004</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11981" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4527_Pennant_Salesman.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/games</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4527_Pennant_Salesman.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1951-10-06</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 144, folder 12</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Warman, Manny, -1983</text>
+      </Creator>
+      <Title>
+        <text>Vendor Selling Pennants at Football Game</text>
+      </Title>
+      <Date>
+        <text>October 6, 1951</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11980" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4526_Cheerleaders_1983.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/games/cheerleaders</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4526_Cheerleaders_1983.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1983-09-30</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 140, folder 32</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Pineiro, Joe</text>
+      </Creator>
+      <Title>
+        <text>Cheerleaders</text>
+      </Title>
+      <Date>
+        <text>September 30, 1983</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11979" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4525_Football_Scoreboard.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/games</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4525_Football_Scoreboard.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1951-10-06</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 144, folder 12</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Warman, Manny, -1983</text>
+      </Creator>
+      <Title>
+        <text>Football Scoreboard</text>
+      </Title>
+      <Date>
+        <text>October 6, 1951</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11978" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4524_Eisenhower_with_Pennants.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/games/homecoming</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4524_Eisenhower_with_Pennants.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1952-10-25</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box OS 19</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Homecoming Game</text>
+      </Title>
+      <Date>
+        <text>October 25, 1952</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11977" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1616_MuddyPlayersVDartmouth.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/games</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 1616_MuddyPlayersVDartmouth.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1947-11-08</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 143, folder 33</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Football Game Columbia vs. Dartmouth</text>
+      </Title>
+      <Date>
+        <text>November 8, 1947</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11976" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4523_Flying_Football_Players.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/games</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4523_Flying_Football_Players.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1940-1942</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Mladinov Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 1, folder 28</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Mladinov, John, 1921-1993</text>
+      </Creator>
+      <Title>
+        <text>Football Practice</text>
+      </Title>
+      <Date>
+        <text>1940s</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11975" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4522_Lion_and_Tiger_Mascots.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/games/mascots</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4522_Lion_and_Tiger_Mascots.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1952</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 145, folder 6</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Columbia Lion vs. Princeton Tiger</text>
+      </Title>
+      <Date>
+        <text>1952</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11974" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0053.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0053.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1975-11-15</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 95, folder 6</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Football Game Program</text>
+      </Title>
+      <Date>
+        <text>November 15, 1975</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11973" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0052.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0052.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1924-09-24</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 94, folder 5</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Football Game Program</text>
+      </Title>
+      <Date>
+        <text>September 24, 1949</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11972" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0051.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0051.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1927-09-24</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 92, folder 2</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Volke, Edgar</text>
+      </Creator>
+      <Title>
+        <text>Football Game Program</text>
+      </Title>
+      <Date>
+        <text>September 24, 1927</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11971" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/2831_CliffMontgomeryOnLionStatue.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people/1920/montgomery</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 2831_CliffMontgomeryOnLionStatue.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1933-11</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 200, folder 9</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Cliff Montgomery</text>
+      </Title>
+      <Date>
+        <text>November 1933</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11970" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4521_Gehrig__Lou.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people/1920/gehrig</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4521_Gehrig__Lou.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1922</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 45</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Lou Gehrig</text>
+      </Title>
+      <Date>
+        <text>1922</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11969" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/2539_Koppisch_Walter.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people/1920/koppisch</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 2539_Koppisch_Walter.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1922-1924</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 69</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Walter Koppisch</text>
+      </Title>
+      <Date>
+        <text>circa 1924</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11968" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4520_Kusserow_Little_and_Rossides.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people/coaches/little</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4520_Kusserow_Little_and_Rossides.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1948</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 74, folder 2</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Coach Lou Little with Lou Kusserow and Gene Rossides</text>
+      </Title>
+      <Date>
+        <text>1948</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11967" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0046.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people/coaches/little</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0046.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1940-1949</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Biographical Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 186, folder 2</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>caricatures and cartoons</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Lou Little Wheaties Cartoon</text>
+      </Title>
+      <Date>
+        <text>1940s</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11966" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0045.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people/1920/luckman</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0045.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1938-10-24</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Intercollegiate Athletics and Physical Education Records</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box OS1</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Hagel, Otto, 1909-1973</text>
+      </Creator>
+      <Title>
+        <text>LIFE Magazine. Cover</text>
+      </Title>
+      <Date>
+        <text>October 24, 1938</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11965" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0044.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people/coaches/little</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0044.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1948-02-25</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Lou Little Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 1</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Eisenhower, Dwight D., 1890-1969</text>
+      </Creator>
+      <Title>
+        <text>Letter from Dwight D. Eisenhower to Lou Little</text>
+      </Title>
+      <Date>
+        <text>February 25, 1948</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11964" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0043.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people/1920</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0043.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1922-10-14</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Intercollegiate Athletics and Physical Education Records</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 11</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>administrative records</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>List of Contestants of Performers and Substitutes for Varsity Football Game vs. Wesleyan</text>
+      </Title>
+      <Date>
+        <text>October 14, 1922</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11963" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0042.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/people/coaches/little</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0042.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1935</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Lou Little Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 1</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Little, Louis, 1893-1979</text>
+        <text>Harron, Robert, 1897-</text>
+      </Creator>
+      <Title>
+        <text>How to watch football; the spectator's guide. Front cover</text>
+      </Title>
+      <Date>
+        <text>1935</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11961" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4519_Football_Players_Huddle.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/recent-days</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4519_Football_Players_Huddle.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>2004</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 200, folder 16</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Homecoming Game</text>
+      </Title>
+      <Date>
+        <text>2004</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11960" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4518_Campbell_and_Penders.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/recent-days/campbell</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4518_Campbell_and_Penders.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1974</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 146, folder 3</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Bill Campbell and Tom Penders</text>
+      </Title>
+      <Date>
+        <text>1974</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11959" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0038.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/recent-days/bagnoli</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0038.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>2018-11-29</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 90, folder 6</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>clippings</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Columbia Spectator Article</text>
+      </Title>
+      <Date>
+        <text>November 29, 2018</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11958" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0037.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/recent-days/the-streak</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0037.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1988-10-10</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 90, folder 4</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Columbia Spectator Front Page. Front cover</text>
+      </Title>
+      <Date>
+        <text>October 10, 1988</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11957" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0036.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/recent-days/campbell</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0036.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1974</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 86, folder 5</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Football Schedule and Brochure. Front</text>
+      </Title>
+      <Date>
+        <text>1974</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11956" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0035.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/recent-days</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0035.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>2006</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 86, folder 5</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Football Schedule. Front</text>
+      </Title>
+      <Date>
+        <text>2006</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11955" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0034.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/recent-days/1996</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0034.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1996</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Intercollegiate Athletics and Physical Education Records</text>
+      </Collection>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Football Media Guide. Back and front cover</text>
+      </Title>
+      <Date>
+        <text>1996</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11954" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0033.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/recent-days/campbell</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0033.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1976-10-23</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Intercollegiate Athletics and Physical Education Records</text>
+      </Collection>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>McGill, Charlie</text>
+      </Creator>
+      <Title>
+        <text>Football Game Program. Cover</text>
+      </Title>
+      <Date>
+        <text>October 23, 1976</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11953" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4517_Football_Team_1961.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/glory-days/ivy-league-1961</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4517_Football_Team_1961.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1961</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 147, folder 2</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>1961 Columbia Football Team Sitting in Baker Field Stands</text>
+      </Title>
+      <Date>
+        <text>1961</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11952" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4516_Rose_Bowl_Winning_Play.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/glory-days/rose-bowl</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4516_Rose_Bowl_Winning_Play.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1934</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 95, folder 8</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>The Record Book of Columbia Football. Page 32</text>
+      </Title>
+      <Description>
+        <text>Rose Bowl Winnig Play diagram</text>
+      </Description>
+      <Date>
+        <text>1934</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11951" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4515_RoseBowlTicket.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/glory-days/rose-bowl</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4515_RoseBowlTicket.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1934-01-01</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 96, folder 8</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Rose Bowl Game Ticket</text>
+      </Title>
+      <Date>
+        <text>January 1, 1934</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11950" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4511_Football_Game_at_Harvard_1961.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/glory-days/ivy-league-1961</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4511_Football_Game_at_Harvard_1961.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1961</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Intercollegiate Athletics and Physical Education Records</text>
+      </Collection>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Columbia vs. Harvard Football Game</text>
+      </Title>
+      <Date>
+        <text>1961</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <Provenance>
+        <text>Gift of Thomas O'Connor (#30 in photograph)</text>
+      </Provenance>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="11949" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0028.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/glory-days/miracle</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0028.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1947-10-25</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box XL 5</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Lacy, Phil</text>
+        <text>Columbia Camera Club</text>
+      </Creator>
+      <Title>
+        <text>Columbia vs. Army Football Game</text>
+      </Title>
+      <Date>
+        <text>October 25, 1947</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11948" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0027.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/early-days</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0027.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1904-10-29</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 91, folder 4</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Football Game Program. Cover</text>
+      </Title>
+      <Date>
+        <text>October 29, 1904</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11947" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0026.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/glory-days/miracle</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0026.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1947-10-25</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Intercollegiate Athletics and Physical Education Records</text>
+      </Collection>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Football Game Program. Cover</text>
+      </Title>
+      <Date>
+        <text>October 25, 1947</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11946" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0025.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/glory-days/ivy-league-1961</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0025.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1961</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Intercollegiate Athletics and Physical Education Records</text>
+      </Collection>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Football Media Guide. Cover</text>
+      </Title>
+      <Date>
+        <text>1961</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11945" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0024.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/glory-days/rose-bowl</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0024.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1934-01-13</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 90, folder 9</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Rose Bowl Victory Dinner Program. Back cover</text>
+      </Title>
+      <Date>
+        <text>January 13, 1934</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11944" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0023.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/glory-days/rose-bowl</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0023.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1934-01-13</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 90, folder 9</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Rose Bowl Victory Dinner Program. Inside</text>
+      </Title>
+      <Date>
+        <text>January 13, 1934</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11943" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0022.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/glory-days/rose-bowl</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0022.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1934-01-13</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 90, folder 9</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Rose Bowl Victory Dinner Program. Front cover</text>
+      </Title>
+      <Date>
+        <text>January 13, 1934</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11942" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0021.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0021.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1936-11-28</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Intercollegiate Athletics and Physical Education Records</text>
+      </Collection>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Football</text>
+      </Title>
+      <Date>
+        <text>November 28, 1936</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11941" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0020.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/early-days</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0020.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1903</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Flat Files Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 15, folder 5</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>posters</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Intercollegiate Foot-ball Schedule</text>
+      </Title>
+      <Date>
+        <text>1903</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11940" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0019.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/early-days/the-ban</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0019.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1905-12-21</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Nicholas Murray Butler Football Correspondence</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 1</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Columbia Spectator Front Page</text>
+      </Title>
+      <Date>
+        <text>December 21, 1905</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11939" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0018.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/early-days/the-ban</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0018.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1915</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 96, folder 3</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Football Game Announcement</text>
+      </Title>
+      <Date>
+        <text>1915</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11938" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0017.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/early-days/the-ban</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0017.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1915</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 96, folder 5</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Season Scehdule</text>
+      </Title>
+      <Date>
+        <text>1915</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11937" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0016.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/early-days/the-ban</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0016.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1919-10-03</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 86, folder 5</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Butler, Nicholas Murray, 1862-1947</text>
+      </Creator>
+      <Title>
+        <text>Letter from Nicholas Murray Butler to Frank Fackenthal. Page 3</text>
+      </Title>
+      <Date>
+        <text>October 3, 1919</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11936" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0015.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/early-days/the-ban</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0015.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1919-10-03</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 86, folder 5</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Butler, Nicholas Murray, 1862-1947</text>
+      </Creator>
+      <Title>
+        <text>Letter from Nicholas Murray Butler to Frank Fackenthal. Page 2</text>
+      </Title>
+      <Date>
+        <text>October 3, 1919</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11935" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0014.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/early-days/the-ban</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0014.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1919-10-03</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 86, folder 5</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Butler, Nicholas Murray, 1862-1947</text>
+      </Creator>
+      <Title>
+        <text>Letter from Nicholas Murray Butler to Frank Fackenthal. Page 1</text>
+      </Title>
+      <Date>
+        <text>October 3, 1919</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11933" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0012.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/places/baker-field</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0012.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1970-1979</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>OS Box 31</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Aerial View of Baker Field</text>
+      </Title>
+      <Date>
+        <text>1970s</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11932" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/CSC_Steve_Guttman.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/places/csc</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: CSC_Steve_Guttman.jpg</text>
+      </Notes>
+      <KeyDate>
+        <text>2003</text>
+      </KeyDate>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Guttman, Steve</text>
+      </Creator>
+      <Title>
+        <text>Campbell Sports Center</text>
+      </Title>
+      <Date>
+        <text>2003</text>
+      </Date>
+      <Rights>
+        <text>Permission to reproduce this image must be obtained from Columbia Athletics. Please contact the University Archives for contact information.</text>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11931" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4514_WienStadium2004.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/places</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4514_WienStadium2004.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>2004-10</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 205, folder 6</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Wien Stadium</text>
+      </Title>
+      <Date>
+        <text>October 2004</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11930" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4513_Wien_Stadium_Ribbon_Cutting.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/places/wien-stadium</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4513_Wien_Stadium_Ribbon_Cutting.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1984-09-22</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Office of Alumni and Development Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 16, folder 29</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Wien Stadium Ribbon Cutting</text>
+      </Title>
+      <Date>
+        <text>September 22, 1984</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11929" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/4512_Homecoming_1952.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/places/baker-field</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 4512_Homecoming_1952.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1952</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Office of Public Affairs Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 23, folder 10</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Columbia Band at Baker Field, Homecoming</text>
+      </Title>
+      <Date>
+        <text>1952</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11928" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/1789_Footballv_Penn.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/places</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 1789_Footballv_Penn.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1920-1929</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 145, folder 1</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Columbia vs. Penn Football Game at the Polo Grounds</text>
+      </Title>
+      <Date>
+        <text>1920s</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11927" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/0535_FootballNYU1921.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/places/south-field</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: 0535_FootballNYU1921.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1921</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 144, folder 27</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Columbia vs. NYU Football Game</text>
+      </Title>
+      <Date>
+        <text>1921</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11926" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0005.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/places/baker-field</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0005.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1942</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 96, folder 9</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Football ticket sales brochure. Top two panels</text>
+      </Title>
+      <Date>
+        <text>1942</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11925" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0004.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/places/south-field</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0004.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1921</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Subject Files</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 96, folder 9</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Football ticket sales brochure. Front</text>
+      </Title>
+      <Date>
+        <text>1921</text>
+      </Date>
+      <Rights>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11924" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0003.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/places/wien-stadium</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0003.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1980-1989</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Buildings and Grounds Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 20, folder 4</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>“The New Baker Field at Columbia University”. Cover</text>
+      </Title>
+      <Date>
+        <text>1980s</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11923" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/places/wien-stadium</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0002.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1984</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Buildings and Grounds Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 20, folder 4</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Invitation to opening and dedication of Wien Stadium. Inside</text>
+      </Title>
+      <Date>
+        <text>1984</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+  <item itemId="11922" public="1" featured="0">
+    <OmekaCollection>Roar, Lion, Roar: A Celebration of Columbia Football</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_lions_0001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/roar-lion-roar/places/wien-stadium</ItemInContext>
+    <MODS>
+      <Notes>
+        <text>Original filename: RBML_lions_0001.tif</text>
+      </Notes>
+      <KeyDate>
+        <text>1984</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Buildings and Grounds Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 20, folder 4</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>Invitation to opening and dedication of Wien Stadium. Cover</text>
+      </Title>
+      <Date>
+        <text>1984</text>
+      </Date>
+      <Rights>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>Still Image</text>
+      </Type>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+  </item>
+</itemContainer>
