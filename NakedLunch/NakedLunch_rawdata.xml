@@ -1,0 +1,3317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--The name of each XML element representing an Omeka element or element set is
+based on the name of the element or element set in Omeka. For example:
+     The "Dublin Core" element set is represented by the DublinCore XML element
+     The "Form Genre" element in MODS is represented by the FormGenre XML element
+
+The following XML elements are based on internal Omeka data:
+     The OriginalFileLoadedIntoOmeka XML element contains the name/path of
+     of the file(s) loaded into Omeka for the given item.
+     The OmekaCollection XML element contains the name of the Omeka collection
+     containing the item, if the item belongs to an Omeka collection. Please note
+     that this element is different from the Collection element in MODS, which is
+     curator-populated.
+-->
+<itemContainer>
+  <item itemId="9569" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>dream-machine.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/dreammachine/burroughs-the-dream-machine</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Dream Machine</text>
+      </Title>
+      <Description>
+        <text>The Dream Machine, a device designed by Burroughs and Brion Gysin and constructed by Ian Sommerville, was designed to help stimulate brain activity and bring about a hallucinatory state. </text>
+      </Description>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997 </text>
+        <text>Gysin, Brion</text>
+        <text>Sommerville, Ian</text>
+      </Creator>
+      <Date>
+        <text>1960s</text>
+      </Date>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1960 - 1969</text>
+      </KeyDate>
+      <FormGenre>
+        <text>objects</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Notes>
+        <text>Date based on the earliest and latest dates of the  William Seward Burroughs Papers collection.</text>
+      </Notes>
+      <Collection>
+        <text> William Seward Burroughs Papers</text>
+      </Collection>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+    </MODS>
+  </item>
+  <item itemId="5049" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Document</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>festin_nu_cover.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlbook/nlbooks1</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Festin Nu, front cover</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997</text>
+        <text>Kahane, Eric H.</text>
+      </Creator>
+      <Publisher>
+        <text>Gallimard</text>
+      </Publisher>
+      <Date>
+        <text>1964</text>
+      </Date>
+      <Language>
+        <text>French</text>
+      </Language>
+      <Description>
+        <text>Naked Lunch, translated into French by Eric Kahane</text>
+      </Description>
+      <Source>
+        <text>Naked Lunch</text>
+      </Source>
+      <Identifier>
+        <text>CLIO id: 7793016</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Paris</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1964</text>
+      </PublicationDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Notes>
+        <text>Rare Book copy: No. 1197.</text>
+        <text>Rare Book copy: Accompanied by typescript letter from the publisher indicating that the work should not be publicly displayed and above all, should not fall into the hands of minors, due to its shocking content; shelved in separate portfolio.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1964</text>
+      </KeyDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>PS3552.U75 N314 1964g</text>
+      </ShelfLocation>
+    </MODS>
+  </item>
+  <item itemId="5048" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Document</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>festin_nu_warning.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlbook/nlbooks1</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Festin Nu, accompanying letter</text>
+      </Title>
+      <Creator>
+        <text>Gallimard (Firm)</text>
+      </Creator>
+      <Publisher>
+        <text>Gallimard</text>
+      </Publisher>
+      <Date>
+        <text>Février 1964</text>
+      </Date>
+      <Language>
+        <text>French</text>
+      </Language>
+      <Description>
+        <text>Letter from the French publishers Les Editions Gallimard to booksellers concerning Le Festin Nu</text>
+      </Description>
+      <Identifier>
+        <text>CLIO id: 7793016</text>
+      </Identifier>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Paris</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>Février 1964</text>
+      </PublicationDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Notes>
+        <text>Accompaniment to Rare Book copy: No. 1197.</text>
+        <text>Typescript letter from the publisher indicating that the work should not be publicly displayed and above all, should not fall into the hands of minors, due to its shocking content; shelved in separate portfolio from accompanying book</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1964-02</text>
+      </KeyDate>
+      <PlaceofOrigin>
+        <text>Paris</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <ShelfLocation>
+        <text>PS3552.U75 N314 1964g</text>
+      </ShelfLocation>
+    </MODS>
+  </item>
+  <item itemId="2578" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>100029003c.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Naked Lunch 50th Anniversary Edition</text>
+      </Title>
+      <Description>
+        <text>Cover and slipcase</text>
+      </Description>
+      <Creator>
+        <text>William S. Burroughs, 1914-1997</text>
+      </Creator>
+      <Publisher>
+        <text>Grove Press</text>
+      </Publisher>
+      <Date>
+        <text>November 1, 2009</text>
+      </Date>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>New York</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="2577" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image<text>Original Format: Typed letter</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>100029002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Letter from William S. Burroughs to Peter Matson.</text>
+      </Title>
+      <Description>
+        <text>Typed letter signed, William S. Burroughs to Peter Matson.   Burroughs states preference that title of new edition of "Junkie" be "Junk" or "Junky."</text>
+      </Description>
+      <Creator>
+        <text>William S. Burroughs, 1914-1997</text>
+      </Creator>
+      <Source>
+        <text>Harold Matson Records.</text>
+      </Source>
+      <Date>
+        <text>25 August 1976</text>
+      </Date>
+    </DublinCore>
+  </item>
+  <item itemId="2576" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>100029001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/junky/junkie</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Junky: the Definitive Text of "Junk", front cover</text>
+      </Title>
+      <Description>
+        <text>Cover of &lt;em&gt;Junky: The Definitive Text of "Junk".&amp;nbsp; &lt;/em&gt;Advanced uncorrected proof.</text>
+      </Description>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997</text>
+      </Creator>
+      <Publisher>
+        <text>Penguin Books</text>
+      </Publisher>
+      <Date>
+        <text>circa 2003</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>New York</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>2003</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>2003</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="2575" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Sound<text>Original Format: Reel-to-reel audio tape</text><text>Duration: 00:04:28</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>meeting_international_conference.mp3</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlreading/nlreading</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>William Burroughs Reads from "Naked Lunch:" "Meeting of International Conference of Technological Psychiatry"</text>
+      </Title>
+      <Description>
+        <text>William Burroughs reading an excerpt from &lt;em&gt;Naked Lunch&lt;/em&gt;: "Meeting of International Conference of Technological Psychiatry" (4 min, 28 sec)</text>
+      </Description>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997</text>
+      </Creator>
+      <Date>
+        <text>probably 1960 - 1972</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>[London]</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1960 1972</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>sound recordings</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Notes>
+        <text>Dates inferred from the fact that the original audio tape includes an unidentified British radio program, suggesting that the recording was made during the time Burroughs lived in London (c. 1960-1972).</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>William Seward Burroughs Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="2574" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Sound<text>Original Format: Reel-to-reel audio tape</text><text>Duration: 00:05:45</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>exterminator.mp3</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlreading/nlreading</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>William Burroughs Reads from "Naked Lunch:" "The Exterminator Does a Good Job"</text>
+      </Title>
+      <Description>
+        <text>William Burroughs reading an excerpt from &lt;em&gt;Naked Lunch&lt;/em&gt;: "The Exterminator Does a Good Job" (5 min, 45 sec)</text>
+      </Description>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997</text>
+      </Creator>
+      <Date>
+        <text>probably 1960 - 1972</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>[London]</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1960 1972</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>sound recordings</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Notes>
+        <text>Dates inferred from the fact that the original audio tape includes an unidentified British radio program, suggesting that the recording was made during the time Burroughs lived in London (c. 1960-1972).</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>William Seward Burroughs Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="1301" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069059.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlmanuscript/nlmss</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Howl, and other poems, Dedication</text>
+      </Title>
+      <Creator>
+        <text>Ginsberg, Allen, 1926-1997</text>
+      </Creator>
+      <Publisher>
+        <text>City Lights</text>
+      </Publisher>
+      <Date>
+        <text>1956</text>
+      </Date>
+      <Subject>
+        <text>Kerouac, Jack, 1922-1969</text>
+        <text>Burroughs, William S., 1914-1997</text>
+        <text>Cassady, Neal</text>
+        <text>Carr, Lucien, 1925-2005</text>
+      </Subject>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>San Francisco</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1956</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>San Francisco</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1956</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1300" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069057.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/junky/junkie</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Junky, title page</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997 </text>
+        <text>Lowe, Steve</text>
+      </Creator>
+      <Publisher>
+        <text>Penguin Books</text>
+      </Publisher>
+      <Date>
+        <text>1977</text>
+        <text>May 12, 1987</text>
+      </Date>
+      <Description>
+        <text>Title page includes an inscription by William Burroughs to Steve Lowe, Lawrence, Kansas, May 12, 1987.</text>
+      </Description>
+      <Source>
+        <text>Junkie</text>
+      </Source>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 7201607</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>New York</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1987-05-12</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1977</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>PS3552.U75 J86 1977</text>
+      </ShelfLocation>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1072" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Moving Image<text>Duration: 00:03:08</text><text>Producer: Documentary Arts</text><text>Director: Govenar, Alan B., 1952- </text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>burroughsvideo.mp4</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/dreammachine/burroughs-the-dream-machine</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Dream Machine. Video</text>
+      </Title>
+      <Description>
+        <text>The Dream Machine, a device designed by Burroughs and Brion Gysin and constructed by Ian Sommerville, was designed to help stimulate brain activity and bring about a hallucinatory state. &#13;
+&#13;
+Alan Govenar directed this short video showing the Dream Machine in operation.&#13;
+&#13;
+</text>
+      </Description>
+      <Creator>
+        <text>Govenar, Alan B., 1952- </text>
+        <text>Burroughs, William S., 1914-1997 </text>
+        <text>Gysin, Brion</text>
+        <text>Sommerville, Ian</text>
+      </Creator>
+      <Date>
+        <text>2009</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>2009</text>
+      </KeyDate>
+      <FormGenre>
+        <text>video recordings</text>
+        <text>objects</text>
+      </FormGenre>
+    </MODS>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>[New York]</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+  </item>
+  <item itemId="1071" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Sound<text>Original Format: Reel-to-reel audio tape</text><text>Duration: 00:22:36</text></ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>rube.mp3</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlreading/nlreading</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>William Burroughs Reads from "Naked Lunch:" "The Rube"</text>
+      </Title>
+      <Description>
+        <text>William Burroughs reading three excerpts from &lt;em&gt;Naked Lunch&lt;/em&gt;: "The Rube" (22 min, 36 sec)</text>
+      </Description>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997</text>
+      </Creator>
+      <Date>
+        <text>probably 1960 - 1972</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>[London]</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1960 1972</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>sound recordings</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Notes>
+        <text>Dates inferred from the fact that the original audio tape includes an unidentified British radio program, suggesting that the recording was made during the time Burroughs lived in London (c. 1960-1972).</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>William Seward Burroughs Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="1070" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069058.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlmanuscript/nlmss</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Howl, and other poems, front cover</text>
+      </Title>
+      <Creator>
+        <text>Ginsberg, Allen, 1926-1997</text>
+      </Creator>
+      <Publisher>
+        <text>City Lights</text>
+      </Publisher>
+      <Date>
+        <text>1956</text>
+      </Date>
+      <Relation>
+        <text>Pocket Poets Series, Number Four</text>
+      </Relation>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>San Francisco</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1956</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>San Francisco</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1956</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1069" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069056.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/junky/junkie</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Junky, front cover</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997 </text>
+      </Creator>
+      <Publisher>
+        <text>Penguin</text>
+      </Publisher>
+      <Date>
+        <text>1977</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>New York</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1977</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1977</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1068" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069054.jpg</text>
+      <text>090069055.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlmanuscript/nlmss</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Typed letter signed, William S. Burroughs to Allen Ginsberg</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997 </text>
+        <text>Ginsberg, Allen, 1926-1997 </text>
+      </Creator>
+      <Date>
+        <text>October 19, 1957</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1957-10-19</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PlaceofOrigin>
+        <text>Tangiers, Morocco</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Allen Ginsberg papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="1067" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069052.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/dreammachine/burroughs-the-dream-machine</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Self Portrait</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997 </text>
+      </Creator>
+      <Date>
+        <text>1959</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Burroughs, William S., 1914-1997 </text>
+      </Subject>
+    </DublinCore>
+    <MODS>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <KeyDate>
+        <text>1959</text>
+      </KeyDate>
+      <FormGenre>
+        <text>paintings</text>
+      </FormGenre>
+      <Notes>
+        <text>The precise date and circumstances of the work’s creation are not known, but it was likely drawn around the time of Naked Lunch’s composition.</text>
+      </Notes>
+    </MODS>
+  </item>
+  <item itemId="1066" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069051.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlphotographs/photos</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>William S. Burroughs, London 1972</text>
+      </Title>
+      <Creator>
+        <text>Charters, Ann</text>
+      </Creator>
+      <Date>
+        <text>1972</text>
+      </Date>
+      <Subject>
+        <text>Burroughs, William S., 1914-1997 </text>
+      </Subject>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1972</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PlaceofOrigin>
+        <text>London</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>William Seward Burroughs Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="1065" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069050.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlbook/nlbooks2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Naked Lunch, front cover and slipcase front</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997 </text>
+      </Creator>
+      <Publisher>
+        <text>Grove Press</text>
+      </Publisher>
+      <Date>
+        <text>1984</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 7195580</text>
+      </Identifier>
+      <Description>
+        <text>25 anniversary edition cover and slipcover</text>
+      </Description>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1984</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1984</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>PS3552.U75 N3 1984</text>
+      </ShelfLocation>
+      <Notes>
+        <text>25th anniversary ed., signed and limited. With prefixed leaf stating "The twenty-fifth anniversary edition ... was printed as 500 signed slipcased copies.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1064" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069049.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlbook/nlbooks2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Naked Lunch, title page</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997</text>
+      </Creator>
+      <Publisher>
+        <text>Grove Press</text>
+      </Publisher>
+      <Date>
+        <text>1984</text>
+      </Date>
+      <Description>
+        <text>Twenty-fifth anniversary edition</text>
+      </Description>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 7195580</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>New York</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1984</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1984</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>PS3552.U75 N3 1984</text>
+      </ShelfLocation>
+      <Notes>
+        <text>25th anniversary ed., signed and limited. With prefixed leaf stating "The twenty-fifth anniversary edition ... was printed as 500 signed slipcased copies.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1063" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069047.jpg</text>
+      <text>090069048.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlbook/nlbooks2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Interzone, front cover and title page</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997</text>
+        <text>Grauerholz, James</text>
+      </Creator>
+      <Publisher>
+        <text>Viking</text>
+      </Publisher>
+      <Date>
+        <text>1989</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 725962</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>New York</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1989</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1989</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>PS3552.U75 I5 1989</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Title page is signed and dated by Burroughs.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1062" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069046.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlbook/nlbooks1</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Dead Fingers Talk, front free endpaper</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997 </text>
+        <text>Ginsberg, Allen, 1926-1997 </text>
+      </Creator>
+      <Publisher>
+        <text>John Calder </text>
+      </Publisher>
+      <Date>
+        <text>1963</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Identifier>
+        <text>CLIO id: 5543905</text>
+      </Identifier>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>London</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1963</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1963</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B812B945 P53 1963</text>
+      </ShelfLocation>
+      <Notes>
+        <text>Allen Ginsberg's copy, with his autograph and three fishes insignia. Signed May 19, 1964.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1061" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069045.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlbook/nlbooks2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Naked Lunch, the Restored text, front cover</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997 </text>
+        <text>Grauerholz, James</text>
+        <text>Miles, Barry, 1943-</text>
+      </Creator>
+      <Publisher>
+        <text>Grove Press</text>
+      </Publisher>
+      <Date>
+        <text>2003</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>New York</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>2003</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>2003</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1060" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069044.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlbook/nlbooks1</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Naked Lunch, front cover</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997</text>
+      </Creator>
+      <Publisher>
+        <text>Evergreen</text>
+      </Publisher>
+      <Date>
+        <text>1966</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>New York</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1966</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1966</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1059" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069043.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlperiodicals/nlperiodicals</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Have You Seen Pantapon Rose?, page 4</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997 </text>
+        <text>Baraka, Amiri, 1934-2014</text>
+        <text>Jones, Hettie</text>
+      </Creator>
+      <Publisher>
+        <text>ed. LeRoi Jones; Hettie Cohen</text>
+      </Publisher>
+      <Date>
+        <text>1958</text>
+      </Date>
+      <Description>
+        <text>First page of text by Burroughs in Yūgen, a magazine edited by LeRoi Jones and Hettie Cohen.</text>
+      </Description>
+      <Source>
+        <text>Yūgen</text>
+      </Source>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>New York</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1958</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1958</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1058" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069041.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/dreammachine/burroughs-the-dream-machine</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Olympia: a Monthly Review from Paris, Number Two, front cover</text>
+      </Title>
+      <Creator>
+        <text>Olympia Press (Paris, France)</text>
+      </Creator>
+      <Publisher>
+        <text>Olympia Press (Paris, France)</text>
+      </Publisher>
+      <Date>
+        <text>1962</text>
+      </Date>
+      <Subject>
+        <text>Dream Machine</text>
+        <text>Sommerville, Ian</text>
+        <text>Gysin, Brion</text>
+      </Subject>
+      <Description>
+        <text>Front cover includes a photo of Ian Sommerville and Brion Gysin with the Dream Machine</text>
+      </Description>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>Paris</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1962</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Paris</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1962</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1057" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069039.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlperiodicals/nlperiodicals</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Chicago Review, Spring 1958, front cover</text>
+      </Title>
+      <Creator>
+        <text>Hamburger, Michael</text>
+        <text>Vigneron, Robert</text>
+      </Creator>
+      <Date>
+        <text>Spring 1958</text>
+      </Date>
+      <Subject>
+        <text>Burroughs, William S., 1914-1997</text>
+        <text>Doyle, Kirby</text>
+        <text>Duncan, Robert, 1919-1988</text>
+        <text>Ferlinghetti, Lawrence</text>
+        <text>Ginsberg, Allen, 1926-1997</text>
+        <text>Kerouac, Jack, 1922-1969</text>
+        <text>Lamantia, Philip, 1927-2005</text>
+        <text>McClure, Michael</text>
+        <text>Whalen, Philip</text>
+        <text>Wieners, John, 1934-2002</text>
+      </Subject>
+      <Description>
+        <text>Issue title: Ten San Francisco Poets</text>
+      </Description>
+      <Source>
+        <text>Chicago Review</text>
+      </Source>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>Chicago</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1958-03 1958-05</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Chicago</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1958-03 1958-05</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1056" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069038.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlbook/nlbooks1</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Traveller's Companion: no. 76, Naked Lunch, front cover</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997</text>
+      </Creator>
+      <Publisher>
+        <text>Olympia Press</text>
+      </Publisher>
+      <Date>
+        <text>[1959]</text>
+      </Date>
+      <Relation>
+        <text>Burroughs, William S., 1914-1997. Naked lunch</text>
+      </Relation>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1959</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Paris</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1959</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1055" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069037.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlbook/nlbooks1</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Traveller's Companion: no. 76, Naked Lunch, dust jacket front cover</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997</text>
+      </Creator>
+      <Publisher>
+        <text>Olympia Press</text>
+      </Publisher>
+      <Date>
+        <text>[1959]</text>
+      </Date>
+      <Relation>
+        <text>Burroughs, William S., 1914-1997. Naked lunch</text>
+      </Relation>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>Paris</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1959</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Paris</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1959</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1054" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069036.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/junky/junkie</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Narcotic Agent, front cover</text>
+      </Title>
+      <Creator>
+        <text>Helbrant, Maurice</text>
+      </Creator>
+      <Publisher>
+        <text>Ace Books</text>
+      </Publisher>
+      <Date>
+        <text>1953</text>
+      </Date>
+      <Description>
+        <text>Cover of book bound dos-à-dos with Junkie by William Lee (pseudonym for William S. Burroughs).</text>
+      </Description>
+      <Relation>
+        <text>Junkie: Confessions of an Unredeemed Drug Addict / William Lee</text>
+      </Relation>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>New York</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1953</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1953</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1053" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069035.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/junky/junkie</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Junkie: Confessions of an Unredeemed Drug Addict, front cover</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997</text>
+      </Creator>
+      <Publisher>
+        <text>Ace Books</text>
+      </Publisher>
+      <Date>
+        <text>1953</text>
+      </Date>
+      <Description>
+        <text>Cover of book bound dos-à-dos with Narcotic Agent by Maurice Helbrant (pseudonym for William S. Burroughs).</text>
+      </Description>
+      <Relation>
+        <text>Narcotic Agent / Maurice Helbrant</text>
+      </Relation>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>New York</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1953</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1953</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1052" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069034.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlperiodicals/nlperiodicals</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Chicago Review: Autumn 1958, front cover</text>
+      </Title>
+      <Date>
+        <text>Autumn 1958</text>
+      </Date>
+      <Subject>
+        <text> Burroughs, William S., 1914-1997. Naked lunch</text>
+      </Subject>
+      <Description>
+        <text>Autumn 1958 issue, focusing on Naked Lunch / William S. Burroughs</text>
+      </Description>
+      <Relation>
+        <text>Burroughs, William S., 1914-1997. Naked lunch</text>
+      </Relation>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>Chicago</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1958-09 1958-11</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Chicago</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1958-09 1958-11</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1051" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069033.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlbook/nlbooks1</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Naked Lunch, front cover</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997</text>
+      </Creator>
+      <Publisher>
+        <text>Grove Press</text>
+      </Publisher>
+      <Date>
+        <text>[1962, c1959]</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>New York</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1962</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1962</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1050" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069032.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlperiodicals/nlperiodicals</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Big Table: 1, front cover</text>
+      </Title>
+      <Date>
+        <text>Spring 1959</text>
+      </Date>
+      <Subject>
+        <text>Kerouac, Jack, 1922-1969</text>
+        <text>Dahlberg, Edward, 1900-1977</text>
+        <text>Burroughs, William S., 1914-1997</text>
+        <text>Corso, Gregory</text>
+      </Subject>
+      <Description>
+        <text>Issue 1 (Spring 1959) of Big Table</text>
+      </Description>
+      <Relation>
+        <text>Burroughs, William S., 1914-1997. Naked lunch</text>
+        <text>Kerouac, Jack, 1922-1969. Old Angel Midnight</text>
+        <text>Dahlberg, Edward, 1900-1977. The Garment of RA</text>
+        <text>Dahlberg, Edward, 1900-1977. Further Sorrows of Priapus</text>
+        <text>Corso, Gregory. Power, Army, and Police</text>
+      </Relation>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>Chicago</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1959-03 1959-05</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Chicago</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1959-03 1959-05</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>periodicals</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1049" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069031.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlperiodicals/nlperiodicals</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Doctor Benway : a passage from the Naked Lunch, front cover</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997</text>
+      </Creator>
+      <Publisher>
+        <text>B. Morrow</text>
+      </Publisher>
+      <Date>
+        <text>1979</text>
+      </Date>
+      <Relation>
+        <text>Burroughs, William S., 1914-1997. Naked lunch</text>
+      </Relation>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>Santa Barbara </text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1979</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Santa Barbara</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1979</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1048" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069030.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlbook/nlbooks1</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>William Burroughs : Naked Lunch, font and back covers</text>
+      </Title>
+      <Publisher>
+        <text>Grove Press</text>
+      </Publisher>
+      <Date>
+        <text>Nov. 20, 1962</text>
+      </Date>
+      <Subject>
+        <text>Burroughs, William S., 1914-1997</text>
+      </Subject>
+      <Description>
+        <text>Naked Lunch promotional prospectus</text>
+        <text>Front cover includes black and white image of William S. Burroughs; back cover has comments on Naked Lunch by various authors</text>
+      </Description>
+      <Relation>
+        <text>Burroughs, William S., 1914-1997. Naked lunch</text>
+      </Relation>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>New York</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1962-11-20</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <PublicationDate>
+        <text>1962-11-20</text>
+      </PublicationDate>
+      <FormGenre>
+        <text>printed ephemera</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1047" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069029.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlphotographs/photos</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Louis Cartwright (left) and William S. Burroughs </text>
+      </Title>
+      <Date>
+        <text>[c.1979-80]</text>
+      </Date>
+      <Subject>
+        <text>Burroughs, William S., 1914-1997</text>
+        <text>Cartwright, Louis</text>
+      </Subject>
+      <Description>
+        <text>Photograph of William S. Burroughs with the photographer Louis Cartwright (death 1994)</text>
+      </Description>
+      <Language>
+        <text>No linguistic content</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>New York</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1979 1980</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PlaceofOrigin>
+        <text>New York</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1046" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069028.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlphotographs/photos</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>William S. Burroughs with David Prentice (left), and Stewart Meyer (right)</text>
+      </Title>
+      <Date>
+        <text>1981</text>
+      </Date>
+      <Subject>
+        <text>Burroughs, William S., 1914-1997</text>
+        <text>Prentice, David</text>
+        <text>Meyer, Stewart</text>
+      </Subject>
+      <Description>
+        <text>Photograph of Burroughs with the painter David Prentice (left), and Stewart Meyer, a member of Burroughs’s circle at the time, probably 1981, the year that Cities of the Red Night (visible in the background) was published.</text>
+      </Description>
+      <Language>
+        <text>No linguistic content</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>New York</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1981</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <PlaceofOrigin>
+        <text>New York</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1045" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069027.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlphotographs/photos</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>William S. Burroughs</text>
+      </Title>
+      <Creator>
+        <text>Cartwright, Louis</text>
+      </Creator>
+      <Date>
+        <text>[c.1979-80]</text>
+      </Date>
+      <Subject>
+        <text>Burroughs, William S., 1914-1997</text>
+      </Subject>
+      <Description>
+        <text>Photograph of William S. Burroughs with a coffee cup.</text>
+      </Description>
+      <Language>
+        <text>No linguistic content</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>New York</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1979 1980</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PlaceofOrigin>
+        <text>New York</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1044" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069026.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlphotographs/photos</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Herbert Huncke (left) and William S. Burroughs</text>
+      </Title>
+      <Creator>
+        <text>Cartwright, Louis</text>
+      </Creator>
+      <Date>
+        <text>[c.1979-80]</text>
+      </Date>
+      <Subject>
+        <text>Burroughs, William S., 1914-1997</text>
+        <text>Huncke, Herbert</text>
+      </Subject>
+      <Description>
+        <text>Photograph of William S. Burroughs with Herbert Huncke (1915-1996), in the Bunker</text>
+      </Description>
+      <Language>
+        <text>No linguistic content</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>New York</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1979 1980</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PlaceofOrigin>
+        <text>New York</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1043" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069025.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlphotographs/photos</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>William S. Burroughs</text>
+      </Title>
+      <Creator>
+        <text>Cartwright, Louis</text>
+      </Creator>
+      <Date>
+        <text>[c.1979-80]</text>
+      </Date>
+      <Subject>
+        <text>Burroughs, William S., 1914-1997</text>
+      </Subject>
+      <Description>
+        <text>Photograph of William S. Burroughs at his kitchen table.</text>
+      </Description>
+      <Language>
+        <text>No linguistic content</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>New York</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1979 1980</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PlaceofOrigin>
+        <text>New York</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1042" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069024.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlphotographs/photos</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>William S. Burroughs</text>
+      </Title>
+      <Creator>
+        <text>Cartwright, Louis</text>
+      </Creator>
+      <Date>
+        <text>[c.1979-80]</text>
+      </Date>
+      <Subject>
+        <text>Burroughs, William S., 1914-1997</text>
+      </Subject>
+      <Description>
+        <text>Photograph of William S. Burroughs in profile</text>
+      </Description>
+      <Language>
+        <text>No linguistic content</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>New York</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1979 1980</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PlaceofOrigin>
+        <text>New York</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1041" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069023.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlphotographs/photos</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>William S. Burroughs</text>
+      </Title>
+      <Creator>
+        <text>Cartwright, Louis</text>
+      </Creator>
+      <Date>
+        <text>[c.1979-80]</text>
+      </Date>
+      <Subject>
+        <text>Burroughs, William S., 1914-1997</text>
+        <text>Huncke, Herbert</text>
+      </Subject>
+      <Description>
+        <text>Photograph of William S. Burroughs with rifle and friends, including Herbert Huncke (far left).</text>
+      </Description>
+      <Language>
+        <text>No linguistic content</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>New York</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1979 1980</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <PlaceofOrigin>
+        <text>New York</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1040" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069022.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/wsb/nlwsb</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>William S. Burroughs</text>
+      </Title>
+      <Creator>
+        <text>Bockris, Victor, 1949-</text>
+      </Creator>
+      <Date>
+        <text>1980</text>
+      </Date>
+      <Subject>
+        <text>Burroughs, William S., 1914-1997</text>
+      </Subject>
+      <Language>
+        <text>No linguistic content</text>
+      </Language>
+    </DublinCore>
+    <AdditionalItemMetadata>
+      <SpatialCoverage>
+        <text>New York</text>
+      </SpatialCoverage>
+    </AdditionalItemMetadata>
+    <MODS>
+      <KeyDate>
+        <text>1980</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PlaceofOrigin>
+        <text>New York</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="1038" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069020.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/junky/junkie</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Junkie manuscript, Glossary, unnumbered page</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997</text>
+      </Creator>
+      <Date>
+        <text>[1952-53]</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1952 1953</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>William Seward Burroughs Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="1037" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069019.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/junky/junkie</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Junkie manuscript, page 8</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997</text>
+      </Creator>
+      <Date>
+        <text>[1952-53]</text>
+      </Date>
+      <Description>
+        <text>First page of Chapter One of the manuscript</text>
+      </Description>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1952 1953</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Allen Ginsberg papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="1036" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069018.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/junky/nljunkiecorresp</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Autograph letter signed, William S. Burroughs to Jack Kerouac</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997</text>
+        <text>Kerouac, Jack, 1922-1969</text>
+      </Creator>
+      <Date>
+        <text>March 10, 1950</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1950-03-10</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Jack Kerouac Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="1035" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069017.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/junky/nljunkiecorresp</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Typed letter signed, William S. Burroughs to Allen Ginsberg, unnumbered first page</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997</text>
+        <text>Ginsberg, Allen, 1926-1997</text>
+      </Creator>
+      <Date>
+        <text>January 1 [1951]</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1951-01-01</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PlaceofOrigin>
+        <text>Mexico, D. F.</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Notes>
+        <text>Letter is mistakenly dated “1950”</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Allen Ginsberg papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="1034" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069015.jpg</text>
+      <text>090069016.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/junky/nljunkiecorresp</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Autograph letter signed, William S. Burroughs to Allen Ginsberg</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997</text>
+        <text>Ginsberg, Allen, 1926-1997</text>
+      </Creator>
+      <Date>
+        <text>March 1, 1953</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1953-03-01</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PlaceofOrigin>
+        <text>Colombia</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Allen Ginsberg papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="1033" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069014.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/junky/nljunkiecorresp</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Typed letter signed, William S. Burroughs to Allen Ginsberg, and Envelope, back</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997</text>
+        <text>Ginsberg, Allen, 1926-1997</text>
+        <text>Kerouac, Jack, 1922-1969</text>
+      </Creator>
+      <Date>
+        <text>July 30, 1953</text>
+      </Date>
+      <Description>
+        <text>Envelope back has handwritten note from Allen [Ginsberg] to Jack [Kerouac].</text>
+      </Description>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1953-07-30</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <PlaceofOrigin>
+        <text>New York</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Allen Ginsberg papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="1032" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069013.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlmanuscript/nlmss2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Autograph letter signed, Jack Kerouac to Lucien Carr</text>
+      </Title>
+      <Creator>
+        <text>Kerouac, Jack, 1922-1969</text>
+        <text>Carr, Lucien</text>
+      </Creator>
+      <Date>
+        <text>February 28, 1957</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1957-02-28</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PlaceofOrigin>
+        <text>Tangiers</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Lucien Carr Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="1031" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069012.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlmanuscript/nlmss</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Word, page 1</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997</text>
+      </Creator>
+      <Description>
+        <text>Part of the final section of the 'Interzone' Manuscript</text>
+      </Description>
+      <Date>
+        <text>Between 1934 and 1997</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1934 1997</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Notes>
+        <text>Dates inferred from William S. Burroughs' life dates.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Allen Ginsberg papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="1030" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069011.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlmanuscript/nlmss2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Index pages, Interzone Manuscript, unnumbered page</text>
+      </Title>
+      <Creator>
+        <text>Ginsberg, Allen, 1926-1997</text>
+      </Creator>
+      <Date>
+        <text>[1959-60]</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1959 1960</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Allen Ginsberg papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="1029" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069010.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlmanuscript/nlmss2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Interzone [Manuscript] Index</text>
+      </Title>
+      <Creator>
+        <text>Ginsberg, Allen, 1926-1997</text>
+      </Creator>
+      <Date>
+        <text>[1959-60]</text>
+      </Date>
+      <Description>
+        <text>Written on item: "Property of Allen Ginsberg"</text>
+      </Description>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1959 1960</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <PlaceofOrigin>
+        <text>New York City</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Allen Ginsberg papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="1028" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069009.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlmanuscript/nlmss2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Typed letter signed, William S. Burroughs to Lawrence Ferlinghetti</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997</text>
+        <text>Ferlinghetti, Lawrence</text>
+      </Creator>
+      <Date>
+        <text>April 18, 1958</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1958-04-18</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PlaceofOrigin>
+        <text>Paris, France</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Allen Ginsberg papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="1027" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069008.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlmanuscript/nlmss</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Excerpts from Naked Lunch: "The Algebra of Need", unnumbered page 1, "The Black Meat", part of page 1, "Coke Bugs", part of page 1, and "The Exterminator does a Good Job", part of page 1</text>
+      </Title>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997</text>
+      </Creator>
+      <Date>
+        <text>[1959-60]</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1959 1960</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Allen Ginsberg papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="1026" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069007.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlperiodicals/nlperiodicals</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Typed letter signed, Allen Ginsberg to Lucien Carr</text>
+      </Title>
+      <Creator>
+        <text>Ginsberg, Allen, 1926-1997</text>
+        <text>Carr, Lucien</text>
+      </Creator>
+      <Date>
+        <text>May 30, 1958</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1958-05-30</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PlaceofOrigin>
+        <text>Paris, France</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Lucien Carr Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="1025" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069005.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlmanuscript/nlmss2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Typed letter signed, Jack Kerouac to William S. Burroughs, front</text>
+      </Title>
+      <Creator>
+        <text>Kerouac, Jack, 1922-1969</text>
+        <text>Burroughs, William S., 1914-1997</text>
+      </Creator>
+      <Date>
+        <text>[February] 1958</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1958-02</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Jack Kerouac Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="1024" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069004.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlmanuscript/nlmss2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Daydreams in my Room</text>
+      </Title>
+      <Description>
+        <text>Verso of Typed letter signed, Jack Kerouac to William S. Burroughs</text>
+      </Description>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997</text>
+      </Creator>
+      <Date>
+        <text>[1958?]</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1958</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Jack Kerouac Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="1023" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlperiodicals/nlperiodicals</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Benway, page 1</text>
+      </Title>
+      <Description>
+        <text>Part of the Interzone manuscript</text>
+      </Description>
+      <Creator>
+        <text>Burroughs, William S., 1914-1997</text>
+      </Creator>
+      <Date>
+        <text>Between 1934 and 1997</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1934 1997</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Notes>
+        <text>Dates inferred from William S. Burroughs' life dates.</text>
+      </Notes>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Allen Ginsberg papers</text>
+      </Collection>
+    </MODS>
+  </item>
+  <item itemId="1022" public="1" featured="0">
+    <OmekaCollection>"Naked Lunch": the First Fifty Years</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>090069001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <ItemInContext>https://exhibitions.library.columbia.edu/exhibits/show/nakedlunch/nlmanuscript/nlmss2</ItemInContext>
+    <DublinCore>
+      <Title>
+        <text>Typed letter signed, Allen Ginsberg to Lucien Carr</text>
+      </Title>
+      <Creator>
+        <text>Ginsberg, Allen, 1926-1997</text>
+        <text>Carr, Lucien</text>
+      </Creator>
+      <Date>
+        <text>April 4, 1957</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1957-04-04</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>exact</text>
+      </TypeofDate>
+      <PlaceofOrigin>
+        <text>Tangiers, Morrocco</text>
+      </PlaceofOrigin>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <RepositoryName>
+        <text>Rare Book and Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <LanguageofCataloging>
+        <text>English</text>
+      </LanguageofCataloging>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+      <Collection>
+        <text>Lucien Carr Papers</text>
+      </Collection>
+    </MODS>
+  </item>
+</itemContainer>
+
