@@ -1,0 +1,1701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11451</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0033.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>Manshaʾ inshāʾ al-kalām. Cover|On the Origin of the Essay. Cover</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <name-1--name_term.value>Tājlī Begom Khānom?</name-1--name_term.value>
+      <name-1--name_term.name_type> </name-1--name_term.name_type>
+      <name-1--name_term.authority> </name-1--name_term.authority>
+      <name-1--name_term.uri> </name-1--name_term.uri>
+      <name-1--name_role-1.name_role_term.value> </name-1--name_role-1.name_role_term.value>
+      <name-1--name_role-1.name_role_term.authority> </name-1--name_role-1.name_role_term.authority>
+      <name-1--name_role-1.name_role_term.uri> </name-1--name_role-1.name_role_term.uri>
+      <date_created_textual-1--date_created_textual_value>ca. 1820-1835 (text) and after ca. 1850 (binding)</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Persian</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <date_created-1--date_created_type>approximate</date_created-1--date_created_type>
+      <place_of_origin-1--place_of_origin_value>Iran</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>205 x 165</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>X892.8 P43</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0033.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11450</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0032.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>Anvār-i Suhaylī. Cover|Lights of Canopus. Cover|انوار سهيلى</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <name-1--name_term.value>Kāshifī, Ḥusayn Vāʻiẓ, -1504 or 1505|Sādiq b. Muḥammad Jaʿfar al-Iṣfahānī</name-1--name_term.value>
+      <name-1--name_term.name_type> </name-1--name_term.name_type>
+      <name-1--name_term.authority> </name-1--name_term.authority>
+      <name-1--name_term.uri> </name-1--name_term.uri>
+      <name-1--name_role-1.name_role_term.value> </name-1--name_role-1.name_role_term.value>
+      <name-1--name_role-1.name_role_term.authority> </name-1--name_role-1.name_role_term.authority>
+      <name-1--name_role-1.name_role_term.uri> </name-1--name_role-1.name_role_term.uri>
+      <date_created_textual-1--date_created_textual_value>13 Rabiʿ II 1231 / 13 March 1816</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Persian</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <place_of_origin-1--place_of_origin_value>Iran</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>207 x 140</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>X892.8 B472</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0032.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Cochran Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11449</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0031.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>Dīvān. Cover|Collected Poems. Cover|ديوان</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <name-1--name_term.value>Hātif, Sayyid Aḥmad, -1783 or 1784</name-1--name_term.value>
+      <name-1--name_term.name_type> </name-1--name_term.name_type>
+      <name-1--name_term.authority> </name-1--name_term.authority>
+      <name-1--name_term.uri> </name-1--name_term.uri>
+      <name-1--name_role-1.name_role_term.value> </name-1--name_role-1.name_role_term.value>
+      <name-1--name_role-1.name_role_term.authority> </name-1--name_role-1.name_role_term.authority>
+      <name-1--name_role-1.name_role_term.uri> </name-1--name_role-1.name_role_term.uri>
+      <date_created_textual-1--date_created_textual_value>Late 18th or 19th century</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Persian</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <date_created-1--date_created_type>approximate</date_created-1--date_created_type>
+      <place_of_origin-1--place_of_origin_value>Iran</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>205 x 126</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>X892.8 An8</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0031.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11448</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0030.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>Partial Qurʾān. Cover|القرآن</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <date_created_textual-1--date_created_textual_value>1291 / 1874</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Arabic</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <place_of_origin-1--place_of_origin_value>Tehran?, Iran</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>71 x 43</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 350</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0030.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11447</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0029.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>al-Qurʾān. Inside front doublure (with signature)|القرآن</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <name-1--name_term.value>Karīm Lutf-ʿAlī</name-1--name_term.value>
+      <name-1--name_term.name_type> </name-1--name_term.name_type>
+      <name-1--name_term.authority> </name-1--name_term.authority>
+      <name-1--name_term.uri> </name-1--name_term.uri>
+      <name-1--name_role-1.name_role_term.value> </name-1--name_role-1.name_role_term.value>
+      <name-1--name_role-1.name_role_term.authority> </name-1--name_role-1.name_role_term.authority>
+      <name-1--name_role-1.name_role_term.uri> </name-1--name_role-1.name_role_term.uri>
+      <date_created_textual-1--date_created_textual_value>1129 / 1716 (text) and 1272 / 1856 (binding)</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Arabic</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <place_of_origin-1--place_of_origin_value>Iran</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>120 x 75</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 347</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0029.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11446</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0028.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>al-Qurʾān. Cover|القرآن</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <abstract-1--abstract_value>It is unclear if this binder should be associated with Lutf-ʿAlī Khān, a prolific painter active in Shiraz between ca. 1850-65. Both artists had an eye for botanical detail, although the present binding uses a simpler ground […]</abstract-1--abstract_value>
+      <name-1--name_term.value>Karīm Lutf-ʿAlī</name-1--name_term.value>
+      <name-1--name_term.name_type> </name-1--name_term.name_type>
+      <name-1--name_term.authority> </name-1--name_term.authority>
+      <name-1--name_term.uri> </name-1--name_term.uri>
+      <name-1--name_role-1.name_role_term.value> </name-1--name_role-1.name_role_term.value>
+      <name-1--name_role-1.name_role_term.authority> </name-1--name_role-1.name_role_term.authority>
+      <name-1--name_role-1.name_role_term.uri> </name-1--name_role-1.name_role_term.uri>
+      <date_created_textual-1--date_created_textual_value>1129 / 1716 (text) and 1272 / 1856 (binding)</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Arabic</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <place_of_origin-1--place_of_origin_value>Iran</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>120 x 75</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 347</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0028.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11445</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0027.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>al-Qurʾān. Cover|القرآن</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <date_created_textual-1--date_created_textual_value>14th century (text) and 17th or 18th century (binding)</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Arabic</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <date_created-1--date_created_type>approximate</date_created-1--date_created_type>
+      <place_of_origin-1--place_of_origin_value>Iraq? (text) and Iran (binding)</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>260 x 160</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 316</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0027.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11444</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0026.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>al-Qurʾān. Inside front doublure|القرآن</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <name-1--name_term.value>Taqī al-Dīn Muḥammad bin Muṭahhar al-Tūsī</name-1--name_term.value>
+      <name-1--name_term.name_type> </name-1--name_term.name_type>
+      <name-1--name_term.authority> </name-1--name_term.authority>
+      <name-1--name_term.uri> </name-1--name_term.uri>
+      <name-1--name_role-1.name_role_term.value> </name-1--name_role-1.name_role_term.value>
+      <name-1--name_role-1.name_role_term.authority> </name-1--name_role-1.name_role_term.authority>
+      <name-1--name_role-1.name_role_term.uri> </name-1--name_role-1.name_role_term.uri>
+      <date_created_textual-1--date_created_textual_value>circa 1575-1625</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Arabic</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <date_created-1--date_created_type>approximate</date_created-1--date_created_type>
+      <place_of_origin-1--place_of_origin_value>Iran</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>330 x 220</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 312 - FOLIO</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0026.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11443</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0025.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>al-Qurʾān. Cover|القرآن</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <name-1--name_term.value>Taqī al-Dīn Muḥammad bin Muṭahhar al-Tūsī</name-1--name_term.value>
+      <name-1--name_term.name_type> </name-1--name_term.name_type>
+      <name-1--name_term.authority> </name-1--name_term.authority>
+      <name-1--name_term.uri> </name-1--name_term.uri>
+      <name-1--name_role-1.name_role_term.value> </name-1--name_role-1.name_role_term.value>
+      <name-1--name_role-1.name_role_term.authority> </name-1--name_role-1.name_role_term.authority>
+      <name-1--name_role-1.name_role_term.uri> </name-1--name_role-1.name_role_term.uri>
+      <date_created_textual-1--date_created_textual_value>circa 1575-1625</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Arabic</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <date_created-1--date_created_type>approximate</date_created-1--date_created_type>
+      <place_of_origin-1--place_of_origin_value>Iran</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>330 x 220</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 312 - FOLIO</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0025.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11442</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0024.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>Qurʾān with Amulet Case. Cover|القرآن</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <date_created_textual-1--date_created_textual_value>Late 18th or 19th century</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Arabic</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <date_created-1--date_created_type>approximate</date_created-1--date_created_type>
+      <place_of_origin-1--place_of_origin_value>Iran</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>45 x 45</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 308</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0024.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11441</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0023.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>Third Volume (juzʾ) of a Qurʾān in Thirty Parts. Cover|القرآن</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <name-1--name_term.value>Masʿūd b. ʿAbd al-Malik al-Ghiyāthī &amp; Maḥfūẓ b. ʿAbd al-Malik al-Ghiyāthī|Khwāja Lutf-Allāh Sahhāf</name-1--name_term.value>
+      <name-1--name_term.name_type> </name-1--name_term.name_type>
+      <name-1--name_term.authority> </name-1--name_term.authority>
+      <name-1--name_term.uri> </name-1--name_term.uri>
+      <name-1--name_role-1.name_role_term.value> </name-1--name_role-1.name_role_term.value>
+      <name-1--name_role-1.name_role_term.authority> </name-1--name_role-1.name_role_term.authority>
+      <name-1--name_role-1.name_role_term.uri> </name-1--name_role-1.name_role_term.uri>
+      <date_created_textual-1--date_created_textual_value>657 / 1256 (text) and 19th century (binding)</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Arabic|Persian</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <date_created-1--date_created_type>approximate</date_created-1--date_created_type>
+      <place_of_origin-1--place_of_origin_value>Iran or Turkey (text) and Iran (binding)</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>385 x 305</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 263 - FOLIO</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0023.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11440</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0022.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>Kulliyāt. Cover|Collected Works. Cover|كليات</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <name-1--name_term.value>Saʻdī</name-1--name_term.value>
+      <name-1--name_term.name_type> </name-1--name_term.name_type>
+      <name-1--name_term.authority> </name-1--name_term.authority>
+      <name-1--name_term.uri> </name-1--name_term.uri>
+      <name-1--name_role-1.name_role_term.value> </name-1--name_role-1.name_role_term.value>
+      <name-1--name_role-1.name_role_term.authority> </name-1--name_role-1.name_role_term.authority>
+      <name-1--name_role-1.name_role_term.uri> </name-1--name_role-1.name_role_term.uri>
+      <date_created_textual-1--date_created_textual_value>18th or early 19th century</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Persian</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <date_created-1--date_created_type>approximate</date_created-1--date_created_type>
+      <place_of_origin-1--place_of_origin_value>India</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>280 x 160</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 226</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0022.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11439</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0021.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>al-Sahifah al-sajjadiyah. Cover|Prayers of the Fourth Imam. Cover|الصحيفة السجادية</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <name-1--name_term.value>ʽAlī ibn al-Ḥusayn</name-1--name_term.value>
+      <name-1--name_term.name_type> </name-1--name_term.name_type>
+      <name-1--name_term.authority> </name-1--name_term.authority>
+      <name-1--name_term.uri> </name-1--name_term.uri>
+      <name-1--name_role-1.name_role_term.value> </name-1--name_role-1.name_role_term.value>
+      <name-1--name_role-1.name_role_term.authority> </name-1--name_role-1.name_role_term.authority>
+      <name-1--name_role-1.name_role_term.uri> </name-1--name_role-1.name_role_term.uri>
+      <date_created_textual-1--date_created_textual_value>1276 / 1859</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Arabic</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <place_of_origin-1--place_of_origin_value>Iran</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>226 x 144</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 219</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0021.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11438</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0020.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>ʿIlm al-rijāl. Cover|Science of Men. Cover|علم الرجال</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <name-1--name_term.value>Mustafa bin al-Hassan Husayni.</name-1--name_term.value>
+      <name-1--name_term.name_type> </name-1--name_term.name_type>
+      <name-1--name_term.authority> </name-1--name_term.authority>
+      <name-1--name_term.uri> </name-1--name_term.uri>
+      <name-1--name_role-1.name_role_term.value> </name-1--name_role-1.name_role_term.value>
+      <name-1--name_role-1.name_role_term.authority> </name-1--name_role-1.name_role_term.authority>
+      <name-1--name_role-1.name_role_term.uri> </name-1--name_role-1.name_role_term.uri>
+      <date_created_textual-1--date_created_textual_value>circa 1703 (text) and ca. 1800-25 (binding)</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Arabic</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <date_created-1--date_created_type>approximate</date_created-1--date_created_type>
+      <place_of_origin-1--place_of_origin_value>Iran</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>247 x 142</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 216</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0020.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11437</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0019.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>al-Qurʾān. Cover|القرآن</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <name-1--name_term.value>Ibn Muḥammad Muḥsin al-Ḥusaynī Muḥammad Hādī</name-1--name_term.value>
+      <name-1--name_term.name_type> </name-1--name_term.name_type>
+      <name-1--name_term.authority> </name-1--name_term.authority>
+      <name-1--name_term.uri> </name-1--name_term.uri>
+      <name-1--name_role-1.name_role_term.value> </name-1--name_role-1.name_role_term.value>
+      <name-1--name_role-1.name_role_term.authority> </name-1--name_role-1.name_role_term.authority>
+      <name-1--name_role-1.name_role_term.uri> </name-1--name_role-1.name_role_term.uri>
+      <date_created_textual-1--date_created_textual_value>1177 / 1763 (text) and late 18th century (binding)</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Arabic</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <place_of_origin-1--place_of_origin_value>Iran (text) and Syria or Turkey (binding)</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>101 x 62</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 215</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0019.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11436</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0018.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>al-Qurʾān. Cover|القرآن</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <date_created_textual-1--date_created_textual_value>14th or 15th century (text) and ca. 1880-1890 (binding)</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Arabic</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <date_created-1--date_created_type>approximate</date_created-1--date_created_type>
+      <place_of_origin-1--place_of_origin_value>Iran or Iraq (text) and Iran (binding)</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>93 x 60</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 214</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0018.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11435</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0017.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>al-Qurʾān. Cover|القرآن</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <date_created_textual-1--date_created_textual_value>Before 1089 / 1678 (text) and ca. 1850-1870 (binding)</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Arabic</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <date_created-1--date_created_type>approximate</date_created-1--date_created_type>
+      <place_of_origin-1--place_of_origin_value>Iran</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>121 x 74</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 199</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0017.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11434</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0016.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>al-Qurʾān. Cover|القرآن</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <date_created_textual-1--date_created_textual_value>18th century</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Arabic</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <date_created-1--date_created_type>approximate</date_created-1--date_created_type>
+      <place_of_origin-1--place_of_origin_value>Kashmir?</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>160 x 97</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 188</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0016.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11433</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0015.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>Majmūʿa. Cover|Anthology. Cover|مجموعة</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <date_created_textual-1--date_created_textual_value>17th century (text) and 19th century (binding)</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Arabic|Persian</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <date_created-1--date_created_type>approximate</date_created-1--date_created_type>
+      <place_of_origin-1--place_of_origin_value>Iran</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>140 x 68</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 181</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0015.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11432</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0014.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>Ziyārat-i ʻĀshūrāʼ. Cover|Pilgrimages. Cover|زيارات</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <abstract-1--abstract_value>Abu Talib was a lacquer artist, active between ca. 1840-70, who specialized in abstract marbled and "engine-turned" designs. […]</abstract-1--abstract_value>
+      <name-1--name_term.value>Abū Talib School</name-1--name_term.value>
+      <name-1--name_term.name_type> </name-1--name_term.name_type>
+      <name-1--name_term.authority> </name-1--name_term.authority>
+      <name-1--name_term.uri> </name-1--name_term.uri>
+      <name-1--name_role-1.name_role_term.value> </name-1--name_role-1.name_role_term.value>
+      <name-1--name_role-1.name_role_term.authority> </name-1--name_role-1.name_role_term.authority>
+      <name-1--name_role-1.name_role_term.uri> </name-1--name_role-1.name_role_term.uri>
+      <date_created_textual-1--date_created_textual_value>circa 1850-75</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Arabic|Persian</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <clio_identifier-1--clio_identifier_value>13616804</clio_identifier-1--clio_identifier_value>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <date_created-1--date_created_type>approximate</date_created-1--date_created_type>
+      <place_of_origin-1--place_of_origin_value>Hamadan?, Iran</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>180 x 112</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 173</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0014.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11431</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0013.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>al-Qurʾān. Cover|القرآن</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <abstract-1--abstract_value>This is a relatively early example of a revival in illumination (tazhib) designs which flourished in the 1880s. Subtle allusions to Qur'anic verses are given through the presence of a bee (Q16:68-69) and moth (Q101:4).</abstract-1--abstract_value>
+      <date_created_textual-1--date_created_textual_value>1296 / 1879</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Arabic|Persian</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <place_of_origin-1--place_of_origin_value>Iran</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>316 x 195</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 163 - FOLIO</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0013.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11430</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0012.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>al-Qurʾān. Cover|القرآن</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <date_created_textual-1--date_created_textual_value>18th and 19th century</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Arabic|Persian</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <date_created-1--date_created_type>approximate</date_created-1--date_created_type>
+      <place_of_origin-1--place_of_origin_value>Iran</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>330 x 200</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 162 - FOLIO</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0012.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11429</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0011.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>Tuḥfat al-mulūk. Cover|Gift of Kings. Cover|تحفة الملوك</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <name-1--name_term.value>Kashfī, Jaʻfar ibn Abī Isḥāq, -1850 or 1851|Muḥammad Fāzil Hiratī</name-1--name_term.value>
+      <name-1--name_term.name_type> </name-1--name_term.name_type>
+      <name-1--name_term.authority> </name-1--name_term.authority>
+      <name-1--name_term.uri> </name-1--name_term.uri>
+      <name-1--name_role-1.name_role_term.value> </name-1--name_role-1.name_role_term.value>
+      <name-1--name_role-1.name_role_term.authority> </name-1--name_role-1.name_role_term.authority>
+      <name-1--name_role-1.name_role_term.uri> </name-1--name_role-1.name_role_term.uri>
+      <date_created_textual-1--date_created_textual_value>1233 / 1818</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Persian|Arabic</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <clio_identifier-1--clio_identifier_value>13617622</clio_identifier-1--clio_identifier_value>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <place_of_origin-1--place_of_origin_value>[Iran?]</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>268 x 172</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 146</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0011.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11428</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0010.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>Psalter. Cover</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <name-1--name_term.value>Ṣaliḥ al-Khūrī</name-1--name_term.value>
+      <name-1--name_term.name_type> </name-1--name_term.name_type>
+      <name-1--name_term.authority> </name-1--name_term.authority>
+      <name-1--name_term.uri> </name-1--name_term.uri>
+      <name-1--name_role-1.name_role_term.value> </name-1--name_role-1.name_role_term.value>
+      <name-1--name_role-1.name_role_term.authority> </name-1--name_role-1.name_role_term.authority>
+      <name-1--name_role-1.name_role_term.uri> </name-1--name_role-1.name_role_term.uri>
+      <date_created_textual-1--date_created_textual_value>1177 / 1763</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Arabic|Greek</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <place_of_origin-1--place_of_origin_value>Jerusalem</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>130 x 85</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 144</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0010.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11427</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0009.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>Kitāb-i ʿamal-i sih māh. Cover|Duties of the Three Holy Months. Cover|کتاب عمل سه ماه</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <name-1--name_term.value>Sayyid Kāzim</name-1--name_term.value>
+      <name-1--name_term.name_type> </name-1--name_term.name_type>
+      <name-1--name_term.authority> </name-1--name_term.authority>
+      <name-1--name_term.uri> </name-1--name_term.uri>
+      <name-1--name_role-1.name_role_term.value> </name-1--name_role-1.name_role_term.value>
+      <name-1--name_role-1.name_role_term.authority> </name-1--name_role-1.name_role_term.authority>
+      <name-1--name_role-1.name_role_term.uri> </name-1--name_role-1.name_role_term.uri>
+      <date_created_textual-1--date_created_textual_value>18th century (text) and 1277 / 1861 (binding)</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Arabic|Persian</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <date_created-1--date_created_type>approximate</date_created-1--date_created_type>
+      <place_of_origin-1--place_of_origin_value>Iran</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>167 x 115</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 134</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0009.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11426</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0008.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>Daʿawāt. Cover|Prayers. Cover|دعوات </title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <date_created_textual-1--date_created_textual_value>1243 / 1827</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Arabic|Persian</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <place_of_origin-1--place_of_origin_value>Iran</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>160 x 95</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 133</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0008.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11425</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0007.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>al-Qurʾān. Cover|القرآن</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <date_created_textual-1--date_created_textual_value>14th or 15th century (text) and mid-18th to mid-19th century (binding)</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Arabic</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <date_created-1--date_created_type>approximate</date_created-1--date_created_type>
+      <place_of_origin-1--place_of_origin_value>Iran or Iraq (text) and Iran (binding)</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>168 x 104</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 92</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0007.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11424</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0006.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>Mashāriq al-anvār. Cover|مشارق الانوار</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <name-1--name_term.value>al-Munajjim, Sinān b. Muḥammad Ḥusayn b. Murabbiʿ al-Zamān Muḥammad Ḥassan al-Husaynī</name-1--name_term.value>
+      <name-1--name_term.name_type> </name-1--name_term.name_type>
+      <name-1--name_term.authority> </name-1--name_term.authority>
+      <name-1--name_term.uri> </name-1--name_term.uri>
+      <name-1--name_role-1.name_role_term.value> </name-1--name_role-1.name_role_term.value>
+      <name-1--name_role-1.name_role_term.authority> </name-1--name_role-1.name_role_term.authority>
+      <name-1--name_role-1.name_role_term.uri> </name-1--name_role-1.name_role_term.uri>
+      <date_created_textual-1--date_created_textual_value>circa 1815-1830</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Persian</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <date_created-1--date_created_type>approximate</date_created-1--date_created_type>
+      <place_of_origin-1--place_of_origin_value>Iran</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>397 x 265</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 82 - FOLIO/FLAT</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0006.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11423</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0005.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>Rawẓat al-ṣafāʾ, Third Volume. Cover|Garden of Purity, Third volume. Cover| روضة الصفا</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <name-1--name_term.value>Mīr Khvānd, Muḥammad ibn Khāvandshāh, 1433-1498</name-1--name_term.value>
+      <name-1--name_term.name_type> </name-1--name_term.name_type>
+      <name-1--name_term.authority> </name-1--name_term.authority>
+      <name-1--name_term.uri> </name-1--name_term.uri>
+      <name-1--name_role-1.name_role_term.value> </name-1--name_role-1.name_role_term.value>
+      <name-1--name_role-1.name_role_term.authority> </name-1--name_role-1.name_role_term.authority>
+      <name-1--name_role-1.name_role_term.uri> </name-1--name_role-1.name_role_term.uri>
+      <date_created_textual-1--date_created_textual_value>976 / 1568 (text) and ca. 1692-1701 or later (binding)</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Persian</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <date_created-1--date_created_type>approximate</date_created-1--date_created_type>
+      <place_of_origin-1--place_of_origin_value>Iran</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>352 x 235</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 81 - FOLIO/FLAT</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0005.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11422</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0004.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>Būstān &amp; Gulistān. Cover|  بوستان گلستان</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <name-1--name_term.value>Saʻdī|Ibrāhīm b. Muḥammad</name-1--name_term.value>
+      <name-1--name_term.name_type> </name-1--name_term.name_type>
+      <name-1--name_term.authority> </name-1--name_term.authority>
+      <name-1--name_term.uri> </name-1--name_term.uri>
+      <name-1--name_role-1.name_role_term.value> </name-1--name_role-1.name_role_term.value>
+      <name-1--name_role-1.name_role_term.authority> </name-1--name_role-1.name_role_term.authority>
+      <name-1--name_role-1.name_role_term.uri> </name-1--name_role-1.name_role_term.uri>
+      <date_created_textual-1--date_created_textual_value>17th or 18th century (text) and 1281 / 1865 (binding)</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Persian</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <date_created-1--date_created_type>approximate</date_created-1--date_created_type>
+      <place_of_origin-1--place_of_origin_value>Iran</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>240 x 130</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 80</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0004.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11421</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0003.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>Mas̲navī-i maʻnavī. Cover|مثنوى معنوى</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <name-1--name_term.value>Jalāl al-Dīn Rūmī, Maulana, 1207-1273|Muḥammad Karīm ibn Muḥammad Ṣād al-Shīrāzī|Imāmī School</name-1--name_term.value>
+      <name-1--name_term.name_type> </name-1--name_term.name_type>
+      <name-1--name_term.authority> </name-1--name_term.authority>
+      <name-1--name_term.uri> </name-1--name_term.uri>
+      <name-1--name_role-1.name_role_term.value> </name-1--name_role-1.name_role_term.value>
+      <name-1--name_role-1.name_role_term.authority> </name-1--name_role-1.name_role_term.authority>
+      <name-1--name_role-1.name_role_term.uri> </name-1--name_role-1.name_role_term.uri>
+      <date_created_textual-1--date_created_textual_value>25 Dhū’l-Qaʿda 1264 / 23 October 1848</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Persian</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <place_of_origin-1--place_of_origin_value>Isfahan?, Iran</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>290 x 185</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 76 - FOLIO/FLAT</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0003.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11420</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0002.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>Dīvān. Cover|Collected Poems. Cover|ديوان</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <name-1--name_term.value>Maḥmud Mīrzā Qājār, 1799-1854</name-1--name_term.value>
+      <name-1--name_term.name_type> </name-1--name_term.name_type>
+      <name-1--name_term.authority> </name-1--name_term.authority>
+      <name-1--name_term.uri> </name-1--name_term.uri>
+      <name-1--name_role-1.name_role_term.value> </name-1--name_role-1.name_role_term.value>
+      <name-1--name_role-1.name_role_term.authority> </name-1--name_role-1.name_role_term.authority>
+      <name-1--name_role-1.name_role_term.uri> </name-1--name_role-1.name_role_term.uri>
+      <date_created_textual-1--date_created_textual_value>circa 1820-1840</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Persian</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <date_created-1--date_created_type>approximate</date_created-1--date_created_type>
+      <place_of_origin-1--place_of_origin_value>Iran</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>285 x 180</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 67 - FOLIO/FLAT</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0002.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+   <row>
+      <omeka_identifier-1--omeka_identifier_value>11419</omeka_identifier-1--omeka_identifier_value>
+      <relatedItem_project>School of Wisdom: Persian Bookbinding</relatedItem_project>
+      <projectURL> </projectURL>
+      <_pid> </_pid>
+      <_digital_object_type.string_key> </_digital_object_type.string_key>
+      <_parent_digital_objects-1.identifier> </_parent_digital_objects-1.identifier>
+      <_project.string_key> </_project.string_key>
+      <type_of_resource-1--type_of_resource_value>Still Image</type_of_resource-1--type_of_resource_value>
+      <note-3--note_value/>
+      <note-3--note_type>original_format</note-3--note_type>
+      <note-2--note_value>https://exhibitions-dev.library.columbia.edu/RBML_PersianBinding_0001.jpg</note-2--note_value>
+      <note-2--note_type>filename</note-2--note_type>
+      <title-1--title_non_sort_portion> </title-1--title_non_sort_portion>
+      <title-1--title_sort_portion>Ḥall wa ʻAqd fī Nujūm. Cover|Loosening and Binding of the Constellations. Cover|حل و عقد في نجوم</title-1--title_sort_portion>
+      <partName> </partName>
+      <_identifiers-1> </_identifiers-1>
+      <name-1--name_term.value>Lārī, Quṭb al-Dīn ibn ʻAbd al-Ḥayy, active 17th century|Mūhammad Taqī ibn Mawlānā Muḥammad</name-1--name_term.value>
+      <name-1--name_term.name_type> </name-1--name_term.name_type>
+      <name-1--name_term.authority> </name-1--name_term.authority>
+      <name-1--name_term.uri> </name-1--name_term.uri>
+      <name-1--name_role-1.name_role_term.value> </name-1--name_role-1.name_role_term.value>
+      <name-1--name_role-1.name_role_term.authority> </name-1--name_role-1.name_role_term.authority>
+      <name-1--name_role-1.name_role_term.uri> </name-1--name_role-1.name_role_term.uri>
+      <date_created_textual-1--date_created_textual_value>1033 / 1624 (text) and 18th or 19th century (binding)</date_created_textual-1--date_created_textual_value>
+      <use_and_reproduction-1--use_and_reproduction_value>No Copyright - United States</use_and_reproduction-1--use_and_reproduction_value>
+      <language-1--language_term.value>Persian</language-1--language_term.value>
+      <language-1--language_term.authority>iso639-2</language-1--language_term.authority>
+      <language-1--language_term.uri> </language-1--language_term.uri>
+      <genre-1--genre_term.value>Still Image</genre-1--genre_term.value>
+      <genre-1--genre_term.authority>fast</genre-1--genre_term.authority>
+      <genre-1--genre_term.uri> </genre-1--genre_term.uri>
+      <date_created-1--date_created_start_value> </date_created-1--date_created_start_value>
+      <date_created-1--date_created_end_value> </date_created-1--date_created_end_value>
+      <date_created-1--date_created_type>approximate</date_created-1--date_created_type>
+      <place_of_origin-1--place_of_origin_value>Anjudān, Iran</place_of_origin-1--place_of_origin_value>
+      <form-2--form_term.value>manuscripts</form-2--form_term.value>
+      <form-2--form_term.authority/>
+      <form-2--form_term.uri> </form-2--form_term.uri>
+      <extent-1--extent_value>246 x 146</extent-1--extent_value>
+      <location-1--location_term.value>Rare Book &amp; Manuscript Library, Columbia University</location-1--location_term.value>
+      <location-1--location_term.code> </location-1--location_term.code>
+      <location-1--location_term.authority>local</location-1--location_term.authority>
+      <location-1--location_term.uri> </location-1--location_term.uri>
+      <location-1--location_shelf_location-1.location_shelf_location_free_text>Ms Or 35</location-1--location_shelf_location-1.location_shelf_location_free_text>
+      <location-1--location_shelf_location-1.location_shelf_location_box_number> </location-1--location_shelf_location-1.location_shelf_location_box_number>
+      <location-1--location_shelf_location-1.location_shelf_location_folder_number> </location-1--location_shelf_location-1.location_shelf_location_folder_number>
+      <note-5--note_value> </note-5--note_value>
+      <note-5--note_type>holdings</note-5--note_type>
+      <note-1--note_value>original filename: RBML_PersianBinding_0001.tif|Public Access</note-1--note_value>
+      <note-1--note_type> </note-1--note_type>
+      <collection-1--collection_term.value>Smith Oriental Manuscripts</collection-1--collection_term.value>
+      <collection-1--collection_term.uri> </collection-1--collection_term.uri>
+   </row>
+</root>
