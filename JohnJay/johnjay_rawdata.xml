@@ -1,0 +1,5817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemContainer>
+  <item itemId="12468" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>jj_headers5.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Creating a National Government</text>
+      </Title>
+    </DublinCore>
+  </item>
+  <item itemId="12466" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>jj_headers4.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Diplomacy Banner</text>
+      </Title>
+    </DublinCore>
+  </item>
+  <item itemId="12465" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>jj_headers9.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Intro Page Banner</text>
+      </Title>
+    </DublinCore>
+  </item>
+  <item itemId="12464" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>jj_headers7.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Chief Justice of the U.S. Supreme Court Banner</text>
+      </Title>
+    </DublinCore>
+  </item>
+  <item itemId="12463" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>jj_headers6.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Slavery &amp; Abolition Banner</text>
+      </Title>
+    </DublinCore>
+  </item>
+  <item itemId="12462" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>jj_headers8.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Governor of New York Banner</text>
+      </Title>
+    </DublinCore>
+  </item>
+  <item itemId="12461" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>IMG_0064 (4).mov</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Governor Jay's March Video</text>
+      </Title>
+    </DublinCore>
+  </item>
+  <item itemId="12460" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>jj_headers3.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Home &amp; Family Banner</text>
+      </Title>
+    </DublinCore>
+  </item>
+  <item itemId="12459" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>jj_headers.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>King's College Banner</text>
+      </Title>
+    </DublinCore>
+  </item>
+  <item itemId="12458" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>jj_headers2.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>American Revolution Banner</text>
+      </Title>
+    </DublinCore>
+  </item>
+  <item itemId="12454" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/SCOTUS_OATH.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: SCOTUS OATH.tif SCOTUS Oath</text>
+      </Notes>
+      <KeyDate>
+        <text>1789-10-19</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 56</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>legal documents</text>
+      </FormGenre>
+      <TypeofDate>
+        <text>still image</text>
+      </TypeofDate>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Morris, Richard, 1730-1810</text>
+      </Creator>
+      <Title>
+        <text>John Jay's Oath as Chief Justice of the Supreme Court, attested to by Richard Morris, front</text>
+      </Title>
+      <Date>
+        <text>19 October 1789</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+    </DublinCore>
+  </item>
+  <item itemId="12453" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/JJ_Spain_Commission.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: JJ Spain Commission.tif Jay's Commission to Negotiate with Spain</text>
+      </Notes>
+      <KeyDate>
+        <text>1785-07-21</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 61</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <TypeofDate>
+        <text>still image</text>
+      </TypeofDate>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Title>
+        <text>[Commission of John Jay, Benjamin Franklin, Henry Laurens, and Thomas Jefferson to join John Adams in accepting mediation], front</text>
+      </Title>
+      <Date>
+        <text>21 July 1785</text>
+      </Date>
+      <Language>
+        <text>English</text>
+        <text>Spanish</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+    </DublinCore>
+  </item>
+  <item itemId="12452" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/IMG_5326.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: IMG_5326.jpeg Fort Jay (photograph)</text>
+      </Notes>
+      <KeyDate>
+        <text>2017-09-01</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Private Collection</text>
+      </RepositoryName>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <TypeofDate>
+        <text>still image</text>
+      </TypeofDate>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Haberman, Robb K.</text>
+      </Creator>
+      <Title>
+        <text>Fort Jay (Photograph), front</text>
+      </Title>
+      <Date>
+        <text>1 September 2017</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Fort Jay (N.Y.)</text>
+      </Subject>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+    </DublinCore>
+  </item>
+  <item itemId="12451" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/Governor_Jay_s_March.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: Governor Jay's March.tif A New Medley Overture as Performed at the Theatre with Great Applause Selected &amp; Composed by J. Hewitt</text>
+      </Notes>
+      <KeyDate>
+        <text>1799--1800</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+        <text>still image</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Hunt-Berol Sheet Music Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 87</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>music</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Philadelphia</text>
+        <text>Baltimore</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Hewitt, James, 1770-1827</text>
+      </Creator>
+      <Title>
+        <text>A New Medley Overture as Performed at the Theatre with Great Applause Selected &amp; Composed by J. Hewitt, page 6</text>
+      </Title>
+      <Date>
+        <text>circa 1799-1800</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Publisher>
+        <text>B. Carr</text>
+        <text>J. Carr</text>
+      </Publisher>
+    </DublinCore>
+  </item>
+  <item itemId="12450" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/Fed_5.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: Fed 5.tif Draft Federalist 5</text>
+      </Notes>
+      <KeyDate>
+        <text>1787-01--1787-11-10</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+        <text>still image</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Item 23</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>Draft of The Federalist 5, front "Queen Anne in her letter"</text>
+      </Title>
+      <Date>
+        <text>before 10 Nov. 1787</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+    </DublinCore>
+  </item>
+  <item itemId="12449" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/Circuit_Court_Diary.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: Circuit Court Diary.tif Circuit Court Diary</text>
+      </Notes>
+      <KeyDate>
+        <text>1790-04-16--1792-08-04</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+        <text>still image</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 11</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>diaries</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>Circuit Court Diary, page beginning "Octr 1790 parted with Judge Cushing"</text>
+      </Title>
+      <Date>
+        <text>between April 16, 1790 and August 4, 1792</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+    </DublinCore>
+  </item>
+  <item itemId="12448" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/Address_to_the_People_of_NY.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: Address to the People of NY.tif Address to the People of the State of New York</text>
+      </Notes>
+      <KeyDate>
+        <text>1788</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Columbiana Manuscripts</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Series III: King's College Manuscripts, Box 13 Folder 9</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <TypeofDate>
+        <text>still image</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>Address to the People of the State of New York on the Subject of the Constiitution, title page</text>
+      </Title>
+      <Date>
+        <text>1788</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Publisher>
+        <text>Samuel and John Loudon</text>
+      </Publisher>
+    </DublinCore>
+  </item>
+  <item itemId="12447" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/15SLJ_Children.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: 15SLJ&amp;Children.tif Sarah Jay and Her Children</text>
+      </Notes>
+      <KeyDate>
+        <text>1797</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+        <text>still image</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Private Collection</text>
+      </RepositoryName>
+      <FormGenre>
+        <text>prints</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Sharples, James, 1752-1811</text>
+      </Creator>
+      <Title>
+        <text>Sarah Jay and Her Children, front</text>
+      </Title>
+      <Date>
+        <text>1797</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Jay, Sarah Livingston</text>
+      </Subject>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+    </DublinCore>
+  </item>
+  <item itemId="12446" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/10NYC_Harbor_Defense_Map.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: 10 NYC Harbor Defense Map.JPG Chart of NY Harbor</text>
+        <text>The "chart of Newyork harbour," is taken from the National Archives and Records Administration. The image was taken from a high resolution image that has been purchased for use by the John Jay Papers volumes. it appeared in volume 6, page 400.</text>
+      </Notes>
+      <KeyDate>
+        <text>1800</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+        <text>still image</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Butler Library, Columbia University</text>
+      </RepositoryName>
+      <FormGenre>
+        <text>maps</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Nuxoll, Elizabeth Miles, 1943-</text>
+        <text>Gallagher, Mary A. Y.</text>
+        <text>Haberman, Robb K.</text>
+        <text>Steenshorne, Jennifer E. </text>
+        <text>Vogel, Brant M.</text>
+      </Creator>
+      <Title>
+        <text>A Chart of Newyork harbour</text>
+      </Title>
+      <Date>
+        <text>circa 1800</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+    </DublinCore>
+  </item>
+  <item itemId="12445" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/09Invite.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: 09invite.tif Grenville Calling Card</text>
+      </Notes>
+      <KeyDate>
+        <text>1795-04-08</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 63</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>ephemera</text>
+      </FormGenre>
+      <TypeofDate>
+        <text>still image</text>
+      </TypeofDate>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Grenville, William Wyndham, Grenville, Baron, 1759-1834</text>
+      </Creator>
+      <Title>
+        <text>Lord Grenville Calling Card, front </text>
+      </Title>
+      <Date>
+        <text>8 April 1795</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+    </DublinCore>
+  </item>
+  <item itemId="12444" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/07Trumbull_map_1.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: 07Trumbull map 1.tif John Trumbull Map</text>
+      </Notes>
+      <KeyDate>
+        <text>1794-09-04</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 60</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>maps</text>
+      </FormGenre>
+      <TypeofDate>
+        <text>still image</text>
+      </TypeofDate>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Trumbull, John, 1756-1843</text>
+      </Creator>
+      <Title>
+        <text>Map of the Northwestern Boundary of the United States, front</text>
+      </Title>
+      <Date>
+        <text>4 September 1794</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>United States</text>
+      </Subject>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+    </DublinCore>
+  </item>
+  <item itemId="12443" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/02HamiltonLetter_detail.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <MODS>
+      <Notes>
+        <text>original filename: 02HamiltonLetter-detail.tif 2000370009 Hamilton Letter Endorsement (detail)</text>
+      </Notes>
+      <KeyDate>
+        <text>1800-05-07</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 10</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <TypeofDate>
+        <text>still image</text>
+      </TypeofDate>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+    <DublinCore>
+      <Creator>
+        <text>Hamilton, Alexander, 1757-1804</text>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>Alexander Hamilton to John Jay, detail of endorsement</text>
+      </Title>
+      <Date>
+        <text>7 May 1800</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+    </DublinCore>
+  </item>
+  <item itemId="12442" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/JJ_CCD_Map_2nd_Draft_final.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Nuxoll, Elizabeth Miles, 1943-</text>
+        <text>Gallagher, Mary A. Y.</text>
+        <text>Haberman, Robb K.</text>
+        <text>Steenshorne, Jennifer E. </text>
+        <text>Nelson, Bill</text>
+      </Creator>
+      <Title>
+        <text>John Jay's Circuit Court Travel, Eastern District, Spring 1792 Term (15 April-10 July)</text>
+      </Title>
+      <Date>
+        <text>2017</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>In Copyright</text>
+      </Rights>
+      <Publisher>
+        <text>University of Virginia Press</text>
+      </Publisher>
+    </DublinCore>
+    <MODS>
+      <Notes>
+        <text>Image taken from high resolution image originally purchased for use in John Jay Papers, vol. 5, pages 392-393</text>
+      </Notes>
+      <KeyDate>
+        <text>2017</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Butler Library, Columbia University</text>
+      </RepositoryName>
+      <FormGenre>
+        <text>maps</text>
+      </FormGenre>
+      <TypeofDate>
+        <text>still image</text>
+      </TypeofDate>
+      <PublicationPlace>
+        <text>Charlottesville</text>
+        <text>London</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12423" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <OriginalFileLoadedIntoOmeka>
+      <text>jj_exhbition_flyer.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>John Jay Virtual Exhibition Flyer</text>
+      </Title>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+  </item>
+  <item itemId="12422" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0081.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>New York (State)</text>
+      </Creator>
+      <Title>
+        <text>Peter Augustus Jay Militia Commission, front</text>
+      </Title>
+      <Date>
+        <text>11 Apr. 1798</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1798-04-11</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 57</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12421" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0080.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>New York (State)</text>
+      </Creator>
+      <Title>
+        <text>Peter Augustus Jay Militia Commission, front</text>
+      </Title>
+      <Date>
+        <text>11 April 1798</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1798-04-11</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 57</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12420" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0079.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>New York (State)</text>
+      </Creator>
+      <Title>
+        <text>Peter Augustus Jay Militia Commission, front</text>
+      </Title>
+      <Date>
+        <text>11 April 1798</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1798-04-11</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 57</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12419" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0078.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Pennsylvania Society for Promoting the Abolition of Slavery</text>
+      </Creator>
+      <Title>
+        <text>Certificate of Membership in Pennsylvania Soicety for Promoting the Abolition of Slavery, front</text>
+      </Title>
+      <Date>
+        <text>6 October 1792</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1792-10-06</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 57</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12418" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0077.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Pennsylvania Society for Promoting the Abolition of Slavery</text>
+      </Creator>
+      <Title>
+        <text>Certificate of Membership in Pennsylvania Soicety for Promoting the Abolition of Slavery, front</text>
+      </Title>
+      <Date>
+        <text>6 October 1792</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1792-10-06</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 57</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12417" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0076.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Pennsylvania Society for Promoting the Abolition of Slavery</text>
+      </Creator>
+      <Title>
+        <text>Certificate of Membership in Pennsylvania Soicety for Promoting the Abolition of Slavery, front</text>
+      </Title>
+      <Date>
+        <text>6 October 1792</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1792-10-06</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 57</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12416" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0075.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>United States. Continental Congress</text>
+      </Creator>
+      <Title>
+        <text>Continental Congress Declaration for Negotiations with Britain, front</text>
+      </Title>
+      <Date>
+        <text>15 June 1781</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1781-06-15</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Oversize Materials Wooden Box 42e</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12415" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0074.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>United States. Continental Congress</text>
+      </Creator>
+      <Title>
+        <text>Continental Congress Declaration for Negotiations with Britain, front</text>
+      </Title>
+      <Date>
+        <text>15 June 1781</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1781-06-15</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Oversize Materials Wooden Box 42e</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12414" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0073.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>United States. Continental Congress</text>
+      </Creator>
+      <Title>
+        <text>Continental Congress Declaration for Negotiations with Britain, front</text>
+      </Title>
+      <Date>
+        <text>15 June 1781</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1781-06-15</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Oversize Materials Wooden Box 42e</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12413" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0072.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>King's College (New York, N.Y.)</text>
+      </Creator>
+      <Title>
+        <text>John Jay MA Diploma, front (with seal)</text>
+      </Title>
+      <Date>
+        <text>19 May 1767</text>
+      </Date>
+      <Language>
+        <text>Latin</text>
+      </Language>
+      <Subject>
+        <text>Jay, John, 1745-1829</text>
+      </Subject>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1767-05-19</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 56</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12412" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0071.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>King's College (New York, N.Y.)</text>
+      </Creator>
+      <Title>
+        <text>John Jay MA Diploma, front (with seal)</text>
+      </Title>
+      <Date>
+        <text>19 May 1767</text>
+      </Date>
+      <Language>
+        <text>Latin</text>
+      </Language>
+      <Subject>
+        <text>Jay, John, 1745-1829</text>
+      </Subject>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1767-05-19</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 56</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12411" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0070.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>King's College (New York, N.Y.)</text>
+      </Creator>
+      <Title>
+        <text>John Jay MA Diploma, front (with seal)</text>
+      </Title>
+      <Date>
+        <text>19 May 1767</text>
+      </Date>
+      <Language>
+        <text>Latin</text>
+      </Language>
+      <Subject>
+        <text>Jay, John, 1745-1829</text>
+      </Subject>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1767-05-19</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 56</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12410" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0069.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>King's College (New York, N.Y.)</text>
+      </Creator>
+      <Title>
+        <text>John Jay MA Diploma, front (with seal)</text>
+      </Title>
+      <Date>
+        <text>19 May 1767</text>
+      </Date>
+      <Language>
+        <text>Latin</text>
+      </Language>
+      <Subject>
+        <text>Jay, John, 1745-1829</text>
+      </Subject>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1767-05-19</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 56</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12409" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0068.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>King's College (New York, N.Y.)</text>
+      </Creator>
+      <Title>
+        <text>John Jay MA Diploma, front (with seal)</text>
+      </Title>
+      <Date>
+        <text>19 May 1767</text>
+      </Date>
+      <Language>
+        <text>Latin</text>
+      </Language>
+      <Subject>
+        <text>Jay, John, 1745-1829</text>
+      </Subject>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1767-05-19</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 56</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12408" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0067.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>King's College (New York, N.Y.)</text>
+      </Creator>
+      <Title>
+        <text>John Jay MA Diploma, front (with seal)</text>
+      </Title>
+      <Date>
+        <text>19 May 1767</text>
+      </Date>
+      <Language>
+        <text>Latin</text>
+      </Language>
+      <Subject>
+        <text>Jay, John, 1745-1829</text>
+      </Subject>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1757-05-19</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 56</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12407" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0066.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Hamilton, William, 1773-1836</text>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>William Hamilton to John Jay, verso (outer pages)</text>
+      </Title>
+      <Date>
+        <text>8 March 1796</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1796-03-08</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 10</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12406" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0065.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>United States. Continental Congress</text>
+      </Creator>
+      <Title>
+        <text>Journal of the Proceedings of the Congress, held at Philadelphia, May 10, 1775, pp. 150-151</text>
+      </Title>
+      <Date>
+        <text>1775</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Identifier>
+        <text>5522192</text>
+      </Identifier>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+      <Publisher>
+        <text>William and Thomas Bradford</text>
+      </Publisher>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1775</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B328.731 B</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Philadelphia</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12405" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0064.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>New York (State)</text>
+      </Creator>
+      <Title>
+        <text>Peter Augustus Jay Militia Commission</text>
+      </Title>
+      <Date>
+        <text>11 April 1798</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1798-04-11</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 57</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12404" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0063.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>New York (State)</text>
+      </Creator>
+      <Title>
+        <text>Peter Augustus Jay Militia Commission</text>
+      </Title>
+      <Date>
+        <text>11 April 1798</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1798-04-11</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 57</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12403" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0062.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Pennsylvania Society for Promoting the Abolition of Slavery</text>
+      </Creator>
+      <Title>
+        <text>Certificate of Membership in Pennsylvania Soicety for Promoting the Abolition of Slavery</text>
+      </Title>
+      <Date>
+        <text>6 October 1792</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1792-10-06</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 57</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12402" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0061.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Pennsylvania Society for Promoting the Abolition of Slavery</text>
+      </Creator>
+      <Title>
+        <text>Certificate of Membership in Pennsylvania Soicety for Promoting the Abolition of Slavery</text>
+      </Title>
+      <Date>
+        <text>6 October 1792</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1792-10-06</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 57</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12401" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0060.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>United States. Continental Congress</text>
+      </Creator>
+      <Title>
+        <text>Continental Congress Declaration for Negotiations with Britain</text>
+      </Title>
+      <Date>
+        <text>15 June 1781</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1781-06-15</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Oversize Materials Wooden Box 42e</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12400" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0059.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>United States. Continental Congress</text>
+      </Creator>
+      <Title>
+        <text>Continental Congress Declaration for Negotiations with Britain</text>
+      </Title>
+      <Date>
+        <text>15 June 1781</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1781-06-15</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Oversize Materials Wooden Box 42e</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12399" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0058.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>King's College (New York, N.Y.)</text>
+      </Creator>
+      <Title>
+        <text>John Jay MA Diploma, front (with seal)</text>
+      </Title>
+      <Date>
+        <text>19 May 1767</text>
+      </Date>
+      <Language>
+        <text>Latin</text>
+      </Language>
+      <Subject>
+        <text>Jay, John, 1745-1829</text>
+      </Subject>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1767-05-19</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 56</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12398" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0057.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>King's College (New York, N.Y.)</text>
+      </Creator>
+      <Title>
+        <text>John Jay MA Diploma, front (with seal)</text>
+      </Title>
+      <Date>
+        <text>19 May 1767</text>
+      </Date>
+      <Language>
+        <text>Latin</text>
+      </Language>
+      <Subject>
+        <text>Jay, John, 1745-1829</text>
+      </Subject>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1767-05-19</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 56</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12397" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0056.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>King's College (New York, N.Y.)</text>
+      </Creator>
+      <Title>
+        <text>John Jay MA Diploma, front (with seal)</text>
+      </Title>
+      <Date>
+        <text>19 May 1767</text>
+      </Date>
+      <Language>
+        <text>Latin</text>
+      </Language>
+      <Subject>
+        <text>Jay, John, 1745-1829</text>
+      </Subject>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1767-05-19</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 56</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12396" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0055.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>King's College (New York, N.Y.)</text>
+      </Creator>
+      <Title>
+        <text>John Jay MA Diploma, front (with seal)</text>
+      </Title>
+      <Date>
+        <text>19 May 1767</text>
+      </Date>
+      <Language>
+        <text>Latin</text>
+      </Language>
+      <Subject>
+        <text>Jay, John, 1745-1829</text>
+      </Subject>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1767-05-19</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 56</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12395" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0054.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>King's College (New York, N.Y.)</text>
+      </Creator>
+      <Title>
+        <text>John Jay MA Diploma, front (with seal)</text>
+      </Title>
+      <Date>
+        <text>19 May 1767</text>
+      </Date>
+      <Language>
+        <text>Latin</text>
+      </Language>
+      <Subject>
+        <text>Jay, John, 1745-1829</text>
+      </Subject>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1757-05-19</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 56</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12394" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <DublinCore>
+      <Creator>
+        <text>Hewitt, James, 1770-1827</text>
+      </Creator>
+      <Title>
+        <text>A New Medley Overture as Performed at the Theatre with Great Applause Selected &amp; Composed by J. Hewitt, page 6</text>
+      </Title>
+      <Date>
+        <text>circa 1799-1800</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+      <Publisher>
+        <text>B. Carr</text>
+        <text>J. Carr</text>
+      </Publisher>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1799--1800</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Hunt-Berol Sheet Music Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 87</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>music</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Philadelphia</text>
+        <text>Baltimore</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12393" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0053.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Hewitt, James, 1770-1827</text>
+      </Creator>
+      <Title>
+        <text>A New Medley Overture as Performed at the Theatre with Great Applause Selected &amp; Composed by J. Hewitt, ttile page</text>
+      </Title>
+      <Date>
+        <text>circa 1799-1800</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+      <Publisher>
+        <text>B. Carr</text>
+        <text>J. Carr</text>
+      </Publisher>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1799--1800</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Hunt-Berol Sheet Music Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 87</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>music</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Philadelphia</text>
+        <text>Baltimore</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12392" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <DublinCore>
+      <Creator>
+        <text>Bartlett, Sarah Cifani</text>
+        <text>Schulz, Constance B.</text>
+        <text>Rayfield, Ellen Bartlett</text>
+        <text>Bartlett, N. Warren</text>
+        <text>Bartlett, Christine</text>
+        <text>Bartlett, Judith</text>
+        <text>Miller, Page Putnam, 1940-</text>
+      </Creator>
+      <Title>
+        <text>Governor Jay's March</text>
+      </Title>
+      <Date>
+        <text>2020</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access; viewing only; not to be downloaded</text>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>moving image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <Notes>
+        <text>Performers: Bartlett, Sarah Cifani, arranger and flute; Schulz, Constance Bartlett, violin; Rayfield, Ellen Bartlett, bassoon; Bartlett, N. Warren, trumpet; Bartlett, Christine, cello; Bartlett, Judith, horn; Miller, Page Putnam, videographer</text>
+      </Notes>
+      <KeyDate>
+        <text>2020</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Private Collection</text>
+      </RepositoryName>
+      <FormGenre>
+        <text>video recordings</text>
+        <text>music</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12391" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0052.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Bayley, Richard, 1745-1801</text>
+      </Creator>
+      <Title>
+        <text>An Account of the Epidemic Fever which Prevailed in the City of New-York during the Summer and Fall of 1795, title page</text>
+      </Title>
+      <Date>
+        <text>1796</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+      <Publisher>
+        <text>Thomas and James Swords</text>
+      </Publisher>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1796</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Augustus C. Long Health Sciences Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Special Collections</text>
+      </Collection>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12390" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <DublinCore>
+      <Creator>
+        <text>Nuxoll, Elizabeth Miles, 1943-</text>
+        <text>Gallagher, Mary A. Y.</text>
+        <text>Haberman, Robb K.</text>
+        <text>Steenshorne, Jennifer E. </text>
+        <text>Vogel, Brant M.</text>
+      </Creator>
+      <Title>
+        <text>A Chart of Newyork harbour</text>
+      </Title>
+      <Date>
+        <text>circa 1800</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <Notes>
+        <text>The "chart of Newyork harbour," is taken from the National Archives and Records Administration. The image was taken from a high resolution image that has been purchased for use by the John Jay Papers volumes. it appeared in volume 6, page 400.</text>
+      </Notes>
+      <KeyDate>
+        <text>1800</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Butler Library, Columbia University</text>
+      </RepositoryName>
+      <FormGenre>
+        <text>maps</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12389" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <DublinCore>
+      <Creator>
+        <text>Hamilton, Alexander, 1757-1804</text>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>Alexander Hamilton to John Jay, detail of endorsement</text>
+      </Title>
+      <Date>
+        <text>7 May 1800</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1800-05-07</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 10</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12388" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0051.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Hamilton, Alexander, 1757-1804</text>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>Alexander Hamilton to John Jay, front</text>
+      </Title>
+      <Date>
+        <text>7 May 1800</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1800-05-07</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 10</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12387" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0050.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Federalist Freeholders of New York City</text>
+      </Creator>
+      <Title>
+        <text>Resolutions of Federalist Freeholders of New York City, front</text>
+      </Title>
+      <Date>
+        <text>13 January 1801</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1801-01-13</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 58</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12386" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0049.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Specific for the Yellow Fever, front</text>
+      </Title>
+      <Date>
+        <text>1795</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Yellow fever</text>
+      </Subject>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1795</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 57</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>recipes</text>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12385" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0048.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>John Jay to Peter Troup, front</text>
+      </Title>
+      <Date>
+        <text>28 December 1799</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1799-12-28</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12384" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0047.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>New York (State)</text>
+      </Creator>
+      <Title>
+        <text>Peter Augustus Jay Militia Commission, front</text>
+      </Title>
+      <Date>
+        <text>11 April 1798</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1798-04-11</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 57</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12383" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0046.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Regents of the State of New York</text>
+      </Creator>
+      <Title>
+        <text>Report of the Regents to the State Legislature, front</text>
+      </Title>
+      <Date>
+        <text>circa 1796-1801</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1796--1801</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 56</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12382" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <DublinCore>
+      <Creator>
+        <text>Haberman, Robb K.</text>
+      </Creator>
+      <Title>
+        <text>Fort Jay (Photograph), front</text>
+      </Title>
+      <Date>
+        <text>1 September 2017</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Fort Jay (N.Y.)</text>
+      </Subject>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>2017-09-01</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Private Collection</text>
+      </RepositoryName>
+      <FormGenre>
+        <text>photographs</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12381" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0045.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>Charge to the Grand Juries on the Eastern Circuit, front</text>
+      </Title>
+      <Date>
+        <text>Between April 12 and May 20, 1790</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1790-04-12--1790-05-20</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 57</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>legal documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12380" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <DublinCore>
+      <Creator>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>Circuit Court Diary, page beginning "Octr 1790 parted with Judge Cushing"</text>
+      </Title>
+      <Date>
+        <text>between April 16, 1790 and August 4, 1792</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1790-04-16--1792-08-04</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 11</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>diaries</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12379" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0044.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Washington, George, 1732-1799</text>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>George Washington to John Jay, front</text>
+      </Title>
+      <Date>
+        <text>2 July 1795</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1795-07-02</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>George Washington Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 2</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12378" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <DublinCore>
+      <Creator>
+        <text>Nuxoll, Elizabeth Miles, 1943-</text>
+        <text>Gallagher, Mary A. Y.</text>
+        <text>Haberman, Robb K.</text>
+        <text>Steenshorne, Jennifer E. </text>
+        <text>Nelson, Bill</text>
+      </Creator>
+      <Title>
+        <text>John Jay's Circuit Court Travel, Eastern District, Spring 1792 Term (15 April-10 July)</text>
+      </Title>
+      <Date>
+        <text>2017</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+      <Publisher>
+        <text>University of Virginia Press</text>
+      </Publisher>
+    </DublinCore>
+    <MODS>
+      <Notes>
+        <text>Image taken from high resolution image originally purchased for use in John Jay Papers, vol. 5, pages 392-393</text>
+      </Notes>
+      <KeyDate>
+        <text>2017</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Butler Library, Columbia University</text>
+      </RepositoryName>
+      <FormGenre>
+        <text>maps</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Charlottesville</text>
+        <text>London</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12377" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <DublinCore>
+      <Creator>
+        <text>Morris, Richard, 1730-1810</text>
+      </Creator>
+      <Title>
+        <text>John Jay's Oath as Chief Justice of the Supreme Court, attested to by Richard Morris, front</text>
+      </Title>
+      <Date>
+        <text>19 October 1789</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1789-10-19</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 56</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>legal documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12376" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0043.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>New York (State)</text>
+      </Creator>
+      <Title>
+        <text>Laws of the State of New-York. Passed at the Twenty-Second Session, Second Meeting, of the Legislature, begun and held at the City of Albany, the Second Day of January 1799, page 721</text>
+      </Title>
+      <Date>
+        <text>1799</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+      <Publisher>
+        <text>Loring Andrews</text>
+      </Publisher>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1799</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Arthur W. Diamond Law Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Special Collections (Jay)</text>
+      </Collection>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Albany</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12375" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0042.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>Inventory of John Jay's Property, Page beninning "2 List of Slaves"</text>
+      </Title>
+      <Date>
+        <text>8-9 Nov. 1798</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Slavery</text>
+      </Subject>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1798-11-08--1798-11-08</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 57</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>legal documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12374" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>2000.06.048_crop.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Russell, John, 1745-1806, Studio of</text>
+      </Creator>
+      <Title>
+        <text>Portrait of William Wilberforce (1759-1833)</text>
+      </Title>
+      <Date>
+        <text>undated (after 1801)</text>
+      </Date>
+      <Identifier>
+        <text>12003808</text>
+      </Identifier>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <Notes>
+        <text>Although this portrait of William Wilberforce may be by John Russell, and is similar to replicas painted ca. 1800, the inscription on the scroll must have been added later, or the portrait itself is a studio work, as Russell died in 1806 and the passing of the law abolishing the slave trade took place in 1807.</text>
+      </Notes>
+      <KeyDate>
+        <text>1801</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Art Properties, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Acc.#2000.06.048</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>paintings</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>United Kingdom</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12373" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0041.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Hamilton, William, 1773-1836</text>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>William Hamilton to John Jay, pages 2-3 (middle pages)/single sheet</text>
+      </Title>
+      <Date>
+        <text>8 March 1796</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1796-03-08</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 10</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12372" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0040.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Société des amis des noirs</text>
+      </Creator>
+      <Title>
+        <text>Extrait des Registres de las Societe etablie a Paris, pour l'abolition de la Traite des Negres, front</text>
+      </Title>
+      <Date>
+        <text>22 April 1788</text>
+      </Date>
+      <Language>
+        <text>French</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1788-04-22</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 61</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12371" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0039.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Pennsylvania Society for Promoting the Abolition of Slavery</text>
+      </Creator>
+      <Title>
+        <text>Certificate of Membership in Pennsylvania Soicety for Promoting the Abolition of Slavery, front</text>
+      </Title>
+      <Date>
+        <text>6 October 1792</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1792-10-06</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 57</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12370" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0038.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>Draft of Conditional Manumission of Benoit, front</text>
+      </Title>
+      <Date>
+        <text>21 March 1784</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1784-03-21</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 56</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12369" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0037.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Publius</text>
+        <text>Hamilton, Alexander, 1757-1804</text>
+        <text>Jay, John, 1745-1829</text>
+        <text>Madison, James, 1751-1836</text>
+      </Creator>
+      <Title>
+        <text>The Federalist , page 21 </text>
+      </Title>
+      <Date>
+        <text>1788</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Identifier>
+        <text>5530007</text>
+      </Identifier>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+      <Publisher>
+        <text>John and Archibald M'Lean</text>
+      </Publisher>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1788</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>HAMILTON JK154 1788 c. 1</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12368" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0036.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Publius</text>
+        <text>Hamilton, Alexander, 1757-1804</text>
+        <text>Jay, John, 1745-1829</text>
+        <text>Madison, James, 1751-1836</text>
+      </Creator>
+      <Title>
+        <text>The Federalist , Page 294</text>
+      </Title>
+      <Date>
+        <text>1818</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Identifier>
+        <text>10574008</text>
+      </Identifier>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+      <Publisher>
+        <text>Benjamin Warner</text>
+      </Publisher>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1818</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>HAMILTON KF4515 F4 1818h</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Philadelphia</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12367" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0035.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Washington, George, 1732-1799</text>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>George Washington to John Jay, front</text>
+      </Title>
+      <Date>
+        <text>3 August 1788</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1788-08-03</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>George Washington Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 2</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12366" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0034.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Washington, George, 1732-1799</text>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>George Washington to John Jay, front</text>
+      </Title>
+      <Date>
+        <text>8 June 1788</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1788-06-08</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>George Washington Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 2</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12365" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0033.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Publius</text>
+        <text>Hamilton, Alexander, 1757-1804</text>
+        <text>Jay, John, 1745-1829</text>
+        <text>Madison, James, 1751-1836</text>
+        <text>Kent, James, 1763-1847</text>
+      </Creator>
+      <Title>
+        <text>The Federalist , top loose flysheet </text>
+      </Title>
+      <Date>
+        <text>1788</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Identifier>
+        <text>5530007</text>
+      </Identifier>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+      <Publisher>
+        <text>John and Archibald M'Lean</text>
+      </Publisher>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1788</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B342.73 F311 (vault)</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12364" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <DublinCore>
+      <Creator>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>Address to the People of the State of New York on the Subject of the Constiitution, title page</text>
+      </Title>
+      <Date>
+        <text>1788</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+      <Publisher>
+        <text>Samuel and John Loudon</text>
+      </Publisher>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1788</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Columbiana Manuscripts</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Series III: King's College Manuscripts, Box 13 Folder 9</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>pamphlets</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>New York</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12363" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <DublinCore>
+      <Creator>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>Draft of The Federalist 5, reverse</text>
+      </Title>
+      <Date>
+        <text>before 10 Nov. 1787</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1787-01--1787-11-10</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Item 23</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12362" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <DublinCore>
+      <Creator>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>Draft of The Federalist 5, front "Queen Anne in her letter"</text>
+      </Title>
+      <Date>
+        <text>before 10 Nov. 1787</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1787-01--1787-11-10</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Item 23</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12361" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0032.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Morris, Gouverneur, 1752-1816</text>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>Gouverneur Morris to John Jay, front</text>
+      </Title>
+      <Date>
+        <text>1 January 1783</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1783-01-01</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 45</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12360" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0031.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Jay, John, 1745-1829</text>
+        <text>Livingston, Robert R.</text>
+      </Creator>
+      <Title>
+        <text>John Jay to Robert Livingston, front</text>
+      </Title>
+      <Date>
+        <text>14 March 1782</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1782-03-14</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 15</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12359" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0030.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>YESCA Code, front</text>
+      </Title>
+      <Date>
+        <text>25 April 1781</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1781-04-25</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 56</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12358" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0029.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Washington, George, 1732-1799</text>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>George Washington to John Jay, front</text>
+      </Title>
+      <Date>
+        <text>18 December 1794</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1794-12-18</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>George Washington Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 2</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12357" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <DublinCore>
+      <Creator>
+        <text>Grenville, William Wyndham, Grenville, Baron, 1759-1834</text>
+      </Creator>
+      <Title>
+        <text>Lord Grenville Calling Card, front </text>
+      </Title>
+      <Date>
+        <text>8 April 1795</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1795-04-08</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 63</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12356" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <DublinCore>
+      <Creator>
+        <text>Trumbull, John, 1756-1843</text>
+      </Creator>
+      <Title>
+        <text>Map of the Northwestern Boundary of the United States, front</text>
+      </Title>
+      <Date>
+        <text>4 September 1794</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>United States</text>
+      </Subject>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1794-09-04</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 60</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>maps</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12355" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0028.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Grenville, William Wyndham, Grenville, Baron, 1759-1834</text>
+      </Creator>
+      <Title>
+        <text>Draft of Commercial Treaty, front</text>
+      </Title>
+      <Date>
+        <text>30 August 1794</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Commerce</text>
+      </Subject>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1794-08-30</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 61</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12354" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0027.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>United States. Continental Congress</text>
+      </Creator>
+      <Title>
+        <text>Continental Congress Declaration for Negotiations with Britain, front</text>
+      </Title>
+      <Date>
+        <text>15 June 1781</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1781-06-15</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Oversize Materials Wooden Box 42e</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12353" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <DublinCore>
+      <Title>
+        <text>[Commission of John Jay, Benjamin Franklin, Henry Laurens, and Thomas Jefferson to join John Adams in accepting mediation], front</text>
+      </Title>
+      <Date>
+        <text>21 July 1785</text>
+      </Date>
+      <Language>
+        <text>English</text>
+        <text>Spanish</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1785-07-21</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 61</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12352" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0026.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>Spanish Flag and Pendant of War. Spanish Merchant Flag, front</text>
+      </Title>
+      <Date>
+        <text>circa 1781</text>
+      </Date>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1781</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 61</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>drawings</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12351" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0025.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Title>
+        <text>John Jay Spanish Passport, front</text>
+      </Title>
+      <Date>
+        <text>20 March 1780</text>
+      </Date>
+      <Language>
+        <text>Spanish</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1780-03-20</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 56</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+        <text>passports</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12350" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <DublinCore>
+      <Creator>
+        <text>Wyatt, Stanley</text>
+      </Creator>
+      <Title>
+        <text>Portrait of John Jay (1745-1829)</text>
+      </Title>
+      <Date>
+        <text>1980</text>
+      </Date>
+      <Identifier>
+        <text>13753123</text>
+      </Identifier>
+      <Rights>
+        <text>Public Access; for viewing purposes only</text>
+        <text>In Copyright</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <Notes>
+        <text>Inscribed lower left: 116/300; signed and dated lower right: Stanley Wyatt '80; W in lower left corner of image.</text>
+      </Notes>
+      <KeyDate>
+        <text>1980</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Art Properties, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>Acc.#T0022</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>prints</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>United States</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12349" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0024.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>John Jay Timeline 1745-1795 , front (Detail Bottom half of document from "1784 Resigned foreign appointment and returned to NY") </text>
+      </Title>
+      <Date>
+        <text>after 1801</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1801</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 56</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12348" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0023.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>John Jay Timeline 1745-1795  , front  (Detail Top half of document through "appointd one of the commissioners to negotiate Peace &amp;c")</text>
+      </Title>
+      <Date>
+        <text>after 1801</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1801</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 56</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12347" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <DublinCore>
+      <Title>
+        <text>John Jay (after Gilbert Stuart)</text>
+      </Title>
+      <Date>
+        <text>after 1794</text>
+      </Date>
+      <Subject>
+        <text>Jay, John, 1745-1829</text>
+      </Subject>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1794</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Private Collection</text>
+      </RepositoryName>
+      <FormGenre>
+        <text>prints</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12346" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0022.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Jay, John, 1745-1829</text>
+        <text>Jay, Peter A. (Peter Augustus), 1776-1843</text>
+      </Creator>
+      <Title>
+        <text>John Jay to Peter Augustus Jay, front</text>
+      </Title>
+      <Date>
+        <text>8 Apr. 1784</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1784-04-08</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 17</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12345" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0021.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Jay, John, 1745-1829</text>
+        <text>Jay, Peter A. (Peter Augustus), 1776-1843</text>
+      </Creator>
+      <Title>
+        <text>John Jay to Peter Augustus Jay, front</text>
+      </Title>
+      <Date>
+        <text>25 Apr. 1792</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1792-04-25</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 21</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12344" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0020.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Jay, Sarah Livingston</text>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>Sarah Livingston Jay to John Jay, front </text>
+      </Title>
+      <Date>
+        <text>30 July 1800</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1800-07-30</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 36</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12343" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0019.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Terboss, Isaac</text>
+      </Creator>
+      <Title>
+        <text>Receipt of Isaac Terboss, Lebanon Springs Bathhouse, front</text>
+      </Title>
+      <Date>
+        <text>22 Aug. 1796</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1796-08-22</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 57</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12342" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0018.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Jay, Sarah Livingston</text>
+        <text>Lyons, Samuel</text>
+      </Creator>
+      <Title>
+        <text>Sarah Livingston Jay to Samuel Lyons, front</text>
+      </Title>
+      <Date>
+        <text>14 Nov. 1794</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1794-11-14</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 36</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12341" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0017.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Jay, John, 1745-1829</text>
+        <text>Jay, Maria</text>
+        <text>Jay, Nancy</text>
+      </Creator>
+      <Title>
+        <text>John Jay to Maria Jay and Nancy Jay, front</text>
+      </Title>
+      <Date>
+        <text>1 June 1792</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1792-06-01</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 21</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12340" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0016.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Hoffman &amp; Seton</text>
+      </Creator>
+      <Title>
+        <text>Receipt Bot of Hoffman &amp; Seton 2 Quarter Casks Sherry Wine, front</text>
+      </Title>
+      <Date>
+        <text>23 Mar. 1793</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1793-03-23</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 57</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12339" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0015.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Merkel, Lot</text>
+      </Creator>
+      <Title>
+        <text>Receipt Mrs. Jay bought of Lot Merkel, front</text>
+      </Title>
+      <Date>
+        <text>8 Nov. 1793</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1793-11-08</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 57</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12338" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0014.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Gay, Madame</text>
+      </Creator>
+      <Title>
+        <text>Receipt Madame Gay "plats y Carraffes", front</text>
+      </Title>
+      <Date>
+        <text>1782</text>
+      </Date>
+      <Language>
+        <text>French</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1782</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 59</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>ephemera</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12337" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0013.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Chappel, Alonzo, 1828-1887</text>
+      </Creator>
+      <Title>
+        <text>Mrs. John Jay, front</text>
+      </Title>
+      <Date>
+        <text>1872</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Jay, Sarah Livingston</text>
+      </Subject>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1872</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>General Portraits </text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 56 Jam-Jog</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>prints</text>
+        <text>Portraits</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12336" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <DublinCore>
+      <Creator>
+        <text>Sharples, James, 1752-1811</text>
+      </Creator>
+      <Title>
+        <text>Sarah Jay and Her Children, front</text>
+      </Title>
+      <Date>
+        <text>1797</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Subject>
+        <text>Jay, Sarah Livingston</text>
+      </Subject>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1797</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Private Collection</text>
+      </RepositoryName>
+      <FormGenre>
+        <text>prints</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12335" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0012.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Cooper, James Fenimore, 1789-1851</text>
+      </Creator>
+      <Title>
+        <text>The Spy, title page</text>
+      </Title>
+      <Date>
+        <text>1822</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Identifier>
+        <text>5552076</text>
+      </Identifier>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+      <Publisher>
+        <text>G. &amp; W.B. Whittaker</text>
+      </Publisher>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1822</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B812C78 W 1822 </text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12334" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0011.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>United States. Continental Congress</text>
+        <text>Thomson, Charles, 1729-1824</text>
+      </Creator>
+      <Title>
+        <text>Continental Congress to John Jay, front</text>
+      </Title>
+      <Date>
+        <text>1 Oct. 1779</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1779-10-01</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 61</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12333" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0010.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Washington, George, 1732-1799</text>
+        <text>Jay, Sarah Livingston</text>
+      </Creator>
+      <Title>
+        <text>George Washington to Sarah Livingston Jay, front</text>
+      </Title>
+      <Date>
+        <text>7 October 1779</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1779-10-07</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>George Washington Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 1</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12332" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0009.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Jay, Sarah Livingston</text>
+        <text>Jay, John, 1745-1829</text>
+      </Creator>
+      <Title>
+        <text>"1. The United States of America, may they be perpetual.", front</text>
+      </Title>
+      <Date>
+        <text>after 3 Sept. 1783</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1783-09-03</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>inferred</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 59</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12331" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0008.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>United States. Continental Congress</text>
+      </Creator>
+      <Title>
+        <text>Journal of the Proceedings of the Congress, held at Philadelphia, May 10, 1775, page 6 </text>
+      </Title>
+      <Date>
+        <text>1775</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Identifier>
+        <text>5522192</text>
+      </Identifier>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+      <Publisher>
+        <text>William and Thomas Bradford</text>
+      </Publisher>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1775</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>B328.731 B</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Philadelphia</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12330" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0007.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>United States. Continental Congress</text>
+        <text>Dickinson, John, 1732-1808</text>
+      </Creator>
+      <Title>
+        <text>The Declaration by the Representatives of the United Colonies of North America, page 25</text>
+      </Title>
+      <Date>
+        <text>1775</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Identifier>
+        <text>5462177</text>
+      </Identifier>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <Notes>
+        <text>The declaration and the petition were drawn up by John Dickinson.</text>
+      </Notes>
+      <KeyDate>
+        <text>1775</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Seligman Books</text>
+      </Collection>
+      <ShelfLocation>
+        <text>SELIGMAN 1775E Un3 C. 1</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>London</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12329" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0006.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Washington, George, 1732-1799</text>
+        <text>Jay, John, 1745-1829</text>
+        <text>Livingston, Philip, 1716-1778</text>
+      </Creator>
+      <Title>
+        <text>George Washington to John Jay and Philip Livingston, front (including address)</text>
+      </Title>
+      <Date>
+        <text>29 June 1776</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1776-06-29</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>George Washington Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 1</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>correspondence</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12328" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0005.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Jay, John, 1745-1829</text>
+        <text>New York (State). Convention of the Representatives (1776-1777)</text>
+      </Creator>
+      <Title>
+        <text>An Address of the Convention of the Representatives of the State of New-York to Their Constituents, title page</text>
+      </Title>
+      <Date>
+        <text>1777</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Identifier>
+        <text>1598188</text>
+      </Identifier>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+      <Publisher>
+        <text>Green and Spooner</text>
+        <text>S. Loudon</text>
+      </Publisher>
+    </DublinCore>
+    <MODS>
+      <Notes>
+        <text>"A CITIZEN OF NEW-YORK"</text>
+      </Notes>
+      <KeyDate>
+        <text>1777</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <ShelfLocation>
+        <text>JK128. N4 1777g</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>books</text>
+      </FormGenre>
+      <PublicationPlace>
+        <text>Fishkill</text>
+        <text>Norwich</text>
+      </PublicationPlace>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12327" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0004.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>New York (Colony). Provincial Congress</text>
+      </Creator>
+      <Title>
+        <text>John Jay Militia Commission, front</text>
+      </Title>
+      <Date>
+        <text>3 Nov. 1775</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1775-11-03</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 56</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12326" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>1643.PalmTreePrint.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>Howdell, Thomas</text>
+        <text>Canot, Pierre Charles, 1710-1777</text>
+      </Creator>
+      <Title>
+        <text>South East View of the City of New York, front</text>
+      </Title>
+      <Date>
+        <text>1768</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1768</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Historical Photograph Collection</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Series XV.2 Box 12</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>drawings</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12325" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0003.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>King's College (New York, N.Y.)</text>
+      </Creator>
+      <Title>
+        <text>John Jay MA Diploma, front (with seal)</text>
+      </Title>
+      <Date>
+        <text>19 May 1767</text>
+      </Date>
+      <Language>
+        <text>Latin</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1767-05-19</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 56</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>documents</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12324" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>ldpd_7441346_000_00000012.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>King's College (New York, N.Y.)</text>
+      </Creator>
+      <Title>
+        <text>The Matricula or Register of Admissions &amp; Graduations &amp; of Officers employed in KIng's College at New York, page 6 (detail of Admissions Anno 1760 section)</text>
+      </Title>
+      <Date>
+        <text>1754-1777</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1754--1777</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Columbiana Manuscripts</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Series III: King's College Manuscripts, Box 14 Folder 6</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12323" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0002.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>King's College (New York, N.Y.)</text>
+      </Creator>
+      <Title>
+        <text>Bill of Fare, circa 1754-1776, front</text>
+      </Title>
+      <Date>
+        <text>circa 1754-1776</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1754--1776</text>
+      </KeyDate>
+      <TypeofDate>
+        <text>approximate</text>
+      </TypeofDate>
+      <RepositoryName>
+        <text>University Archives, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>Columbiana Manuscripts</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Series III: King's College Manuscripts, Box 13 Folder 2</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+  <item itemId="12322" public="1" featured="0">
+    <OmekaCollection>In Service to the New Nation: The Life and Legacy of John Jay</OmekaCollection>
+    <ItemType>Still Image</ItemType>
+    <OriginalFileLoadedIntoOmeka>
+      <text>https://exhibitions-dev.library.columbia.edu/RBML_Jay_0001.jpg</text>
+    </OriginalFileLoadedIntoOmeka>
+    <DublinCore>
+      <Creator>
+        <text>King's College (New York, N.Y.)</text>
+      </Creator>
+      <Title>
+        <text>Laws of King's College, front</text>
+      </Title>
+      <Date>
+        <text>29 August 1760</text>
+      </Date>
+      <Language>
+        <text>English</text>
+      </Language>
+      <Rights>
+        <text>Public Access</text>
+        <text>No Copyright - United States</text>
+      </Rights>
+      <Type>
+        <text>still image</text>
+      </Type>
+    </DublinCore>
+    <MODS>
+      <KeyDate>
+        <text>1760-08-29</text>
+      </KeyDate>
+      <RepositoryName>
+        <text>Rare Book &amp; Manuscript Library, Columbia University</text>
+      </RepositoryName>
+      <Collection>
+        <text>John Jay Papers</text>
+      </Collection>
+      <ShelfLocation>
+        <text>Box 56</text>
+      </ShelfLocation>
+      <FormGenre>
+        <text>manuscripts</text>
+      </FormGenre>
+      <DigitalOrigin>
+        <text>reformatted digital</text>
+      </DigitalOrigin>
+    </MODS>
+  </item>
+</itemContainer>
+
